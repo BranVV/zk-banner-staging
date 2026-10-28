@@ -1,0 +1,49 @@
+{
+  "book": "RSACUPRESSURE",
+  "market": "RS",
+  "date": "2026-10-28",
+  "source_campaign": "CBO | ACUPRESSURE | INT | EDUCATIONAL BANNERS - 22072026",
+  "generated_at": "2026-10-28T12:46:15+00:00",
+  "banners": [
+    {
+      "name": "RSACUPRESSURE_RS_banner_headache",
+      "path": "RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_headache.png",
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_headache.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_headache.png"
+    },
+    {
+      "name": "RSACUPRESSURE_RS_banner_ear",
+      "path": "RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_ear.png",
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_ear.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_ear.png"
+    },
+    {
+      "name": "RSACUPRESSURE_RS_banner_foot",
+      "path": "RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_foot.png",
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_foot.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_foot.png"
+    },
+    {
+      "name": "RSACUPRESSURE_RS_banner_sleep",
+      "path": "RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_sleep.png",
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_sleep.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_sleep.png"
+    },
+    {
+      "name": "RSACUPRESSURE_RS_banner_split",
+      "path": "RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_split.png",
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_split.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSACUPRESSURE/2026-10-28/RSACUPRESSURE_RS_banner_split.png"
+    }
+  ]
+}
