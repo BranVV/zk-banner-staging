@@ -242,13 +242,17 @@ def call_openai(api_key: str, images: list[tuple[str, bytes]], prompt: str,
         files.append(("image[]", (name, blob, mime)))
 
     data = {
-        "model": cfg.get("model", "gpt-image-1"),
+        "model": cfg.get("model", "gpt-image-2.5-sunburst"),
         "prompt": prompt,
         "size": api_size,
         "quality": cfg.get("quality", "high"),
-        "input_fidelity": cfg.get("input_fidelity", "high"),
         "n": "1",
     }
+    # gpt-image-1 е спрян на 23.10.2026. Моделите gpt-image-2* не приемат
+    # input_fidelity; праща се само за gpt-image-1.x (без -mini).
+    _m = data["model"]
+    if _m.startswith("gpt-image-1") and not _m.startswith("gpt-image-1-mini"):
+        data["input_fidelity"] = cfg.get("input_fidelity", "high")
     if cfg.get("background"):
         data["background"] = cfg["background"]
 

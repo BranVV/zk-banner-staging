@@ -1,200 +1,200 @@
 {
- "book": "RSACUPRESSURE",
- "market": "RS",
- "date": "2026-10-28",
- "source_campaign": "CBO | ACUPRESSURE | INT | EDUCATIONAL BANNERS - 22072026",
- "source_account": "Zlaten Kluch 1",
- "defaults": {
-  "mode": "model",
-  "output_format": "png",
-  "quality": "high",
-  "input_fidelity": "high",
-  "fit": "pad",
-  "extra_rules": [
-   "Serbian Latin script only (ekavski), never Cyrillic.",
-   "Render the diacritics č, ć, š, ž, đ exactly.",
-   "Keep the layout, colours, photos and illustrations identical; change only the text.",
-   "There is NO book cover in this banner. Do not add a book or a cover anywhere."
+  "book": "RSACUPRESSURE",
+  "market": "RS",
+  "date": "2026-10-28",
+  "source_campaign": "CBO | ACUPRESSURE | INT | EDUCATIONAL BANNERS - 22072026",
+  "source_account": "Zlaten Kluch 1",
+  "defaults": {
+    "mode": "model",
+    "output_format": "png",
+    "quality": "high",
+    "fit": "pad",
+    "extra_rules": [
+      "Serbian Latin script only (ekavski), never Cyrillic.",
+      "Render the diacritics č, ć, š, ž, đ exactly.",
+      "Keep the layout, colours, photos and illustrations identical; change only the text.",
+      "There is NO book cover in this banner. Do not add a book or a cover anywhere."
+    ],
+    "model": "gpt-image-2.5-sunburst"
+  },
+  "banners": [
+    {
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_headache.png",
+      "format": "banner",
+      "angle": "headache",
+      "translations": [
+        {
+          "source": "Тази точка спира",
+          "target": "Ova tačka zaustavlja"
+        },
+        {
+          "source": "главоболието за минути.",
+          "target": "glavobolju za par minuta."
+        },
+        {
+          "source": "Точка за главоболие и напрежение",
+          "target": "Tačka za glavobolju i napetost"
+        },
+        {
+          "source": "Без хапчета. Само 30 секунди натискане.",
+          "target": "Bez tableta. Samo 30 sekundi pritiska."
+        },
+        {
+          "source": "Виж всички точки →",
+          "target": "Pogledaj sve tačke →"
+        }
+      ]
+    },
+    {
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_ear.png",
+      "format": "banner",
+      "angle": "ear",
+      "translations": [
+        {
+          "source": "Знаеше ли, че тази точка",
+          "target": "Znaš li da ova tačka"
+        },
+        {
+          "source": "помага при безсъние?",
+          "target": "pomaže kod nesanice?"
+        },
+        {
+          "source": "Точка за безсъние",
+          "target": "Tačka za nesanicu"
+        },
+        {
+          "source": "Ушната мида има 8 точки свързани директно с нервната система.",
+          "target": "Ušna školjka ima 8 tačaka povezanih direktno sa nervnim sistemom."
+        },
+        {
+          "source": "Научи повече →",
+          "target": "Saznaj više →"
+        }
+      ]
+    },
+    {
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_foot.png",
+      "format": "banner",
+      "angle": "foot",
+      "translations": [
+        {
+          "source": "Масажът на ходилото лекува.",
+          "target": "Masaža stopala leči."
+        },
+        {
+          "source": "Акупресура без хапчета.",
+          "target": "Akupresura bez tableta."
+        },
+        {
+          "source": "Глава и синуси",
+          "target": "Glava i sinusi"
+        },
+        {
+          "source": "Сърце и бели дробове",
+          "target": "Srce i pluća"
+        },
+        {
+          "source": "Стомах и черва",
+          "target": "Stomak i creva"
+        },
+        {
+          "source": "Бъбреци и пикочен мехур",
+          "target": "Bubrezi i mokraćna bešika"
+        },
+        {
+          "source": "Гръбначен стълб",
+          "target": "Kičma"
+        },
+        {
+          "source": "Всяка зона свързана с конкретен орган.",
+          "target": "Svaka zona je povezana sa određenim organom."
+        },
+        {
+          "source": "НАУЧИ КАК →",
+          "target": "SAZNAJ KAKO →"
+        }
+      ],
+      "keep_as_is": [
+        "BLUE",
+        "ORANGE",
+        "GREEN",
+        "PURPLE",
+        "RED-BROWN"
+      ],
+      "extra_rules": [
+        "Serbian Latin script only (ekavski), never Cyrillic.",
+        "Render the diacritics č, ć, š, ž, đ exactly.",
+        "Keep the layout, colours, photos and illustrations identical; change only the text.",
+        "There is NO book cover in this banner. Do not add a book or a cover anywhere.",
+        "Keep the English colour labels BLUE, ORANGE, GREEN, PURPLE, RED-BROWN exactly as they are."
+      ]
+    },
+    {
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_sleep.png",
+      "format": "banner",
+      "angle": "sleep",
+      "translations": [
+        {
+          "source": "3 точки за по-добър",
+          "target": "3 tačke za bolji"
+        },
+        {
+          "source": "сън тази вечер.",
+          "target": "san večeras."
+        },
+        {
+          "source": "1. НТ7 — Вътрешна китка",
+          "target": "1. HT7 — Unutrašnji zglob"
+        },
+        {
+          "source": "2. ВН6 — Вътрешна ръка",
+          "target": "2. PC6 — Unutrašnja strana ruke"
+        },
+        {
+          "source": "3. КИ1 — Стъпалото",
+          "target": "3. KI1 — Stopalo"
+        },
+        {
+          "source": "Натисни 30 секунди преди лягане",
+          "target": "Pritisni 30 sekundi pre spavanja"
+        },
+        {
+          "source": "НАУЧИ КАК →",
+          "target": "SAZNAJ KAKO →"
+        }
+      ],
+      "note": "BG оригиналът пише ВН6; по заповед на Бран е сложена правилната точка PC6 (Neiguan)."
+    },
+    {
+      "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_split.png",
+      "format": "banner",
+      "angle": "split",
+      "translations": [
+        {
+          "source": "ЛЕЧЕНИЕ",
+          "target": "LEČENJE"
+        },
+        {
+          "source": "БЕЗ ХАПЧЕТА",
+          "target": "BEZ TABLETA"
+        },
+        {
+          "source": "МАСКИРА БОЛКАТА",
+          "target": "MASKIRA BOL"
+        },
+        {
+          "source": "ЛЕКУВА ПРИЧИНАТА",
+          "target": "LEČI UZROK"
+        },
+        {
+          "source": "Акупресурата работи с естествените механизми на тялото ти.",
+          "target": "Akupresura radi sa prirodnim mehanizmima tvog tela."
+        },
+        {
+          "source": "Научи как →",
+          "target": "Saznaj kako →"
+        }
+      ]
+    }
   ]
- },
- "banners": [
-  {
-   "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_headache.png",
-   "format": "banner",
-   "angle": "headache",
-   "translations": [
-    {
-     "source": "Тази точка спира",
-     "target": "Ova tačka zaustavlja"
-    },
-    {
-     "source": "главоболието за минути.",
-     "target": "glavobolju za par minuta."
-    },
-    {
-     "source": "Точка за главоболие и напрежение",
-     "target": "Tačka za glavobolju i napetost"
-    },
-    {
-     "source": "Без хапчета. Само 30 секунди натискане.",
-     "target": "Bez tableta. Samo 30 sekundi pritiska."
-    },
-    {
-     "source": "Виж всички точки →",
-     "target": "Pogledaj sve tačke →"
-    }
-   ]
-  },
-  {
-   "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_ear.png",
-   "format": "banner",
-   "angle": "ear",
-   "translations": [
-    {
-     "source": "Знаеше ли, че тази точка",
-     "target": "Znaš li da ova tačka"
-    },
-    {
-     "source": "помага при безсъние?",
-     "target": "pomaže kod nesanice?"
-    },
-    {
-     "source": "Точка за безсъние",
-     "target": "Tačka za nesanicu"
-    },
-    {
-     "source": "Ушната мида има 8 точки свързани директно с нервната система.",
-     "target": "Ušna školjka ima 8 tačaka povezanih direktno sa nervnim sistemom."
-    },
-    {
-     "source": "Научи повече →",
-     "target": "Saznaj više →"
-    }
-   ]
-  },
-  {
-   "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_foot.png",
-   "format": "banner",
-   "angle": "foot",
-   "translations": [
-    {
-     "source": "Масажът на ходилото лекува.",
-     "target": "Masaža stopala leči."
-    },
-    {
-     "source": "Акупресура без хапчета.",
-     "target": "Akupresura bez tableta."
-    },
-    {
-     "source": "Глава и синуси",
-     "target": "Glava i sinusi"
-    },
-    {
-     "source": "Сърце и бели дробове",
-     "target": "Srce i pluća"
-    },
-    {
-     "source": "Стомах и черва",
-     "target": "Stomak i creva"
-    },
-    {
-     "source": "Бъбреци и пикочен мехур",
-     "target": "Bubrezi i mokraćna bešika"
-    },
-    {
-     "source": "Гръбначен стълб",
-     "target": "Kičma"
-    },
-    {
-     "source": "Всяка зона свързана с конкретен орган.",
-     "target": "Svaka zona je povezana sa određenim organom."
-    },
-    {
-     "source": "НАУЧИ КАК →",
-     "target": "SAZNAJ KAKO →"
-    }
-   ],
-   "keep_as_is": [
-    "BLUE",
-    "ORANGE",
-    "GREEN",
-    "PURPLE",
-    "RED-BROWN"
-   ],
-   "extra_rules": [
-    "Serbian Latin script only (ekavski), never Cyrillic.",
-    "Render the diacritics č, ć, š, ž, đ exactly.",
-    "Keep the layout, colours, photos and illustrations identical; change only the text.",
-    "There is NO book cover in this banner. Do not add a book or a cover anywhere.",
-    "Keep the English colour labels BLUE, ORANGE, GREEN, PURPLE, RED-BROWN exactly as they are."
-   ]
-  },
-  {
-   "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_sleep.png",
-   "format": "banner",
-   "angle": "sleep",
-   "translations": [
-    {
-     "source": "3 точки за по-добър",
-     "target": "3 tačke za bolji"
-    },
-    {
-     "source": "сън тази вечер.",
-     "target": "san večeras."
-    },
-    {
-     "source": "1. НТ7 — Вътрешна китка",
-     "target": "1. HT7 — Unutrašnji zglob"
-    },
-    {
-     "source": "2. ВН6 — Вътрешна ръка",
-     "target": "2. PC6 — Unutrašnja strana ruke"
-    },
-    {
-     "source": "3. КИ1 — Стъпалото",
-     "target": "3. KI1 — Stopalo"
-    },
-    {
-     "source": "Натисни 30 секунди преди лягане",
-     "target": "Pritisni 30 sekundi pre spavanja"
-    },
-    {
-     "source": "НАУЧИ КАК →",
-     "target": "SAZNAJ KAKO →"
-    }
-   ],
-   "note": "BG оригиналът пише ВН6; по заповед на Бран е сложена правилната точка PC6 (Neiguan)."
-  },
-  {
-   "source": "source/RSACUPRESSURE/BGACUPRESSURE_BG_banner_split.png",
-   "format": "banner",
-   "angle": "split",
-   "translations": [
-    {
-     "source": "ЛЕЧЕНИЕ",
-     "target": "LEČENJE"
-    },
-    {
-     "source": "БЕЗ ХАПЧЕТА",
-     "target": "BEZ TABLETA"
-    },
-    {
-     "source": "МАСКИРА БОЛКАТА",
-     "target": "MASKIRA BOL"
-    },
-    {
-     "source": "ЛЕКУВА ПРИЧИНАТА",
-     "target": "LEČI UZROK"
-    },
-    {
-     "source": "Акупресурата работи с естествените механизми на тялото ти.",
-     "target": "Akupresura radi sa prirodnim mehanizmima tvog tela."
-    },
-    {
-     "source": "Научи как →",
-     "target": "Saznaj kako →"
-    }
-   ]
-  }
- ]
 }
