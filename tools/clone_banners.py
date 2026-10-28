@@ -158,7 +158,7 @@ def restore_output(img: Image.Image, size: tuple[int, int], meta: dict) -> Image
 # Промпт
 # --------------------------------------------------------------------------
 
-def build_prompt(cfg: dict, market: str, has_cover_ref: bool) -> str:
+def build_prompt(cfg: dict, market: str, has_cover_ref: bool, padded: bool = False) -> str:
     lang_en, _ = LANGUAGES[market]
 
     if cfg.get("prompt"):
@@ -193,6 +193,14 @@ def build_prompt(cfg: dict, market: str, has_cover_ref: bool) -> str:
             "- The book cover shown in the banner must also have its title and subtitle "
             f"translated into {lang_en}, keeping the cover's design, colours, typography "
             "and layout identical."
+        )
+
+    if padded:
+        lines.append(
+            "- The image has plain white bars added along two edges purely as padding. "
+            "Leave them plain white and empty. Do not extend the artwork into them, do "
+            "not re-centre or rescale the banner to fill them, and do not place any text "
+            "or element inside them. The banner itself must stay exactly where it is."
         )
 
     for extra in cfg.get("extra_rules", []) or []:
@@ -282,7 +290,7 @@ def run_model(cfg: dict, job: dict, root: Path, src_path: Path,
         api_size = cfg.get("api_size") or pick_api_size(*orig_size)
         if api_size not in API_SIZES:
             die(f"непознат api_size '{api_size}'. Позволени: {', '.join(API_SIZES)}")
-        fit = cfg.get("fit", "stretch")
+        fit = cfg.get("fit", "pad")
         if fit not in VALID_FIT:
             die(f"непознат fit '{fit}'. Позволени: {', '.join(VALID_FIT)}")
         prepared, meta = prepare_input(src, api_size, fit)
@@ -301,7 +309,9 @@ def run_model(cfg: dict, job: dict, root: Path, src_path: Path,
             die(f"липсва референтният файл: {extra}")
         refs.append((extra_path.name, extra_path.read_bytes()))
 
-    prompt = build_prompt(cfg, job["market"], has_cover_ref=bool(cover))
+    prompt = build_prompt(cfg, job["market"], has_cover_ref=bool(cover),
+                          padded=meta.get("fit") == "pad" and meta.get("box") is not None
+                          and meta["box"] != (0, 0, *prepared.size))
 
     if dry:
         print(f"      размер: {orig_size[0]}x{orig_size[1]} -> API {api_size} (fit={fit})")

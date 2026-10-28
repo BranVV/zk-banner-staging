@@ -18,7 +18,7 @@
     "output_format": "png",           // png | jpg
     "quality": "high",
     "input_fidelity": "high",
-    "fit": "stretch",                 // stretch | pad
+    "fit": "pad",                     // pad (по подразбиране) | stretch
     "cover": "covers/RSEXCEL_RS_cover.png",
     "keep_as_is": ["MS Excel", "EPP"]
   },
@@ -70,7 +70,7 @@
 | `keep_as_is` | model | текстове, които остават непреведени |
 | `extra_rules` | model | допълнителни правила към промпта |
 | `prompt` | model | пълен промпт, който замества вградения |
-| `fit` | model | `stretch` (по подразбиране) или `pad` при различно съотношение |
+| `fit` | model | `pad` (по подразбиране) или `stretch` при различно съотношение |
 | `api_size` | model | ръчно: `1024x1024`, `1536x1024`, `1024x1536` |
 | `text_boxes` | overlay | кутии с координати `[left, top, right, bottom]` и текст |
 
