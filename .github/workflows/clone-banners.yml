@@ -1,0 +1,78 @@
+name: Клониране на банери
+
+on:
+  push:
+    paths:
+      - 'jobs/*.json'
+  workflow_dispatch:
+    inputs:
+      job:
+        description: 'Път до задачата, напр. jobs/RSEXCEL_RS_2026-10-28.json'
+        required: true
+        type: string
+      force:
+        description: 'Презаписва вече съществуващи банери'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clone-banners
+  cancel-in-progress: false
+
+jobs:
+  clone:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: tools/requirements.txt
+
+      - name: Инсталиране на зависимостите
+        run: pip install -r tools/requirements.txt
+
+      - name: Кои задачи да се пуснат
+        id: pick
+        run: |
+          if [ -n "${{ inputs.job }}" ]; then
+            echo "jobs=${{ inputs.job }}" >> "$GITHUB_OUTPUT"
+          else
+            CHANGED=$(git diff --name-only --diff-filter=d HEAD^ HEAD -- 'jobs/*.json' | grep -v '^jobs/_' || true)
+            echo "jobs=$(echo $CHANGED | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Генериране на банерите
+        if: steps.pick.outputs.jobs != ''
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          for JOB in ${{ steps.pick.outputs.jobs }}; do
+            echo "::group::$JOB"
+            python tools/clone_banners.py "$JOB" ${{ inputs.force && '--force' || '' }}
+            echo "::endgroup::"
+          done
+
+      - name: Записване на резултата в репото
+        if: steps.pick.outputs.jobs != ''
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A ':!jobs'
+          if git diff --cached --quiet; then
+            echo "Няма нови файлове."
+          else
+            git commit -m "Клонирани банери: ${{ steps.pick.outputs.jobs }}"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi

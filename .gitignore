@@ -1,0 +1,8 @@
+# никога ключове в репото
+.env
+*.key
+secrets.*
+
+__pycache__/
+*.pyc
+.venv/
