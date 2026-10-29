@@ -1,0 +1,65 @@
+{
+  "book": "RSPIANO",
+  "market": "RS",
+  "date": "2026-10-29",
+  "source_campaign": "PIANO DREAM BANNERS ALL FORMATS (BG)",
+  "generated_at": "2026-10-29T14:25:43+00:00",
+  "banners": [
+    {
+      "name": "RSPIANO_RS_banner_45-orange",
+      "path": "RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_45-orange.png",
+      "source": "source/RSPIANO/BGPIANO_BG_banner2_45_orange.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_45-orange.png"
+    },
+    {
+      "name": "RSPIANO_RS_banner_splitscreen",
+      "path": "RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_splitscreen.png",
+      "source": "source/RSPIANO/BGPIANO_BG_banner3_splitscreen.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_splitscreen.png"
+    },
+    {
+      "name": "RSPIANO_RS_banner_hands-piano",
+      "path": "RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_hands-piano.png",
+      "source": "source/RSPIANO/BGPIANO_BG_banner4_hands_piano.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_hands-piano.png"
+    },
+    {
+      "name": "RSPIANO_RS_banner_navy-myths",
+      "path": "RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_navy-myths.png",
+      "source": "source/RSPIANO/BGPIANO_BG_banner5_navy_myths.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_navy-myths.png"
+    },
+    {
+      "name": "RSPIANO_RS_banner_minimal-white",
+      "path": "RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_minimal-white.png",
+      "source": "source/RSPIANO/BGPIANO_BG_banner6_minimal_white.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSPIANO/2026-10-29/RSPIANO_RS_banner_minimal-white.png"
+    },
+    {
+      "name": "RSPIANO_RS_testimonial_dream-marija",
+      "path": "RS/RSPIANO/2026-10-29/RSPIANO_RS_testimonial_dream-marija.png",
+      "source": "source/RSPIANO/BGPIANO_BG_dream1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSPIANO/2026-10-29/RSPIANO_RS_testimonial_dream-marija.png"
+    },
+    {
+      "name": "RSPIANO_RS_testimonial_dream-jelena",
+      "path": "RS/RSPIANO/2026-10-29/RSPIANO_RS_testimonial_dream-jelena.png",
+      "source": "source/RSPIANO/BGPIANO_BG_dream2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSPIANO/2026-10-29/RSPIANO_RS_testimonial_dream-jelena.png"
+    }
+  ]
+}
