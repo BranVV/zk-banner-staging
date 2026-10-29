@@ -1,0 +1,229 @@
+{
+  "book": "RSMEBELI",
+  "market": "RS",
+  "date": "2026-10-29",
+  "source_campaign": "CBO | MEBELI | INT | HIGH PRICES - 05102026 (BG)",
+  "source_account": "Zlaten Kluch 1",
+  "defaults": {
+    "mode": "model",
+    "output_format": "png",
+    "quality": "high",
+    "fit": "pad",
+    "extra_rules": [
+      "Serbian Latin script only (ekavski), never Cyrillic.",
+      "Render the diacritics č, ć, š, ž, đ exactly.",
+      "Keep the layout, colours, photos and illustrations identical; change only the text.",
+      "Where a banner has no book, do not add a book or a cover.",
+      "The system name is W.E.B., render it exactly.",
+      "Prices are in Serbian dinars (din); render the numbers with dot thousands separators exactly as given."
+    ],
+    "model": "gpt-image-2.5-sunburst"
+  },
+  "banners": [
+    {
+      "source": "source/MEBELI/BGMEBELI_BG_banner1.png",
+      "format": "banner",
+      "angle": "sto-plata",
+      "translations": [
+        {
+          "source": "Една дървена маса в магазина вече струва една заплата.",
+          "target": "Jedan drveni sto u radnji već košta jednu platu."
+        },
+        {
+          "source": "Или я направи за един уикенд, с малко дърво и правилният план.",
+          "target": "Ili ga napravi za jedan vikend, sa malo drveta i pravim planom."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/MEBELI/BGMEBELI_BG_banner2.png",
+      "format": "banner",
+      "angle": "kuhinja-5000",
+      "translations": [
+        {
+          "source": "Обзавеждаш нова кухня?",
+          "target": "Opremaš novu kuhinju?"
+        },
+        {
+          "source": "В Магазина: 5000€",
+          "target": "U radnji: 590.000 din"
+        },
+        {
+          "source": "Ти: 1 уикенд и една книга.",
+          "target": "Ti: 1 vikend i jedna knjiga."
+        },
+        {
+          "source": "5000€",
+          "target": "590.000 din"
+        },
+        {
+          "source": "1 уикенд",
+          "target": "1 vikend"
+        },
+        {
+          "source": "„Направи си сам вкъщи\"",
+          "target": "„Uradi sam kod kuće\""
+        },
+        {
+          "source": "101 проекта за дървени мебели.",
+          "target": "101 projekat drvenog nameštaja."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/MEBELI/BGMEBELI_BG_banner3.png",
+      "format": "banner",
+      "angle": "hiljade-vikend",
+      "translations": [
+        {
+          "source": "Защо да плащаш хиляди за нещо, което можеш да направиш сам за 1 уикенд?",
+          "target": "Zašto da plaćaš hiljade za nešto što možeš sam da napraviš za 1 vikend?"
+        },
+        {
+          "source": "101 проекта за дървени мебели.",
+          "target": "101 projekat drvenog nameštaja."
+        },
+        {
+          "source": "Готови, лесни стъпки.",
+          "target": "Gotovi, laki koraci."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/MEBELI/BGMEBELI_BG_banner4.png",
+      "format": "banner",
+      "angle": "web-10e",
+      "translations": [
+        {
+          "source": "10€",
+          "target": "1.200 din"
+        },
+        {
+          "source": "Хиляди евро за обзавеждане.",
+          "target": "Hiljade evra za opremanje."
+        },
+        {
+          "source": "Или един уикенд и книга за 10 евро.",
+          "target": "Ili jedan vikend i knjiga za 1.200 dinara."
+        },
+        {
+          "source": "101 проекта за мебели. Готови планове.",
+          "target": "101 projekat nameštaja. Gotovi planovi."
+        },
+        {
+          "source": "Системата W.E.B.",
+          "target": "Sistem W.E.B."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/MEBELI/BGMEBELI_BG_banner5.png",
+      "format": "banner",
+      "angle": "10-90",
+      "translations": [
+        {
+          "source": "Когато плащаш за мебели:",
+          "target": "Kada plaćaš nameštaj:"
+        },
+        {
+          "source": "10% материали",
+          "target": "10% materijal"
+        },
+        {
+          "source": "90% марка",
+          "target": "90% marka"
+        },
+        {
+          "source": "Кое искаш да плащаш?",
+          "target": "Šta želiš da plaćaš?"
+        },
+        {
+          "source": "Направи си сам.",
+          "target": "Uradi sam."
+        },
+        {
+          "source": "Плати само за материалите.",
+          "target": "Plati samo materijal."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/MEBELI/BGMEBELI_BG_banner6.png",
+      "format": "banner",
+      "angle": "300-vs-80",
+      "translations": [
+        {
+          "source": "300€ за маса от евтини плоскости?",
+          "target": "35.000 din za sto od jeftinih ploča?"
+        },
+        {
+          "source": "Аз я направих за 80.",
+          "target": "Ja sam ga napravio za 9.500."
+        },
+        {
+          "source": "300€ маса от плоскости",
+          "target": "35.000 din sto od ploča"
+        },
+        {
+          "source": "80€ материали",
+          "target": "9.500 din materijal"
+        },
+        {
+          "source": "„Направи си сам: Дървени мебели.",
+          "target": "„Uradi sam: Drveni nameštaj"
+        },
+        {
+          "source": "101 проекта, всеки за 1 уикенд.",
+          "target": "101 projekat, svaki za 1 vikend."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ],
+      "cover": "covers/RSMEBELI_RS_cover.png",
+      "extra_rules": [
+        "Replace the BG book with the attached Serbian cover, reproduced exactly (title Uradi sam: Drveni nameštaj, author Goran Stanković). Do not alter the cover text."
+      ]
+    },
+    {
+      "source": "source/MEBELI/BGMEBELI_BG_banner7.png",
+      "format": "banner",
+      "angle": "gosti-pitaju",
+      "translations": [
+        {
+          "source": "„Гостите питат откъде съм купил мебелите. Отговарям, че сам съм ги направил. И не ми вярват.\"",
+          "target": "„Gosti pitaju gde sam kupio nameštaj. Kažem da sam ga sam napravio. I ne veruju mi.\""
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ],
+      "cover": "covers/RSMEBELI_RS_cover.png",
+      "extra_rules": [
+        "Replace the BG book with the attached Serbian cover, reproduced exactly (title Uradi sam: Drveni nameštaj, author Goran Stanković). Do not alter the cover text."
+      ]
+    }
+  ]
+}
