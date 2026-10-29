@@ -85,7 +85,7 @@
       "translations": [
         {
           "source": "Защо да плащаш хиляди за нещо, което можеш да направиш сам за 1 уикенд?",
-          "target": "Zašto da plaćaš hiljade za nešto što možeš sam da napraviš za 1 vikend?"
+          "target": "Zašto da plaćaš hiljade za nešto što možeš da napraviš sam za 1 vikend?"
         },
         {
           "source": "101 проекта за дървени мебели.",
@@ -99,6 +99,9 @@
           "source": "ВИЖ КАК →",
           "target": "POGLEDAJ KAKO →"
         }
+      ],
+      "extra_rules": [
+        "The word \"sam\" must appear exactly once in the headline: \"Zašto da plaćaš hiljade za nešto što možeš da napraviš sam za 1 vikend?\". Do not repeat any word."
       ]
     },
     {
