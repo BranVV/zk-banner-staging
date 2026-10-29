@@ -14,7 +14,7 @@
       "Render the diacritics č, ć, š, ž, đ exactly.",
       "Keep the layout, colours, photos and illustrations identical; change only the text.",
       "Where a banner has no book, do not add a book or a cover.",
-      "The system name is P.L.A.N.O. (with L), render it exactly."
+      "The system name is P.I.A.N.O. (with I), render it exactly."
     ],
     "model": "gpt-image-2.5-sunburst"
   },
@@ -53,7 +53,7 @@
         },
         {
           "source": "Системата P.I.A.N.O.",
-          "target": "P.L.A.N.O. sistem"
+          "target": "P.I.A.N.O. sistem"
         },
         {
           "source": "Учиш ноти с месеци. Гами. Теория. Такт.",
@@ -92,7 +92,7 @@
         },
         {
           "source": "Системата P.I.A.N.O. — визуален метод, без ноти.",
-          "target": "P.L.A.N.O. sistem — vizuelni metod, bez nota."
+          "target": "P.I.A.N.O. sistem — vizuelni metod, bez nota."
         },
         {
           "source": "Първата ти песен за 7 дни.",
@@ -135,7 +135,7 @@
         },
         {
           "source": "Системата P.I.A.N.O. — визуален метод, без ноти.",
-          "target": "P.L.A.N.O. sistem — vizuelni metod, bez nota."
+          "target": "P.I.A.N.O. sistem — vizuelni metod, bez nota."
         },
         {
           "source": "ВИЖ КАК →",
@@ -154,7 +154,7 @@
         },
         {
           "source": "Системата P.I.A.N.O.",
-          "target": "P.L.A.N.O. sistem"
+          "target": "P.I.A.N.O. sistem"
         },
         {
           "source": "Първата песен за 7 дни.",
