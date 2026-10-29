@@ -1,0 +1,216 @@
+{
+  "book": "RSPIANO",
+  "market": "RS",
+  "date": "2026-10-29",
+  "source_campaign": "PIANO DREAM BANNERS ALL FORMATS (BG)",
+  "source_account": "Zlaten Kluch 1",
+  "defaults": {
+    "mode": "model",
+    "output_format": "png",
+    "quality": "high",
+    "fit": "pad",
+    "extra_rules": [
+      "Serbian Latin script only (ekavski), never Cyrillic.",
+      "Render the diacritics č, ć, š, ž, đ exactly.",
+      "Keep the layout, colours, photos and illustrations identical; change only the text.",
+      "Where a banner has no book, do not add a book or a cover.",
+      "The system name is P.L.A.N.O. (with L), render it exactly."
+    ],
+    "model": "gpt-image-2.5-sunburst"
+  },
+  "banners": [
+    {
+      "source": "source/RSPIANO/BGPIANO_BG_banner2_45_orange.png",
+      "format": "banner",
+      "angle": "45-orange",
+      "translations": [
+        {
+          "source": "Мислиш си, че на 45 е късно да се научиш да свириш на пиано?",
+          "target": "Misliš da je kasno da sa 45 naučiš da sviraš klavir?"
+        },
+        {
+          "source": "Възрастта не е пречка. Липсата на система е.",
+          "target": "Godine nisu prepreka. Nedostatak sistema jeste."
+        },
+        {
+          "source": "Научи пиано за 30 дни.",
+          "target": "Nauči klavir za 30 dana."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/RSPIANO/BGPIANO_BG_banner3_splitscreen.png",
+      "format": "banner",
+      "angle": "splitscreen",
+      "translations": [
+        {
+          "source": "Стария начин:",
+          "target": "Stari način:"
+        },
+        {
+          "source": "Системата P.I.A.N.O.",
+          "target": "P.L.A.N.O. sistem"
+        },
+        {
+          "source": "Учиш ноти с месеци. Гами. Теория. Такт.",
+          "target": "Učiš note mesecima. Skale. Teorija. Ritam."
+        },
+        {
+          "source": "И още не свириш.",
+          "target": "A još uvek ne sviraš."
+        },
+        {
+          "source": "Учиш акорди с картички. Свириш песни за 7 дни.",
+          "target": "Učiš akorde uz kartice. Sviraš pesme za 7 dana."
+        },
+        {
+          "source": "Без ноти. Без теория.",
+          "target": "Bez nota. Bez teorije."
+        },
+        {
+          "source": "Пиано за начинаещи. Научи го за 30 дни.",
+          "target": "Klavir za početnike. Nauči ga za 30 dana."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/RSPIANO/BGPIANO_BG_banner4_hands_piano.png",
+      "format": "banner",
+      "angle": "hands-piano",
+      "translations": [
+        {
+          "source": "На 40. Или на 50. Никога не е късно да се научиш.",
+          "target": "Sa 40. Ili sa 50. Nikad nije kasno da naučiš."
+        },
+        {
+          "source": "Системата P.I.A.N.O. — визуален метод, без ноти.",
+          "target": "P.L.A.N.O. sistem — vizuelni metod, bez nota."
+        },
+        {
+          "source": "Първата ти песен за 7 дни.",
+          "target": "Tvoja prva pesma za 7 dana."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/RSPIANO/BGPIANO_BG_banner5_navy_myths.png",
+      "format": "banner",
+      "angle": "navy-myths",
+      "translations": [
+        {
+          "source": "Мислиш, че за да свириш на пиано ти трябват:",
+          "target": "Misliš da ti je za sviranje klavira potrebno:"
+        },
+        {
+          "source": "Музикално образование? Не.",
+          "target": "Muzičko obrazovanje? Ne."
+        },
+        {
+          "source": "Умение да четеш ноти? Не.",
+          "target": "Znanje čitanja nota? Ne."
+        },
+        {
+          "source": "4 месеца частни уроци? Не.",
+          "target": "4 meseca privatnih časova? Ne."
+        },
+        {
+          "source": "Талант? Определено не.",
+          "target": "Talenat? Definitivno ne."
+        },
+        {
+          "source": "Трябва ти една книга и 30 дни.",
+          "target": "Knjiga je tvoj početak."
+        },
+        {
+          "source": "Системата P.I.A.N.O. — визуален метод, без ноти.",
+          "target": "P.L.A.N.O. sistem — vizuelni metod, bez nota."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "POGLEDAJ KAKO →"
+        }
+      ]
+    },
+    {
+      "source": "source/RSPIANO/BGPIANO_BG_banner6_minimal_white.png",
+      "format": "banner",
+      "angle": "minimal-white",
+      "translations": [
+        {
+          "source": "Обещаваш си я 20 години. Тази мечта. Кога ще спреш да си я обещаваш?",
+          "target": "Obećavaš to sebi već 20 godina. Taj san. Kada ćeš prestati da ga odlažeš?"
+        },
+        {
+          "source": "Системата P.I.A.N.O.",
+          "target": "P.L.A.N.O. sistem"
+        },
+        {
+          "source": "Първата песен за 7 дни.",
+          "target": "Prva pesma za 7 dana."
+        },
+        {
+          "source": "Без ноти. Без уроци. Без предишен опит.",
+          "target": "Bez nota. Bez časova. Bez prethodnog iskustva."
+        },
+        {
+          "source": "ВИЖ КНИГАТА →",
+          "target": "POGLEDAJ KNJIGU →"
+        }
+      ]
+    },
+    {
+      "source": "source/RSPIANO/BGPIANO_BG_dream1.png",
+      "format": "testimonial",
+      "angle": "dream-marija",
+      "translations": [
+        {
+          "source": "От 20 години мечтая да свиря на пиано. На 42 най-сетне започнах. И след 3 седмици свирех първата си песен.",
+          "target": "Već 20 godina sanjam da sviram klavir. Sa 42 sam konačno počela. I posle 3 nedelje odsvirala sam svoju prvu pesmu."
+        },
+        {
+          "source": "Мария, 42 г.",
+          "target": "Marija, 42 god."
+        },
+        {
+          "source": "ВИЖ КНИГАТА →",
+          "target": "POGLEDAJ KNJIGU →"
+        }
+      ]
+    },
+    {
+      "source": "source/RSPIANO/BGPIANO_BG_dream2.png",
+      "format": "testimonial",
+      "angle": "dream-jelena",
+      "cover": "covers/RSPIANO_RS_cover.png",
+      "extra_rules": [
+        "Replace the book held in the woman's hands with the attached Serbian cover, reproduced exactly (title KLAVIR ZA POČETNIKE, author MILICA ĐORĐEVIĆ). Do not alter the cover text."
+      ],
+      "translations": [
+        {
+          "source": "„На 50 си казах, че вече е късно. Но дъщеря ми ми даде тази книга. Сега свиря всяка вечер. Никога не е било късно.\"",
+          "target": "„Sa 50 sam rekla sebi da je kasno. Ali mi je ćerka poklonila ovu knjigu. Sada sviram svako veče. Nikad nije bilo kasno.\""
+        },
+        {
+          "source": "Елена, 50 г.",
+          "target": "Jelena, 50 god."
+        },
+        {
+          "source": "ВИЖ КНИГАТА →",
+          "target": "POGLEDAJ KNJIGU →"
+        }
+      ]
+    }
+  ]
+}
