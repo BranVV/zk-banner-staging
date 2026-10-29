@@ -3,23 +3,17 @@
   "market": "RS",
   "date": "2026-10-29",
   "source_campaign": "CBO | MEBELI | INT | HIGH PRICES - 05102026 (BG)",
-  "generated_at": "2026-10-29T18:46:30+00:00",
+  "generated_at": "2026-10-29T18:47:52+00:00",
   "banners": [
     {
       "name": "RSMEBELI_RS_banner_sto-plata",
       "path": "RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_sto-plata.png",
-      "source": "source/MEBELI/BGMEBELI_BG_banner1.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_sto-plata.png"
+      "status": "skipped"
     },
     {
       "name": "RSMEBELI_RS_banner_kuhinja-5000",
       "path": "RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_kuhinja-5000.png",
-      "source": "source/MEBELI/BGMEBELI_BG_banner2.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_kuhinja-5000.png"
+      "status": "skipped"
     },
     {
       "name": "RSMEBELI_RS_banner_hiljade-vikend",
@@ -32,34 +26,22 @@
     {
       "name": "RSMEBELI_RS_banner_web-10e",
       "path": "RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_web-10e.png",
-      "source": "source/MEBELI/BGMEBELI_BG_banner4.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_web-10e.png"
+      "status": "skipped"
     },
     {
       "name": "RSMEBELI_RS_banner_10-90",
       "path": "RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_10-90.png",
-      "source": "source/MEBELI/BGMEBELI_BG_banner5.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_10-90.png"
+      "status": "skipped"
     },
     {
       "name": "RSMEBELI_RS_banner_300-vs-80",
       "path": "RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_300-vs-80.png",
-      "source": "source/MEBELI/BGMEBELI_BG_banner6.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_300-vs-80.png"
+      "status": "skipped"
     },
     {
       "name": "RSMEBELI_RS_banner_gosti-pitaju",
       "path": "RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_gosti-pitaju.png",
-      "source": "source/MEBELI/BGMEBELI_BG_banner7.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSMEBELI/2026-10-29/RSMEBELI_RS_banner_gosti-pitaju.png"
+      "status": "skipped"
     }
   ]
 }
