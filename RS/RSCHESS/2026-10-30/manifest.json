@@ -1,0 +1,89 @@
+{
+  "book": "RSCHESS",
+  "market": "RS",
+  "date": "2026-10-30",
+  "source_campaign": "CBO | CHESS | BROAD | REVIEW BANNERS - 01102026 (BG)",
+  "generated_at": "2026-10-30T07:09:21+00:00",
+  "banners": [
+    {
+      "name": "RSCHESS_RS_banner_igram-godinama",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_igram-godinama.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_igram-godinama.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_logika",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_logika.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_logika.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_mogucnosti",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_mogucnosti.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner3.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_mogucnosti.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_gubeh-partii",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_gubeh-partii.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner4.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_gubeh-partii.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_cerka",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_cerka.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner5.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_cerka.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_druge-knjige",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_druge-knjige.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner6.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_druge-knjige.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_sin-8",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_sin-8.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner7.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_sin-8.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_tisina",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_tisina.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner8.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_tisina.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_brat",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_brat.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner9.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_brat.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_mali",
+      "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_mali.png",
+      "source": "source/RSCHESS/BGCHESS_BG_banner10.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_mali.png"
+    }
+  ]
+}
