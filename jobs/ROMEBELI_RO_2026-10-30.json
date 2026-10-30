@@ -1,0 +1,232 @@
+{
+  "book": "ROMEBELI",
+  "market": "RO",
+  "date": "2026-10-30",
+  "source_campaign": "CBO | MEBELI | INT | HIGH PRICES - 05102026 (BG)",
+  "source_account": "Zlaten Kluch 1",
+  "defaults": {
+    "mode": "model",
+    "output_format": "png",
+    "quality": "high",
+    "fit": "pad",
+    "extra_rules": [
+      "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț). Render them exactly.",
+      "Keep the layout, colours, photos and illustrations identical; change only the text.",
+      "Where a banner has no book, do not add a book or a cover.",
+      "The system name is W.E.B., render it exactly.",
+      "Prices are in Romanian lei (lei); render the numbers with dot thousands separators exactly as given.",
+      "Do not add any text that is not in the translations list."
+    ],
+    "model": "gpt-image-2.5-sunburst"
+  },
+  "banners": [
+    {
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner1.png",
+      "format": "banner",
+      "angle": "sto-plata",
+      "translations": [
+        {
+          "source": "Една дървена маса в магазина вече струва една заплата.",
+          "target": "O masă din lemn în magazin costă deja un salariu."
+        },
+        {
+          "source": "Или я направи за един уикенд, с малко дърво и правилният план.",
+          "target": "Sau fă-o într-un weekend, cu puțin lemn și planul potrivit."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "VEZI CUM →"
+        }
+      ]
+    },
+    {
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner2.png",
+      "format": "banner",
+      "angle": "kuhinja-5000",
+      "translations": [
+        {
+          "source": "Обзавеждаш нова кухня?",
+          "target": "Îți mobilezi o bucătărie nouă?"
+        },
+        {
+          "source": "В Магазина: 5000€",
+          "target": "În magazin: 25.000 lei"
+        },
+        {
+          "source": "Ти: 1 уикенд и една книга.",
+          "target": "Tu: 1 weekend și o carte."
+        },
+        {
+          "source": "5000€",
+          "target": "25.000 lei"
+        },
+        {
+          "source": "1 уикенд",
+          "target": "1 weekend"
+        },
+        {
+          "source": "„Направи си сам вкъщи\"",
+          "target": "„Fă-o singur acasă”"
+        },
+        {
+          "source": "101 проекта за дървени мебели.",
+          "target": "101 proiecte de mobilier din lemn."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "VEZI CUM →"
+        }
+      ]
+    },
+    {
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner3.png",
+      "format": "banner",
+      "angle": "hiljade-vikend",
+      "translations": [
+        {
+          "source": "Защо да плащаш хиляди за нещо, което можеш да направиш сам за 1 уикенд?",
+          "target": "De ce să plătești mii de lei pentru ceva ce poți face singur într-un weekend?"
+        },
+        {
+          "source": "101 проекта за дървени мебели.",
+          "target": "101 proiecte de mobilier din lemn."
+        },
+        {
+          "source": "Готови, лесни стъпки.",
+          "target": "Pași gata făcuți, simpli."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "VEZI CUM →"
+        }
+      ],
+      "extra_rules": [
+        "The word \"singur\" must appear exactly once in the headline: \"De ce să plătești mii de lei pentru ceva ce poți face singur într-un weekend?\". Do not repeat any word."
+      ]
+    },
+    {
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner4.png",
+      "format": "banner",
+      "angle": "web-10e",
+      "translations": [
+        {
+          "source": "10€",
+          "target": "50 lei"
+        },
+        {
+          "source": "Хиляди евро за обзавеждане.",
+          "target": "Mii de euro pentru mobilare."
+        },
+        {
+          "source": "Или един уикенд и книга за 10 евро.",
+          "target": "Sau un weekend și o carte de 50 de lei."
+        },
+        {
+          "source": "101 проекта за мебели. Готови планове.",
+          "target": "101 proiecte de mobilier. Planuri gata făcute."
+        },
+        {
+          "source": "Системата W.E.B.",
+          "target": "Sistemul W.E.B."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "VEZI CUM →"
+        }
+      ]
+    },
+    {
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner5.png",
+      "format": "banner",
+      "angle": "10-90",
+      "translations": [
+        {
+          "source": "Когато плащаш за мебели:",
+          "target": "Când plătești pentru mobilă:"
+        },
+        {
+          "source": "10% материали",
+          "target": "10% materiale"
+        },
+        {
+          "source": "90% марка",
+          "target": "90% marcă"
+        },
+        {
+          "source": "Кое искаш да плащаш?",
+          "target": "Pe care vrei să-l plătești?"
+        },
+        {
+          "source": "Направи си сам.",
+          "target": "Fă-o singur."
+        },
+        {
+          "source": "Плати само за материалите.",
+          "target": "Plătești doar materialele."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "VEZI CUM →"
+        }
+      ]
+    },
+    {
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner6.png",
+      "format": "banner",
+      "angle": "300-vs-80",
+      "translations": [
+        {
+          "source": "300€ за маса от евтини плоскости?",
+          "target": "1.500 lei pentru o masă din PAL ieftin?"
+        },
+        {
+          "source": "Аз я направих за 80.",
+          "target": "Eu am făcut-o cu 400."
+        },
+        {
+          "source": "300€ маса от плоскости",
+          "target": "1.500 lei masă din PAL"
+        },
+        {
+          "source": "80€ материали",
+          "target": "400 lei materiale"
+        },
+        {
+          "source": "„Направи си сам: Дървени мебели.",
+          "target": "„Fă-o singur: Mobilier din lemn"
+        },
+        {
+          "source": "101 проекта, всеки за 1 уикенд.",
+          "target": "101 proiecte, fiecare într-un weekend."
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "VEZI CUM →"
+        }
+      ],
+      "cover": "covers/ROMEBELI_RO_cover.png",
+      "extra_rules": [
+        "Replace the BG book with the attached Romanian cover, reproduced exactly (title Fă-o singur: Mobilier din lemn, author Marius Stoica). Do not alter the cover text."
+      ]
+    },
+    {
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner7.png",
+      "format": "banner",
+      "angle": "gosti-pitaju",
+      "translations": [
+        {
+          "source": "„Гостите питат откъде съм купил мебелите. Отговарям, че сам съм ги направил. И не ми вярват.\"",
+          "target": "„Oaspeții mă întreabă de unde am cumpărat mobila. Le spun că am făcut-o singur. Și nu mă cred.”"
+        },
+        {
+          "source": "ВИЖ КАК →",
+          "target": "VEZI CUM →"
+        }
+      ],
+      "cover": "covers/ROMEBELI_RO_cover.png",
+      "extra_rules": [
+        "Replace the BG book with the attached Romanian cover, reproduced exactly (title Fă-o singur: Mobilier din lemn, author Marius Stoica). Do not alter the cover text."
+      ]
+    }
+  ]
+}
