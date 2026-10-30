@@ -1,0 +1,65 @@
+{
+  "book": "ROMEBELI",
+  "market": "RO",
+  "date": "2026-10-30",
+  "source_campaign": "CBO | MEBELI | INT | HIGH PRICES - 05102026 (BG)",
+  "generated_at": "2026-10-30T10:26:46+00:00",
+  "banners": [
+    {
+      "name": "ROMEBELI_RO_banner_sto-plata",
+      "path": "RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_sto-plata.png",
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_sto-plata.png"
+    },
+    {
+      "name": "ROMEBELI_RO_banner_kuhinja-5000",
+      "path": "RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_kuhinja-5000.png",
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_kuhinja-5000.png"
+    },
+    {
+      "name": "ROMEBELI_RO_banner_hiljade-vikend",
+      "path": "RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_hiljade-vikend.png",
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner3.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_hiljade-vikend.png"
+    },
+    {
+      "name": "ROMEBELI_RO_banner_web-10e",
+      "path": "RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_web-10e.png",
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner4.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_web-10e.png"
+    },
+    {
+      "name": "ROMEBELI_RO_banner_10-90",
+      "path": "RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_10-90.png",
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner5.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_10-90.png"
+    },
+    {
+      "name": "ROMEBELI_RO_banner_300-vs-80",
+      "path": "RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_300-vs-80.png",
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner6.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_300-vs-80.png"
+    },
+    {
+      "name": "ROMEBELI_RO_banner_gosti-pitaju",
+      "path": "RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_gosti-pitaju.png",
+      "source": "source/ROMEBELI/BGMEBELI_BG_banner7.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROMEBELI/2026-10-30/ROMEBELI_RO_banner_gosti-pitaju.png"
+    }
+  ]
+}
