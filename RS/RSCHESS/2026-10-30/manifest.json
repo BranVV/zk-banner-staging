@@ -3,7 +3,7 @@
   "market": "RS",
   "date": "2026-10-30",
   "source_campaign": "CBO | CHESS | BROAD | REVIEW BANNERS - 01102026 (BG)",
-  "generated_at": "2026-10-30T07:09:21+00:00",
+  "generated_at": "2026-10-30T07:14:46+00:00",
   "banners": [
     {
       "name": "RSCHESS_RS_banner_igram-godinama",
@@ -40,10 +40,7 @@
     {
       "name": "RSCHESS_RS_banner_cerka",
       "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_cerka.png",
-      "source": "source/RSCHESS/BGCHESS_BG_banner5.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_cerka.png"
+      "status": "skipped"
     },
     {
       "name": "RSCHESS_RS_banner_druge-knjige",
@@ -56,10 +53,7 @@
     {
       "name": "RSCHESS_RS_banner_sin-8",
       "path": "RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_sin-8.png",
-      "source": "source/RSCHESS/BGCHESS_BG_banner7.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30/RSCHESS_RS_banner_sin-8.png"
+      "status": "skipped"
     },
     {
       "name": "RSCHESS_RS_banner_tisina",
