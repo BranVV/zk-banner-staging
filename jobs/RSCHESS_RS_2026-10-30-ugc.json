@@ -1,0 +1,28 @@
+{
+  "book": "RSCHESS",
+  "market": "RS",
+  "date": "2026-10-30-ugc",
+  "source_campaign": "CBO | CHESS | INT | LOSS UGC - 15082026 (BG), Chess loss UGC 1 - аватари за Flow",
+  "source_account": "Zlaten Kluch 1",
+  "defaults": {
+    "mode": "model",
+    "output_format": "png",
+    "quality": "high",
+    "fit": "pad",
+    "model": "gpt-image-2.5-sunburst",
+    "cover": "covers/RSCHESS_cover.png",
+    "prompt": "This is a vertical selfie-style photo of a man holding a hardcover book. Edit the photo so that ONLY the cover of the book he is holding changes: replace the Bulgarian cover with the attached Serbian cover.\n\nABSOLUTE RULES:\n- Keep the man's face, hair, skin tone, expression, hands, fingers, the way he holds the book, his clothes, the room, the furniture, the chessboard, the lighting and the whole composition EXACTLY as in the original photo. Do not alter the person in any way.\n- The book stays exactly where it is: same position, size, rotation, perspective, lighting, reflections and shadows, so it looks physically unchanged. Only the printed front cover is different.\n- The attached image is a 3D mockup of the Serbian book. Reproduce only its FRONT cover (title, subtitle, golden chess pieces, publisher line), laid flat on the front face of the book as seen in the photo, matching the book's perspective. Do not copy the mockup's own perspective, spine or shadow.\n- No text of the original language may remain anywhere in the image.\n- Do not add watermarks, logos, captions, names or any new element.\n- The image has plain white bars added along two edges purely as padding. Leave them plain white and empty. Do not extend the photo into them and do not re-centre or rescale the photo.\n- CRITICAL: the cover text must be copied letter for letter from the attached cover image. The cover title is exactly 'Kako da pobeđuješ u ŠAHU' (second line: 'pobeđuješ' with the letter đ, never 'pobediš', 'pobediješ', 'pobeduješ' or any other spelling; third line: 'ŠAHU'). Subtitle: 'Priručnik za početnike i napredne po sistemu S.T.E.P.S.' Bottom line: 'Izdavač Zlatni ključ'. Serbian Latin script only, never Cyrillic. Render the diacritics č, ć, š, ž, đ exactly. The system name is S.T.E.P.S., render it exactly.\n\nUse exactly these translations for the cover, character for character:\n  \"Как да побеждаваш на ШАХ\" -> \"Kako da pobeđuješ u ŠAHU\"\n  \"Наръчник за начинаещи и напреднали по системата S.T.E.P.S.\" -> \"Priručnik za početnike i napredne po sistemu S.T.E.P.S.\"\n  \"Издателство Златен Ключ\" -> \"Izdavač Zlatni ključ\""
+  },
+  "banners": [
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_avatar_video1-image2.png",
+      "format": "avatar",
+      "angle": "video1-image2"
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_avatar_video2-image2.png",
+      "format": "avatar",
+      "angle": "video2-image2"
+    }
+  ]
+}
