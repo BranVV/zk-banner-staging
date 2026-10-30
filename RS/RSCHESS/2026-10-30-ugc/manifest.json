@@ -1,0 +1,25 @@
+{
+  "book": "RSCHESS",
+  "market": "RS",
+  "date": "2026-10-30-ugc",
+  "source_campaign": "CBO | CHESS | INT | LOSS UGC - 15082026 (BG), Chess loss UGC 1 - аватари за Flow",
+  "generated_at": "2026-10-30T14:32:57+00:00",
+  "banners": [
+    {
+      "name": "RSCHESS_RS_avatar_video1-image2",
+      "path": "RS/RSCHESS/2026-10-30-ugc/RSCHESS_RS_avatar_video1-image2.png",
+      "source": "source/RSCHESS/BGCHESS_BG_avatar_video1-image2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30-ugc/RSCHESS_RS_avatar_video1-image2.png"
+    },
+    {
+      "name": "RSCHESS_RS_avatar_video2-image2",
+      "path": "RS/RSCHESS/2026-10-30-ugc/RSCHESS_RS_avatar_video2-image2.png",
+      "source": "source/RSCHESS/BGCHESS_BG_avatar_video2-image2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-30-ugc/RSCHESS_RS_avatar_video2-image2.png"
+    }
+  ]
+}
