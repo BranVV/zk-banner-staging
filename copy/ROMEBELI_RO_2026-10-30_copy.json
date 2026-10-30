@@ -1,0 +1,72 @@
+{
+  "book": "ROMEBELI",
+  "market": "RO",
+  "date": "2026-10-30",
+  "link": "https://mobilier.zlatenkluch.eu",
+  "note": "Option 1 = long, option 2 = short. Banner 1 (sto-plata) long = literal translation of the BG original (text, title, description). Prices in lei (1 EUR = 4.97 lei, rounded).",
+  "ads": {
+    "sto-plata": {
+      "n": "01",
+      "long": "Dacă ai câteva weekenduri libere…\npoți face\njumătate din mobila de acasă.\n\nCele mai multe piese de mobilier nu sunt de fapt complicate.\n\nCâteva scânduri.\nCâteva șuruburi.\nȘi puțin timp.\n\nDar în magazin prețurile arată altfel.\n\nMasă: 1.500 lei.\nRaft: încă 600.\nBanca de grădină… mai bine nu te uita la etichetă.\n\nIată ce nu realizează majoritatea oamenilor 👇\n\nO mare parte din mobila de acasă\nsunt doar construcții simple.\n\nNu ai nevoie de un atelier scump.\nNu ai nevoie nici de experiență.\n\nAi nevoie doar de\nun plan clar despre cum să le faci.\n\nExact asta arată cartea\n„Fă-o singur: Mobilier din lemn”.\n\nUn sistem de proiecte pe care le poți face acasă.\nPas cu pas.\n\n✔️ 101 proiecte pentru casă și grădină\n✔️ instrucțiuni clare pentru începători\n✔️ mobilier pe care îl faci într-un weekend\n✔️ rezultat profesionist cu unelte simple\n\nMomentan cartea are reducere\nși vine cu câteva bonusuri utile.\n\nVezi cartea aici:\nhttps://mobilier.zlatenkluch.eu",
+      "short": "O masă din lemn în magazin costă o avere.\nTu o poți face într-un weekend.\n\n101 proiecte, pas cu pas.\n\nVezi cum:\nhttps://mobilier.zlatenkluch.eu",
+      "title_long": "Fă-o singur 👉",
+      "desc_long": "⭐ Peste 40.000 de clienți mulțumiți",
+      "title_short": "Mobilă din lemn, făcută de tine",
+      "desc_short": "101 proiecte, pas cu pas"
+    },
+    "kuhinja-5000": {
+      "n": "02",
+      "long": "Îți mobilezi o bucătărie nouă?\n\nÎn magazin, o bucătărie pe comandă ajunge ușor la 25.000 lei.\n\nO bucătărie din lemn nu e magie. Sunt corpuri, uși și rafturi, adică piese simple pe care le poți construi singur.\n\nCu un plan clar, un weekend și unelte obișnuite, poți face cea mai mare parte din ele tu.\n\nCartea „Fă-o singur: Mobilier din lemn” îți arată cum, pas cu pas:\n\n✔️ 101 proiecte pentru casă și grădină\n✔️ instrucțiuni clare, pentru începători\n✔️ listă de materiale la fiecare proiect\n\nVezi cum aici:\nhttps://mobilier.zlatenkluch.eu",
+      "short": "Îți mobilezi o bucătărie nouă?\nÎn magazin: 25.000 lei. Tu: 1 weekend și o carte.\n\n101 proiecte de mobilier din lemn.\n\nVezi cum:\nhttps://mobilier.zlatenkluch.eu",
+      "title_long": "Fă-o singur 👉",
+      "desc_long": "⭐ Peste 40.000 de clienți mulțumiți",
+      "title_short": "Mobilă din lemn, făcută de tine",
+      "desc_short": "101 proiecte, pas cu pas"
+    },
+    "hiljade-vikend": {
+      "n": "03",
+      "long": "De ce să plătești mii de lei pentru ceva ce poți face singur într-un weekend?\n\nLa mobila din magazin plătești mai ales marca și transportul. Lemnul în sine costă puțin.\n\nDacă ai un plan bun, nu ai nevoie de atelier și nici de experiență. Doar de câteva ore și de pașii potriviți.\n\nExact asta primești în „Fă-o singur: Mobilier din lemn”:\n\n✔️ 101 proiecte de mobilier\n✔️ pași gata făcuți, simpli\n✔️ unelte obișnuite, rezultat curat\n\nVezi cartea aici:\nhttps://mobilier.zlatenkluch.eu",
+      "short": "Mii de lei pentru ceva ce faci singur într-un weekend?\n\n101 proiecte, pași gata făcuți.\n\nVezi cum:\nhttps://mobilier.zlatenkluch.eu",
+      "title_long": "Fă-o singur 👉",
+      "desc_long": "⭐ Peste 40.000 de clienți mulțumiți",
+      "title_short": "Mobilă din lemn, făcută de tine",
+      "desc_short": "101 proiecte, pas cu pas"
+    },
+    "web-10e": {
+      "n": "04",
+      "long": "Mii de euro pentru mobilarea unei case. Sau un weekend și o carte.\n\nCu sistemul W.E.B. din carte, fiecare proiect e împărțit în pași scurți, pe care îi poți urma chiar dacă nu ai ținut niciodată un ciocan în mână.\n\n✔️ 101 proiecte de mobilier\n✔️ planuri gata făcute\n✔️ liste de materiale clare\n\nVezi cum arată sistemul:\nhttps://mobilier.zlatenkluch.eu",
+      "short": "Mii de euro pentru mobilare. Sau un weekend și o carte.\n\nSistemul W.E.B.: 101 proiecte, planuri gata făcute.\n\nVezi cum:\nhttps://mobilier.zlatenkluch.eu",
+      "title_long": "Fă-o singur 👉",
+      "desc_long": "⭐ Peste 40.000 de clienți mulțumiți",
+      "title_short": "Mobilă din lemn, făcută de tine",
+      "desc_short": "101 proiecte, pas cu pas"
+    },
+    "10-90": {
+      "n": "05",
+      "long": "Când plătești pentru mobilă, de fapt plătești:\n\n10% materiale\n90% marcă\n\nDacă o faci singur, plătești doar materialele.\n\nCartea „Fă-o singur: Mobilier din lemn” îți dă 101 proiecte cu pași clari, pentru casă și grădină.\n\nVezi cartea aici:\nhttps://mobilier.zlatenkluch.eu",
+      "short": "10% materiale, 90% marcă.\nPe care vrei să-l plătești?\n\nFă-o singur și plătești doar materialele.\n\nVezi cum:\nhttps://mobilier.zlatenkluch.eu",
+      "title_long": "Fă-o singur 👉",
+      "desc_long": "⭐ Peste 40.000 de clienți mulțumiți",
+      "title_short": "Mobilă din lemn, făcută de tine",
+      "desc_short": "101 proiecte, pas cu pas"
+    },
+    "300-vs-80": {
+      "n": "06",
+      "long": "1.500 lei pentru o masă din PAL ieftin?\n\nEu am făcut-o din lemn cu 400 lei, într-un weekend.\n\nNu ai nevoie de atelier. Ai nevoie de un plan clar și de câteva scânduri.\n\nÎn „Fă-o singur: Mobilier din lemn” găsești 101 proiecte, fiecare gândit pentru un weekend.\n\nVezi cartea aici:\nhttps://mobilier.zlatenkluch.eu",
+      "short": "1.500 lei masa din PAL. 400 lei materialele pentru una din lemn.\n\n101 proiecte, fiecare într-un weekend.\n\nVezi cum:\nhttps://mobilier.zlatenkluch.eu",
+      "title_long": "Fă-o singur 👉",
+      "desc_long": "⭐ Peste 40.000 de clienți mulțumiți",
+      "title_short": "Mobilă din lemn, făcută de tine",
+      "desc_short": "101 proiecte, pas cu pas"
+    },
+    "gosti-pitaju": {
+      "n": "07",
+      "long": "Oaspeții întreabă de unde am cumpărat mobila.\n\nLe spun că am făcut-o singur. Și nu mă cred.\n\nPoți face la fel: 101 proiecte de mobilier din lemn, cu pași simpli, pentru casă și grădină.\n\nVezi cartea aici:\nhttps://mobilier.zlatenkluch.eu",
+      "short": "Oaspeții mă întreabă de unde am cumpărat mobila.\nLe spun că am făcut-o singur. Și nu mă cred.\n\nVezi cum:\nhttps://mobilier.zlatenkluch.eu",
+      "title_long": "Fă-o singur 👉",
+      "desc_long": "⭐ Peste 40.000 de clienți mulțumiți",
+      "title_short": "Mobilă din lemn, făcută de tine",
+      "desc_short": "101 proiecte, pas cu pas"
+    }
+  }
+}
