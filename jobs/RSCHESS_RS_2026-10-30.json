@@ -17,7 +17,8 @@
       "Replace the book the man is holding with the attached Serbian cover (title: Kako da pobeđuješ u ŠAHU); the book is held exactly where it is now, same size and angle, showing the attached cover accurately.",
       "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
       "The system name is S.T.E.P.S., render it exactly.",
-      "Render every word of the speech bubble text exactly as given, once."
+      "Render every word of the speech bubble text exactly as given, once.",
+      "CRITICAL: the book cover text must be copied letter for letter from the attached cover image. The cover title is exactly 'Kako da pobeđuješ u ŠAHU' (second line: 'pobeđuješ' with the letter đ, never 'pobediš', 'pobediješ', 'pobeduješ' or any other spelling; third line: 'ŠAHU'). Subtitle: 'Priručnik za početnike i napredne po sistemu S.T.E.P.S.' Bottom: 'Izdavač Zlatni ključ'."
     ]
   },
   "banners": [
@@ -34,6 +35,18 @@
         {
           "source": "— Георги, 46 г., Пловдив",
           "target": "(REMOVE this signature line completely, leave the space empty)"
+        },
+        {
+          "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+          "target": "Kako da pobeđuješ u ŠAHU"
+        },
+        {
+          "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+          "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+        },
+        {
+          "source": "Издателство Златен Ключ",
+          "target": "Izdavač Zlatni ključ"
         }
       ],
       "extra_rules": [
@@ -53,6 +66,18 @@
         {
           "source": "— Димитър",
           "target": "(REMOVE this signature line completely, leave the space empty)"
+        },
+        {
+          "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+          "target": "Kako da pobeđuješ u ŠAHU"
+        },
+        {
+          "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+          "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+        },
+        {
+          "source": "Издателство Златен Ключ",
+          "target": "Izdavač Zlatni ključ"
         }
       ],
       "extra_rules": [
@@ -72,6 +97,18 @@
         {
           "source": "— Александър",
           "target": "(REMOVE this signature line completely, leave the space empty)"
+        },
+        {
+          "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+          "target": "Kako da pobeđuješ u ŠAHU"
+        },
+        {
+          "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+          "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+        },
+        {
+          "source": "Издателство Златен Ключ",
+          "target": "Izdavač Zlatni ključ"
         }
       ],
       "extra_rules": [
@@ -92,6 +129,18 @@
         {
           "source": "— Петър",
           "target": "(REMOVE this signature line completely, leave the space empty)"
+        },
+        {
+          "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+          "target": "Kako da pobeđuješ u ŠAHU"
+        },
+        {
+          "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+          "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+        },
+        {
+          "source": "Издателство Златен Ключ",
+          "target": "Izdavač Zlatni ključ"
         }
       ],
       "extra_rules": [
@@ -138,6 +187,18 @@
         {
           "source": "ДЕБЮТИ",
           "target": "OTVARANJA"
+        },
+        {
+          "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+          "target": "Kako da pobeđuješ u ŠAHU"
+        },
+        {
+          "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+          "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+        },
+        {
+          "source": "Издателство Златен Ключ",
+          "target": "Izdavač Zlatni ključ"
         }
       ],
       "extra_rules": [
@@ -176,6 +237,18 @@
         {
           "source": "— Стефан",
           "target": "(REMOVE this signature line completely, leave the space empty)"
+        },
+        {
+          "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+          "target": "Kako da pobeđuješ u ŠAHU"
+        },
+        {
+          "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+          "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+        },
+        {
+          "source": "Издателство Златен Ключ",
+          "target": "Izdavač Zlatni ključ"
         }
       ],
       "extra_rules": [
@@ -196,6 +269,18 @@
         {
           "source": "— Марин",
           "target": "(REMOVE this signature line completely, leave the space empty)"
+        },
+        {
+          "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+          "target": "Kako da pobeđuješ u ŠAHU"
+        },
+        {
+          "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+          "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+        },
+        {
+          "source": "Издателство Златен Ключ",
+          "target": "Izdavač Zlatni ključ"
         }
       ],
       "extra_rules": [
@@ -216,6 +301,18 @@
         {
           "source": "— Александър",
           "target": "(REMOVE this signature line completely, leave the space empty)"
+        },
+        {
+          "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+          "target": "Kako da pobeđuješ u ŠAHU"
+        },
+        {
+          "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+          "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+        },
+        {
+          "source": "Издателство Златен Ключ",
+          "target": "Izdavač Zlatni ključ"
         }
       ],
       "extra_rules": [
