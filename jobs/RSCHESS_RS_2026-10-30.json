@@ -1,0 +1,226 @@
+{
+  "book": "RSCHESS",
+  "market": "RS",
+  "date": "2026-10-30",
+  "source_campaign": "CBO | CHESS | BROAD | REVIEW BANNERS - 01102026 (BG)",
+  "source_account": "Zlaten Kluch 1",
+  "defaults": {
+    "mode": "model",
+    "output_format": "png",
+    "quality": "high",
+    "fit": "pad",
+    "model": "gpt-image-2.5-sunburst",
+    "extra_rules": [
+      "Serbian Latin script only (ekavski), never Cyrillic.",
+      "Render the diacritics č, ć, š, ž, đ exactly.",
+      "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+      "Replace the book the man is holding with the attached Serbian cover (title: Kako da pobeđuješ u ŠAHU); the book is held exactly where it is now, same size and angle, showing the attached cover accurately.",
+      "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+      "The system name is S.T.E.P.S., render it exactly.",
+      "Render every word of the speech bubble text exactly as given, once."
+    ]
+  },
+  "banners": [
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner1.png",
+      "format": "banner",
+      "angle": "igram-godinama",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "Играя шах от години, но чак сега осъзнах колко много ходове съм правил просто по навик. Книгата ми помогна да започна да виждам идеята зад всеки ход.",
+          "target": "Igram šah godinama, ali tek sada sam shvatio koliko sam poteza povukao samo iz navike. Knjiga mi je pomogla da počnem da vidim ideju iza svakog poteza."
+        },
+        {
+          "source": "— Георги, 46 г., Пловдив",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner2.png",
+      "format": "banner",
+      "angle": "logika",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "Преди просто местех фигурите и се надявах да не сгреша. Сега за първи път усещам, че играя шах с някаква логика.",
+          "target": "Pre sam samo pomerao figure i nadao se da neću pogrešiti. Sada prvi put osećam da igram šah sa nekom logikom."
+        },
+        {
+          "source": "— Димитър",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner3.png",
+      "format": "banner",
+      "angle": "mogucnosti",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "Най-голямата промяна е, че вече забелязвам възможности, които преди изобщо не виждах. Започнах да печеля доста повече партии.",
+          "target": "Najveća promena je u tome što sada primećujem mogućnosti koje ranije uopšte nisam video. Počeo sam da dobijam mnogo više partija."
+        },
+        {
+          "source": "— Александър",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged.",
+        "The book titles 'CHESS STRUCTURES A GRANDMASTER GUIDE' and 'ENDGAME STRATEGY The Road to Victory' on the books at the bottom left are English: keep them exactly as they are."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner4.png",
+      "format": "banner",
+      "angle": "gubeh-partii",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "Преди губех партии и после дори не знаех къде съм сбъркал. Сега много по-бързо виждам опасностите и грешките на противника.",
+          "target": "Pre sam gubio partije, a posle čak nisam znao gde sam pogrešio. Sada mnogo brže vidim opasnosti i greške protivnika."
+        },
+        {
+          "source": "— Петър",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner5.png",
+      "format": "banner",
+      "angle": "cerka",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "Взех я за дъщеря ми, а накрая започнахме да я четем заедно. Много приятно е да виждаш как детето ти само започва да открива правилните ходове.",
+          "target": "Uzeo sam je za ćerku, a na kraju smo počeli da je čitamo zajedno. Veoma je prijatno videti kako tvoje dete samo počinje da otkriva prave poteze."
+        },
+        {
+          "source": "— Ивайло",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner6.png",
+      "format": "banner",
+      "angle": "druge-knjige",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "“Пробвал съм и други книги за шах, но ги оставях след няколко страници. Тази е написана така, че разбираш идеята почти веднага.”",
+          "target": "“Probao sam i druge knjige o šahu, ali sam ih ostavljao posle nekoliko stranica. Ova je napisana tako da razumeš ideju skoro odmah.”"
+        },
+        {
+          "source": "ШАХМАТНИ КОМБИНАЦИИ",
+          "target": "ŠAHOVSKE KOMBINACIJE"
+        },
+        {
+          "source": "СТРАТЕГИЯ В ШАХА",
+          "target": "STRATEGIJA U ŠAHU"
+        },
+        {
+          "source": "ДЕБЮТИ",
+          "target": "OTVARANJA"
+        }
+      ],
+      "extra_rules": [
+        "There is no reviewer signature on this banner; do not add a name."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner7.png",
+      "format": "banner",
+      "angle": "sin-8",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "Синът ми е на 8. Купих книгата уж за него, а излезе, че първо аз трябваше да уча. Сега играем всяка вечер. И той вече ме бие.",
+          "target": "Sin mi ima 8 godina. Kupio sam knjigu navodno za njega, a ispostavilo se da prvo ja treba da učim. Sada igramo svako veče. I on me već pobeđuje."
+        },
+        {
+          "source": "— Иван",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner8.png",
+      "format": "banner",
+      "angle": "tisina",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "На една вечеря с приятели извадиха дъска. Всички се шегуваха, че ще ме сринат за 5 минути. Спечелих 3 партии подред. И настана тишина :).",
+          "target": "Na jednoj večeri sa prijateljima izvadili su tablu. Svi su se šalili da će me srediti za 5 minuta. Pobedio sam 3 partije zaredom. I nastala je tišina :)."
+        },
+        {
+          "source": "— Стефан",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged.",
+        "Keep the digital chess clock and everything else in the scene unchanged."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner9.png",
+      "format": "banner",
+      "angle": "brat",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "“Играя с брат ми от 2 години. И почти не съм спечелил партия. Миналата седмица спечелих две подред. Не ми проговори 3 дни.“",
+          "target": "“Igram sa bratom 2 godine. I skoro nikad nisam dobio partiju. Prošle nedelje dobio sam dve zaredom. Nije mi progovorio 3 dana.“"
+        },
+        {
+          "source": "— Марин",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged.",
+        "The letters and numbers around the chessboard (a-h, 1-8) stay unchanged."
+      ]
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_banner10.png",
+      "format": "banner",
+      "angle": "mali",
+      "cover": "covers/RSCHESS_cover.png",
+      "translations": [
+        {
+          "source": "Играех шах малък и винаги губех. Мислех, че не е моето. Оказа се, че никой не ми беше показал как всъщност се мисли стратегически. Книгата ме запали отново.",
+          "target": "Igrao sam šah kao mali i uvek sam gubio. Mislio sam da to nije za mene. Ispostavilo se da mi niko nije pokazao kako se zapravo razmišlja strateški. Knjiga me je ponovo zapalila."
+        },
+        {
+          "source": "— Александър",
+          "target": "(REMOVE this signature line completely, leave the space empty)"
+        }
+      ],
+      "extra_rules": [
+        "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+      ]
+    }
+  ]
+}
