@@ -1,0 +1,43 @@
+{
+  "book": "RSCHESS",
+  "market": "RS",
+  "date": "2026-10-31-ugc-author",
+  "source_campaign": "CBO | CHESS | INT | AUTHOR UGC (BG), Chess author - аватари за Flow",
+  "source_account": "Zlaten Kluch 1",
+  "defaults": {
+    "mode": "model",
+    "output_format": "png",
+    "quality": "high",
+    "fit": "pad",
+    "model": "gpt-image-2.5-sunburst",
+    "cover": "covers/RSCHESS_cover.png"
+  },
+  "banners": [
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_author_video1-image1.png",
+      "format": "avatar",
+      "angle": "author-video1-image1",
+      "cover": null,
+      "prompt": "This is a vertical photo. Edit it so that ONLY the Serbian text written on the visible surfaces changes: replace the Bulgarian text with the translation given below. Keep the same handwriting / printing style, size, colour, position, perspective and lighting of each text, so it looks physically unchanged.\n\nABSOLUTE RULES:\n- Keep the man's face, hair, skin tone, expression, glasses, hands, fingers, clothes, the room, the furniture, the lighting and the whole composition EXACTLY as in the original photo. Do not alter the person in any way.\n- Do not add watermarks, logos, captions, names or any new element.\n- Any English text in the photo stays exactly as it is.\n- The image has plain white bars added along two edges purely as padding. Leave them plain white and empty. Do not extend the photo into them and do not re-centre or rescale the photo.\n- No Bulgarian or Cyrillic letter may remain anywhere in the image.\n- CRITICAL: Serbian Latin script only, ekavski, never Cyrillic. Render the diacritics č, ć, š, ž, đ exactly as written.\n\nUse exactly these translations, character for character:\n  \"Спри да губиш на шах.\" -> \"Prestani da gubiš u šahu.\"\n"
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_author_video1-image2.png",
+      "format": "avatar",
+      "angle": "author-video1-image2",
+      "prompt": "This is a vertical photo in which the man is holding the book. Edit the photo so that the Bulgarian text changes to Serbian and the cover of the book is replaced with the attached Serbian cover.\n\nABSOLUTE RULES:\n- Keep the man's face, hair, skin tone, expression, glasses, hands, fingers, clothes, the room, the furniture, the lighting and the whole composition EXACTLY as in the original photo. Do not alter the person in any way.\n- Do not add watermarks, logos, captions, names or any new element.\n- The book stays exactly where it is: same position, size, rotation, perspective, lighting, reflections and shadows. Only the printed front cover is different.\n- The attached image is a 3D mockup of the book. Reproduce only its FRONT cover, laid flat on the front face of the book as seen in the photo, matching the book's perspective. Do not copy the mockup's own perspective, spine or shadow.\n- Any English text in the photo stays exactly as it is.\n- No Bulgarian or Cyrillic letter may remain anywhere in the image.\n- The image has plain white bars added along two edges purely as padding. Leave them plain white and empty. Do not extend the photo into them and do not re-centre or rescale the photo.\n- CRITICAL: Serbian Latin script only, ekavski, never Cyrillic. Render the diacritics č, ć, š, ž, đ exactly as written.\n CRITICAL: the cover text must be copied letter for letter from the attached cover image. The cover title is exactly 'Kako da pobeđuješ u ŠAHU'. Subtitle: 'Priručnik za početnike i napredne po sistemu S.T.E.P.S.' Bottom line: 'Izdavač Zlatni ključ'. The system name is S.T.E.P.S., render it exactly.\n\nUse exactly these translations, character for character:\n  \"Как да побеждаваш на ШАХ\" -> \"Kako da pobeđuješ u ŠAHU\"\n  \"Наръчник за начинаещи и напреднали по системата S.T.E.P.S.\" -> \"Priručnik za početnike i napredne po sistemu S.T.E.P.S.\"\n  \"Издателство Златен Ключ\" -> \"Izdavač Zlatni ključ\"\n"
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_author_video2-image1.png",
+      "format": "avatar",
+      "angle": "author-video2-image1",
+      "cover": null,
+      "prompt": "This is a vertical photo. Edit it so that ONLY the Serbian text written on the visible surfaces changes: replace the Bulgarian text with the translation given below. Keep the same handwriting / printing style, size, colour, position, perspective and lighting of each text, so it looks physically unchanged.\n\nABSOLUTE RULES:\n- Keep the man's face, hair, skin tone, expression, glasses, hands, fingers, clothes, the room, the furniture, the lighting and the whole composition EXACTLY as in the original photo. Do not alter the person in any way.\n- Do not add watermarks, logos, captions, names or any new element.\n- Any English text in the photo stays exactly as it is.\n- The image has plain white bars added along two edges purely as padding. Leave them plain white and empty. Do not extend the photo into them and do not re-centre or rescale the photo.\n- No Bulgarian or Cyrillic letter may remain anywhere in the image.\n- CRITICAL: Serbian Latin script only, ekavski, never Cyrillic. Render the diacritics č, ć, š, ž, đ exactly as written.\n- The whiteboard drawing (chess diagram, arrows, letters a-h and numbers 1-8) stays exactly as it is.\n\nUse exactly these translations, character for character:\n  \"Добрите ходове създават по-добри възможности.\" -> \"Dobri potezi stvaraju bolje mogućnosti.\"\n  \"Контрол на центъра\" -> \"Kontrola centra\"\n  \"1) Развитие\" -> \"1) Razvoj\"\n  \"2) Контрол на центъра\" -> \"2) Kontrola centra\"\n  \"3) Безопасност на царя\" -> \"3) Bezbednost kralja\"\n"
+    },
+    {
+      "source": "source/RSCHESS/BGCHESS_BG_author_video2-image2.png",
+      "format": "avatar",
+      "angle": "author-video2-image2",
+      "prompt": "This is a vertical photo in which the man is holding the book. Edit the photo so that the Bulgarian text changes to Serbian and the cover of the book is replaced with the attached Serbian cover.\n\nABSOLUTE RULES:\n- Keep the man's face, hair, skin tone, expression, glasses, hands, fingers, clothes, the room, the furniture, the lighting and the whole composition EXACTLY as in the original photo. Do not alter the person in any way.\n- Do not add watermarks, logos, captions, names or any new element.\n- The book stays exactly where it is: same position, size, rotation, perspective, lighting, reflections and shadows. Only the printed front cover is different.\n- The attached image is a 3D mockup of the book. Reproduce only its FRONT cover, laid flat on the front face of the book as seen in the photo, matching the book's perspective. Do not copy the mockup's own perspective, spine or shadow.\n- Any English text in the photo stays exactly as it is.\n- No Bulgarian or Cyrillic letter may remain anywhere in the image.\n- The image has plain white bars added along two edges purely as padding. Leave them plain white and empty. Do not extend the photo into them and do not re-centre or rescale the photo.\n- CRITICAL: Serbian Latin script only, ekavski, never Cyrillic. Render the diacritics č, ć, š, ž, đ exactly as written.\n CRITICAL: the cover text must be copied letter for letter from the attached cover image. The cover title is exactly 'Kako da pobeđuješ u ŠAHU'. Subtitle: 'Priručnik za početnike i napredne po sistemu S.T.E.P.S.' Bottom line: 'Izdavač Zlatni ključ'. The system name is S.T.E.P.S., render it exactly.\n- The whiteboard drawing (chess diagram, arrows, letters a-h and numbers 1-8) stays exactly as it is.\n\nUse exactly these translations, character for character:\n  \"Как да побеждаваш на ШАХ\" -> \"Kako da pobeđuješ u ŠAHU\"\n  \"Наръчник за начинаещи и напреднали по системата S.T.E.P.S.\" -> \"Priručnik za početnike i napredne po sistemu S.T.E.P.S.\"\n  \"Издателство Златен Ключ\" -> \"Izdavač Zlatni ključ\"\n  \"Добрите ходове създават по-добри възможности.\" -> \"Dobri potezi stvaraju bolje mogućnosti.\"\n  \"Комбинация за победа\" -> \"Kombinacija za pobedu\"\n  \"1) Отклоняване\" -> \"1) Odvlačenje\"\n  \"2) Жертва\" -> \"2) Žrtva\"\n  \"3) Мат\" -> \"3) Mat\"\n"
+    }
+  ]
+}

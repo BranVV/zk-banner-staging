@@ -1,0 +1,28 @@
+{
+  "book": "ROCHESS",
+  "market": "RO",
+  "date": "2026-10-31-ugc-author",
+  "source_campaign": "CBO | CHESS | INT | AUTHOR UGC (BG), Chess author - аватари за Flow (само изображения с текст; тези с корица чакат ROCHESS корица)",
+  "source_account": "Zlaten Kluch 1",
+  "defaults": {
+    "mode": "model",
+    "output_format": "png",
+    "quality": "high",
+    "fit": "pad",
+    "model": "gpt-image-2.5-sunburst"
+  },
+  "banners": [
+    {
+      "source": "source/ROCHESS/BGCHESS_BG_author_video1-image1.png",
+      "format": "avatar",
+      "angle": "author-video1-image1",
+      "prompt": "This is a vertical photo. Edit it so that ONLY the Romanian text written on the visible surfaces changes: replace the Bulgarian text with the translation given below. Keep the same handwriting / printing style, size, colour, position, perspective and lighting of each text, so it looks physically unchanged.\n\nABSOLUTE RULES:\n- Keep the man's face, hair, skin tone, expression, glasses, hands, fingers, clothes, the room, the furniture, the lighting and the whole composition EXACTLY as in the original photo. Do not alter the person in any way.\n- Do not add watermarks, logos, captions, names or any new element.\n- Any English text in the photo stays exactly as it is.\n- The image has plain white bars added along two edges purely as padding. Leave them plain white and empty. Do not extend the photo into them and do not re-centre or rescale the photo.\n- No Bulgarian or Cyrillic letter may remain anywhere in the image.\n- CRITICAL: Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț). Render them exactly as written.\n\nUse exactly these translations, character for character:\n  \"Спри да губиш на шах.\" -> \"Nu mai pierde la șah.\"\n"
+    },
+    {
+      "source": "source/ROCHESS/BGCHESS_BG_author_video2-image1.png",
+      "format": "avatar",
+      "angle": "author-video2-image1",
+      "prompt": "This is a vertical photo. Edit it so that ONLY the Romanian text written on the visible surfaces changes: replace the Bulgarian text with the translation given below. Keep the same handwriting / printing style, size, colour, position, perspective and lighting of each text, so it looks physically unchanged.\n\nABSOLUTE RULES:\n- Keep the man's face, hair, skin tone, expression, glasses, hands, fingers, clothes, the room, the furniture, the lighting and the whole composition EXACTLY as in the original photo. Do not alter the person in any way.\n- Do not add watermarks, logos, captions, names or any new element.\n- Any English text in the photo stays exactly as it is.\n- The image has plain white bars added along two edges purely as padding. Leave them plain white and empty. Do not extend the photo into them and do not re-centre or rescale the photo.\n- No Bulgarian or Cyrillic letter may remain anywhere in the image.\n- CRITICAL: Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț). Render them exactly as written.\n- The whiteboard drawing (chess diagram, arrows, letters a-h and numbers 1-8) stays exactly as it is.\n\nUse exactly these translations, character for character:\n  \"Добрите ходове създават по-добри възможности.\" -> \"Mișcările bune creează oportunități mai bune.\"\n  \"Контрол на центъра\" -> \"Controlul centrului\"\n  \"1) Развитие\" -> \"1) Dezvoltare\"\n  \"2) Контрол на центъра\" -> \"2) Controlul centrului\"\n  \"3) Безопасност на царя\" -> \"3) Siguranța regelui\"\n"
+    }
+  ]
+}
