@@ -2,88 +2,72 @@
   "book": "ROCHESS",
   "market": "RO",
   "date": "2026-10-31",
-  "source_campaign": "CBO | CHESS | BROAD | REVIEW BANNERS - 01102026 (BG)",
-  "generated_at": "2026-10-31T18:06:35+00:00",
+  "source_campaign": "RS CHESS LOSS BANNERS (RS base, from BG CBO | CHESS | BROAD | LOSS BANNERS)",
+  "generated_at": "2026-10-31T18:12:16+00:00",
   "banners": [
     {
-      "name": "ROCHESS_RO_banner_igram-godinama",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_igram-godinama.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner1.png",
+      "name": "ROCHESS_RO_banner_opet-izgubio",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_opet-izgubio.png",
+      "source": "source/ROCHESS/RSCHESS_RS_loss-01.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_igram-godinama.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_opet-izgubio.png"
     },
     {
-      "name": "ROCHESS_RO_banner_logika",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_logika.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner2.png",
+      "name": "ROCHESS_RO_banner_goran",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_goran.png",
+      "source": "source/ROCHESS/RSCHESS_RS_loss-02.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_logika.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_goran.png"
     },
     {
-      "name": "ROCHESS_RO_banner_mogucnosti",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_mogucnosti.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner3.png",
+      "name": "ROCHESS_RO_banner_opet-sah",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_opet-sah.png",
+      "source": "source/ROCHESS/RSCHESS_RS_loss-03.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_mogucnosti.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_opet-sah.png"
     },
     {
-      "name": "ROCHESS_RO_banner_gubeh-partii",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_gubeh-partii.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner4.png",
+      "name": "ROCHESS_RO_banner_osecaj-vs-sistem",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_osecaj-vs-sistem.png",
+      "source": "source/ROCHESS/RSCHESS_RS_loss-04.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_gubeh-partii.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_osecaj-vs-sistem.png"
     },
     {
-      "name": "ROCHESS_RO_banner_cerka",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_cerka.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner5.png",
+      "name": "ROCHESS_RO_banner_zavrsnica",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_zavrsnica.png",
+      "source": "source/ROCHESS/RSCHESS_RS_loss-05.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_cerka.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_zavrsnica.png"
     },
     {
-      "name": "ROCHESS_RO_banner_druge-knjige",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_druge-knjige.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner6.png",
+      "name": "ROCHESS_RO_banner_prvih-10",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_prvih-10.png",
+      "source": "source/ROCHESS/RSCHESS_RS_loss-06.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_druge-knjige.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_prvih-10.png"
     },
     {
-      "name": "ROCHESS_RO_banner_sin-8",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_sin-8.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner7.png",
+      "name": "ROCHESS_RO_banner_jedan-potez",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_jedan-potez.png",
+      "source": "source/ROCHESS/RSCHESS_RS_loss-07.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_sin-8.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_jedan-potez.png"
     },
     {
-      "name": "ROCHESS_RO_banner_tisina",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_tisina.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner8.png",
+      "name": "ROCHESS_RO_banner_tri-greske",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_tri-greske.png",
+      "source": "source/ROCHESS/RSCHESS_RS_loss-08.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_tisina.png"
-    },
-    {
-      "name": "ROCHESS_RO_banner_brat",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_brat.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner9.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_brat.png"
-    },
-    {
-      "name": "ROCHESS_RO_banner_mali",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_mali.png",
-      "source": "source/ROCHESS/BGCHESS_BG_banner10.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_mali.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_tri-greske.png"
     }
   ]
 }
