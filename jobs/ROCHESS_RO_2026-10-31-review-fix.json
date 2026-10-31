@@ -1,0 +1,89 @@
+{
+ "book": "ROCHESS",
+ "market": "RO",
+ "date": "2026-10-31",
+ "source_campaign": "CBO | CHESS | BROAD | REVIEW BANNERS - 01102026 (BG)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+   "Replace the book the man is holding with the attached Romanian cover (title: Cum să câștigi la ȘAH); the book is held exactly where it is now, same size and angle, showing the attached cover accurately.",
+   "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+   "The system name is S.T.E.P.S., render it exactly.",
+   "Render every word of the speech bubble text exactly as given, once.",
+   "CRITICAL: the book cover text must be copied letter for letter from the attached cover image. The cover title is exactly 'Cum să câștigi la ȘAH' (line 1: 'Cum să', line 2: 'câștigi la', line 3: 'ȘAH'). Subtitle: 'Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S.' Bottom: 'Editura Cheia de Aur'."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner5.png",
+   "format": "banner",
+   "angle": "cerka",
+   "translations": [
+    {
+     "source": "Взех я за дъщеря ми, а накрая започнахме да я четем заедно. Много приятно е да виждаш как детето ти само започва да открива правилните ходове.",
+     "target": "Am luat-o pentru fiica mea, iar până la urmă am început s-o citim împreună. E foarte plăcut să vezi cum copilul tău începe singur să descopere mutările corecte."
+    },
+    {
+     "source": "— Ивайло",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged.",
+    "The man holds a book in his hands: the book cover must be exactly the attached Romanian cover (copy all its text letter for letter: 'Cum să câștigi la ȘAH' / 'Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S.' / 'Editura Cheia de Aur'). If the original banner shows no book, add none."
+   ],
+   "cover": "covers/ROCHESS_RO_cover.png"
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner7.png",
+   "format": "banner",
+   "angle": "sin-8",
+   "translations": [
+    {
+     "source": "Синът ми е на 8. Купих книгата уж за него, а излезе, че първо аз трябваше да уча. Сега играем всяка вечер. И той вече ме бие.",
+     "target": "Fiul meu are 8 ani. Am cumpărat cartea chipurile pentru el, dar s-a dovedit că mai întâi trebuia să învăț eu. Acum jucăm în fiecare seară. Și deja mă bate."
+    },
+    {
+     "source": "— Иван",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged.",
+    "The man holds a book in his hands: the book cover must be exactly the attached Romanian cover (copy all its text letter for letter: 'Cum să câștigi la ȘAH' / 'Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S.' / 'Editura Cheia de Aur'). If the original banner shows no book, add none."
+   ],
+   "cover": "covers/ROCHESS_RO_cover.png"
+  }
+ ]
+}
