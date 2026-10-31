@@ -1,0 +1,81 @@
+{
+  "book": "RSCHESS",
+  "market": "RS",
+  "date": "2026-10-31",
+  "source_campaign": "CBO | CHESS | BROAD | PARENTS BANNERS (BG)",
+  "generated_at": "2026-10-31T18:01:17+00:00",
+  "banners": [
+    {
+      "name": "RSCHESS_RS_banner_telefon-ili-sah",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_telefon-ili-sah.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p01-telefon-ili-sah.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_telefon-ili-sah.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_zameni-skrolovanje",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_zameni-skrolovanje.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p02-zameni-skrolovanje.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_zameni-skrolovanje.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_dosadno",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_dosadno.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p03-dosadno.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_dosadno.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_trening-mozga",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_trening-mozga.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p04-trening-mozga.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_trening-mozga.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_fitnes-mozak",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_fitnes-mozak.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p05-fitnes-mozak.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_fitnes-mozak.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_misli-pre-poteza",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_misli-pre-poteza.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p06-misli-pre-poteza.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_misli-pre-poteza.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_recenzija-knjiga",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_recenzija-knjiga.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p07-recenzija-knjiga.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_recenzija-knjiga.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_tri-stvari",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_tri-stvari.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p08-tri-stvari.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_tri-stvari.png"
+    },
+    {
+      "name": "RSCHESS_RS_banner_spanija",
+      "path": "RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_spanija.png",
+      "source": "source/RSCHESS/BGCHESS_BG_parents-p09-spanija.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31/RSCHESS_RS_banner_spanija.png"
+    }
+  ]
+}
