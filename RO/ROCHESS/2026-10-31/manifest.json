@@ -2,72 +2,24 @@
   "book": "ROCHESS",
   "market": "RO",
   "date": "2026-10-31",
-  "source_campaign": "RS CHESS LOSS BANNERS (RS base, from BG CBO | CHESS | BROAD | LOSS BANNERS)",
-  "generated_at": "2026-10-31T18:12:16+00:00",
+  "source_campaign": "CBO | CHESS | BROAD | REVIEW BANNERS - 01102026 (BG)",
+  "generated_at": "2026-10-31T18:16:26+00:00",
   "banners": [
     {
-      "name": "ROCHESS_RO_banner_opet-izgubio",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_opet-izgubio.png",
-      "source": "source/ROCHESS/RSCHESS_RS_loss-01.png",
+      "name": "ROCHESS_RO_banner_cerka",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_cerka.png",
+      "source": "source/ROCHESS/BGCHESS_BG_banner5.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_opet-izgubio.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_cerka.png"
     },
     {
-      "name": "ROCHESS_RO_banner_goran",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_goran.png",
-      "source": "source/ROCHESS/RSCHESS_RS_loss-02.png",
+      "name": "ROCHESS_RO_banner_sin-8",
+      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_sin-8.png",
+      "source": "source/ROCHESS/BGCHESS_BG_banner7.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_goran.png"
-    },
-    {
-      "name": "ROCHESS_RO_banner_opet-sah",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_opet-sah.png",
-      "source": "source/ROCHESS/RSCHESS_RS_loss-03.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_opet-sah.png"
-    },
-    {
-      "name": "ROCHESS_RO_banner_osecaj-vs-sistem",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_osecaj-vs-sistem.png",
-      "source": "source/ROCHESS/RSCHESS_RS_loss-04.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_osecaj-vs-sistem.png"
-    },
-    {
-      "name": "ROCHESS_RO_banner_zavrsnica",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_zavrsnica.png",
-      "source": "source/ROCHESS/RSCHESS_RS_loss-05.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_zavrsnica.png"
-    },
-    {
-      "name": "ROCHESS_RO_banner_prvih-10",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_prvih-10.png",
-      "source": "source/ROCHESS/RSCHESS_RS_loss-06.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_prvih-10.png"
-    },
-    {
-      "name": "ROCHESS_RO_banner_jedan-potez",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_jedan-potez.png",
-      "source": "source/ROCHESS/RSCHESS_RS_loss-07.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_jedan-potez.png"
-    },
-    {
-      "name": "ROCHESS_RO_banner_tri-greske",
-      "path": "RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_tri-greske.png",
-      "source": "source/ROCHESS/RSCHESS_RS_loss-08.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_tri-greske.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31/ROCHESS_RO_banner_sin-8.png"
     }
   ]
 }
