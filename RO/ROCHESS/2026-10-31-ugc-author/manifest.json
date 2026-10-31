@@ -1,0 +1,25 @@
+{
+  "book": "ROCHESS",
+  "market": "RO",
+  "date": "2026-10-31-ugc-author",
+  "source_campaign": "CBO | CHESS | INT | AUTHOR UGC (BG), Chess author - аватари за Flow (само изображения с текст; тези с корица чакат ROCHESS корица)",
+  "generated_at": "2026-10-31T17:12:07+00:00",
+  "banners": [
+    {
+      "name": "ROCHESS_RO_avatar_author-video1-image1",
+      "path": "RO/ROCHESS/2026-10-31-ugc-author/ROCHESS_RO_avatar_author-video1-image1.png",
+      "source": "source/ROCHESS/BGCHESS_BG_author_video1-image1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31-ugc-author/ROCHESS_RO_avatar_author-video1-image1.png"
+    },
+    {
+      "name": "ROCHESS_RO_avatar_author-video2-image1",
+      "path": "RO/ROCHESS/2026-10-31-ugc-author/ROCHESS_RO_avatar_author-video2-image1.png",
+      "source": "source/ROCHESS/BGCHESS_BG_author_video2-image1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCHESS/2026-10-31-ugc-author/ROCHESS_RO_avatar_author-video2-image1.png"
+    }
+  ]
+}

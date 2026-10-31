@@ -1,0 +1,41 @@
+{
+  "book": "RSCHESS",
+  "market": "RS",
+  "date": "2026-10-31-ugc-author",
+  "source_campaign": "CBO | CHESS | INT | AUTHOR UGC (BG), Chess author - аватари за Flow",
+  "generated_at": "2026-10-31T17:15:05+00:00",
+  "banners": [
+    {
+      "name": "RSCHESS_RS_avatar_author-video1-image1",
+      "path": "RS/RSCHESS/2026-10-31-ugc-author/RSCHESS_RS_avatar_author-video1-image1.png",
+      "source": "source/RSCHESS/BGCHESS_BG_author_video1-image1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31-ugc-author/RSCHESS_RS_avatar_author-video1-image1.png"
+    },
+    {
+      "name": "RSCHESS_RS_avatar_author-video1-image2",
+      "path": "RS/RSCHESS/2026-10-31-ugc-author/RSCHESS_RS_avatar_author-video1-image2.png",
+      "source": "source/RSCHESS/BGCHESS_BG_author_video1-image2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31-ugc-author/RSCHESS_RS_avatar_author-video1-image2.png"
+    },
+    {
+      "name": "RSCHESS_RS_avatar_author-video2-image1",
+      "path": "RS/RSCHESS/2026-10-31-ugc-author/RSCHESS_RS_avatar_author-video2-image1.png",
+      "source": "source/RSCHESS/BGCHESS_BG_author_video2-image1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31-ugc-author/RSCHESS_RS_avatar_author-video2-image1.png"
+    },
+    {
+      "name": "RSCHESS_RS_avatar_author-video2-image2",
+      "path": "RS/RSCHESS/2026-10-31-ugc-author/RSCHESS_RS_avatar_author-video2-image2.png",
+      "source": "source/RSCHESS/BGCHESS_BG_author_video2-image2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSCHESS/2026-10-31-ugc-author/RSCHESS_RS_avatar_author-video2-image2.png"
+    }
+  ]
+}
