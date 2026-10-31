@@ -1,0 +1,17 @@
+{
+  "book": "ROMEBELI",
+  "market": "RO",
+  "date": "2026-10-31-ugc-v3",
+  "source_campaign": "CBO | MEBELI | INT | UGC 1 (BG 05.10 и 16.10), MEBELI UGC1 - аватари за Flow",
+  "generated_at": "2026-10-31T17:19:09+00:00",
+  "banners": [
+    {
+      "name": "ROMEBELI_RO_avatar_video2-image2",
+      "path": "RO/ROMEBELI/2026-10-31-ugc-v3/ROMEBELI_RO_avatar_video2-image2.png",
+      "source": "source/ROMEBELI/BGMEBELI_BG_avatar_video2-image2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROMEBELI/2026-10-31-ugc-v3/ROMEBELI_RO_avatar_video2-image2.png"
+    }
+  ]
+}
