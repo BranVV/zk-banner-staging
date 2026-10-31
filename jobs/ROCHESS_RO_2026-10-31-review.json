@@ -1,0 +1,320 @@
+{
+ "book": "ROCHESS",
+ "market": "RO",
+ "date": "2026-10-31",
+ "source_campaign": "CBO | CHESS | BROAD | REVIEW BANNERS - 01102026 (BG)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+   "Replace the book the man is holding with the attached Romanian cover (title: Cum să câștigi la ȘAH); the book is held exactly where it is now, same size and angle, showing the attached cover accurately.",
+   "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+   "The system name is S.T.E.P.S., render it exactly.",
+   "Render every word of the speech bubble text exactly as given, once.",
+   "CRITICAL: the book cover text must be copied letter for letter from the attached cover image. The cover title is exactly 'Cum să câștigi la ȘAH' (line 1: 'Cum să', line 2: 'câștigi la', line 3: 'ȘAH'). Subtitle: 'Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S.' Bottom: 'Editura Cheia de Aur'."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner1.png",
+   "format": "banner",
+   "angle": "igram-godinama",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Играя шах от години, но чак сега осъзнах колко много ходове съм правил просто по навик. Книгата ми помогна да започна да виждам идеята зад всеки ход.",
+     "target": "Joc șah de ani de zile, dar abia acum mi-am dat seama câte mutări făceam doar din obișnuință. Cartea m-a ajutat să încep să văd ideea din spatele fiecărei mutări."
+    },
+    {
+     "source": "— Георги, 46 г., Пловдив",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner2.png",
+   "format": "banner",
+   "angle": "logika",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Преди просто местех фигурите и се надявах да не сгреша. Сега за първи път усещам, че играя шах с някаква логика.",
+     "target": "Înainte doar mutam piesele și speram să nu greșesc. Acum, pentru prima dată, simt că joc șah cu logică."
+    },
+    {
+     "source": "— Димитър",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner3.png",
+   "format": "banner",
+   "angle": "mogucnosti",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Най-голямата промяна е, че вече забелязвам възможности, които преди изобщо не виждах. Започнах да печеля доста повече партии.",
+     "target": "Cea mai mare schimbare este că acum observ oportunități pe care înainte nu le vedeam deloc. Am început să câștig mult mai multe partide."
+    },
+    {
+     "source": "— Александър",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged.",
+    "The book titles 'CHESS STRUCTURES A GRANDMASTER GUIDE' and 'ENDGAME STRATEGY The Road to Victory' on the books at the bottom left are English: keep them exactly as they are."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner4.png",
+   "format": "banner",
+   "angle": "gubeh-partii",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Преди губех партии и после дори не знаех къде съм сбъркал. Сега много по-бързо виждам опасностите и грешките на противника.",
+     "target": "Înainte pierdeam partide și nici măcar nu știam unde am greșit. Acum văd mult mai repede pericolele și greșelile adversarului."
+    },
+    {
+     "source": "— Петър",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner5.png",
+   "format": "banner",
+   "angle": "cerka",
+   "translations": [
+    {
+     "source": "Взех я за дъщеря ми, а накрая започнахме да я четем заедно. Много приятно е да виждаш как детето ти само започва да открива правилните ходове.",
+     "target": "Am luat-o pentru fiica mea, iar până la urmă am început s-o citim împreună. E foarte plăcut să vezi cum copilul tău începe singur să descopere mutările corecte."
+    },
+    {
+     "source": "— Ивайло",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner6.png",
+   "format": "banner",
+   "angle": "druge-knjige",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "“Пробвал съм и други книги за шах, но ги оставях след няколко страници. Тази е написана така, че разбираш идеята почти веднага.”",
+     "target": "„Am încercat și alte cărți de șah, dar le lăsam după câteva pagini. Aceasta este scrisă astfel încât înțelegi ideea aproape imediat.”"
+    },
+    {
+     "source": "ШАХМАТНИ КОМБИНАЦИИ",
+     "target": "COMBINAȚII DE ȘAH"
+    },
+    {
+     "source": "СТРАТЕГИЯ В ШАХА",
+     "target": "STRATEGIE ÎN ȘAH"
+    },
+    {
+     "source": "ДЕБЮТИ",
+     "target": "DESCHIDERI"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "There is no reviewer signature on this banner; do not add a name."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner7.png",
+   "format": "banner",
+   "angle": "sin-8",
+   "translations": [
+    {
+     "source": "Синът ми е на 8. Купих книгата уж за него, а излезе, че първо аз трябваше да уча. Сега играем всяка вечер. И той вече ме бие.",
+     "target": "Fiul meu are 8 ani. Am cumpărat cartea chipurile pentru el, dar s-a dovedit că mai întâi trebuia să învăț eu. Acum jucăm în fiecare seară. Și deja mă bate."
+    },
+    {
+     "source": "— Иван",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner8.png",
+   "format": "banner",
+   "angle": "tisina",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "На една вечеря с приятели извадиха дъска. Всички се шегуваха, че ще ме сринат за 5 минути. Спечелих 3 партии подред. И настана тишина :).",
+     "target": "La o cină cu prieteni au scos o tablă. Toți glumeau că mă fac praf în 5 minute. Am câștigat 3 partide la rând. Și s-a făcut liniște :)."
+    },
+    {
+     "source": "— Стефан",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged.",
+    "Keep the digital chess clock and everything else in the scene unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner9.png",
+   "format": "banner",
+   "angle": "brat",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "“Играя с брат ми от 2 години. И почти не съм спечелил партия. Миналата седмица спечелих две подред. Не ми проговори 3 дни.“",
+     "target": "„Joc cu fratele meu de 2 ani. Și aproape că nu am câștigat nicio partidă. Săptămâna trecută am câștigat două la rând. Nu mi-a vorbit 3 zile.”"
+    },
+    {
+     "source": "— Марин",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged.",
+    "The letters and numbers around the chessboard (a-h, 1-8) stay unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/BGCHESS_BG_banner10.png",
+   "format": "banner",
+   "angle": "mali",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Играех шах малък и винаги губех. Мислех, че не е моето. Оказа се, че никой не ми беше показал как всъщност се мисли стратегически. Книгата ме запали отново.",
+     "target": "Jucam șah când eram mic și pierdeam mereu. Credeam că nu e de mine. Se pare că nimeni nu-mi arătase cum se gândește de fapt strategic. Cartea m-a pasionat din nou."
+    },
+    {
+     "source": "— Александър",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the reviewer's signature line entirely (the dash, name and any age/city): leave no name anywhere on the banner; keep the speech bubble, stars and layout unchanged."
+   ]
+  }
+ ]
+}
