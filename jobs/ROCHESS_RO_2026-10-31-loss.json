@@ -1,0 +1,326 @@
+{
+ "book": "ROCHESS",
+ "market": "RO",
+ "date": "2026-10-31",
+ "source_campaign": "RS CHESS LOSS BANNERS (RS base, from BG CBO | CHESS | BROAD | LOSS BANNERS)",
+ "source_account": "American BBQ Book (RS)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+   "Replace the book shown in the banner with the attached Romanian cover (title: Cum să câștigi la ȘAH); keep the book in exactly the same place, size and angle, showing the attached cover accurately.",
+   "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+   "The system name is S.T.E.P.S., render it exactly.",
+   "Render every word of the speech bubble text exactly as given, once.",
+   "CRITICAL: the book cover text must be copied letter for letter from the attached cover image. The cover title is exactly 'Cum să câștigi la ȘAH' (line 1: 'Cum să', line 2: 'câștigi la', line 3: 'ȘAH'). Subtitle: 'Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S.' Bottom: 'Editura Cheia de Aur'.",
+   "The source banner is Serbian (Latin script): translate every Serbian text into the Romanian given in the pairs. Keep layout, colours, photos, faces and illustrations identical."
+  ],
+  "cover": "covers/ROCHESS_RO_cover.png"
+ },
+ "banners": [
+  {
+   "source": "source/ROCHESS/RSCHESS_RS_loss-01.png",
+   "format": "banner",
+   "angle": "opet-izgubio",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Opet si izgubio.",
+     "target": "Ai pierdut din nou."
+    },
+    {
+     "source": "Otkrij 3 greške koje te vuku nadole. Promeni svoju igru — počni da pobeđuješ.",
+     "target": "Descoperă 3 greșeli care te trag în jos. Schimbă-ți jocul. Începe să câștigi."
+    },
+    {
+     "source": "VIDI KAKO →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "Kako da pobeđuješ u ŠAHU (naslov na koricama)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Priručnik za početnike i napredne po sistemu S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Izdavač Zlatni ključ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": []
+  },
+  {
+   "source": "source/ROCHESS/RSCHESS_RS_loss-02.png",
+   "format": "banner",
+   "angle": "goran",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Igram šah više od 10 godina. Nisam imao jasan plan ni sistem. Igrao sam po osećaju. I gubio sam više nego što sam pobeđivao. Posle ove knjige sam prvi put shvatio ZAŠTO gubim.",
+     "target": "Joc șah de peste 10 ani. Nu aveam un plan clar și nici un sistem. Jucam din instinct. Și pierdeam mai mult decât câștigam. După această carte am înțeles pentru prima dată DE CE pierd."
+    },
+    {
+     "source": "Goran, 42 god.",
+     "target": "(REMOVE this name tag completely, leave the space empty)"
+    },
+    {
+     "source": "Kako da pobeđuješ u ŠAHU (naslov na koricama)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Priručnik za početnike i napredne po sistemu S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Izdavač Zlatni ključ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Remove the grey name tag under the speech bubble entirely (name and age): leave no name anywhere on the banner; keep the speech bubble, the man and the layout unchanged.",
+    "Keep the closing quotation mark at the end of the bubble text."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/RSCHESS_RS_loss-03.png",
+   "format": "banner",
+   "angle": "opet-sah",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Opet si izgubio u šahu.",
+     "target": "Ai pierdut din nou la șah."
+    },
+    {
+     "source": "I opet ne znaš zašto.",
+     "target": "Și din nou nu știi de ce."
+    },
+    {
+     "source": "Koristi sistem S.T.E.P.S. i videćeš greške pre nego što ih napraviš.",
+     "target": "Folosește sistemul S.T.E.P.S. și vei vedea greșelile înainte să le faci."
+    },
+    {
+     "source": "VIDI KAKO →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "Kako da pobeđuješ u ŠAHU (naslov na koricama)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Priručnik za početnike i napredne po sistemu S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Izdavač Zlatni ključ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Keep the chess clock, the pieces and everything else in the scene unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/RSCHESS_RS_loss-04.png",
+   "format": "banner",
+   "angle": "osecaj-vs-sistem",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Igraš po osećaju:",
+     "target": "Joci din instinct:"
+    },
+    {
+     "source": "Igraš po sistemu:",
+     "target": "Joci după un sistem:"
+    },
+    {
+     "source": "Često gubiš. Ne znaš zašto. Ponavljaš greške.",
+     "target": "Pierzi des. Nu știi de ce. Repeți greșelile."
+    },
+    {
+     "source": "Češće pobeđuješ. Vidiš greške. Planiraš 3 poteza unapred.",
+     "target": "Câștigi mai des. Vezi greșelile. Planifici 3 mutări înainte."
+    },
+    {
+     "source": "Šah sistem S.T.E.P.S.",
+     "target": "Șah cu sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Nauči ga korak po korak.",
+     "target": "Învață-l pas cu pas."
+    },
+    {
+     "source": "VIDI KAKO →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "Kako da pobeđuješ u ŠAHU (naslov na koricama)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Priručnik za početnike i napredne po sistemu S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Izdavač Zlatni ključ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": []
+  },
+  {
+   "source": "source/ROCHESS/RSCHESS_RS_loss-05.png",
+   "format": "banner",
+   "angle": "zavrsnica",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Dobijaš celu partiju. Stigneš do završnice. I opet remi ili još gore... poraz.",
+     "target": "Câștigi toată partida. Ajungi la final. Și din nou remiză sau, mai rău... înfrângere."
+    },
+    {
+     "source": "80% šahista gubi u završnici.",
+     "target": "80% dintre șahiști pierd în finalul de partidă."
+    },
+    {
+     "source": "Knjiga pokazuje kako da završavaš partije. Pomoću sistema S.T.E.P.S.",
+     "target": "Cartea îți arată cum să închei partidele. Cu ajutorul sistemului S.T.E.P.S."
+    },
+    {
+     "source": "VIDI KAKO →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "Kako da pobeđuješ u ŠAHU (naslov na koricama)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Priručnik za početnike i napredne po sistemu S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Izdavač Zlatni ključ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": []
+  },
+  {
+   "source": "source/ROCHESS/RSCHESS_RS_loss-06.png",
+   "format": "banner",
+   "angle": "prvih-10",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "Najčešće izgubiš partiju već u prvih 10 poteza. A i ne znaš zašto.",
+     "target": "De cele mai multe ori pierzi partida încă din primele 10 mutări. Și nici nu știi de ce."
+    },
+    {
+     "source": "Moj sistem ti daje gotove planove za otvaranje. U igru ulaziš s prednošću.",
+     "target": "Sistemul meu îți oferă planuri gata făcute pentru deschidere. Intri în joc cu avantaj."
+    },
+    {
+     "source": "VIDI KAKO →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "Kako da pobeđuješ u ŠAHU (naslov na koricama)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Priručnik za početnike i napredne po sistemu S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Izdavač Zlatni ključ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": [
+    "Keep the chessboard, the red circle and arrow and the chess clock unchanged."
+   ]
+  },
+  {
+   "source": "source/ROCHESS/RSCHESS_RS_loss-07.png",
+   "format": "banner",
+   "angle": "jedan-potez",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "1 potez.",
+     "target": "1 mutare."
+    },
+    {
+     "source": "Toliko je dovoljno da izgubiš partiju koju zapravo dobijaš.",
+     "target": "Atât este de ajuns ca să pierzi o partidă pe care de fapt o câștigi."
+    },
+    {
+     "source": "Moj sistem te uči da vidiš zamke pre nego što upadneš u njih.",
+     "target": "Sistemul meu te învață să vezi capcanele înainte să cazi în ele."
+    },
+    {
+     "source": "VIDI KAKO →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "Kako da pobeđuješ u ŠAHU (naslov na koricama)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Priručnik za početnike i napredne po sistemu S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Izdavač Zlatni ključ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": []
+  },
+  {
+   "source": "source/ROCHESS/RSCHESS_RS_loss-08.png",
+   "format": "banner",
+   "angle": "tri-greske",
+   "cover": "covers/ROCHESS_RO_cover.png",
+   "translations": [
+    {
+     "source": "3",
+     "target": "3"
+    },
+    {
+     "source": "U šahu najčešće praviš 3 greške. Znaš li koje su?",
+     "target": "La șah faci cel mai des 3 greșeli. Știi care sunt?"
+    },
+    {
+     "source": "Moj sistem S.T.E.P.S. ti pokazuje koje su i kako da prestaneš da ih praviš.",
+     "target": "Sistemul meu S.T.E.P.S. îți arată care sunt și cum să nu le mai faci."
+    },
+    {
+     "source": "VIDI KAKO →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "Kako da pobeđuješ u ŠAHU (naslov na koricama)",
+     "target": "Cum să câștigi la ȘAH"
+    },
+    {
+     "source": "Priručnik za početnike i napredne po sistemu S.T.E.P.S.",
+     "target": "Ghid pentru începători și jucători avansați, bazat pe sistemul S.T.E.P.S."
+    },
+    {
+     "source": "Izdavač Zlatni ključ",
+     "target": "Editura Cheia de Aur"
+    }
+   ],
+   "extra_rules": []
+  }
+ ]
+}
