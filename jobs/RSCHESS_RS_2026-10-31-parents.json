@@ -1,0 +1,281 @@
+{
+ "book": "RSCHESS",
+ "market": "RS",
+ "date": "2026-10-31",
+ "source_campaign": "CBO | CHESS | BROAD | PARENTS BANNERS (BG)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Serbian Latin script only (ekavski), never Cyrillic.",
+   "Render the diacritics č, ć, š, ž, đ exactly.",
+   "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+   "The system name is S.T.E.P.S., render it exactly.",
+   "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+   "Where a banner shows no book, do not add one. Keep every illustration, photo, icon and colour identical; change only the text."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p01-telefon-ili-sah.png",
+   "format": "banner",
+   "angle": "telefon-ili-sah",
+   "translations": [
+    {
+     "source": "Още един час пред телефона?",
+     "target": "Još jedan sat ispred telefona?"
+    },
+    {
+     "source": "Или една партия шах?",
+     "target": "Ili jedna partija šaha?"
+    },
+    {
+     "source": "Скролва",
+     "target": "Skroluje"
+    },
+    {
+     "source": "Мисли",
+     "target": "Razmišlja"
+    },
+    {
+     "source": "Едното му губи времето.",
+     "target": "Jedno mu krade vreme."
+    },
+    {
+     "source": "Другото учи детето да мисли, да планира и да се съсредоточава.",
+     "target": "Drugo uči dete da misli, planira i koncentriše se."
+    },
+    {
+     "source": "Научи го да мисли",
+     "target": "Nauči ga da misli"
+    }
+   ]
+  },
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p02-zameni-skrolovanje.png",
+   "format": "banner",
+   "angle": "zameni-skrolovanje",
+   "translations": [
+    {
+     "source": "Замени безкрайното му скролване",
+     "target": "Zameni njegovo beskrajno skrolovanje"
+    },
+    {
+     "source": "с игра на шах.",
+     "target": "igrom šaha."
+    },
+    {
+     "source": "Дай на детето занимание, което не просто го държи заето, а го учи да мисли, да предвижда и да се концентрира.",
+     "target": "Daj detetu aktivnost koja ga ne samo zaokuplja, već ga uči da razmišlja, predviđa i koncentriše se."
+    },
+    {
+     "source": "Виж как",
+     "target": "Vidi kako"
+    }
+   ]
+  },
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p03-dosadno.png",
+   "format": "banner",
+   "angle": "dosadno",
+   "translations": [
+    {
+     "source": "Детето ти скучае?",
+     "target": "Tvom detetu je dosadno?"
+    },
+    {
+     "source": "Не му давай телефон.",
+     "target": "Ne daj mu telefon."
+    },
+    {
+     "source": "Дай му игра, която ангажира ума му.",
+     "target": "Daj mu igru koja angažuje njegov um."
+    },
+    {
+     "source": "Шахът учи на мислене, търпение и внимание.",
+     "target": "Šah uči razmišljanju, strpljenju i pažnji."
+    },
+    {
+     "source": "Научи го",
+     "target": "Nauči ga"
+    }
+   ]
+  },
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p04-trening-mozga.png",
+   "format": "banner",
+   "angle": "trening-mozga",
+   "translations": [
+    {
+     "source": "Мозъкът също има нужда от тренировка.",
+     "target": "Mozgu je takođe potreban trening."
+    },
+    {
+     "source": "Фокус",
+     "target": "Fokus"
+    },
+    {
+     "source": "Логика",
+     "target": "Logika"
+    },
+    {
+     "source": "Търпение",
+     "target": "Strpljenje"
+    },
+    {
+     "source": "Шахът е естествена тренировка за ума.",
+     "target": "Šah je prirodan trening za um."
+    },
+    {
+     "source": "Докато детето играе, то учи да мисли.",
+     "target": "Dok dete igra, ono uči da misli."
+    },
+    {
+     "source": "Научи го на шах",
+     "target": "Nauči ga šahu"
+    }
+   ]
+  },
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p05-fitnes-mozak.png",
+   "format": "banner",
+   "angle": "fitnes-mozak",
+   "translations": [
+    {
+     "source": "Шахът не е просто игра.",
+     "target": "Šah nije samo igra."
+    },
+    {
+     "source": "Той е фитнес за мозъка.",
+     "target": "On je fitnes za mozak."
+    },
+    {
+     "source": "Ако искаш детето да развива ума си по естествен начин, шахът е едно от най-смислените занимания.",
+     "target": "Ako želiš da dete prirodno razvija svoj um, šah je jedna od najsmislenijih aktivnosti."
+    },
+    {
+     "source": "Научи го на шах",
+     "target": "Nauči ga šahu"
+    }
+   ]
+  },
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p06-misli-pre-poteza.png",
+   "format": "banner",
+   "angle": "misli-pre-poteza",
+   "translations": [
+    {
+     "source": "Научи детето да мисли, преди да направи следващия ход.",
+     "target": "Nauči dete da razmišlja pre nego što odigra sledeći potez."
+    },
+    {
+     "source": "Шахът учи на нещо много ценно: първо мислиш, после действаш.",
+     "target": "Šah uči nečemu veoma vrednom: prvo razmisliš, pa onda deluješ."
+    },
+    {
+     "source": "Виж как",
+     "target": "Vidi kako"
+    }
+   ]
+  },
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p07-recenzija-knjiga.png",
+   "format": "banner",
+   "angle": "recenzija-knjiga",
+   "translations": [
+    {
+     "source": "„Откакто играе шах, стана по-фокусиран и довършва започнатото.”",
+     "target": "„Otkako igra šah, postao je fokusiraniji i dovršava započeto.”"
+    },
+    {
+     "source": "Виж книгата",
+     "target": "Vidi knjigu"
+    },
+    {
+     "source": "Как да побеждаваш на ШАХ (заглавие на корицата)",
+     "target": "Kako da pobeđuješ u ŠAHU"
+    },
+    {
+     "source": "Наръчник за начинаещи и напреднали по системата S.T.E.P.S.",
+     "target": "Priručnik za početnike i napredne po sistemu S.T.E.P.S."
+    },
+    {
+     "source": "Издателство Златен Ключ",
+     "target": "Izdavač Zlatni ključ"
+    }
+   ],
+   "cover": "covers/RSCHESS_cover.png",
+   "extra_rules": [
+    "Replace the book the woman is holding with the attached Serbian cover (title: Kako da pobeđuješ u ŠAHU); the book is held exactly where it is now, same size and angle, showing the attached cover accurately.",
+    "CRITICAL: the book cover text must be copied letter for letter from the attached cover image. The cover title is exactly 'Kako da pobeđuješ u ŠAHU' (second line: 'pobeđuješ' with the letter đ, never 'pobediš', 'pobediješ', 'pobeduješ'; third line: 'ŠAHU'). Subtitle: 'Priručnik za početnike i napredne po sistemu S.T.E.P.S.' Bottom: 'Izdavač Zlatni ključ'.",
+    "Render every word of the speech bubble text exactly as given, once."
+   ]
+  },
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p08-tri-stvari.png",
+   "format": "banner",
+   "angle": "tri-stvari",
+   "translations": [
+    {
+     "source": "3",
+     "target": "3"
+    },
+    {
+     "source": "3 неща, на които шахът ще научи детето ти.",
+     "target": "3 stvari kojima će šah naučiti tvoje dete."
+    },
+    {
+     "source": "Спри. Помисли. Действай.",
+     "target": "Stani. Promisli. Delaj."
+    },
+    {
+     "source": "Една игра. Един навик. Голям ефект върху мисленето.",
+     "target": "Jedna igra. Jedna veština. Veliki uticaj na razmišljanje."
+    },
+    {
+     "source": "Виж как",
+     "target": "Vidi kako"
+    }
+   ]
+  },
+  {
+   "source": "source/RSCHESS/BGCHESS_BG_parents-p09-spanija.png",
+   "format": "banner",
+   "angle": "spanija",
+   "translations": [
+    {
+     "source": "В някои училища в Испания шахът се използва като образователен инструмент.",
+     "target": "U nekim školama u Španiji šah se koristi kao obrazovno sredstvo."
+    },
+    {
+     "source": "Защото шахът не е просто игра.",
+     "target": "Zato što šah nije samo igra."
+    },
+    {
+     "source": "Той е инструмент за по-добро мислене и концентрация.",
+     "target": "On je alat za bolje razmišljanje i koncentraciju."
+    },
+    {
+     "source": "Мислене",
+     "target": "Razmišljanje"
+    },
+    {
+     "source": "Фокус",
+     "target": "Fokus"
+    },
+    {
+     "source": "Стратегия",
+     "target": "Strategija"
+    },
+    {
+     "source": "Научи го на шах",
+     "target": "Nauči ga šahu"
+    }
+   ]
+  }
+ ]
+}
