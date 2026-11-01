@@ -1,0 +1,30 @@
+{
+ "book": "WORD",
+ "market": "BG",
+ "date": "2026-11-01-scenes-fix",
+ "source_campaign": "CBO | WORD POWERPOINT | UGC FROM BANNERS - сцени за Flow (WORD POWERPOINT_UGC FROM BANNERS_2026-11-01)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536",
+  "input_fidelity": "high"
+ },
+ "banners": [
+  {
+   "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+   "format": "UGC-A",
+   "angle": "S03_istoria2",
+   "prompt": "This input photo shows the woman who is the main character of a vertical smartphone video. Create a NEW still frame of the SAME woman for one scene of that video (it will be the starting frame that an AI video model animates).\n\nIDENTITY (critical): it must be unmistakably the same person: identical face, facial features, age, skin tone and texture, eye colour, hair colour, hair length and hairstyle, same grey knitted cardigan, plain white blouse and small silver stud earrings. Do not beautify, slim or rejuvenate her.\nSETTING: the same small office of a Bulgarian company: other desks with colleagues softly visible behind her, white window blinds, the round wall clock, document folders on a shelf, daylight. Keep the same place, light and mood as in the input photo, so all scenes look like one continuous video.\nPHOTO STYLE (critical): a real, unedited smartphone photo, like a still from an Instagram story. Natural daylight, natural colours, real skin texture, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT stock, no beauty filter, no studio light, no heavy background blur, no HDR.\nFRAMING: vertical 9:16, phone on a small stand on the desk at eye level. Medium close-up, upper body and the desk in front of her, unless the scene says otherwise.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally with the photo, no bars, no borders.\nDo not add any captions, logos, watermarks or readable text, except the book cover when a book is shown. Hands natural, only two hands, five fingers each.\n\nSCENE: She sits at the laptop, one hand on the keyboard, the laptop screen visible at an angle showing a presentation slide overcrowded with dense blocks of tiny text (not readable). She glances up and sideways at the round wall clock, with a worried look. The wall clock must clearly show 11:30: the short hour hand points exactly halfway between the 11 and the 12, and the long minute hand points straight down at the 6. There is no book anywhere in this scene."
+  },
+  {
+   "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+   "format": "UGC-B",
+   "angle": "S06_kopche",
+   "prompt": "This input photo shows the woman who is the main character of a vertical smartphone video. Create a NEW still frame of the SAME woman for one scene of that video (it will be the starting frame that an AI video model animates).\n\nIDENTITY (critical): it must be unmistakably the same person: identical face, facial features, age, skin tone and texture, eye colour, hair colour, hair length and hairstyle, same dark navy blouse, glasses with thin black frames, low bun and small pearl earrings. Do not beautify, slim or rejuvenate her.\nSETTING: the same small home study: desk under the window, black desk lamp, shelf with ring binders behind her, notebook and pen next to the laptop, morning daylight. Keep the same place, light and mood as in the input photo, so all scenes look like one continuous video.\nPHOTO STYLE (critical): a real, unedited smartphone photo, like a still from an Instagram story. Natural daylight, natural colours, real skin texture, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT stock, no beauty filter, no studio light, no heavy background blur, no HDR.\nFRAMING: vertical 9:16, phone on a small stand on the desk at eye level. Medium close-up, upper body and the desk in front of her, unless the scene says otherwise.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally with the photo, no bars, no borders.\nDo not add any captions, logos, watermarks or readable text, except the book cover when a book is shown. Hands natural, only two hands, five fingers each.\n\nSCENE: She holds the book open towards the camera with both hands, showing the INSIDE double page: both pages are white printed book pages with large screenshots of the Microsoft Word ribbon (blue Word interface only, no PowerPoint) with a few buttons circled in red; text is too small to read. The front cover is NOT visible in this scene: the outside of the book faces her. She smiles, as if sharing a simple secret. There is no other book in the scene."
+  }
+ ]
+}
