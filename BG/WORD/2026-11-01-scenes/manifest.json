@@ -1,0 +1,121 @@
+{
+  "book": "WORD",
+  "market": "BG",
+  "date": "2026-11-01-scenes",
+  "source_campaign": "CBO | WORD POWERPOINT | UGC FROM BANNERS - сцени за Flow (WORD POWERPOINT_UGC FROM BANNERS_2026-11-01)",
+  "generated_at": "2026-11-01T14:35:46+00:00",
+  "banners": [
+    {
+      "name": "WORD_BG_UGC-A_S01_kuka",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S01_kuka.png",
+      "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S01_kuka.png"
+    },
+    {
+      "name": "WORD_BG_UGC-A_S02_istoria",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S02_istoria.png",
+      "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S02_istoria.png"
+    },
+    {
+      "name": "WORD_BG_UGC-A_S03_istoria2",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S03_istoria2.png",
+      "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S03_istoria2.png"
+    },
+    {
+      "name": "WORD_BG_UGC-A_S04_povrat",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S04_povrat.png",
+      "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S04_povrat.png"
+    },
+    {
+      "name": "WORD_BG_UGC-A_S05_sistema",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S05_sistema.png",
+      "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S05_sistema.png"
+    },
+    {
+      "name": "WORD_BG_UGC-A_S06_rezultat",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S06_rezultat.png",
+      "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S06_rezultat.png"
+    },
+    {
+      "name": "WORD_BG_UGC-A_S07_prizyv",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S07_prizyv.png",
+      "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-A_S07_prizyv.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_S01_kuka",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S01_kuka.png",
+      "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S01_kuka.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_S02_istoria",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S02_istoria.png",
+      "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S02_istoria.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_S03_greshki",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S03_greshki.png",
+      "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S03_greshki.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_S04_sledobed",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S04_sledobed.png",
+      "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S04_sledobed.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_S05_povrat",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S05_povrat.png",
+      "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S05_povrat.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_S06_kopche",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S06_kopche.png",
+      "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S06_kopche.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_S07_prizyv",
+      "path": "BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S07_prizyv.png",
+      "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes/WORD_BG_UGC-B_S07_prizyv.png"
+    }
+  ]
+}
