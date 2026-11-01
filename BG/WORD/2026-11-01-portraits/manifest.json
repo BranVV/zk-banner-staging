@@ -1,0 +1,25 @@
+{
+  "book": "WORD",
+  "market": "BG",
+  "date": "2026-11-01-portraits",
+  "source_campaign": "CBO | WORD POWERPOINT | FIRST BANNERS - 12102026 -> UGC FROM BANNERS, основни портрети на аватарите",
+  "generated_at": "2026-11-01T14:26:40+00:00",
+  "banners": [
+    {
+      "name": "WORD_BG_UGC-A_portret",
+      "path": "BG/WORD/2026-11-01-portraits/WORD_BG_UGC-A_portret.png",
+      "source": "source/WORD/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-portraits/WORD_BG_UGC-A_portret.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_portret",
+      "path": "BG/WORD/2026-11-01-portraits/WORD_BG_UGC-B_portret.png",
+      "source": "source/WORD/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-portraits/WORD_BG_UGC-B_portret.png"
+    }
+  ]
+}
