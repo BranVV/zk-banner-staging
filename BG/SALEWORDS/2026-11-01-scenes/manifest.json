@@ -1,0 +1,121 @@
+{
+  "book": "SALEWORDS",
+  "market": "BG",
+  "date": "2026-11-01-scenes",
+  "source_campaign": "CBO | SALE WORDS | UGC FROM 1ST BANNERS - сцени за Flow (SALE WORDS_UGC FROM 1ST BANNERS_2026-11-01)",
+  "generated_at": "2026-11-01T13:35:30+00:00",
+  "banners": [
+    {
+      "name": "SALEWORDS_BG_UGC-A_S01_kuka",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S01_kuka.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S01_kuka.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-A_S02_istoria",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S02_istoria.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S02_istoria.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-A_S03_istoria2",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S03_istoria2.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S03_istoria2.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-A_S04_povrat",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S04_povrat.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S04_povrat.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-A_S05_kulminacia",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S05_kulminacia.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S05_kulminacia.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-A_S06_pomoshch",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S06_pomoshch.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S06_pomoshch.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-A_S07_prizyv",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S07_prizyv.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-A_S07_prizyv.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-B_S01_kuka",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S01_kuka.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S01_kuka.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-B_S02_istoria",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S02_istoria.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S02_istoria.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-B_S03_istoria2",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S03_istoria2.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S03_istoria2.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-B_S04_povrat",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S04_povrat.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S04_povrat.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-B_S05_kulminacia",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S05_kulminacia.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S05_kulminacia.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-B_S06_pomoshch",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S06_pomoshch.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S06_pomoshch.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-B_S07_prizyv",
+      "path": "BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S07_prizyv.png",
+      "source": "source/SALEWORDS/SALEWORDS_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-scenes/SALEWORDS_BG_UGC-B_S07_prizyv.png"
+    }
+  ]
+}
