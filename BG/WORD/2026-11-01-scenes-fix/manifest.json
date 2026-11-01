@@ -1,0 +1,25 @@
+{
+  "book": "WORD",
+  "market": "BG",
+  "date": "2026-11-01-scenes-fix",
+  "source_campaign": "CBO | WORD POWERPOINT | UGC FROM BANNERS - сцени за Flow (WORD POWERPOINT_UGC FROM BANNERS_2026-11-01)",
+  "generated_at": "2026-11-01T14:38:06+00:00",
+  "banners": [
+    {
+      "name": "WORD_BG_UGC-A_S03_istoria2",
+      "path": "BG/WORD/2026-11-01-scenes-fix/WORD_BG_UGC-A_S03_istoria2.png",
+      "source": "source/WORD/WORD_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes-fix/WORD_BG_UGC-A_S03_istoria2.png"
+    },
+    {
+      "name": "WORD_BG_UGC-B_S06_kopche",
+      "path": "BG/WORD/2026-11-01-scenes-fix/WORD_BG_UGC-B_S06_kopche.png",
+      "source": "source/WORD/WORD_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-01-scenes-fix/WORD_BG_UGC-B_S06_kopche.png"
+    }
+  ]
+}
