@@ -1,0 +1,25 @@
+{
+  "book": "SALEWORDS",
+  "market": "BG",
+  "date": "2026-11-01-portraits",
+  "source_campaign": "CBO | SALE WORDS | FIRST BANNERS (BG) - UGC FROM 1ST BANNERS, основни портрети на аватарите",
+  "generated_at": "2026-11-01T13:24:44+00:00",
+  "banners": [
+    {
+      "name": "SALEWORDS_BG_UGC-A_portret",
+      "path": "BG/SALEWORDS/2026-11-01-portraits/SALEWORDS_BG_UGC-A_portret.png",
+      "source": "source/SALEWORDS/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-portraits/SALEWORDS_BG_UGC-A_portret.png"
+    },
+    {
+      "name": "SALEWORDS_BG_UGC-B_portret",
+      "path": "BG/SALEWORDS/2026-11-01-portraits/SALEWORDS_BG_UGC-B_portret.png",
+      "source": "source/SALEWORDS/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-01-portraits/SALEWORDS_BG_UGC-B_portret.png"
+    }
+  ]
+}
