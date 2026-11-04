@@ -3,7 +3,7 @@
   "market": "BG",
   "date": "2026-11-04",
   "source_campaign": "CBO | SALE WORDS | INT | PRICE GHOSTING BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
-  "generated_at": "2026-11-04T13:03:49+00:00",
+  "generated_at": "2026-11-04T13:06:17+00:00",
   "banners": [
     {
       "name": "SALEWORDS_BG_banner_01-pain",
@@ -31,10 +31,7 @@
     {
       "name": "SALEWORDS_BG_banner_05-split",
       "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_05-split.png",
-      "source": "source/SALEWORDS/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_05-split.png"
+      "status": "skipped"
     },
     {
       "name": "SALEWORDS_BG_banner_06-chat",
