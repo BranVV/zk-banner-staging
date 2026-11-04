@@ -1,0 +1,17 @@
+{
+  "book": "ENGLISH",
+  "market": "BG",
+  "date": "2026-11-04-native",
+  "source_campaign": "ENGLISH | Native post „Блокирам, когато говоря“ - изображение врата на хладилник",
+  "generated_at": "2026-11-04T18:48:25+00:00",
+  "banners": [
+    {
+      "name": "ENGLISH_BG_native_hladilnik",
+      "path": "BG/ENGLISH/2026-11-04-native/ENGLISH_BG_native_hladilnik.png",
+      "source": "source/ENGLISH/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/ENGLISH/2026-11-04-native/ENGLISH_BG_native_hladilnik.png"
+    }
+  ]
+}
