@@ -1,0 +1,65 @@
+{
+  "book": "SALEWORDS",
+  "market": "BG",
+  "date": "2026-11-04",
+  "source_campaign": "CBO | SALE WORDS | INT | PRICE GHOSTING BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
+  "generated_at": "2026-11-04T12:37:38+00:00",
+  "banners": [
+    {
+      "name": "SALEWORDS_BG_banner_01-pain",
+      "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_01-pain.png",
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_01-pain.png"
+    },
+    {
+      "name": "SALEWORDS_BG_banner_02-inuse",
+      "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_02-inuse.png",
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_02-inuse.png"
+    },
+    {
+      "name": "SALEWORDS_BG_banner_03-ugly",
+      "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_03-ugly.png",
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_03-ugly.png"
+    },
+    {
+      "name": "SALEWORDS_BG_banner_04-review",
+      "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_04-review.png",
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_04-review.png"
+    },
+    {
+      "name": "SALEWORDS_BG_banner_05-split",
+      "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_05-split.png",
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_05-split.png"
+    },
+    {
+      "name": "SALEWORDS_BG_banner_06-chat",
+      "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_06-chat.png",
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_06-chat.png"
+    },
+    {
+      "name": "SALEWORDS_BG_banner_07-xmas",
+      "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_07-xmas.png",
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_07-xmas.png"
+    }
+  ]
+}
