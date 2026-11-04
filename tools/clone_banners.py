@@ -50,7 +50,7 @@ except ImportError:  # pragma: no cover
 API_URL = "https://api.openai.com/v1/images/edits"
 API_SIZES = {"1024x1024": 1.0, "1536x1024": 1.5, "1024x1536": 1024 / 1536}
 VALID_MODES = {"model", "overlay"}
-VALID_FIT = {"stretch", "pad"}
+VALID_FIT = {"stretch", "pad", "contain"}
 
 LANGUAGES = {
     "RS": ("Serbian (Latin script)", "сръбски, латиница"),
@@ -138,6 +138,12 @@ def prepare_input(img: Image.Image, api_size: str, fit: str) -> tuple[Image.Imag
     if fit == "stretch":
         return img.resize((target_w, target_h), Image.LANCZOS), {"fit": "stretch"}
 
+    if fit == "contain":
+        # нов банер: моделът рисува върху цялото платно на API размера, после
+        # целият кадър се вписва в оригиналния размер (без изрязване) и
+        # празните ленти отстрани се допълват с размит фон
+        return Image.new("RGB", (target_w, target_h), (200, 200, 200)), {"fit": "contain"}
+
     # pad: вписваме оригинала и допълваме с бяло, после изрязваме обратно
     scale = min(target_w / img.width, target_h / img.height)
     new_w, new_h = max(1, round(img.width * scale)), max(1, round(img.height * scale))
@@ -151,6 +157,17 @@ def restore_output(img: Image.Image, size: tuple[int, int], meta: dict) -> Image
     """Връща генерираното изображение към оригиналните размери."""
     if meta.get("fit") == "pad":
         img = img.crop(meta["box"])
+    if meta.get("fit") == "contain":
+        from PIL import ImageFilter, ImageEnhance
+        W, H = size
+        img = img.convert("RGB")
+        scale = min(W / img.width, H / img.height)
+        fw, fh = max(1, round(img.width * scale)), max(1, round(img.height * scale))
+        fg = img.resize((fw, fh), Image.LANCZOS)
+        bg = img.resize((W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(45))
+        bg = ImageEnhance.Brightness(bg).enhance(0.9)
+        bg.paste(fg, ((W - fw) // 2, (H - fh) // 2))
+        return bg
     return img.resize(size, Image.LANCZOS)
 
 
