@@ -50,7 +50,7 @@ except ImportError:  # pragma: no cover
 API_URL = "https://api.openai.com/v1/images/edits"
 API_SIZES = {"1024x1024": 1.0, "1536x1024": 1.5, "1024x1536": 1024 / 1536}
 VALID_MODES = {"model", "overlay"}
-VALID_FIT = {"stretch", "pad", "contain"}
+VALID_FIT = {"stretch", "pad", "contain", "crop"}
 
 LANGUAGES = {
     "RS": ("Serbian (Latin script)", "сръбски, латиница"),
@@ -138,6 +138,11 @@ def prepare_input(img: Image.Image, api_size: str, fit: str) -> tuple[Image.Imag
     if fit == "stretch":
         return img.resize((target_w, target_h), Image.LANCZOS), {"fit": "stretch"}
 
+    if fit == "crop":
+        # нов банер на цял кадър: моделът рисува с голямо поле горе и долу,
+        # после се изрязва по средата до пропорцията на оригинала (реже се само фон)
+        return Image.new("RGB", (target_w, target_h), (200, 200, 200)), {"fit": "crop"}
+
     if fit == "contain":
         # нов банер: моделът рисува върху цялото платно на API размера, после
         # целият кадър се вписва в оригиналния размер (без изрязване) и
@@ -157,6 +162,15 @@ def restore_output(img: Image.Image, size: tuple[int, int], meta: dict) -> Image
     """Връща генерираното изображение към оригиналните размери."""
     if meta.get("fit") == "pad":
         img = img.crop(meta["box"])
+    if meta.get("fit") == "crop":
+        W, H = size
+        img = img.convert("RGB")
+        if img.width / img.height > W / H:
+            cw, ch = round(img.height * W / H), img.height
+        else:
+            cw, ch = img.width, round(img.width * H / W)
+        x0, y0 = (img.width - cw) // 2, (img.height - ch) // 2
+        return img.crop((x0, y0, x0 + cw, y0 + ch)).resize(size, Image.LANCZOS)
     if meta.get("fit") == "contain":
         from PIL import ImageFilter, ImageEnhance
         W, H = size
