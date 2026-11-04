@@ -1,0 +1,23 @@
+{
+ "book": "ROENGLISH",
+ "market": "RO",
+ "date": "2026-11-04-native",
+ "source_campaign": "ENGLISH BG Native post (CBO | ENGLISH | INT | NATIVE POST - 04112026) -> RO",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/ENGLISH/blank_1080x1350.png",
+   "format": "native",
+   "angle": "tefter",
+   "prompt": "Create a NEW photo from scratch. IMAGE 1 is only a blank grey canvas used for size: ignore its content completely. The photo must fill the WHOLE frame edge to edge (no bars, no borders, no frames).\nSAFE ZONE: the top 14% and the bottom 14% of the frame will be cut off afterwards. Keep everything important inside the middle 72% of the frame height.\n\nSUBJECT: an old, worn hardcover notebook (slightly frayed corners, a coffee ring stain on the cover edge) lying open on an ordinary Romanian home kitchen table, photographed from above at a slight angle with a phone, slightly tilted. On the right page, handwritten lines that look written over many years: each line in a DIFFERENT pen (blue, black, faded blue, red) and slightly different handwriting, the older lines a bit faded. Romanian, write EXACTLY these lines, letter by letter, in this order, one per line, nothing else on the page (keep the Romanian diacritics ă â î ș ț exactly as written):\n\"2006 - să încep engleza\"\n\"2011 - să încep engleza\"\n\"2017 - engleza!!!\"\n\"2023 - anul ăsta sigur\"\nand the last line in fresh, bright blue pen: \"2026 - ÎNCEP\".\nDo not invent, translate or change any letter. The left page is empty or has a few faint unrelated scribbles without readable words. Next to the notebook: a cup of coffee and a pen. The only readable text in the photo are these five handwritten lines.\n\nPHOTO STYLE (critical): a real, unedited smartphone photo, exactly as it comes out of an average phone camera. Ordinary indoor light, slightly warm white balance, soft and slightly uneven light, mild shadows, slight phone-camera noise, normal phone sharpness. Natural, slightly flat colours. NOT glossy, NOT high contrast, NOT saturated, NOT HDR, NOT cinematic, NOT stock photo, NOT a styled product shot, no vignette, no filters, no bokeh effects. Small real-life imperfections. No captions, logos, brand names, watermarks, prices, arrows or buttons. No people."
+  }
+ ]
+}
