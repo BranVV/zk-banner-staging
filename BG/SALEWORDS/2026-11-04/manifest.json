@@ -3,12 +3,15 @@
   "market": "BG",
   "date": "2026-11-04",
   "source_campaign": "CBO | SALE WORDS | INT | PRICE GHOSTING BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
-  "generated_at": "2026-11-04T12:54:44+00:00",
+  "generated_at": "2026-11-04T13:01:10+00:00",
   "banners": [
     {
       "name": "SALEWORDS_BG_banner_01-pain",
       "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_01-pain.png",
-      "status": "skipped"
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_01-pain.png"
     },
     {
       "name": "SALEWORDS_BG_banner_02-inuse",
@@ -37,7 +40,10 @@
     {
       "name": "SALEWORDS_BG_banner_05-split",
       "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_05-split.png",
-      "status": "skipped"
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_05-split.png"
     },
     {
       "name": "SALEWORDS_BG_banner_06-chat",
@@ -47,7 +53,10 @@
     {
       "name": "SALEWORDS_BG_banner_07-xmas",
       "path": "BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_07-xmas.png",
-      "status": "skipped"
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-04/SALEWORDS_BG_banner_07-xmas.png"
     }
   ]
 }
