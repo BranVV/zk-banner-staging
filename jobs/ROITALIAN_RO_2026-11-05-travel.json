@@ -1,0 +1,312 @@
+{
+ "book": "ROITALIAN",
+ "market": "RO",
+ "date": "2026-11-05-travel",
+ "source_campaign": "CBO | ITALIAN | INT | TRAVEL HOOKS BANNERS - 15052026 (BG, ID 120243337319760027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/ROITALIAN_RO_cover.png",
+  "keep_as_is": [
+   "FIRENZE",
+   "VENEZIA",
+   "ROMA",
+   "AMALFI/NAPOLI",
+   "SICILIA/PALERMO",
+   "BOARDING PASS",
+   "FCO - ROMA",
+   "A.L.I."
+  ],
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+   "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+   "Render every translated text exactly as given, once. Do not leave any Bulgarian or Cyrillic letters anywhere, including on the book.",
+   "Use a short hyphen '-' never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_travel_piata.png",
+   "format": "banner",
+   "angle": "piata",
+   "translations": [
+    {
+     "source": "Когато говориш езика,",
+     "target": "Când vorbești limba,"
+    },
+    {
+     "source": "пазаруваш като местен.",
+     "target": "faci cumpărături ca un localnic."
+    },
+    {
+     "source": "Не като турист. Като италианка.",
+     "target": "Nu ca un turist. Ca o italiancă."
+    },
+    {
+     "source": "НАУЧИ ИТАЛИАНСКИ →",
+     "target": "ÎNVAȚĂ ITALIANA →"
+    },
+    {
+     "source": "Италиански за начинаещи (заглавие на корицата)",
+     "target": "Italiană pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+    "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+    "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+    "Render every translated text exactly as given, once. Do not leave any Bulgarian or Cyrillic letters anywhere, including on the book.",
+    "Use a short hyphen '-' never a long dash.",
+    "Replace the book in the banner with the attached Romanian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: the book cover text must be copied letter for letter from the attached cover image: title 'Italiană' (line 1) and 'pentru începători' (line 2); subtitle 'Învață să vorbești, să înțelegi și să simți italiana în 90 de zile'; label 'cu metoda A.L.I.'. No Cyrillic letters on the cover."
+   ]
+  },
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_travel_amalfi.png",
+   "format": "banner",
+   "angle": "amalfi",
+   "translations": [
+    {
+     "source": "Италия е още по-красива,",
+     "target": "Italia e și mai frumoasă"
+    },
+    {
+     "source": "когато разбираш хората.",
+     "target": "când îi înțelegi pe oameni."
+    },
+    {
+     "source": "За 30 дни проговаряш — точно преди следващото ти пътуване.",
+     "target": "În 30 de zile începi să vorbești - chiar înainte de următoarea ta călătorie."
+    },
+    {
+     "source": "ВЗЕМИ С 4 БОНУСА →",
+     "target": "IA CU 4 BONUSURI →"
+    },
+    {
+     "source": "Италиански за начинаещи (заглавие на корицата)",
+     "target": "Italiană pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+    "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+    "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+    "Render every translated text exactly as given, once. Do not leave any Bulgarian or Cyrillic letters anywhere, including on the book.",
+    "Use a short hyphen '-' never a long dash.",
+    "Replace the book in the banner with the attached Romanian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: the book cover text must be copied letter for letter from the attached cover image: title 'Italiană' (line 1) and 'pentru începători' (line 2); subtitle 'Învață să vorbești, să înțelegi și să simți italiana în 90 de zile'; label 'cu metoda A.L.I.'. No Cyrillic letters on the cover."
+   ]
+  },
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_travel_cafea.png",
+   "format": "banner",
+   "angle": "cafea",
+   "translations": [
+    {
+     "source": "Научи Италиански.",
+     "target": "Învață italiana."
+    },
+    {
+     "source": "Малко удоволствие, което започва с правилните думи.",
+     "target": "O mică plăcere care începe cu cuvintele potrivite."
+    },
+    {
+     "source": "правилните думи (bold italic green accent)",
+     "target": "cuvintele potrivite (same bold italic green accent)"
+    },
+    {
+     "source": "ВЗЕМИ С 4 БОНУСА →",
+     "target": "IA CU 4 BONUSURI →"
+    }
+   ],
+   "extra_rules": [
+    "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+    "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+    "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+    "Render every translated text exactly as given, once. Do not leave any Bulgarian or Cyrillic letters anywhere, including on the book.",
+    "Use a short hyphen '-' never a long dash.",
+    "The open book on the table has no visible cover: do NOT add a cover or any book cover. Any tiny text on the open pages must not contain Cyrillic letters (make it unreadable lines)."
+   ]
+  },
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_travel_colosseum.png",
+   "format": "banner",
+   "angle": "colosseum",
+   "translations": [
+    {
+     "source": "Рим е още по-близък,",
+     "target": "Roma e și mai aproape"
+    },
+    {
+     "source": "когато знаеш езика.",
+     "target": "când știi limba."
+    },
+    {
+     "source": "Научи италиански.",
+     "target": "Învață italiana."
+    },
+    {
+     "source": "ВЗЕМИ С 4 БОНУСА →",
+     "target": "IA CU 4 BONUSURI →"
+    },
+    {
+     "source": "Италиански за начинаещи (заглавие на корицата)",
+     "target": "Italiană pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+    "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+    "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+    "Render every translated text exactly as given, once. Do not leave any Bulgarian or Cyrillic letters anywhere, including on the book.",
+    "Use a short hyphen '-' never a long dash.",
+    "Replace the book in the banner with the attached Romanian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: the book cover text must be copied letter for letter from the attached cover image: title 'Italiană' (line 1) and 'pentru începători' (line 2); subtitle 'Învață să vorbești, să înțelegi și să simți italiana în 90 de zile'; label 'cu metoda A.L.I.'. No Cyrillic letters on the cover."
+   ]
+  },
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_travel_harta.png",
+   "format": "banner",
+   "angle": "harta",
+   "translations": [
+    {
+     "source": "Рим. Флоренция. Амалфи.",
+     "target": "Roma. Florența. Amalfi."
+    },
+    {
+     "source": "Готова ли си?",
+     "target": "Ești pregătită?"
+    },
+    {
+     "source": "С тази книга за 30 дни ще се чувстваш като местен.",
+     "target": "Cu această carte, în 30 de zile te vei simți ca un localnic."
+    },
+    {
+     "source": "30 дни (bold)",
+     "target": "30 de zile (bold)"
+    },
+    {
+     "source": "НАУЧИ ИТАЛИАНСКИ →",
+     "target": "ÎNVAȚĂ ITALIANA →"
+    },
+    {
+     "source": "Флоренция (map label under FIRENZE)",
+     "target": "Florența"
+    },
+    {
+     "source": "Венеция (map label under VENEZIA)",
+     "target": "Veneția"
+    },
+    {
+     "source": "Рим (map labels under ROMA)",
+     "target": "Roma"
+    },
+    {
+     "source": "Амалфи/Неапол (map label)",
+     "target": "Amalfi/Napoli"
+    },
+    {
+     "source": "Сицилия/Палермо (map label)",
+     "target": "Sicilia/Palermo"
+    },
+    {
+     "source": "Италиански за начинаещи (заглавие на корицата)",
+     "target": "Italiană pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+    "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+    "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+    "Render every translated text exactly as given, once. Do not leave any Bulgarian or Cyrillic letters anywhere, including on the book.",
+    "Use a short hyphen '-' never a long dash.",
+    "Replace the book in the banner with the attached Romanian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: the book cover text must be copied letter for letter from the attached cover image: title 'Italiană' (line 1) and 'pentru începători' (line 2); subtitle 'Învață să vorbești, să înțelegi și să simți italiana în 90 de zile'; label 'cu metoda A.L.I.'. No Cyrillic letters on the cover."
+   ]
+  },
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_travel_david.png",
+   "format": "banner",
+   "angle": "david",
+   "translations": [
+    {
+     "source": "Пред статуята на Давид.",
+     "target": "În fața statuii lui David."
+    },
+    {
+     "source": "Гидът говори само на италиански.",
+     "target": "Ghidul vorbește doar în italiană."
+    },
+    {
+     "source": "Ти разбираш всяка дума.",
+     "target": "Tu înțelegi fiecare cuvânt."
+    },
+    {
+     "source": "Не четеш превода.",
+     "target": "Nu citești traducerea."
+    },
+    {
+     "source": "Не търсиш в телефона.",
+     "target": "Nu cauți în telefon."
+    },
+    {
+     "source": "Просто разбираш.",
+     "target": "Pur și simplu înțelegi."
+    },
+    {
+     "source": "За 30 дни с тази книга — това е реалността.",
+     "target": "În 30 de zile cu această carte - asta e realitatea."
+    },
+    {
+     "source": "ПОРЪЧАЙ С 4 БОНУСА",
+     "target": "COMANDĂ CU 4 BONUSURI"
+    },
+    {
+     "source": "Италиански за начинаещи (заглавие на корицата)",
+     "target": "Italiană pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+    "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+    "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+    "Render every translated text exactly as given, once. Do not leave any Bulgarian or Cyrillic letters anywhere, including on the book.",
+    "Use a short hyphen '-' never a long dash.",
+    "Replace the book in the banner with the attached Romanian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: the book cover text must be copied letter for letter from the attached cover image: title 'Italiană' (line 1) and 'pentru începători' (line 2); subtitle 'Învață să vorbești, să înțelegi și să simți italiana în 90 de zile'; label 'cu metoda A.L.I.'. No Cyrillic letters on the cover."
+   ]
+  },
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_travel_recenzie.png",
+   "format": "banner",
+   "angle": "recenzie",
+   "translations": [
+    {
+     "source": "Мария, Варна",
+     "target": "REMOVE this name line completely, keep only the five gold stars at the top of the speech bubble"
+    },
+    {
+     "source": "Влязох в ресторант в Рим и поръчах само на италиански. Почувствах се супер! 😄",
+     "target": "Am intrat într-un restaurant din Roma și am comandat doar în italiană. M-am simțit super! 😄"
+    },
+    {
+     "source": "ВЗЕМИ С 4 БОНУСА",
+     "target": "IA CU 4 BONUSURI →"
+    },
+    {
+     "source": "Италиански за начинаещи (заглавие на корицата)",
+     "target": "Italiană pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+    "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+    "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+    "Render every translated text exactly as given, once. Do not leave any Bulgarian or Cyrillic letters anywhere, including on the book.",
+    "Use a short hyphen '-' never a long dash.",
+    "Replace the book in the banner with the attached Romanian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: the book cover text must be copied letter for letter from the attached cover image: title 'Italiană' (line 1) and 'pentru începători' (line 2); subtitle 'Învață să vorbești, să înțelegi și să simți italiana în 90 de zile'; label 'cu metoda A.L.I.'. No Cyrillic letters on the cover.",
+    "Never add any person's name, city or signature anywhere."
+   ]
+  }
+ ]
+}
