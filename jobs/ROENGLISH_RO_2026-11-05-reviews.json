@@ -1,0 +1,246 @@
+{
+ "book": "ROENGLISH",
+ "market": "RO",
+ "date": "2026-11-05-reviews",
+ "source_campaign": "CBO | ENGLISH | INT NEW REVIEWS - 07102026 (BG, ID 120248877051850027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/ROENGLISH_RO_cover.png",
+  "keep_as_is": [
+   "English required",
+   "Better English",
+   "New Opportunities",
+   "Grammar Made Easy",
+   "My English Goals",
+   "Small Steps Big Progress",
+   "A Brighter You",
+   "PEOPLE IDEAS PROGRESS",
+   "Better Skills Bigger Opportunities",
+   "Next Stop New Adventures",
+   "Departures",
+   "Hotels",
+   "Restaurants",
+   "Good Ideas Brighter People",
+   "My Plan",
+   "Coffee Plans Tickets New Places",
+   "TRAVEL EXPLORE LEARN REPEAT",
+   "Good English Brighter Journeys",
+   "Next trip",
+   "PASSPORT",
+   "CV",
+   "INTERVIEW",
+   "CAREER GROWTH",
+   "JOB OPPORTUNITIES",
+   "Big Steps Brighter Opportunities",
+   "GOOD PEOPLE GROW GREAT THINGS",
+   "Good Travel Good Stories",
+   "Better Conversations A Brighter World"
+  ],
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+   "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+   "Render every translated text exactly as given, once. Do not leave any Bulgarian, Serbian or Cyrillic letters anywhere.",
+   "Replace the book the person holds or the book on the table with the attached Romanian cover (title: Engleză pentru începători), same position, size and angle, showing the attached cover accurately. CRITICAL: the book cover text must be copied letter for letter from the attached cover image: title 'ENGLEZĂ' (red), 'PENTRU' and 'ÎNCEPĂTORI' (blue); subtitle 'Învățați cum să vorbiți și să scrieți în engleză cu încredere în 90 de zile cu metoda PAN'; author 'Ana-Maria Dumitrescu'.",
+   "Translate ONLY the speech bubble text and the book cover. Small English texts on notes, mugs, books and signs in the background stay in English exactly as in the original."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews1.png",
+   "format": "banner",
+   "angle": "acasa1",
+   "translations": [
+    {
+     "source": "„Все се притеснявах някой да не ме заговори на английски. Сега вече не изпадам в паника и мога да отговоря.“",
+     "target": "„Mereu mă temeam să nu mă abordeze cineva în engleză. Acum nu mai intru în panică și pot să răspund.”"
+    },
+    {
+     "source": "— Пепи (подпис под балона)",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "REMOVE the name under the speech bubble completely (leave no name anywhere); keep the bubble, its tail and the layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews2.png",
+   "format": "banner",
+   "angle": "rusine",
+   "translations": [
+    {
+     "source": "“Срамувах се да кажа, че не разбирам английски. Книгата ми помогна да започна от самото начало, без да се чувствам глупаво.”",
+     "target": "„Mi-era rușine să spun că nu înțeleg engleza. Cartea m-a ajutat să încep de la zero, fără să mă simt prost.”"
+    },
+    {
+     "source": "— Никола (подпис под балона)",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "REMOVE the name under the speech bubble completely (leave no name anywhere); keep the bubble, its tail and the layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews3.png",
+   "format": "banner",
+   "angle": "zambeam",
+   "translations": [
+    {
+     "source": "„Преди се усмихвах и кимах, дори когато не разбирах нищо. Сега вече мога спокойно да участвам в разговора.“",
+     "target": "„Înainte zâmbeam și dădeam din cap, chiar și când nu înțelegeam nimic. Acum pot să particip liniștită la conversație.”"
+    },
+    {
+     "source": "— Жени (подпис под балона)",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "REMOVE the name under the speech bubble completely (leave no name anywhere); keep the bubble, its tail and the layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews4.png",
+   "format": "banner",
+   "angle": "bagaj",
+   "translations": [
+    {
+     "source": "„Пътувам няколко пъти годишно, а все разчитах друг да говори вместо мен. Вече започнах сама да се оправям на английски.“",
+     "target": "„Călătoresc de mai multe ori pe an și mereu mă bazam pe altcineva să vorbească în locul meu. Acum încep să mă descurc singură în engleză.”"
+    },
+    {
+     "source": "— Сияна (подпис под балона)",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "REMOVE the name under the speech bubble completely (leave no name anywhere); keep the bubble, its tail and the layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews5.png",
+   "format": "banner",
+   "angle": "harta",
+   "translations": [
+    {
+     "source": "„Обичам да пътувам, но английският винаги ми беше слабост. Тази книга ми даде точно думите и изразите, които ми трябват.“",
+     "target": "„Îmi place să călătoresc, dar engleza a fost mereu punctul meu slab. Cartea asta mi-a dat exact cuvintele și expresiile de care am nevoie.”"
+    },
+    {
+     "source": "— Роси (подпис под балона)",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "REMOVE the name under the speech bubble completely (leave no name anywhere); keep the bubble, its tail and the layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews6.png",
+   "format": "banner",
+   "angle": "aeroport",
+   "translations": [
+    {
+     "source": "„На летище, в хотел или ресторант винаги се притеснявах дали ще ме разберат. Сега пътувам много по-спокойно.“",
+     "target": "„La aeroport, la hotel sau la restaurant mă temeam mereu că nu mă vor înțelege. Acum călătoresc mult mai liniștită.”"
+    },
+    {
+     "source": "— Мая (подпис под балона)",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "REMOVE the name under the speech bubble completely (leave no name anywhere); keep the bubble, its tail and the layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews7.png",
+   "format": "banner",
+   "angle": "anunturi",
+   "translations": [
+    {
+     "source": "„Пропусках обяви за хубава работа само защото пишеше „English required“. Реших, че повече няма да позволявам английският да ме спира.“",
+     "target": "„Ignoram anunțuri pentru joburi bune doar pentru că scria „English required”. Am hotărât că nu mai las engleza să mă oprească.”"
+    },
+    {
+     "source": "— Ради (подпис под балона)",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "REMOVE the name under the speech bubble completely (leave no name anywhere); keep the bubble, its tail and the layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews8.png",
+   "format": "banner",
+   "angle": "birou",
+   "translations": [
+    {
+     "source": "„В моята работа английският вече е почти задължителен. Започнах от нулата, защото искам да имам повече възможности.“",
+     "target": "„În munca mea, engleza e deja aproape obligatorie. Am început de la zero, pentru că vreau să am mai multe oportunități.”"
+    },
+    {
+     "source": "— Соня (подпис под балона)",
+     "target": "(REMOVE this signature line completely, leave the space empty)"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ],
+   "extra_rules": [
+    "REMOVE the name under the speech bubble completely (leave no name anywhere); keep the bubble, its tail and the layout unchanged."
+   ]
+  },
+  {
+   "source": "source/ENGLISH/ENGLISH_BG_reviews9.png",
+   "format": "banner",
+   "angle": "colegi",
+   "translations": [
+    {
+     "source": "„Колеги с английски имаха много повече възможности от мен. Това беше причината да започна и книгата направи първата стъпка много по-лесна.“",
+     "target": "„Colegii care știau engleza aveau mult mai multe oportunități decât mine. Asta a fost motivul pentru care am început, iar cartea a făcut primul pas mult mai ușor.”"
+    },
+    {
+     "source": "Английски език за начинаещи (заглавие на корицата)",
+     "target": "Engleză pentru începători"
+    }
+   ]
+  }
+ ]
+}

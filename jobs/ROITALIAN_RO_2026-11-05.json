@@ -1,0 +1,109 @@
+{
+ "book": "ROITALIAN",
+ "market": "RO",
+ "date": "2026-11-05",
+ "source_campaign": "CBO | ITALIAN | INT | WOMAN LOVE ITALY HOOKS - 21042026 (BG, ID 120241732956010027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/ROITALIAN_RO_cover.png",
+  "keep_as_is": [
+   "Ciao",
+   "Buongiorno",
+   "Parlare",
+   "Grazie",
+   "Amore",
+   "Imparare",
+   "Buongiorno.",
+   "PASSPORT",
+   "MENÚ",
+   "A.L.I."
+  ],
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, people's faces and illustrations identical; change only the text.",
+   "Never add a name, a signature or an invented person's name anywhere. Do not duplicate words.",
+   "Render every translated text exactly as given, once. Do not leave any Bulgarian, Serbian or Cyrillic letters anywhere.",
+   "Replace the book in the banner (including the gold '90 dni' badge) with the attached Romanian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: the book cover text must be copied letter for letter from the attached cover image: title 'Italiană' (line 1) and 'pentru începători' (line 2); subtitle 'Învață să vorbești, să înțelegi și să simți italiana în 90 de zile'; label 'cu metoda A.L.I.'."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_map.png",
+   "format": "banner",
+   "angle": "harta",
+   "translations": [
+    {
+     "source": "Италия е още по красива",
+     "target": "Italia e și mai frumoasă"
+    },
+    {
+     "source": "Когато разбираш езика",
+     "target": "Când înțelegi limba"
+    },
+    {
+     "source": "Започни да го учиш СЕГА",
+     "target": "Începe să o înveți ACUM"
+    },
+    {
+     "source": "Италиански за начинаещи (заглавие на корицата)",
+     "target": "Italiană pentru începători"
+    }
+   ]
+  },
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_book.png",
+   "format": "banner",
+   "angle": "steag",
+   "translations": [
+    {
+     "source": "Не искаш просто да УЧИШ ЕЗИК...",
+     "target": "Nu vrei doar să ÎNVEȚI O LIMBĂ..."
+    },
+    {
+     "source": "... а да усещаш Италия.",
+     "target": "... ci să simți Italia."
+    },
+    {
+     "source": "Започни още днес",
+     "target": "Începe chiar de azi"
+    },
+    {
+     "source": "ВЗЕМИ С 4 БОНУСА",
+     "target": "PRIMEȘTE 4 BONUSURI"
+    },
+    {
+     "source": "Италиански за начинаещи (заглавие на корицата)",
+     "target": "Italiană pentru începători"
+    }
+   ]
+  },
+  {
+   "source": "source/ITALIAN/ITALIAN_BG_rome.png",
+   "format": "banner",
+   "angle": "cafenea",
+   "translations": [
+    {
+     "source": "Обичаш Италия...",
+     "target": "Iubești Italia..."
+    },
+    {
+     "source": "Но когато местните ти говорят само се усмихваш и кимаш.",
+     "target": "Dar când localnicii îți vorbesc, doar zâmbești și dai din cap."
+    },
+    {
+     "source": "Научи езика",
+     "target": "Învață limba"
+    },
+    {
+     "source": "Италианки за начинаещи (заглавие на корицата, сгрешено в оригинала)",
+     "target": "Italiană pentru începători"
+    }
+   ]
+  }
+ ]
+}
