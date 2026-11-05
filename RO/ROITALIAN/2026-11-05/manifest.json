@@ -1,0 +1,33 @@
+{
+  "book": "ROITALIAN",
+  "market": "RO",
+  "date": "2026-11-05",
+  "source_campaign": "CBO | ITALIAN | INT | WOMAN LOVE ITALY HOOKS - 21042026 (BG, ID 120241732956010027)",
+  "generated_at": "2026-11-05T12:10:49+00:00",
+  "banners": [
+    {
+      "name": "ROITALIAN_RO_banner_harta",
+      "path": "RO/ROITALIAN/2026-11-05/ROITALIAN_RO_banner_harta.png",
+      "source": "source/ITALIAN/ITALIAN_BG_map.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05/ROITALIAN_RO_banner_harta.png"
+    },
+    {
+      "name": "ROITALIAN_RO_banner_steag",
+      "path": "RO/ROITALIAN/2026-11-05/ROITALIAN_RO_banner_steag.png",
+      "source": "source/ITALIAN/ITALIAN_BG_book.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05/ROITALIAN_RO_banner_steag.png"
+    },
+    {
+      "name": "ROITALIAN_RO_banner_cafenea",
+      "path": "RO/ROITALIAN/2026-11-05/ROITALIAN_RO_banner_cafenea.png",
+      "source": "source/ITALIAN/ITALIAN_BG_rome.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05/ROITALIAN_RO_banner_cafenea.png"
+    }
+  ]
+}

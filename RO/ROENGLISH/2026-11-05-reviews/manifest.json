@@ -1,0 +1,81 @@
+{
+  "book": "ROENGLISH",
+  "market": "RO",
+  "date": "2026-11-05-reviews",
+  "source_campaign": "CBO | ENGLISH | INT NEW REVIEWS - 07102026 (BG, ID 120248877051850027)",
+  "generated_at": "2026-11-05T12:09:16+00:00",
+  "banners": [
+    {
+      "name": "ROENGLISH_RO_banner_acasa1",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_acasa1.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_acasa1.png"
+    },
+    {
+      "name": "ROENGLISH_RO_banner_rusine",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_rusine.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_rusine.png"
+    },
+    {
+      "name": "ROENGLISH_RO_banner_zambeam",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_zambeam.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews3.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_zambeam.png"
+    },
+    {
+      "name": "ROENGLISH_RO_banner_bagaj",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_bagaj.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews4.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_bagaj.png"
+    },
+    {
+      "name": "ROENGLISH_RO_banner_harta",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_harta.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews5.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_harta.png"
+    },
+    {
+      "name": "ROENGLISH_RO_banner_aeroport",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_aeroport.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews6.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_aeroport.png"
+    },
+    {
+      "name": "ROENGLISH_RO_banner_anunturi",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_anunturi.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews7.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_anunturi.png"
+    },
+    {
+      "name": "ROENGLISH_RO_banner_birou",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_birou.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews8.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_birou.png"
+    },
+    {
+      "name": "ROENGLISH_RO_banner_colegi",
+      "path": "RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_colegi.png",
+      "source": "source/ENGLISH/ENGLISH_BG_reviews9.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROENGLISH/2026-11-05-reviews/ROENGLISH_RO_banner_colegi.png"
+    }
+  ]
+}
