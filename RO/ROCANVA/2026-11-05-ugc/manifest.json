@@ -1,0 +1,41 @@
+{
+  "book": "ROCANVA",
+  "market": "RO",
+  "date": "2026-11-05-ugc",
+  "source_campaign": "CBO | CANVA | INT | BROLL and TEXT VIDEO - 22072026 (BG, 120248765030950027), B-roll кадри за Flow",
+  "generated_at": "2026-11-05T12:20:41+00:00",
+  "banners": [
+    {
+      "name": "ROCANVA_RO_broll_scene3",
+      "path": "RO/ROCANVA/2026-11-05-ugc/ROCANVA_RO_broll_scene3.png",
+      "source": "source/ROCANVA/BGCANVA_BG_broll_scene3.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCANVA/2026-11-05-ugc/ROCANVA_RO_broll_scene3.png"
+    },
+    {
+      "name": "ROCANVA_RO_broll_scene4",
+      "path": "RO/ROCANVA/2026-11-05-ugc/ROCANVA_RO_broll_scene4.png",
+      "source": "source/ROCANVA/BGCANVA_BG_broll_scene4.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCANVA/2026-11-05-ugc/ROCANVA_RO_broll_scene4.png"
+    },
+    {
+      "name": "ROCANVA_RO_broll_scene5",
+      "path": "RO/ROCANVA/2026-11-05-ugc/ROCANVA_RO_broll_scene5.png",
+      "source": "source/ROCANVA/BGCANVA_BG_broll_scene5.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCANVA/2026-11-05-ugc/ROCANVA_RO_broll_scene5.png"
+    },
+    {
+      "name": "ROCANVA_RO_broll_scene6",
+      "path": "RO/ROCANVA/2026-11-05-ugc/ROCANVA_RO_broll_scene6.png",
+      "source": "source/ROCANVA/BGCANVA_BG_broll_scene6.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROCANVA/2026-11-05-ugc/ROCANVA_RO_broll_scene6.png"
+    }
+  ]
+}
