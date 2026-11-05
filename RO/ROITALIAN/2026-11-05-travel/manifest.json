@@ -1,0 +1,65 @@
+{
+  "book": "ROITALIAN",
+  "market": "RO",
+  "date": "2026-11-05-travel",
+  "source_campaign": "CBO | ITALIAN | INT | TRAVEL HOOKS BANNERS - 15052026 (BG, ID 120243337319760027)",
+  "generated_at": "2026-11-05T14:39:38+00:00",
+  "banners": [
+    {
+      "name": "ROITALIAN_RO_banner_piata",
+      "path": "RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_piata.png",
+      "source": "source/ITALIAN/ITALIAN_BG_travel_piata.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_piata.png"
+    },
+    {
+      "name": "ROITALIAN_RO_banner_amalfi",
+      "path": "RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_amalfi.png",
+      "source": "source/ITALIAN/ITALIAN_BG_travel_amalfi.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_amalfi.png"
+    },
+    {
+      "name": "ROITALIAN_RO_banner_cafea",
+      "path": "RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_cafea.png",
+      "source": "source/ITALIAN/ITALIAN_BG_travel_cafea.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_cafea.png"
+    },
+    {
+      "name": "ROITALIAN_RO_banner_colosseum",
+      "path": "RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_colosseum.png",
+      "source": "source/ITALIAN/ITALIAN_BG_travel_colosseum.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_colosseum.png"
+    },
+    {
+      "name": "ROITALIAN_RO_banner_harta",
+      "path": "RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_harta.png",
+      "source": "source/ITALIAN/ITALIAN_BG_travel_harta.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_harta.png"
+    },
+    {
+      "name": "ROITALIAN_RO_banner_david",
+      "path": "RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_david.png",
+      "source": "source/ITALIAN/ITALIAN_BG_travel_david.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_david.png"
+    },
+    {
+      "name": "ROITALIAN_RO_banner_recenzie",
+      "path": "RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_recenzie.png",
+      "source": "source/ITALIAN/ITALIAN_BG_travel_recenzie.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROITALIAN/2026-11-05-travel/ROITALIAN_RO_banner_recenzie.png"
+    }
+  ]
+}
