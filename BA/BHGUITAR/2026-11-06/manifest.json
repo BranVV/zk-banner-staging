@@ -1,0 +1,73 @@
+{
+  "book": "BHGUITAR",
+  "market": "BA",
+  "date": "2026-11-06",
+  "source_campaign": "CBO | RSGUITAR | TRANS BANNERS - 24112025 (ZK2, ID 120235542424000434)",
+  "generated_at": "2026-11-06T08:23:10+00:00",
+  "banners": [
+    {
+      "name": "BHGUITAR_BA_banner_rocker-crno",
+      "path": "BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_rocker-crno.png",
+      "source": "source/GUITAR/GUITAR_RS_banner_rocker-crno.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_rocker-crno.png"
+    },
+    {
+      "name": "BHGUITAR_BA_banner_rocker-korica",
+      "path": "BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_rocker-korica.png",
+      "source": "source/GUITAR/GUITAR_RS_banner_rocker-korica.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_rocker-korica.png"
+    },
+    {
+      "name": "BHGUITAR_BA_banner_sesir-akusticna",
+      "path": "BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_sesir-akusticna.png",
+      "source": "source/GUITAR/GUITAR_RS_banner_sesir-akusticna.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_sesir-akusticna.png"
+    },
+    {
+      "name": "BHGUITAR_BA_banner_bijela-kosulja",
+      "path": "BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_bijela-kosulja.png",
+      "source": "source/GUITAR/GUITAR_RS_banner_bijela-kosulja.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_bijela-kosulja.png"
+    },
+    {
+      "name": "BHGUITAR_BA_banner_ucionica",
+      "path": "BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_ucionica.png",
+      "source": "source/GUITAR/GUITAR_RS_banner_ucionica.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_ucionica.png"
+    },
+    {
+      "name": "BHGUITAR_BA_banner_mladic-rock",
+      "path": "BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_mladic-rock.png",
+      "source": "source/GUITAR/GUITAR_RS_banner_mladic-rock.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_mladic-rock.png"
+    },
+    {
+      "name": "BHGUITAR_BA_banner_pozornica",
+      "path": "BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_pozornica.png",
+      "source": "source/GUITAR/GUITAR_RS_banner_pozornica.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_pozornica.png"
+    },
+    {
+      "name": "BHGUITAR_BA_banner_flamenko",
+      "path": "BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_flamenko.png",
+      "source": "source/GUITAR/GUITAR_RS_banner_flamenko.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHGUITAR/2026-11-06/BHGUITAR_BA_banner_flamenko.png"
+    }
+  ]
+}
