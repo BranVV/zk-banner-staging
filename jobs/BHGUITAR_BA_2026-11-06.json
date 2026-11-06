@@ -1,0 +1,155 @@
+{
+ "book": "BHGUITAR",
+ "market": "BA",
+ "date": "2026-11-06",
+ "source_campaign": "CBO | RSGUITAR | TRANS BANNERS - 24112025 (ZK2, ID 120235542424000434)",
+ "source_account": "Zlaten Kluch 2",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/BHGUITAR_BA_cover.png",
+  "keep_as_is": [],
+  "extra_rules": [
+   "Bosnian (ijekavian) in Latin script only. Use 'pjesme' not 'pesme', 'ovdje' not 'ovde'.",
+   "Keep the layout, colours, photos, people's faces, fonts, button shape and illustrations identical; change only the text.",
+   "Never add a name, a signature or any extra text. Do not duplicate words.",
+   "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+   "Use a short hyphen '-' never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/GUITAR/GUITAR_RS_banner_rocker-crno.jpg",
+   "format": "banner",
+   "angle": "rocker-crno",
+   "translations": [
+    {
+     "source": "NAUČI SVOJE OMILJENE PESME NA GITARI ZA SAMO 30 DANA",
+     "target": "NAUČI SVOJE OMILJENE PJESME NA GITARI ZA SAMO 30 DANA"
+    },
+    {
+     "source": "POGLEDAJ KAKO OVDE",
+     "target": "POGLEDAJ KAKO OVDJE"
+    }
+   ]
+  },
+  {
+   "source": "source/GUITAR/GUITAR_RS_banner_rocker-korica.jpg",
+   "format": "banner",
+   "angle": "rocker-korica",
+   "translations": [
+    {
+     "source": "NAUČI SVOJE OMILJENE PESME NA GITARI ZA SAMO 30 DANA",
+     "target": "NAUČI SVOJE OMILJENE PJESME NA GITARI ZA SAMO 30 DANA"
+    },
+    {
+     "source": "POGLEDAJ KAKO OVDE",
+     "target": "POGLEDAJ KAKO OVDJE"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only. Use 'pjesme' not 'pesme', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, people's faces, fonts, button shape and illustrations identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Replace the book in the banner with the attached Bosnian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: copy the cover text letter for letter from the attached cover image: title 'ČASOVI GITARE ZA POČETNIKE'; subtitle 'NAUČITE DA SVIRATE GITARU, ČAK I AKO MISLITE DA NEMATE TALENATA, ZA SAMO 30 DANA'."
+   ]
+  },
+  {
+   "source": "source/GUITAR/GUITAR_RS_banner_sesir-akusticna.jpg",
+   "format": "banner",
+   "angle": "sesir-akusticna",
+   "translations": [
+    {
+     "source": "NAUČI SVOJE OMILJENE PESME NA GITARI ZA SAMO 30 DANA",
+     "target": "NAUČI SVOJE OMILJENE PJESME NA GITARI ZA SAMO 30 DANA"
+    },
+    {
+     "source": "POGLEDAJ KAKO OVDE",
+     "target": "POGLEDAJ KAKO OVDJE"
+    }
+   ]
+  },
+  {
+   "source": "source/GUITAR/GUITAR_RS_banner_bijela-kosulja.jpg",
+   "format": "banner",
+   "angle": "bijela-kosulja",
+   "translations": [
+    {
+     "source": "NAUČI SVOJE OMILJENE PESME NA GITARI ZA SAMO 30 DANA",
+     "target": "NAUČI SVOJE OMILJENE PJESME NA GITARI ZA SAMO 30 DANA"
+    },
+    {
+     "source": "POGLEDAJ KAKO OVDE",
+     "target": "POGLEDAJ KAKO OVDJE"
+    }
+   ]
+  },
+  {
+   "source": "source/GUITAR/GUITAR_RS_banner_ucionica.jpg",
+   "format": "banner",
+   "angle": "ucionica",
+   "translations": [
+    {
+     "source": "NAUČI SVOJE OMILJENE PESME NA GITARI ZA SAMO 30 DANA",
+     "target": "NAUČI SVOJE OMILJENE PJESME NA GITARI ZA SAMO 30 DANA"
+    },
+    {
+     "source": "POGLEDAJ KAKO OVDE",
+     "target": "POGLEDAJ KAKO OVDJE"
+    }
+   ]
+  },
+  {
+   "source": "source/GUITAR/GUITAR_RS_banner_mladic-rock.jpg",
+   "format": "banner",
+   "angle": "mladic-rock",
+   "translations": [
+    {
+     "source": "NAUČI SVOJE OMILJENE MELODIJE NA GITARI ZA SAMO 30 DANA",
+     "target": "NAUČI SVOJE OMILJENE MELODIJE NA GITARI ZA SAMO 30 DANA",
+     "note": "ostaje isto, bez promjene"
+    },
+    {
+     "source": "POGLEDAJ KAKO OVDE",
+     "target": "POGLEDAJ KAKO OVDJE"
+    }
+   ]
+  },
+  {
+   "source": "source/GUITAR/GUITAR_RS_banner_pozornica.jpg",
+   "format": "banner",
+   "angle": "pozornica",
+   "translations": [
+    {
+     "source": "NAUČI SVOJE OMILJENE PESME NA GITARI ZA SAMO 30 DANA",
+     "target": "NAUČI SVOJE OMILJENE PJESME NA GITARI ZA SAMO 30 DANA"
+    },
+    {
+     "source": "POGLEDAJ KAKO OVDE",
+     "target": "POGLEDAJ KAKO OVDJE"
+    }
+   ]
+  },
+  {
+   "source": "source/GUITAR/GUITAR_RS_banner_flamenko.jpg",
+   "format": "banner",
+   "angle": "flamenko",
+   "translations": [
+    {
+     "source": "NAUČI SVOJE OMILJENE MELODIJE NA GITARI ZA SAMO 30 DANA",
+     "target": "NAUČI SVOJE OMILJENE MELODIJE NA GITARI ZA SAMO 30 DANA",
+     "note": "ostaje isto, bez promjene"
+    },
+    {
+     "source": "POGLEDAJ KAKO OVDE",
+     "target": "POGLEDAJ KAKO OVDJE"
+    }
+   ]
+  }
+ ]
+}
