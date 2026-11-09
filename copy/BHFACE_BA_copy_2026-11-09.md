@@ -12,12 +12,12 @@
 
 Заглавие: Mala tajna 👉
 
-Poslije 35. lice počinje da se mijenja.
+Nakon 35. godine lice počinje da se mijenja.
 Ne zato što je „tako normalno“…
 nego zato što mišići postepeno gube tonus.
 
 Koža se opušta.
-Kontura omekšava.
+Konture lica postaju manje izražene.
 Lice izgleda umornije.
 
 Ujutro vidiš linije kojih ranije nije bilo.
@@ -39,7 +39,7 @@ Ona pokazuje kako da pokreneš mišiće lica i vratiš im tonus.
 Uz nju ćeš naučiti:
 ✔️ koje vježbe daju najvidljiviji efekat
 ✔️ kako da zategneš lice na prirodan način
-✔️ kako da poboljšaš cirkulaciju i svježinu
+✔️ kako da potakneš cirkulaciju i osvježiš izgled lica
 ✔️ kako da svaki dan održavaš mlađi izgled
 
 Trenutno je knjiga na popustu i dolazi s korisnim bonusima.
@@ -116,7 +116,7 @@ Fejs joga je jednostavan trening za lice. Bez sprava, bez skupih tretmana - samo
 U knjizi „Tajne fejs joge“ saznat ćeš:
 ✔️ koje vježbe zatežu konturu lica
 ✔️ kako da probudiš umorne mišiće
-✔️ kako da složiš kratku dnevnu rutinu
+✔️ kako da osmisliš kratku dnevnu rutinu
 ✔️ kako da rezultate održiš na duže staze
 
 Knjiga je sada na popustu i dolazi s bonusima.
@@ -130,7 +130,7 @@ Pogledaj ovdje 👉 https://bhyoga.zlatenkluch.eu/face
 ### Късо
 Заглавие: Uspori proces 👉
 
-Poslije 35. mišićni tonus lica i cirkulacija polako opadaju. Zato lice izgleda umornije, iako se ti tako ne osjećaš.
+Nakon 35. godine mišićni tonus lica i cirkulacija polako opadaju. Zato lice izgleda umornije, iako se ti tako ne osjećaš.
 
 Taj proces možeš usporiti na prirodan način, uz kratke vježbe za lice.
 
@@ -143,7 +143,7 @@ Saznaj kako u knjizi „Tajne fejs joge“ 👉 https://bhyoga.zlatenkluch.eu/fa
 
 Prvo primijetiš da je lice ujutro umornije. Pa linije koje se ne povlače. Pa kontura koja više nije tako jasna.
 
-Razlog nije samo koža. Poslije 35. opadaju mišićni tonus i cirkulacija lica - a kreme na to ne djeluju.
+Razlog nije samo koža. Nakon 35. godine opadaju mišićni tonus i cirkulacija lica - a kreme na to ne djeluju.
 
 Dobra vijest: mišići lica se mogu trenirati, kao i svi ostali.
 
@@ -175,17 +175,17 @@ Kako? Pogledaj u knjizi „Tajne fejs joge“ 👉 https://bhyoga.zlatenkluch.eu
 
 Koliko si novca dala na kreme za zatezanje?
 
-Krema njeguje kožu. Ali čvrstinu lica ne drži samo koža - drže je mišići ispod nje. A do njih krema ne dopire.
+Krema njeguje kožu. Ali čvrstina lica ne zavisi samo od kože - zavisi i od mišića ispod nje. A do njih krema ne dopire.
 
-Kada mišići lica oslabe, koža gubi oslonac. Zato i najskuplja krema ponekad ne da rezultat koji očekuješ.
+Kada mišići lica oslabe, koža gubi oslonac. Zato ni najskuplja krema ponekad ne daje željene rezultate.
 
 Fejs joga radi ono što krema ne može: trenira mišiće lica. Prirodno, kod kuće, nekoliko minuta dnevno.
 
 U knjizi „Tajne fejs joge“ saznat ćeš:
 ✔️ koje vježbe zatežu lice
 ✔️ kako da spojiš njegu kože i trening mišića
-✔️ kako da poboljšaš cirkulaciju i svježinu
-✔️ kako da napraviš rutinu koju ćeš zaista pratiti
+✔️ kako da potakneš cirkulaciju i osvježiš izgled lica
+✔️ kako da napraviš rutinu koje ćeš se zaista pridržavati
 
 Knjiga je sada na popustu i dolazi s bonusima.
 
