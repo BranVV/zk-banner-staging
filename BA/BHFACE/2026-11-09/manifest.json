@@ -3,7 +3,7 @@
   "market": "BA",
   "date": "2026-11-09",
   "source_campaign": "CBO | FACEYOGA | INTERESTS | EDUCATIONAL BANNERS - 07022026 (ZK1, ID 120238572872630027)",
-  "generated_at": "2026-11-09T11:03:55+00:00",
+  "generated_at": "2026-11-09T11:06:47+00:00",
   "banners": [
     {
       "name": "BHFACE_BA_banner_lice-misici",
@@ -16,10 +16,7 @@
     {
       "name": "BHFACE_BA_banner_lice-misici-knjiga",
       "path": "BA/BHFACE/2026-11-09/BHFACE_BA_banner_lice-misici-knjiga.png",
-      "source": "source/FACEYOGA/FACEYOGA_BG_banner_2.jpg",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHFACE/2026-11-09/BHFACE_BA_banner_lice-misici-knjiga.png"
+      "status": "skipped"
     },
     {
       "name": "BHFACE_BA_banner_vrecice",
@@ -32,10 +29,7 @@
     {
       "name": "BHFACE_BA_banner_fitnes-lice",
       "path": "BA/BHFACE/2026-11-09/BHFACE_BA_banner_fitnes-lice.png",
-      "source": "source/FACEYOGA/FACEYOGA_BG_banner_4.jpg",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHFACE/2026-11-09/BHFACE_BA_banner_fitnes-lice.png"
+      "status": "skipped"
     },
     {
       "name": "BHFACE_BA_banner_nakon-35",
@@ -48,10 +42,7 @@
     {
       "name": "BHFACE_BA_banner_krema-vjezba",
       "path": "BA/BHFACE/2026-11-09/BHFACE_BA_banner_krema-vjezba.png",
-      "source": "source/FACEYOGA/FACEYOGA_BG_banner_6.jpg",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHFACE/2026-11-09/BHFACE_BA_banner_krema-vjezba.png"
+      "status": "skipped"
     }
   ]
 }
