@@ -50,6 +50,15 @@
      "source": "Метод от книгата „Тайните на Фейс Йога“",
      "target": "Metoda iz knjige „Tajne fejs joge“"
     }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'vježbe' not 'vežbe', 'tijelo' not 'telo', 'poslije' not 'posle', 'djeluje' not 'deluje'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
    ]
   },
   {
@@ -112,6 +121,15 @@
      "source": "Прави упражнения за лицето!",
      "target": "Radi vježbe za lice!"
     }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'vježbe' not 'vežbe', 'tijelo' not 'telo', 'poslije' not 'posle', 'djeluje' not 'deluje'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
    ]
   },
   {
@@ -135,6 +153,15 @@
      "source": "Същото важи и за лицето.",
      "target": "Isto važi i za lice."
     }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'vježbe' not 'vežbe', 'tijelo' not 'telo', 'poslije' not 'posle', 'djeluje' not 'deluje'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
    ]
   },
   {
@@ -158,6 +185,15 @@
      "source": "НАУЧИ КАК ДА ЗАБАВИШ ПРОЦЕСА",
      "target": "SAZNAJ KAKO DA USPORIŠ TAJ PROCES"
     }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'vježbe' not 'vežbe', 'tijelo' not 'telo', 'poslije' not 'posle', 'djeluje' not 'deluje'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
    ]
   },
   {
@@ -185,6 +221,15 @@
      "source": "Правай фейс йога!",
      "target": "Radi fejs jogu!"
     }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'vježbe' not 'vežbe', 'tijelo' not 'telo', 'poslije' not 'posle', 'djeluje' not 'deluje'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
    ]
   }
  ]
