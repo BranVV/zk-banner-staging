@@ -1,0 +1,191 @@
+{
+ "book": "BHFACE",
+ "market": "BA",
+ "date": "2026-11-09",
+ "source_campaign": "CBO | FACEYOGA | INTERESTS | EDUCATIONAL BANNERS - 07022026 (ZK1, ID 120238572872630027)",
+ "source_account": "ZK1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/BHFACE_BA_cover.png",
+  "keep_as_is": [],
+  "extra_rules": [
+   "Bosnian (ijekavian) in Latin script only: 'vježbe' not 'vežbe', 'tijelo' not 'telo', 'poslije' not 'posle', 'djeluje' not 'deluje'.",
+   "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+   "Never add a name, a signature or any extra text. Do not duplicate words.",
+   "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+   "Use a short hyphen '-' never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_banner_1.jpg",
+   "format": "banner",
+   "angle": "lice-misici",
+   "translations": [
+    {
+     "source": "ЛИЦЕТО ИМА МУСКУЛИ",
+     "target": "LICE IMA MIŠIĆE"
+    },
+    {
+     "source": "НО НЕ ГИ ТРЕНИРАШ",
+     "target": "ALI IH NE TRENIRAŠ"
+    },
+    {
+     "source": "Лицето има 57 мускула.",
+     "target": "Lice ima 57 mišića."
+    },
+    {
+     "source": "Ако не ги използваш — те отслабват.",
+     "target": "Ako ih ne koristiš - slabe."
+    },
+    {
+     "source": "Прави упражнения за лицето.",
+     "target": "Radi vježbe za lice."
+    },
+    {
+     "source": "Метод от книгата „Тайните на Фейс Йога“",
+     "target": "Metoda iz knjige „Tajne fejs joge“"
+    }
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_banner_2.jpg",
+   "format": "banner",
+   "angle": "lice-misici-knjiga",
+   "translations": [
+    {
+     "source": "ЛИЦЕТО ИМА МУСКУЛИ",
+     "target": "LICE IMA MIŠIĆE"
+    },
+    {
+     "source": "НО НЕ ГИ ТРЕНИРАШ",
+     "target": "ALI IH NE TRENIRAŠ"
+    },
+    {
+     "source": "Лицето има 57 мускула.",
+     "target": "Lice ima 57 mišića."
+    },
+    {
+     "source": "Ако не ги използваш — те отслабват.",
+     "target": "Ako ih ne koristiš - slabe."
+    },
+    {
+     "source": "Фейс йога = тренировка за лицето.",
+     "target": "Fejs joga = trening za lice."
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'vježbe' not 'vežbe', 'tijelo' not 'telo', 'poslije' not 'posle', 'djeluje' not 'deluje'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Replace the book in the banner with the attached Bosnian cover, same position, size and angle, showing the attached cover accurately. CRITICAL: copy the cover text letter for letter from the attached cover: title 'TAJNE FEJS JOGE'; subtitle 'Kako da postigneš sjajnu i prirodnu ljepotu lica, bez skupe kozmetike'."
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_banner_3.jpg",
+   "format": "banner",
+   "angle": "vrecice",
+   "translations": [
+    {
+     "source": "Как се появяват торбичките под очите?",
+     "target": "Kako nastaju vrećice ispod očiju?"
+    },
+    {
+     "source": "Задържане на течности",
+     "target": "Zadržavanje tečnosti"
+    },
+    {
+     "source": "Подпухналост",
+     "target": "Podbuhlost"
+    },
+    {
+     "source": "Задържане на течности → Подпухналост",
+     "target": "Zadržavanje tečnosti → Podbuhlost"
+    },
+    {
+     "source": "Прави упражнения за лицето!",
+     "target": "Radi vježbe za lice!"
+    }
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_banner_4.jpg",
+   "format": "banner",
+   "angle": "fitnes-lice",
+   "translations": [
+    {
+     "source": "Фитнес за тяло",
+     "target": "Fitnes za tijelo"
+    },
+    {
+     "source": "Фитнес за лице",
+     "target": "Fitnes za lice"
+    },
+    {
+     "source": "Мускулът или се тренира, или отслабва.",
+     "target": "Mišić se ili trenira, ili slabi."
+    },
+    {
+     "source": "Същото важи и за лицето.",
+     "target": "Isto važi i za lice."
+    }
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_banner_5.jpg",
+   "format": "banner",
+   "angle": "nakon-35",
+   "translations": [
+    {
+     "source": "Какво се случва с лицето след 35?",
+     "target": "Šta se dešava s licem poslije 35?"
+    },
+    {
+     "source": "Мускулен тонус ↓",
+     "target": "Mišićni tonus ↓"
+    },
+    {
+     "source": "Кръвообращение ↓",
+     "target": "Cirkulacija ↓"
+    },
+    {
+     "source": "НАУЧИ КАК ДА ЗАБАВИШ ПРОЦЕСА",
+     "target": "SAZNAJ KAKO DA USPORIŠ TAJ PROCES"
+    }
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_banner_6.jpg",
+   "format": "banner",
+   "angle": "krema-vjezba",
+   "translations": [
+    {
+     "source": "КРЕМЪТ ДЕЙСТВА ВЪРХУ КОЖАТА",
+     "target": "KREMA DJELUJE NA KOŽU"
+    },
+    {
+     "source": "УПРАЖНЕНИЯТА – ВЪРХУ МУСКУЛА",
+     "target": "VJEŽBE - NA MIŠIĆE"
+    },
+    {
+     "source": "КРЕМ → КОЖА",
+     "target": "KREMA → KOŽA"
+    },
+    {
+     "source": "УПРАЖНЕНИЕ → МУСКУЛ",
+     "target": "VJEŽBA → MIŠIĆ"
+    },
+    {
+     "source": "Правай фейс йога!",
+     "target": "Radi fejs jogu!"
+    }
+   ]
+  }
+ ]
+}
