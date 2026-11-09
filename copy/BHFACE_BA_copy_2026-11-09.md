@@ -109,7 +109,7 @@ Fejs joga je fitnes za lice: par minuta dnevno, kod kuće 👉 https://bhyoga.zl
 
 Ideš u teretanu, šetaš, paziš na tijelo. A lice prepuštaš kremama.
 
-Ali lice ima 57 mišića. I s njima je isto kao s mišićima tijela: ako ih ne koristiš, gube tonus. Koža tada gubi oslonac, kontura omekšava, a lice izgleda umornije.
+Ali lice ima 57 mišića. I s njima je isto kao s mišićima tijela: ako ih ne koristiš, gube tonus. Koža tada gubi oslonac, konture lica postaju manje izražene, a lice izgleda umornije.
 
 Fejs joga je jednostavan trening za lice. Bez sprava, bez skupih tretmana - samo nekoliko minuta dnevno ispred ogledala.
 
