@@ -1,0 +1,29 @@
+{
+ "book": "FACEYOGA",
+ "market": "BG",
+ "date": "2026-11-10-portraits",
+ "source_campaign": "CBO | FACE | ALL MAIN PAIN | BANNERS - 01102026 -> UGC FROM BANNERS, основни портрети на аватарите",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/FACEYOGA/blank_1080x1920.png",
+   "format": "UGC-A",
+   "angle": "portret",
+   "prompt": "Create a photo of a 50-year-old Bulgarian woman at home in Bulgaria in the morning. She has short ash-blonde hair in a neat chin-length bob, fair skin with natural fine lines around the eyes and soft natural nasolabial folds (realistic for her age, not exaggerated), light blue eyes, minimal natural make-up, small pearl stud earrings. She wears a light-blue linen shirt with the top button open. She stands in her ordinary Bulgarian bathroom in front of the mirror above the washbasin; a shelf with a few face cream jars and a glass with toothbrushes is visible, white tiles, soft morning daylight from a small window. Calm, confident, friendly expression, a slight knowing smile, looking straight into the camera.\n\nPHOTO STYLE (critical): it must look like a real, unedited photo taken with an ordinary smartphone camera (like an Instagram story or a selfie video still). Natural light, natural colours, real skin texture with pores and fine lines, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT a stock photo, NOT an advertising photo, no beauty filter, no studio lighting, no heavy background blur, no HDR look.\nFRAMING: vertical 9:16, the phone is on a small stand at eye level, so she looks straight into the lens. Upper body and face clearly visible, head in the upper third.\nThe input image is only a blank grey canvas used for size: ignore it completely and replace it entirely with the photo. The image has plain bars along two edges purely as padding: fill the whole frame naturally with the photo, no bars, no borders.\nDo not add any text, letters, logos, watermarks or captions anywhere. Do not show any book in this photo.\n"
+  },
+  {
+   "source": "source/FACEYOGA/blank_1080x1920.png",
+   "format": "UGC-B",
+   "angle": "portret",
+   "prompt": "Create a photo of a 48-year-old Bulgarian woman at home in Bulgaria in the evening. She has long straight dark-chestnut hair tied in a low ponytail, olive Mediterranean skin, brown eyes, slightly heavy tired upper eyelids after a long work day (realistic, not exaggerated), natural fine lines, no visible make-up, no glasses. She wears a dark-red (burgundy) knitted top, small gold hoop earrings. She sits at the kitchen table of an ordinary Bulgarian apartment; a closed laptop and a mug of tea are on the table, a warm table lamp gives yellowish evening light, kitchen cabinets behind her. Practical, direct expression, a small half-smile, looking straight into the camera.\n\nPHOTO STYLE (critical): it must look like a real, unedited photo taken with an ordinary smartphone camera (like an Instagram story or a selfie video still). Natural light, natural colours, real skin texture with pores and fine lines, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT a stock photo, NOT an advertising photo, no beauty filter, no studio lighting, no heavy background blur, no HDR look.\nFRAMING: vertical 9:16, the phone is on a small stand at eye level, so she looks straight into the lens. Upper body and face clearly visible, head in the upper third.\nThe input image is only a blank grey canvas used for size: ignore it completely and replace it entirely with the photo. The image has plain bars along two edges purely as padding: fill the whole frame naturally with the photo, no bars, no borders.\nDo not add any text, letters, logos, watermarks or captions anywhere. Do not show any book in this photo.\n"
+  }
+ ]
+}
