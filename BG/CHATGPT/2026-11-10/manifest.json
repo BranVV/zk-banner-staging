@@ -1,0 +1,41 @@
+{
+  "book": "CHATGPT",
+  "market": "BG",
+  "date": "2026-11-10",
+  "source_campaign": "CBO | ROCHAT | BROAD | REVIEWS - 10092025 (ZK2, RO)",
+  "generated_at": "2026-11-10T12:37:07+00:00",
+  "banners": [
+    {
+      "name": "CHATGPT_BG_banner_reviews-kameliya",
+      "path": "BG/CHATGPT/2026-11-10/CHATGPT_BG_banner_reviews-kameliya.png",
+      "source": "source/CHATGPT/CHATGPT_RO_reviews_1.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CHATGPT/2026-11-10/CHATGPT_BG_banner_reviews-kameliya.png"
+    },
+    {
+      "name": "CHATGPT_BG_banner_reviews-diyana",
+      "path": "BG/CHATGPT/2026-11-10/CHATGPT_BG_banner_reviews-diyana.png",
+      "source": "source/CHATGPT/CHATGPT_RO_reviews_2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CHATGPT/2026-11-10/CHATGPT_BG_banner_reviews-diyana.png"
+    },
+    {
+      "name": "CHATGPT_BG_banner_reviews-desi",
+      "path": "BG/CHATGPT/2026-11-10/CHATGPT_BG_banner_reviews-desi.png",
+      "source": "source/CHATGPT/CHATGPT_RO_reviews_3.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CHATGPT/2026-11-10/CHATGPT_BG_banner_reviews-desi.png"
+    },
+    {
+      "name": "CHATGPT_BG_banner_reviews-martin",
+      "path": "BG/CHATGPT/2026-11-10/CHATGPT_BG_banner_reviews-martin.png",
+      "source": "source/CHATGPT/CHATGPT_RO_reviews_4.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CHATGPT/2026-11-10/CHATGPT_BG_banner_reviews-martin.png"
+    }
+  ]
+}
