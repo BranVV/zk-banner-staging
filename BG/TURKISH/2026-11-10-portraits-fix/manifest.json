@@ -1,0 +1,17 @@
+{
+  "book": "TURKISH",
+  "market": "BG",
+  "date": "2026-11-10-portraits-fix",
+  "source_campaign": "CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 -> UGC FROM BANNERS, основни портрети на аватарите (B на 50 г. вместо 58)",
+  "generated_at": "2026-11-10T09:46:27+00:00",
+  "banners": [
+    {
+      "name": "TURKISH_BG_UGC-B_portret",
+      "path": "BG/TURKISH/2026-11-10-portraits-fix/TURKISH_BG_UGC-B_portret.png",
+      "source": "source/TURKISH/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-portraits-fix/TURKISH_BG_UGC-B_portret.png"
+    }
+  ]
+}
