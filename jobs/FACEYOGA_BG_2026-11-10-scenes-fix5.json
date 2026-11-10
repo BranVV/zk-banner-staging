@@ -1,0 +1,23 @@
+{
+ "book": "FACEYOGA",
+ "market": "BG",
+ "date": "2026-11-10-scenes-fix5",
+ "source_campaign": "FACEYOGA UGC FROM BANNERS: B S02 с отпочинал поглед",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_portret.png",
+   "format": "UGC-B",
+   "angle": "S02_mehanizam",
+   "prompt": "This input photo shows the woman who is the main character of a vertical smartphone video. Create a NEW still frame of the SAME woman for one scene of that video (it will be the starting frame that an AI video model animates; keep her pose simple, hands already in their final position).\n\nIDENTITY (critical): it must be unmistakably the same person: identical face, facial features, age, skin tone and texture, eye colour, hair colour, hair length and hairstyle, same clothes and accessories. Do not beautify, slim or rejuvenate her.\nSETTING: the same kitchen table as in the input photo in the evening, closed laptop and a mug of tea on the table, warm yellowish light from a table lamp, kitchen cabinets behind. Keep the same place, light and mood.\nPHOTO STYLE (critical): a real, unedited smartphone photo, like a still from an Instagram story. Natural light, natural colours, real skin texture, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT stock, no beauty filter, no studio light, no heavy background blur, no HDR.\nLAYOUT (critical): the frame is split horizontally. TOP PANEL (upper ~40% of the frame, full width, separated by a clean straight edge): a soft hand-drawn anatomical beauty illustration in pencil and light watercolour on pale pink paper, in the style of an elegant medical-beauty poster: a large close-up drawing of one female eye with the eyebrow; the ring-shaped muscle around the eye (orbicularis oculi) is drawn in soft reddish-pink fibres; the upper eyelid is heavy and drooping, and a small dark-red curved arrow above the eyelid points DOWNWARDS. Absolutely no text, no letters, no labels, no numbers in the illustration. BOTTOM PANEL (lower ~60%): the real smartphone photo of the woman described below.\nFRAMING: vertical 9:16, phone on a small stand at eye level, she looks into the lens. The bottom panel shows her head and shoulders at the kitchen table.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders.\nDo not add any captions, labels, logos, watermarks or readable text anywhere, except the book cover when a book is shown.\n\nSCENE: She talks to the camera mid-sentence, practical and direct. Her eyes look open, rested and awake: upper eyelids lifted, eyelid crease clearly visible, clear bright gaze (realistic, same age and wrinkles, no make-up). Both hands rest on the table, no hand on the face.\n There is no book in this scene."
+  }
+ ]
+}
