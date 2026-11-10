@@ -1,0 +1,25 @@
+{
+  "book": "FACEYOGA",
+  "market": "BG",
+  "date": "2026-11-10-scenes-fix1",
+  "source_campaign": "CBO | FACE | ALL MAIN PAIN | BANNERS - 01102026 -> UGC FROM BANNERS, кадри на сцените - поправка B S01a (по-близо, по-видима умора) и S03 (пръсти под веждите)",
+  "generated_at": "2026-11-10T12:33:42+00:00",
+  "banners": [
+    {
+      "name": "FACEYOGA_BG_UGC-B_S01a_kuka-predi",
+      "path": "BG/FACEYOGA/2026-11-10-scenes-fix1/FACEYOGA_BG_UGC-B_S01a_kuka-predi.png",
+      "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10-scenes-fix1/FACEYOGA_BG_UGC-B_S01a_kuka-predi.png"
+    },
+    {
+      "name": "FACEYOGA_BG_UGC-B_S03_demo",
+      "path": "BG/FACEYOGA/2026-11-10-scenes-fix1/FACEYOGA_BG_UGC-B_S03_demo.png",
+      "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10-scenes-fix1/FACEYOGA_BG_UGC-B_S03_demo.png"
+    }
+  ]
+}
