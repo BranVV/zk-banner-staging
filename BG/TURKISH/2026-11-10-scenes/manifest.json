@@ -1,0 +1,105 @@
+{
+  "book": "TURKISH",
+  "market": "BG",
+  "date": "2026-11-10-scenes",
+  "source_campaign": "CBO | TURKISH | INT | UGC FROM BANNERS - сцени за Flow (TURKISH_UGC FROM BANNERS_2026-11-10)",
+  "generated_at": "2026-11-10T09:56:28+00:00",
+  "banners": [
+    {
+      "name": "TURKISH_BG_UGC-A_S01_kuka",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S01_kuka.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S01_kuka.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-A_S02_priznanie",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S02_priznanie.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S02_priznanie.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-A_S03_moment",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S03_moment.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S03_moment.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-A_S04_obrat",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S04_obrat.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S04_obrat.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-A_S05_pobeda",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S05_pobeda.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S05_pobeda.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-A_S06_prizyv",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S06_prizyv.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-A_S06_prizyv.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-B_S01_kuka",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S01_kuka.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S01_kuka.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-B_S02_priznanie",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S02_priznanie.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S02_priznanie.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-B_S03_moment",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S03_moment.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S03_moment.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-B_S04_obrat",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S04_obrat.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S04_obrat.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-B_S05_pobeda",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S05_pobeda.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S05_pobeda.png"
+    },
+    {
+      "name": "TURKISH_BG_UGC-B_S06_prizyv",
+      "path": "BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S06_prizyv.png",
+      "source": "source/TURKISH/TURKISH_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-10-scenes/TURKISH_BG_UGC-B_S06_prizyv.png"
+    }
+  ]
+}
