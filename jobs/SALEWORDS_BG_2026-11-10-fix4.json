@@ -1,0 +1,28 @@
+{
+ "book": "SALEWORDS",
+ "market": "BG",
+ "date": "2026-11-10",
+ "source_campaign": "CBO | SALE WORDS | INT | INTROVERTS BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/SALEWORDS/blank_1080x1350.png",
+   "format": "banner",
+   "angle": "04-pain-office",
+   "prompt": "Create a NEW, finished Facebook/Instagram feed advertising banner for a Bulgarian audience, from scratch.\nIMAGE 1 is only a blank grey canvas used for size: ignore its content completely. The photo/background must fill the WHOLE frame edge to edge (no bars, no borders, no frames).\nLAYOUT SAFE ZONE (critical): the top 14% and the bottom 14% of the frame will be cut off afterwards. Put NOTHING important there - only continuation of the background. ALL text lines, faces, the book and the CTA button must be inside the middle 72% of the frame height. Keep about 6% side margins for text.\nEXACT VERTICAL LAYOUT (percent of the full frame height, measured from the top): 0-15% only background. 16-30% the headline. 30-74% the office scene. 75-81% the subheadline (if any). 82-88% the CTA button. 89-100% only background. Do not put any text or the button outside these zones.\nCOMPOSITION NOTE: frame the shot wider and lower - leave plenty of empty background (blurred office ceiling and wall) above the headline and empty desk/floor below the CTA button. The headline starts around 20% from the top; the button sits around 80-86% and is fully visible with space under it.\nFORMAT: PAIN scene with a real person (IMAGE 3 is our own banner for the same book - use it only for typography and colours).\nSCENE: a modern small office. In the blurred background a confident male colleague in a shirt talks easily and smiles to a client across a desk, gesturing. In the sharp foreground a 39-year-old Bulgarian woman with dark hair in a ponytail sits at her desk, holding her smartphone with both hands, looking down at it hesitantly, lips pressed, clearly not daring to call or ask. The book (IMAGE 2) lies flat and slightly turned on her desk next to her notebook at the lower right, a pen lying diagonally across its corner, about 13% of the banner width.\nTEXT ON THE BANNER (exactly these lines, nothing else):\n1) Headline overlaid on the photo (soft dark gradient behind, no separate band at the very top), white, two lines exactly as: line 1 \"Другите продават с лекота.\" line 2 \"А ти се притесняваш да попиташ.\" - make \"се притесняваш\" yellow #F5C518.\n2) CTA button: \"ВИЖ КАК →\"\n\nIMAGE 2 is the real book cover of the book \"Думите, Които Продават\". Reproduce it exactly on the physical book (printed paperback, slightly three-dimensional, natural shadow): same design, colours and all cover lettering letter by letter. Do not invent or change any cover text.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Use a heavy, clean, condensed sans-serif for headlines (like Oswald Bold / Bebas-style weight but with full Cyrillic), unless the format below says otherwise.\n- Text must be large and clearly legible on a phone at 380px width: headline lines at least ~6% of the banner height, subheadline ~3.5%, CTA text ~3.5%. Keep generous side margins (about 6% of the width).\n- Strong contrast only: white or near-black text; accent words in warm yellow #F5C518; no grey text on dark backgrounds.\n- CTA = rounded pill button in vivid red #E8232A with bold white uppercase text and an arrow →, centred near the bottom of the central area.\n- No other text, logos, watermarks, prices of the book, percentages or website addresses anywhere.\n\nPHOTO STYLE: realistic, natural-looking photo like a real Bulgarian everyday scene taken with a good phone camera; natural light, real skin texture; not glossy stock, no beauty filter. People have only two hands with five fingers each.\n\nBOOK REALISM (critical - the book must NOT look pasted in like a sticker or a product render): the book is a real, physically present paperback that belongs to the scene. It lies casually at an angle (not facing the camera straight, not standing upright like a display), with correct perspective of the table/seat, lit by the SAME light as the scene (same colour temperature, same direction of light, soft natural shadow under and next to it, a little light falloff and reflection on the glossy cover), with the same depth of field as the objects around it (slightly soft if it is not in the focus plane), realistic size relative to the cup, phone and hands (a normal 13x20 cm paperback), slightly worn edges, and partly overlapped by something in the scene (a pen lying on it, a coffee cup or a hand at its edge, or a sheet of paper under it). The cover design must still be recognisable (title readable), but it should look like a photo taken of a real book in a real room, not added later.\n\nCRITICAL POSITION CHECK: the FIRST line of any text must start no higher than 17% of the frame height from the top. The CTA button must end no lower than 87% of the frame height.\nNO extra text anywhere in the scene: no posters, signs, wall lettering or written papers besides the book cover.\n",
+   "fit": "crop",
+   "references": [
+    "source/SALEWORDS/ref_SALEWORDS_pain.jpg"
+   ],
+   "cover": "covers/SALEWORDS_BG_cover.png"
+  }
+ ]
+}
