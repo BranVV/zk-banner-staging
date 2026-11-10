@@ -1,0 +1,25 @@
+{
+  "book": "FACEYOGA",
+  "market": "BG",
+  "date": "2026-11-10-scenes-fix3",
+  "source_campaign": "FACEYOGA UGC FROM BANNERS: B S01a много уморена и S01c отпочинала, от S01b (същото кадриране)",
+  "generated_at": "2026-11-10T12:48:37+00:00",
+  "banners": [
+    {
+      "name": "FACEYOGA_BG_UGC-B_S01a_kuka-predi",
+      "path": "BG/FACEYOGA/2026-11-10-scenes-fix3/FACEYOGA_BG_UGC-B_S01a_kuka-predi.png",
+      "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_S01b_kuka-sled.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10-scenes-fix3/FACEYOGA_BG_UGC-B_S01a_kuka-predi.png"
+    },
+    {
+      "name": "FACEYOGA_BG_UGC-B_S01c_kuka",
+      "path": "BG/FACEYOGA/2026-11-10-scenes-fix3/FACEYOGA_BG_UGC-B_S01c_kuka.png",
+      "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_S01b_kuka-sled.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10-scenes-fix3/FACEYOGA_BG_UGC-B_S01c_kuka.png"
+    }
+  ]
+}
