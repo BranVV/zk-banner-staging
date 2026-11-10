@@ -1,0 +1,29 @@
+{
+ "book": "FACEYOGA",
+ "market": "BG",
+ "date": "2026-11-10-scenes-fix3",
+ "source_campaign": "FACEYOGA UGC FROM BANNERS: B S01a много уморена и S01c отпочинала, от S01b (същото кадриране)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_S01b_kuka-sled.png",
+   "format": "UGC-B",
+   "angle": "S01a_kuka-predi",
+   "prompt": "This input photo is a frame from a vertical smartphone video. Create the NEXT frame of the same video: EXACTLY the same woman, the same extreme close-up framing, the same camera position, head position, angle, background, light and clothes. Change ONLY what is described below; everything else must stay pixel-close to the input.\nKeep the real, unedited smartphone-photo look: natural skin texture, slight phone noise, no beauty filter, no retouching, no glossy look.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders. Do not add any captions, labels, logos, watermarks or text.\n\nCHANGE: Make her eyes look VERY tired, like at the end of an exhausting long day: the upper eyelids are heavy, hooded and droop clearly over the eyes so the eyelid crease is hidden, the eyes look smaller and half-lidded, visible puffiness and slight dark shadows under the eyes, a dull lifeless gaze, no smile, a flat tired expression. Clearly visible on a phone screen, but still a realistic real person (not grotesque, no bruises, no make-up). Then add a thin, soft, glowing light line that traces the ring-shaped muscle around BOTH eyes (an oval around each eye socket, including the eyelid and the area under the eye), like an anatomical outline drawn onto her real skin, subtle and elegant, no text."
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_S01b_kuka-sled.png",
+   "format": "UGC-B",
+   "angle": "S01c_kuka",
+   "prompt": "This input photo is a frame from a vertical smartphone video. Create the NEXT frame of the same video: EXACTLY the same woman, the same extreme close-up framing, the same camera position, head position, angle, background, light and clothes. Change ONLY what is described below; everything else must stay pixel-close to the input.\nKeep the real, unedited smartphone-photo look: natural skin texture, slight phone noise, no beauty filter, no retouching, no glossy look.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders. Do not add any captions, labels, logos, watermarks or text.\n\nCHANGE: Keep her eyes exactly as rested, open and awake as in the input. Her lips are slightly parted as if she is speaking to the camera, a practical, direct, confident expression."
+  }
+ ]
+}
