@@ -1,0 +1,49 @@
+{
+  "book": "FACEYOGA",
+  "market": "BG",
+  "date": "2026-11-10",
+  "source_campaign": "CBO | RSFACE | INT | over 40 age pain point BANNERS - 27052025 (ZK3, RS)",
+  "generated_at": "2026-11-10T09:31:16+00:00",
+  "banners": [
+    {
+      "name": "FACEYOGA_BG_banner_over40-46-sutrin",
+      "path": "BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-46-sutrin.png",
+      "source": "source/FACEYOGA/FACEYOGA_RS_over40_1.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-46-sutrin.png"
+    },
+    {
+      "name": "FACEYOGA_BG_banner_over40-priyatelka-kniga",
+      "path": "BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-priyatelka-kniga.png",
+      "source": "source/FACEYOGA/FACEYOGA_RS_over40_2.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-priyatelka-kniga.png"
+    },
+    {
+      "name": "FACEYOGA_BG_banner_over40-stegnatost",
+      "path": "BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-stegnatost.png",
+      "source": "source/FACEYOGA/FACEYOGA_RS_over40_3.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-stegnatost.png"
+    },
+    {
+      "name": "FACEYOGA_BG_banner_over40-ogledalo",
+      "path": "BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-ogledalo.png",
+      "source": "source/FACEYOGA/FACEYOGA_RS_over40_4.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-ogledalo.png"
+    },
+    {
+      "name": "FACEYOGA_BG_banner_over40-40-50",
+      "path": "BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-40-50.png",
+      "source": "source/FACEYOGA/FACEYOGA_RS_over40_5.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10/FACEYOGA_BG_banner_over40-40-50.png"
+    }
+  ]
+}
