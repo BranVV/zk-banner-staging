@@ -1,0 +1,29 @@
+{
+ "book": "FACEYOGA",
+ "market": "BG",
+ "date": "2026-11-10-scenes-fix1",
+ "source_campaign": "CBO | FACE | ALL MAIN PAIN | BANNERS - 01102026 -> UGC FROM BANNERS, кадри на сцените - поправка B S01a (по-близо, по-видима умора) и S03 (пръсти под веждите)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_portret.png",
+   "format": "UGC-B",
+   "angle": "S01a_kuka-predi",
+   "prompt": "This input photo shows the woman who is the main character of a vertical smartphone video. Create a NEW still frame of the SAME woman for one scene of that video (it will be the starting frame that an AI video model animates; keep her pose simple, hands already in their final position).\n\nIDENTITY (critical): it must be unmistakably the same person: identical face, facial features, age, skin tone and texture, eye colour, hair colour, hair length and hairstyle, same clothes and accessories. Do not beautify, slim or rejuvenate her.\nSETTING: the same kitchen table as in the input photo in the evening, closed laptop and a mug of tea on the table, warm yellowish light from a table lamp, kitchen cabinets behind. Keep the same place, light and mood.\nPHOTO STYLE (critical): a real, unedited smartphone photo, like a still from an Instagram story. Natural light, natural colours, real skin texture, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT stock, no beauty filter, no studio light, no heavy background blur, no HDR.\nFRAMING: vertical 9:16, phone on a small stand at eye level, she looks into the lens. EXTREME CLOSE-UP selfie: her face fills almost the whole frame from the hairline to the chin, both eyes large and clearly visible in the upper third, no hands in the frame, head straight and still.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders.\nDo not add any captions, labels, logos, watermarks or readable text anywhere, except the book cover when a book is shown.\n\nSCENE: Her eyes look clearly tired: the upper eyelids are visibly heavy, hooded and drooping over the eyes so less of the eyelid crease is visible, slight puffiness under the eyes, a dull tired gaze, like at the end of a long working day (clearly visible on a phone screen, but realistic, not grotesque). A thin, soft, glowing light line traces the ring-shaped muscle around BOTH of her eyes (an oval around each eye socket, including the eyelid and the area under the eye), like an anatomical illustration drawn onto her real skin, subtle and elegant, no text. She looks straight into the camera with a neutral expression.\n There is no book in this scene."
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_portret.png",
+   "format": "UGC-B",
+   "angle": "S03_demo",
+   "prompt": "This input photo shows the woman who is the main character of a vertical smartphone video. Create a NEW still frame of the SAME woman for one scene of that video (it will be the starting frame that an AI video model animates; keep her pose simple, hands already in their final position).\n\nIDENTITY (critical): it must be unmistakably the same person: identical face, facial features, age, skin tone and texture, eye colour, hair colour, hair length and hairstyle, same clothes and accessories. Do not beautify, slim or rejuvenate her.\nSETTING: the same kitchen table as in the input photo in the evening, closed laptop and a mug of tea on the table, warm yellowish light from a table lamp, kitchen cabinets behind. Keep the same place, light and mood.\nPHOTO STYLE (critical): a real, unedited smartphone photo, like a still from an Instagram story. Natural light, natural colours, real skin texture, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT stock, no beauty filter, no studio light, no heavy background blur, no HDR.\nLAYOUT (critical): the frame is split horizontally. TOP PANEL (upper ~40% of the frame, full width, separated by a clean straight edge): a soft hand-drawn anatomical beauty illustration in pencil and light watercolour on pale pink paper, in the style of an elegant medical-beauty poster: the same large close-up drawing of one female eye; the ring-shaped muscle around the eye is drawn firmer in warmer pink, the eyelid is lifted and the eye looks open and awake, and a small green curved arrow beside the eye points UPWARDS. Absolutely no text, no letters, no labels, no numbers in the illustration. BOTTOM PANEL (lower ~60%): the real smartphone photo of the woman described below.\nFRAMING: vertical 9:16, phone on a small stand at eye level, she looks into the lens. The bottom panel shows her head and shoulders at the kitchen table.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders.\nDo not add any captions, labels, logos, watermarks or readable text anywhere, except the book cover when a book is shown.\n\nSCENE: She is doing a face yoga exercise: the tips of both index fingers rest horizontally just BELOW her eyebrows, on the upper eyelid fold under the brow bone (not on top of the eyebrows, not on the temples), gently holding the brows; her eyes look upwards towards the ceiling and the lower eyelids are slightly squinted. The other fingers are relaxed and curled. Hands are already in this position and still.\n There is no book in this scene."
+  }
+ ]
+}
