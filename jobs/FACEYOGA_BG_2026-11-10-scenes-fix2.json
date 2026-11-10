@@ -1,0 +1,29 @@
+{
+ "book": "FACEYOGA",
+ "market": "BG",
+ "date": "2026-11-10-scenes-fix2",
+ "source_campaign": "CBO | FACE | ALL MAIN PAIN | BANNERS - 01102026 -> UGC FROM BANNERS, кадри на сцените - B S01b и S01c от новия S01a (същото кадриране)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_S01a_kuka-predi.png",
+   "format": "UGC-B",
+   "angle": "S01b_kuka-sled",
+   "prompt": "This input photo is a frame from a vertical smartphone video. Create the NEXT frame of the same video: EXACTLY the same woman, the same extreme close-up framing, the same camera position, head position, angle, background, light and clothes. Change ONLY what is described below; everything else must stay pixel-close to the input.\nKeep the real, unedited smartphone-photo look: natural skin texture, slight phone noise, no beauty filter, no retouching, no glossy look.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders. Do not add any captions, labels, logos, watermarks or text.\n\nCHANGE: Remove the glowing light lines around her eyes completely (clean natural skin). Her eyes now look open, rested and awake: the upper eyelids are lifted so the eyelid crease is clearly visible, less puffiness under the eyes, a clearer brighter gaze with a little light in the eyes, like the same woman after a good rest. The difference must be clearly noticeable on a phone screen but realistic and moderate (no make-up, NOT a cosmetic surgery effect, same age, same wrinkles). She has a slight confident smile."
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_S01a_kuka-predi.png",
+   "format": "UGC-B",
+   "angle": "S01c_kuka",
+   "prompt": "This input photo is a frame from a vertical smartphone video. Create the NEXT frame of the same video: EXACTLY the same woman, the same extreme close-up framing, the same camera position, head position, angle, background, light and clothes. Change ONLY what is described below; everything else must stay pixel-close to the input.\nKeep the real, unedited smartphone-photo look: natural skin texture, slight phone noise, no beauty filter, no retouching, no glossy look.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders. Do not add any captions, labels, logos, watermarks or text.\n\nCHANGE: Remove the glowing light lines around her eyes completely (clean natural skin). Keep her eyes exactly as tired as in the input (heavy upper eyelids). Her lips are slightly parted as if she is speaking to the camera, practical and direct expression."
+  }
+ ]
+}
