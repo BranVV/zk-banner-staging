@@ -1,0 +1,25 @@
+{
+  "book": "FACEYOGA",
+  "market": "BG",
+  "date": "2026-11-10-portraits",
+  "source_campaign": "CBO | FACE | ALL MAIN PAIN | BANNERS - 01102026 -> UGC FROM BANNERS, основни портрети на аватарите",
+  "generated_at": "2026-11-10T12:20:11+00:00",
+  "banners": [
+    {
+      "name": "FACEYOGA_BG_UGC-A_portret",
+      "path": "BG/FACEYOGA/2026-11-10-portraits/FACEYOGA_BG_UGC-A_portret.png",
+      "source": "source/FACEYOGA/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10-portraits/FACEYOGA_BG_UGC-A_portret.png"
+    },
+    {
+      "name": "FACEYOGA_BG_UGC-B_portret",
+      "path": "BG/FACEYOGA/2026-11-10-portraits/FACEYOGA_BG_UGC-B_portret.png",
+      "source": "source/FACEYOGA/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10-portraits/FACEYOGA_BG_UGC-B_portret.png"
+    }
+  ]
+}
