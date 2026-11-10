@@ -3,16 +3,8 @@
   "market": "BG",
   "date": "2026-11-10",
   "source_campaign": "CBO | SALE WORDS | INT | INTROVERTS BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
-  "generated_at": "2026-11-10T14:50:24+00:00",
+  "generated_at": "2026-11-10T15:00:05+00:00",
   "banners": [
-    {
-      "name": "SALEWORDS_BG_banner_03-inuse",
-      "path": "BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_03-inuse.png",
-      "source": "source/SALEWORDS/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_03-inuse.png"
-    },
     {
       "name": "SALEWORDS_BG_banner_04-pain-office",
       "path": "BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_04-pain-office.png",
@@ -22,12 +14,20 @@
       "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_04-pain-office.png"
     },
     {
-      "name": "SALEWORDS_BG_banner_07-review",
-      "path": "BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_07-review.png",
+      "name": "SALEWORDS_BG_banner_05-pain-car",
+      "path": "BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_05-pain-car.png",
       "source": "source/SALEWORDS/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_07-review.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_05-pain-car.png"
+    },
+    {
+      "name": "SALEWORDS_BG_banner_06-promise",
+      "path": "BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_06-promise.png",
+      "source": "source/SALEWORDS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-10/SALEWORDS_BG_banner_06-promise.png"
     }
   ]
 }
