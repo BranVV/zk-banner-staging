@@ -1,0 +1,168 @@
+{
+ "book": "FACEYOGA",
+ "market": "BG",
+ "date": "2026-11-10",
+ "source_campaign": "CBO | RSFACE | INT | over 40 age pain point BANNERS - 27052025 (ZK3, RS)",
+ "source_account": "ZK3",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/FACEYOGA_BG_cover.png",
+  "keep_as_is": [],
+  "extra_rules": [
+   "Bulgarian in Cyrillic script only. Render every Bulgarian text exactly as given, letter for letter, once, with correct Cyrillic letters (й, ъ, ю, я, щ, ж, ч, ш).",
+   "Keep the layout, colours, photos, faces, fonts, badge and button shape identical; change only the text.",
+   "Never add a name, a signature or any extra text. Do not duplicate words. Keep the original text styles (bold headline, italic subtitle).",
+   "Use a short hyphen '-' never a long dash.",
+   "Keep the 4:5 portrait format."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/FACEYOGA/FACEYOGA_RS_over40_1.jpg",
+   "format": "banner",
+   "angle": "over40-46-sutrin",
+   "translations": [
+    {
+     "source": "Nisam prihvatila da je to neizbezno. Imam 46 i evo sta radim.",
+     "target": "Отказах да приема, че е неизбежно. На 46 съм и ето какво правя."
+    },
+    {
+     "source": "15 minuta ujutru promenilo je vise nego sto sam ocekivala.",
+     "target": "15 минути сутрин промениха повече, отколкото очаквах."
+    },
+    {
+     "source": "Pogledaj vežbe →",
+     "target": "Виж упражненията →"
+    }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bulgarian in Cyrillic script only. Render every Bulgarian text exactly as given, letter for letter, once, with correct Cyrillic letters (й, ъ, ю, я, щ, ж, ч, ш).",
+    "Keep the layout, colours, photos, faces, fonts, badge and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words. Keep the original text styles (bold headline, italic subtitle).",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the 4:5 portrait format.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_RS_over40_2.jpg",
+   "format": "banner",
+   "angle": "over40-priyatelka-kniga",
+   "translations": [
+    {
+     "source": "Drugarica ima 47. Pitala sam je sta radi. Pokazala mi je ovu knjigu.",
+     "target": "Приятелка ми е на 47. Попитах я какво прави и тя ми показа тази книга."
+    },
+    {
+     "source": "Pocela sam. I za mesec dana vec primecujem razliku.",
+     "target": "Започнах. След месец вече виждам разликата."
+    },
+    {
+     "source": "Pogledaj vežbe →",
+     "target": "Виж упражненията →"
+    }
+   ],
+   "extra_rules": [
+    "Bulgarian in Cyrillic script only. Render every Bulgarian text exactly as given, letter for letter, once, with correct Cyrillic letters (й, ъ, ю, я, щ, ж, ч, ш).",
+    "Keep the layout, colours, photos, faces, fonts, badge and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words. Keep the original text styles (bold headline, italic subtitle).",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the 4:5 portrait format.",
+    "Replace the book the woman is holding with the attached Bulgarian cover: same hand, same position, size and angle, held naturally, showing the attached cover accurately. Remove the old book completely. CRITICAL: copy the cover text letter for letter from the attached cover: title 'ТАЙНИТЕ НА ФЕЙС ЙОГА'; subtitle 'Как да постигнеш сияйна и естествена красота на лицето, като забавиш стареенето, без да ползваш скъпа козметика и посещаваш скъпи козметични процедури'."
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_RS_over40_3.jpg",
+   "format": "banner",
+   "angle": "over40-stegnatost",
+   "translations": [
+    {
+     "source": "Posle 40, lice počinje da gubi čvrstoću.",
+     "target": "След 40 лицето започва да губи стегнатостта си."
+    },
+    {
+     "source": "Evo šta radim svako jutro — i prijatelji me pitaju šta sam promenila.",
+     "target": "Ето какво правя всяка сутрин. Вече ме питат какво съм променила."
+    },
+    {
+     "source": "Pogledaj vežbe →",
+     "target": "Виж упражненията →"
+    }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bulgarian in Cyrillic script only. Render every Bulgarian text exactly as given, letter for letter, once, with correct Cyrillic letters (й, ъ, ю, я, щ, ж, ч, ш).",
+    "Keep the layout, colours, photos, faces, fonts, badge and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words. Keep the original text styles (bold headline, italic subtitle).",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the 4:5 portrait format.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_RS_over40_4.jpg",
+   "format": "banner",
+   "angle": "over40-ogledalo",
+   "translations": [
+    {
+     "source": "Posle 40, ogledalo pocinje da govori stvari koje ne zelis da cujes.",
+     "target": "След 40 огледалото започва да казва неща, които не искаш да чуеш."
+    },
+    {
+     "source": "Postoji razlog zasto neke zene istih godina izgledaju drugacije.",
+     "target": "Има причина някои жени на същите години да изглеждат по-млади."
+    },
+    {
+     "source": "Pogledaj vežbe →",
+     "target": "Виж упражненията →"
+    }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bulgarian in Cyrillic script only. Render every Bulgarian text exactly as given, letter for letter, once, with correct Cyrillic letters (й, ъ, ю, я, щ, ж, ч, ш).",
+    "Keep the layout, colours, photos, faces, fonts, badge and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words. Keep the original text styles (bold headline, italic subtitle).",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the 4:5 portrait format.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
+   ]
+  },
+  {
+   "source": "source/FACEYOGA/FACEYOGA_RS_over40_5.jpg",
+   "format": "banner",
+   "angle": "over40-40-50",
+   "translations": [
+    {
+     "source": "40+",
+     "target": "40+"
+    },
+    {
+     "source": "Izmedju 40 i 50 koza se menja brze.",
+     "target": "Между 40 и 50 кожата се променя по-бързо."
+    },
+    {
+     "source": "Ali postoji nesto sto mozes da uradis.",
+     "target": "Но има какво да направиш."
+    },
+    {
+     "source": "Pogledaj vežbe →",
+     "target": "Виж упражненията →"
+    }
+   ],
+   "cover": null,
+   "extra_rules": [
+    "Bulgarian in Cyrillic script only. Render every Bulgarian text exactly as given, letter for letter, once, with correct Cyrillic letters (й, ъ, ю, я, щ, ж, ч, ш).",
+    "Keep the layout, colours, photos, faces, fonts, badge and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words. Keep the original text styles (bold headline, italic subtitle).",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the 4:5 portrait format.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
+   ]
+  }
+ ]
+}
