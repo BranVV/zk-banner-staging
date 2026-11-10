@@ -1,0 +1,23 @@
+{
+ "book": "TURKISH",
+ "market": "BG",
+ "date": "2026-11-10-portraits-fix",
+ "source_campaign": "CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 -> UGC FROM BANNERS, основни портрети на аватарите (B на 50 г. вместо 58)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/TURKISH/blank_1080x1920.png",
+   "format": "UGC-B",
+   "angle": "portret",
+   "prompt": "Create a photo of a 50-year-old Bulgarian woman at home in Bulgaria. She has short salt-and-pepper hair (mostly grey with some darker strands) in a practical pixie cut, fair skin with only light fine lines around the eyes, a youthful face for her age, brown eyes, glasses with red plastic frames, no visible make-up. She wears a dark navy-blue knitted cardigan over a plain light top, no earrings, a simple wristwatch. She sits on the edge of a double bed in an ordinary Bulgarian apartment bedroom during the day, daylight from a window; next to her on the bed is an open suitcase with folded colourful Turkish towels, a box of Turkish delight and a few small tulip-shaped tea glasses wrapped in paper, clearly just back from a trip to Turkey. A wardrobe and a patterned rug are visible behind her. Frank, practical expression with a hint of self-irony, a small half-smile, looking straight into the camera.\n\nPHOTO STYLE (critical): it must look like a real, unedited photo taken with an ordinary smartphone camera (like an Instagram story or a selfie video still). Natural daylight, natural colours, real skin texture with pores and fine lines, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT a stock photo, NOT an advertising photo, no beauty filter, no studio lighting, no heavy background blur, no HDR look.\nFRAMING: vertical 9:16, the phone is on a small stand at eye level, so she looks straight into the lens. Upper body and face clearly visible, head in the upper third, some of the bed and suitcase visible at the bottom.\nThe input image is only a blank grey canvas used for size: ignore it completely and replace it entirely with the photo. The image has plain bars along two edges purely as padding: fill the whole frame naturally with the photo, no bars, no borders.\nDo not add any text, letters, logos, watermarks or captions anywhere. Do not show any book in this photo.\n"
+  }
+ ]
+}
