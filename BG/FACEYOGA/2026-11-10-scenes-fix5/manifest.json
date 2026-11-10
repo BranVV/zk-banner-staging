@@ -1,0 +1,17 @@
+{
+  "book": "FACEYOGA",
+  "market": "BG",
+  "date": "2026-11-10-scenes-fix5",
+  "source_campaign": "FACEYOGA UGC FROM BANNERS: B S02 с отпочинал поглед",
+  "generated_at": "2026-11-10T12:53:17+00:00",
+  "banners": [
+    {
+      "name": "FACEYOGA_BG_UGC-B_S02_mehanizam",
+      "path": "BG/FACEYOGA/2026-11-10-scenes-fix5/FACEYOGA_BG_UGC-B_S02_mehanizam.png",
+      "source": "source/FACEYOGA/FACEYOGA_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/FACEYOGA/2026-11-10-scenes-fix5/FACEYOGA_BG_UGC-B_S02_mehanizam.png"
+    }
+  ]
+}
