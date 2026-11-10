@@ -1,0 +1,23 @@
+{
+ "book": "FACEYOGA",
+ "market": "BG",
+ "date": "2026-11-10-scenes-fix4",
+ "source_campaign": "FACEYOGA UGC FROM BANNERS: B S02 с отпочинал поглед",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/FACEYOGA/FACEYOGA_BG_UGC-A_portret.png",
+   "format": "UGC-A",
+   "angle": "S02_mehanizam",
+   "prompt": "This input photo shows the woman who is the main character of a vertical smartphone video. Create a NEW still frame of the SAME woman for one scene of that video (it will be the starting frame that an AI video model animates; keep her pose simple, hands already in their final position).\n\nIDENTITY (critical): it must be unmistakably the same person: identical face, facial features, age, skin tone and texture, eye colour, hair colour, hair length and hairstyle, same clothes and accessories. Do not beautify, slim or rejuvenate her.\nSETTING: the same small bathroom as in the input photo, in front of the mirror above the washbasin, shelf with face cream jars, white tiles, soft morning daylight. Keep the same place, light and mood.\nPHOTO STYLE (critical): a real, unedited smartphone photo, like a still from an Instagram story. Natural light, natural colours, real skin texture, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT stock, no beauty filter, no studio light, no heavy background blur, no HDR.\nLAYOUT (critical): the frame is split horizontally. TOP PANEL (upper ~40% of the frame, full width, separated by a clean straight edge): a soft hand-drawn anatomical beauty illustration in pencil and light watercolour on pale pink paper, in the style of an elegant medical-beauty poster: the face of a calm woman with closed eyes seen from the front; the cheek muscles (zygomaticus and buccinator) are drawn in soft reddish-pink fibres on both cheeks, and small dark-red arrows on the cheeks point DOWNWARDS, showing the middle of the face sagging; the nasolabial folds are drawn as dark curved lines from the nose to the corners of the mouth. Absolutely no text, no letters, no labels, no numbers in the illustration. BOTTOM PANEL (lower ~60%): the real smartphone photo of the woman described below.\nFRAMING: vertical 9:16, phone on a small stand at eye level, she looks into the lens. The bottom panel shows her head and shoulders in front of the mirror.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders.\nDo not add any captions, labels, logos, watermarks or readable text anywhere, except the book cover when a book is shown.\n\nSCENE: She talks to the camera mid-sentence, explaining calmly, one eyebrow slightly raised.\n There is no book in this scene."
+  }
+ ]
+}
