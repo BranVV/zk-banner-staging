@@ -1,0 +1,57 @@
+{
+  "book": "GREEK",
+  "market": "BG",
+  "date": "2026-11-11",
+  "source_campaign": "CBO | GREEK | INT | PROPERTY OWNERS BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
+  "generated_at": "2026-11-11T09:30:39+00:00",
+  "banners": [
+    {
+      "name": "GREEK_BG_banner_01-ugly",
+      "path": "BG/GREEK/2026-11-11/GREEK_BG_banner_01-ugly.png",
+      "source": "source/GREEK/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/GREEK/2026-11-11/GREEK_BG_banner_01-ugly.png"
+    },
+    {
+      "name": "GREEK_BG_banner_02-pain-neighbours",
+      "path": "BG/GREEK/2026-11-11/GREEK_BG_banner_02-pain-neighbours.png",
+      "source": "source/GREEK/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/GREEK/2026-11-11/GREEK_BG_banner_02-pain-neighbours.png"
+    },
+    {
+      "name": "GREEK_BG_banner_03-dream-villa",
+      "path": "BG/GREEK/2026-11-11/GREEK_BG_banner_03-dream-villa.png",
+      "source": "source/GREEK/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/GREEK/2026-11-11/GREEK_BG_banner_03-dream-villa.png"
+    },
+    {
+      "name": "GREEK_BG_banner_04-promise-keys",
+      "path": "BG/GREEK/2026-11-11/GREEK_BG_banner_04-promise-keys.png",
+      "source": "source/GREEK/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/GREEK/2026-11-11/GREEK_BG_banner_04-promise-keys.png"
+    },
+    {
+      "name": "GREEK_BG_banner_05-review",
+      "path": "BG/GREEK/2026-11-11/GREEK_BG_banner_05-review.png",
+      "source": "source/GREEK/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/GREEK/2026-11-11/GREEK_BG_banner_05-review.png"
+    },
+    {
+      "name": "GREEK_BG_banner_06-chat",
+      "path": "BG/GREEK/2026-11-11/GREEK_BG_banner_06-chat.png",
+      "source": "source/GREEK/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/GREEK/2026-11-11/GREEK_BG_banner_06-chat.png"
+    }
+  ]
+}
