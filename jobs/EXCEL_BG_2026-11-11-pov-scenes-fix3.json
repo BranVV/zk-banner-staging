@@ -1,0 +1,31 @@
+{
+ "book": "EXCEL",
+ "market": "BG",
+ "date": "2026-11-11-pov-scenes-fix3",
+ "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 1 POV, кадри 3 и 4 с пълен офис",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536",
+  "cover": "covers/EXCEL_BG_cover.png"
+ },
+ "banners": [
+  {
+   "source": "source/EXCEL/EXCEL_BG_POV-01_K3_fix2.png",
+   "format": "POV-01",
+   "angle": "K3_17h",
+   "prompt": "Edit this photo. Keep EVERYTHING in the foreground exactly as it is: the same composition, camera angle, desk, coffee cup, book (same cover, every letter unchanged), laptop, both hands and arms, shirt, the smartwatch exactly as it is (same position, same orientation, same digits), the daylight.\nChange ONLY the background office: it is now a normal busy working afternoon at 5 pm. The open-plan office is FULL: about 8-10 colleagues (men and women, 25-55, ordinary Bulgarian office workers in casual business clothes) are still sitting at their desks working at their monitors, a couple talking on the phone, one carrying papers. Their monitors are on. They are in the middle and far background, naturally slightly soft with phone depth of field, seen from behind, in profile or at a distance; nobody looks into the camera and no face is sharp or the focus of the image. The man in the foreground is the only one leaving.\nPhoto style unchanged: a real, unedited smartphone photo, first-person POV, natural colours. The image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars. No readable text anywhere except the book cover and the watch digits; colleagues' monitors show only blurred content."
+  },
+  {
+   "source": "source/EXCEL/EXCEL_BG_POV-01_K4_old.png",
+   "format": "POV-01",
+   "angle": "K4_prizyv",
+   "prompt": "Edit this photo. Keep EVERYTHING in the foreground exactly as it is: the same composition, camera angle, desk, coffee cup, book (same cover, every letter unchanged), laptop, both hands and arms, shirt, the smartwatch and the right hand with the index finger pointing down exactly as they are, the daylight.\nChange ONLY the background office: it is now a normal busy working afternoon at 5 pm. The open-plan office is FULL: about 8-10 colleagues (men and women, 25-55, ordinary Bulgarian office workers in casual business clothes) are still sitting at their desks working at their monitors, a couple talking on the phone, one carrying papers. Their monitors are on. They are in the middle and far background, naturally slightly soft with phone depth of field, seen from behind, in profile or at a distance; nobody looks into the camera and no face is sharp or the focus of the image. The man in the foreground is the only one leaving.\nPhoto style unchanged: a real, unedited smartphone photo, first-person POV, natural colours. The image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars. No readable text anywhere except the book cover ; colleagues' monitors show only blurred content."
+  }
+ ]
+}
