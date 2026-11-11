@@ -92,3 +92,11 @@
 | HR | хърватски | общ превод с BA |
 | BA | босненски | общ превод с HR |
 | RO | румънски | отделен превод |
+
+## Нови банери (от 11.11.2026)
+
+Job за НОВИ банери се сглобява само с `tools/build_job.py spec.json` (не на ръка) - така винаги влизат
+задължителните блокове (SCREEN ORIENTATION, BOOK REALISM, REVIEW правила, POSITION CHECK, рецептата на формата
+от `tools/banner_formats.json`). Такъв job има `"check_layout": true` и след генерирането workflow-ът пуска
+`tools/check_layout.py`, който изрязва наново от `_raw/` всеки банер с текст или бутон по-близо от 4% до ръба.
+Преди банерите да се покажат - `tools/CHECKLIST.md`.

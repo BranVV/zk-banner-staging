@@ -63,6 +63,14 @@ jobs:
             echo "::endgroup::"
           done
 
+      - name: Проверка на ръбовете (само задачи от build_job.py)
+        if: steps.pick.outputs.jobs != ''
+        run: |
+          for JOB in ${{ steps.pick.outputs.jobs }}; do
+            DIR=$(python -c "import json,sys;j=json.load(open('$JOB'));print(f\"{j['market']}/{j['book']}/{j['date']}\" if j.get('check_layout') else '')")
+            if [ -n "$DIR" ] && [ -d "$DIR" ]; then python tools/check_layout.py "$DIR"; fi
+          done
+
       - name: Записване на резултата в репото
         if: steps.pick.outputs.jobs != ''
         run: |
