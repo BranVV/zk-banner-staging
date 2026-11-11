@@ -3,63 +3,23 @@
   "market": "BG",
   "date": "2026-11-11",
   "source_campaign": "CBO | EXCEL | INT | 50+ BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
-  "generated_at": "2026-11-11T11:18:03+00:00",
+  "generated_at": "2026-11-11T11:23:15+00:00",
   "banners": [
     {
-      "name": "EXCEL_BG_banner_01-ugly-mladite",
-      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_01-ugly-mladite.png",
+      "name": "EXCEL_BG_banner_02b-pain-vnucite",
+      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_02b-pain-vnucite.png",
       "source": "source/EXCEL/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_01-ugly-mladite.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_02b-pain-vnucite.png"
     },
     {
-      "name": "EXCEL_BG_banner_02-pain-vnucite",
-      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_02-pain-vnucite.png",
+      "name": "EXCEL_BG_banner_03b-split-5minuti",
+      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_03b-split-5minuti.png",
       "source": "source/EXCEL/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_02-pain-vnucite.png"
-    },
-    {
-      "name": "EXCEL_BG_banner_03-split-5minuti",
-      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_03-split-5minuti.png",
-      "source": "source/EXCEL/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_03-split-5minuti.png"
-    },
-    {
-      "name": "EXCEL_BG_banner_04-promise-na55",
-      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_04-promise-na55.png",
-      "source": "source/EXCEL/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_04-promise-na55.png"
-    },
-    {
-      "name": "EXCEL_BG_banner_05-review-kasno",
-      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_05-review-kasno.png",
-      "source": "source/EXCEL/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_05-review-kasno.png"
-    },
-    {
-      "name": "EXCEL_BG_banner_06-hero-na58",
-      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_06-hero-na58.png",
-      "source": "source/EXCEL/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_06-hero-na58.png"
-    },
-    {
-      "name": "EXCEL_BG_banner_07-inuse-smetki",
-      "path": "BG/EXCEL/2026-11-11/EXCEL_BG_banner_07-inuse-smetki.png",
-      "source": "source/EXCEL/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_07-inuse-smetki.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11/EXCEL_BG_banner_03b-split-5minuti.png"
     }
   ]
 }
