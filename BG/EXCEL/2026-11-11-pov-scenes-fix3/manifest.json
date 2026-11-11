@@ -1,0 +1,25 @@
+{
+  "book": "EXCEL",
+  "market": "BG",
+  "date": "2026-11-11-pov-scenes-fix3",
+  "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 1 POV, кадри 3 и 4 с пълен офис",
+  "generated_at": "2026-11-11T12:04:05+00:00",
+  "banners": [
+    {
+      "name": "EXCEL_BG_POV-01_K3_17h",
+      "path": "BG/EXCEL/2026-11-11-pov-scenes-fix3/EXCEL_BG_POV-01_K3_17h.png",
+      "source": "source/EXCEL/EXCEL_BG_POV-01_K3_fix2.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-pov-scenes-fix3/EXCEL_BG_POV-01_K3_17h.png"
+    },
+    {
+      "name": "EXCEL_BG_POV-01_K4_prizyv",
+      "path": "BG/EXCEL/2026-11-11-pov-scenes-fix3/EXCEL_BG_POV-01_K4_prizyv.png",
+      "source": "source/EXCEL/EXCEL_BG_POV-01_K4_old.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-pov-scenes-fix3/EXCEL_BG_POV-01_K4_prizyv.png"
+    }
+  ]
+}
