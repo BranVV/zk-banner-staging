@@ -1,0 +1,25 @@
+{
+  "book": "DRAWING",
+  "market": "BG",
+  "date": "2026-11-11-portraits",
+  "source_campaign": "CBO | DRAWING | PARENTS BANNERS - 07102026 -> UGC FROM BANNERS, основни портрети на аватарите",
+  "generated_at": "2026-11-11T09:04:31+00:00",
+  "banners": [
+    {
+      "name": "DRAWING_BG_UGC-A_portret",
+      "path": "BG/DRAWING/2026-11-11-portraits/DRAWING_BG_UGC-A_portret.png",
+      "source": "source/DRAWING/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-portraits/DRAWING_BG_UGC-A_portret.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-B_portret",
+      "path": "BG/DRAWING/2026-11-11-portraits/DRAWING_BG_UGC-B_portret.png",
+      "source": "source/DRAWING/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-portraits/DRAWING_BG_UGC-B_portret.png"
+    }
+  ]
+}
