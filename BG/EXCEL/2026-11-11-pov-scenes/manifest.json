@@ -1,0 +1,41 @@
+{
+  "book": "EXCEL",
+  "market": "BG",
+  "date": "2026-11-11-pov-scenes",
+  "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 1 POV, кадри",
+  "generated_at": "2026-11-11T11:52:55+00:00",
+  "banners": [
+    {
+      "name": "EXCEL_BG_POV-01_K1a_chasovnik",
+      "path": "BG/EXCEL/2026-11-11-pov-scenes/EXCEL_BG_POV-01_K1a_chasovnik.png",
+      "source": "source/EXCEL/EXCEL_BG_POV-01_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-pov-scenes/EXCEL_BG_POV-01_K1a_chasovnik.png"
+    },
+    {
+      "name": "EXCEL_BG_POV-01_K2_kniga",
+      "path": "BG/EXCEL/2026-11-11-pov-scenes/EXCEL_BG_POV-01_K2_kniga.png",
+      "source": "source/EXCEL/EXCEL_BG_POV-01_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-pov-scenes/EXCEL_BG_POV-01_K2_kniga.png"
+    },
+    {
+      "name": "EXCEL_BG_POV-01_K3_17h",
+      "path": "BG/EXCEL/2026-11-11-pov-scenes/EXCEL_BG_POV-01_K3_17h.png",
+      "source": "source/EXCEL/EXCEL_BG_POV-01_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-pov-scenes/EXCEL_BG_POV-01_K3_17h.png"
+    },
+    {
+      "name": "EXCEL_BG_POV-01_K4_prizyv",
+      "path": "BG/EXCEL/2026-11-11-pov-scenes/EXCEL_BG_POV-01_K4_prizyv.png",
+      "source": "source/EXCEL/EXCEL_BG_POV-01_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-pov-scenes/EXCEL_BG_POV-01_K4_prizyv.png"
+    }
+  ]
+}
