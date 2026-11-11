@@ -1,0 +1,17 @@
+{
+  "book": "DRAWING",
+  "market": "BG",
+  "date": "2026-11-11-first-portraits-b55",
+  "source_campaign": "CBO | DRAWING | FIRST BANNERS TEST - 29092026 -> UGC FROM FIRST BANNERS, основни портрети на аватарите",
+  "generated_at": "2026-11-11T09:46:25+00:00",
+  "banners": [
+    {
+      "name": "DRAWING_BG_UGC-B_portret",
+      "path": "BG/DRAWING/2026-11-11-first-portraits-b55/DRAWING_BG_UGC-B_portret.png",
+      "source": "source/DRAWING/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-first-portraits-b55/DRAWING_BG_UGC-B_portret.png"
+    }
+  ]
+}
