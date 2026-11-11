@@ -1,0 +1,29 @@
+{
+ "book": "DRAWING",
+ "market": "BG",
+ "date": "2026-11-11-portraits",
+ "source_campaign": "CBO | DRAWING | PARENTS BANNERS - 07102026 -> UGC FROM BANNERS, основни портрети на аватарите",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/DRAWING/blank_1080x1920.png",
+   "format": "UGC-A",
+   "angle": "portret",
+   "prompt": "Create a photo of a 42-year-old Bulgarian mother at home in Bulgaria in the evening. She has shoulder-length wavy auburn (reddish-brown) hair, light freckles, green eyes, natural fine lines, minimal make-up. She wears a soft grey knitted cardigan over a white T-shirt, a thin silver necklace. She sits on the sofa in the living room of an ordinary Bulgarian apartment; a warm floor lamp, a few cushions, a bookshelf with family photos and children's drawings pinned on it behind her. Warm, honest, slightly tired-after-work but kind expression, a small smile, looking straight into the camera.\n\nPHOTO STYLE (critical): it must look like a real, unedited photo taken with an ordinary smartphone camera (like an Instagram story or a selfie video still). Natural light, natural colours, real skin texture with pores and fine lines, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT a stock photo, NOT an advertising photo, no beauty filter, no studio lighting, no heavy background blur, no HDR look.\nFRAMING: vertical 9:16, the phone is on a small stand at eye level, so she looks straight into the lens. Upper body and face clearly visible, head in the upper third.\nThe input image is only a blank grey canvas used for size: ignore it completely and replace it entirely with the photo. The image has plain bars along two edges purely as padding: fill the whole frame naturally with the photo, no bars, no borders.\nDo not add any text, letters, logos, watermarks or captions anywhere. Do not show any book in this photo. No other people in the photo.\n"
+  },
+  {
+   "source": "source/DRAWING/blank_1080x1920.png",
+   "format": "UGC-B",
+   "angle": "portret",
+   "prompt": "Create a photo of a 60-year-old Bulgarian grandmother at home in Bulgaria in the daytime. She has short silver-white hair in a soft modern cut, a round friendly face with natural wrinkles and laugh lines, warm brown eyes, thin rimless reading glasses, no make-up. She wears a beige knitted cardigan with a small brooch over a light blouse. She sits at the kitchen table of her cosy older Bulgarian apartment: a lace tablecloth, a plate of homemade biscuits, a teapot, potted geraniums on the windowsill, soft daylight from the window. Warm, lively, a little mischievous expression, a smile, looking straight into the camera.\n\nPHOTO STYLE (critical): it must look like a real, unedited photo taken with an ordinary smartphone camera (like an Instagram story or a selfie video still). Natural light, natural colours, real skin texture with pores and fine lines, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT a stock photo, NOT an advertising photo, no beauty filter, no studio lighting, no heavy background blur, no HDR look.\nFRAMING: vertical 9:16, the phone is on a small stand at eye level, so she looks straight into the lens. Upper body and face clearly visible, head in the upper third.\nThe input image is only a blank grey canvas used for size: ignore it completely and replace it entirely with the photo. The image has plain bars along two edges purely as padding: fill the whole frame naturally with the photo, no bars, no borders.\nDo not add any text, letters, logos, watermarks or captions anywhere. Do not show any book in this photo. No other people in the photo.\n"
+  }
+ ]
+}
