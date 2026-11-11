@@ -1,0 +1,23 @@
+{
+ "book": "EXCEL",
+ "market": "BG",
+ "date": "2026-11-11-pov-anchor",
+ "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 1 POV, опорен кадър",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/EXCEL/blank_1080x1920.png",
+   "format": "POV-01",
+   "angle": "K1b_klaviatura",
+   "prompt": "Create a first-person point-of-view photo: a man sits at his office desk late in the evening and we see what he sees, looking down at his own hands typing on the keyboard of a silver laptop.\nBACKGROUND: an ordinary Bulgarian open-plan office at 7 pm, dark, everybody has gone home: empty grey desks and empty office chairs behind the laptop, monitors switched off, only his own small desk lamp is on. Next to the laptop: a closed black backpack, a paper coffee cup, a few printed sheets.\nACTION: his hands rest on the laptop keyboard, fingers mid-typing, tired posture.\nLIGHTING: warm light from the single desk lamp plus the cold glow of the laptop screen; the rest of the office is dim. Tired, late-evening mood.\n\nPHOTO STYLE (critical): it must look like a real, unedited photo taken with an ordinary smartphone held at chest/eye level by the person himself (first-person point of view, like a still from an Instagram story). Natural light, natural colours, real skin texture on the hands, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT stock, NOT an advertising photo, no studio light, no HDR.\nFIRST-PERSON POV (critical): the camera IS the eyes of the man. We see only his own hands and forearms from his point of view. No face, no head, no other people's faces anywhere in the frame.\nSCREEN RULE (critical): the laptop screen is always out of focus and soft: only the green-white glow of a spreadsheet grid is recognisable, NO readable letters, numbers or formulas on it.\nHANDS: a 40-year-old Bulgarian man's hands, light skin, short clean nails, no rings, only two hands with five fingers each. Navy blue shirt with sleeves rolled up to the forearms. A black smartwatch with a plain black strap on the LEFT wrist.\nFRAMING: vertical 9:16.\nThe input image is only a blank grey canvas used for size: ignore it completely and replace it entirely with the photo. The image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders.\nDo not add any captions, labels, logos, watermarks or readable text anywhere. No book in this photo."
+  }
+ ]
+}
