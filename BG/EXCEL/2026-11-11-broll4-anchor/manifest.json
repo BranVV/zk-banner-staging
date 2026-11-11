@@ -1,0 +1,17 @@
+{
+  "book": "EXCEL",
+  "market": "BG",
+  "date": "2026-11-11-broll4-anchor",
+  "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 4 B-ROLL, опорен кадър",
+  "generated_at": "2026-11-11T12:10:04+00:00",
+  "banners": [
+    {
+      "name": "EXCEL_BG_BROLL-04_K1_kantora",
+      "path": "BG/EXCEL/2026-11-11-broll4-anchor/EXCEL_BG_BROLL-04_K1_kantora.png",
+      "source": "source/EXCEL/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-broll4-anchor/EXCEL_BG_BROLL-04_K1_kantora.png"
+    }
+  ]
+}
