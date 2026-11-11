@@ -3,63 +3,15 @@
   "market": "BG",
   "date": "2026-11-11",
   "source_campaign": "CBO | TURKISH | INT | TV SERIES and MUSIC BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
-  "generated_at": "2026-11-11T10:24:51+00:00",
+  "generated_at": "2026-11-11T10:39:08+00:00",
   "banners": [
     {
-      "name": "TURKISH_BG_banner_01-dream-sofa",
-      "path": "BG/TURKISH/2026-11-11/TURKISH_BG_banner_01-dream-sofa.png",
+      "name": "TURKISH_BG_banner_02b-pain-waiting",
+      "path": "BG/TURKISH/2026-11-11/TURKISH_BG_banner_02b-pain-waiting.png",
       "source": "source/TURKISH/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-11/TURKISH_BG_banner_01-dream-sofa.png"
-    },
-    {
-      "name": "TURKISH_BG_banner_02-pain-waiting",
-      "path": "BG/TURKISH/2026-11-11/TURKISH_BG_banner_02-pain-waiting.png",
-      "source": "source/TURKISH/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-11/TURKISH_BG_banner_02-pain-waiting.png"
-    },
-    {
-      "name": "TURKISH_BG_banner_03-hero-words",
-      "path": "BG/TURKISH/2026-11-11/TURKISH_BG_banner_03-hero-words.png",
-      "source": "source/TURKISH/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-11/TURKISH_BG_banner_03-hero-words.png"
-    },
-    {
-      "name": "TURKISH_BG_banner_04-comment-group",
-      "path": "BG/TURKISH/2026-11-11/TURKISH_BG_banner_04-comment-group.png",
-      "source": "source/TURKISH/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-11/TURKISH_BG_banner_04-comment-group.png"
-    },
-    {
-      "name": "TURKISH_BG_banner_05-dream-music",
-      "path": "BG/TURKISH/2026-11-11/TURKISH_BG_banner_05-dream-music.png",
-      "source": "source/TURKISH/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-11/TURKISH_BG_banner_05-dream-music.png"
-    },
-    {
-      "name": "TURKISH_BG_banner_06-promise-notlate",
-      "path": "BG/TURKISH/2026-11-11/TURKISH_BG_banner_06-promise-notlate.png",
-      "source": "source/TURKISH/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-11/TURKISH_BG_banner_06-promise-notlate.png"
-    },
-    {
-      "name": "TURKISH_BG_banner_07-ugly-list",
-      "path": "BG/TURKISH/2026-11-11/TURKISH_BG_banner_07-ugly-list.png",
-      "source": "source/TURKISH/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-11/TURKISH_BG_banner_07-ugly-list.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TURKISH/2026-11-11/TURKISH_BG_banner_02b-pain-waiting.png"
     }
   ]
 }
