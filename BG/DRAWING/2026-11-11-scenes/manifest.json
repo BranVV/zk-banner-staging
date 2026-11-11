@@ -1,0 +1,105 @@
+{
+  "book": "DRAWING",
+  "market": "BG",
+  "date": "2026-11-11-scenes",
+  "source_campaign": "CBO | DRAWING | PARENTS BANNERS - 07102026 -> UGC FROM BANNERS, кадри на сцените",
+  "generated_at": "2026-11-11T09:17:43+00:00",
+  "banners": [
+    {
+      "name": "DRAWING_BG_UGC-A_S01_kuka",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S01_kuka.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S01_kuka.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-A_S02_priznanie",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S02_priznanie.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S02_priznanie.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-A_S03_moment",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S03_moment.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S03_moment.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-A_S04_kniga",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S04_kniga.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S04_kniga.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-A_S05_pobeda",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S05_pobeda.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S05_pobeda.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-A_S06_prizyv",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S06_prizyv.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-A_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-A_S06_prizyv.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-B_S01_kuka",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S01_kuka.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S01_kuka.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-B_S02_priznanie",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S02_priznanie.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S02_priznanie.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-B_S03_moment",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S03_moment.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S03_moment.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-B_S04_kniga",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S04_kniga.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S04_kniga.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-B_S05_pobeda",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S05_pobeda.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S05_pobeda.png"
+    },
+    {
+      "name": "DRAWING_BG_UGC-B_S06_prizyv",
+      "path": "BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S06_prizyv.png",
+      "source": "source/DRAWING/DRAWING_BG_UGC-B_portret.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DRAWING/2026-11-11-scenes/DRAWING_BG_UGC-B_S06_prizyv.png"
+    }
+  ]
+}
