@@ -158,6 +158,9 @@ def prepare_input(img: Image.Image, api_size: str, fit: str) -> tuple[Image.Imag
     return canvas, {"fit": "pad", "box": (off_x, off_y, off_x + new_w, off_y + new_h)}
 
 
+LAST_RAW = None
+
+
 def restore_output(img: Image.Image, size: tuple[int, int], meta: dict) -> Image.Image:
     """Връща генерираното изображение към оригиналните размери."""
     if meta.get("fit") == "pad":
@@ -170,6 +173,9 @@ def restore_output(img: Image.Image, size: tuple[int, int], meta: dict) -> Image
         else:
             cw, ch = img.width, round(img.width * H / W)
         x0, y0 = (img.width - cw) // 2, (img.height - ch) // 2
+        # crop_y: -1 (най-горе) .. 0 (центъра) .. 1 (най-долу); мести прозореца, когато бутонът или заглавието са твърде близо до ръба
+        cy = max(-1.0, min(1.0, float(meta.get("crop_y", 0) or 0)))
+        y0 = round(y0 * (1 + cy))
         return img.crop((x0, y0, x0 + cw, y0 + ch)).resize(size, Image.LANCZOS)
     if meta.get("fit") == "contain":
         from PIL import ImageFilter, ImageEnhance
@@ -362,6 +368,9 @@ def run_model(cfg: dict, job: dict, root: Path, src_path: Path,
     images = [(src_path.stem + ".png", buf.getvalue())] + refs
 
     raw = call_openai(api_key, images, prompt, api_size, cfg)
+    global LAST_RAW
+    LAST_RAW = raw
+    meta["crop_y"] = cfg.get("crop_y", 0)
     with Image.open(io.BytesIO(raw)) as generated:
         generated.load()
         return restore_output(generated, orig_size, meta)
@@ -535,6 +544,11 @@ def process(job: dict, root: Path, args: argparse.Namespace) -> list[dict]:
         save_kwargs = {"quality": 95, "subsampling": 0} if ext in ("jpg", "jpeg") else {}
         image.save(dest, **save_kwargs)
         print(f"      записан: {dest.relative_to(root)}  ({image.width}x{image.height})")
+        if mode == "model" and LAST_RAW:
+            # суровият кадър (преди изрязване) се пази в _raw/, за да може да се изреже наново без ново генериране
+            raw_dir = dest.parent / "_raw"
+            raw_dir.mkdir(parents=True, exist_ok=True)
+            (raw_dir / f"{name}.png").write_bytes(LAST_RAW)
         results.append({
             "name": name,
             "path": str(dest.relative_to(root)).replace(os.sep, "/"),
