@@ -1,0 +1,23 @@
+{
+ "book": "EXCEL",
+ "market": "BG",
+ "date": "2026-11-11-broll4-anchor",
+ "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 4 B-ROLL, опорен кадър",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/EXCEL/blank_1080x1920.png",
+   "format": "BROLL-04",
+   "angle": "K1_kantora",
+   "prompt": "Create a photo shot from just behind and over the right shoulder of a woman who sits at her desk in a small ordinary Bulgarian accounting office in the daytime. We see the back of her head and shoulder, her hands on the keyboard, and her desk: two monitors with blurred spreadsheets, a desk calculator, stacks of papers and invoices, a mug. Behind the desk: metal shelves full of colourful lever-arch binders (spines without readable labels), a small potted plant, a window with soft daylight. A lived-in, slightly cluttered, real office, not a design office.\n\nPHOTO STYLE (critical): a real, unedited photo taken with an ordinary smartphone, like a still from an Instagram story or a casual office video. Natural light, natural colours, real skin texture, slight phone-camera noise, normal phone depth of field. NOT glossy, NOT retouched, NOT cinematic, NOT stock, NOT an advertising photo, no studio light, no HDR.\nNO FACES (critical): the main character's face is never visible: she is seen only from behind, over her shoulder, or only her hands. Other people too: only from behind, in profile at a distance or only their hands; nobody looks into the camera.\nSCREEN RULE (critical): all computer screens are out of focus and soft, only the green-white glow of spreadsheets or colourful charts is recognisable, NO readable letters or numbers.\nMAIN CHARACTER: a 45-year-old Bulgarian woman, dark-blonde hair in a low ponytail, thin metal-framed glasses (only the temple arms visible from behind), dark navy blouse with a collar; her hands: light skin, short unpainted nails, a thin gold wedding ring. Only two hands with five fingers each.\nFRAMING: vertical 9:16.\nThe input image is only a blank grey canvas used for size: ignore it completely and replace it entirely with the photo. The image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders.\nDo not add any captions, labels, signs, logos, watermarks or readable text anywhere. No book in this photo."
+  }
+ ]
+}
