@@ -1,0 +1,25 @@
+{
+ "book": "EXCEL",
+ "market": "BG",
+ "date": "2026-11-11-pov-scenes-fix2",
+ "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 1 POV, кадър 3 ориентация на часовника",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/EXCEL/EXCEL_BG_POV-01_K3_old.png",
+   "format": "POV-01",
+   "angle": "K3_17h",
+   "cover": "covers/EXCEL_BG_cover.png",
+   "prompt": "Edit this photo. Keep EVERYTHING exactly as it is: the same composition, camera angle, office, daylight, desk, coffee cup, book (same cover, every letter unchanged), laptop, both hands and arms, shirt and the position of the left hand on the laptop lid. Change ONLY the smartwatch on the LEFT wrist so it sits physically correctly on the forearm, as on a real person looking down at his own left arm stretched forward on the desk:\n- the watch case is aligned with the forearm: its 12 o'clock edge points along the forearm towards the hand and fingers, its 6 o'clock edge points back towards the elbow and the viewer, the band runs across the wrist from both of those edges, the crown is on the side of the case facing the thumb;\n- the lit display shows '17:00' in large white digits, and the digits are rotated together with the case: they read along the direction of the forearm, with the TOP of the digits pointing towards the hand/fingers and the BOTTOM towards the elbow. They must NOT be level with the horizon of the image if the forearm is diagonal; they follow the forearm angle.\n- exactly '17:00', nothing else on the watch face.\nPhoto style unchanged: real, unedited smartphone photo, first-person POV. The image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars. No other text anywhere except the book cover and the watch digits."
+  }
+ ]
+}
