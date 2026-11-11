@@ -1,0 +1,49 @@
+{
+  "book": "EXCEL",
+  "market": "BG",
+  "date": "2026-11-11-broll4-scenes",
+  "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 4 B-ROLL, кадри",
+  "generated_at": "2026-11-11T12:14:57+00:00",
+  "banners": [
+    {
+      "name": "EXCEL_BG_BROLL-04_K2_kolezhka",
+      "path": "BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K2_kolezhka.png",
+      "source": "source/EXCEL/EXCEL_BG_BROLL-04_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K2_kolezhka.png"
+    },
+    {
+      "name": "EXCEL_BG_BROLL-04_K3_kalkulator",
+      "path": "BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K3_kalkulator.png",
+      "source": "source/EXCEL/EXCEL_BG_BROLL-04_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K3_kalkulator.png"
+    },
+    {
+      "name": "EXCEL_BG_BROLL-04_K4_kniga",
+      "path": "BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K4_kniga.png",
+      "source": "source/EXCEL/EXCEL_BG_BROLL-04_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K4_kniga.png"
+    },
+    {
+      "name": "EXCEL_BG_BROLL-04_K5_kolegite",
+      "path": "BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K5_kolegite.png",
+      "source": "source/EXCEL/EXCEL_BG_BROLL-04_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K5_kolegite.png"
+    },
+    {
+      "name": "EXCEL_BG_BROLL-04_K6_prizyv",
+      "path": "BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K6_prizyv.png",
+      "source": "source/EXCEL/EXCEL_BG_BROLL-04_anchor.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-broll4-scenes/EXCEL_BG_BROLL-04_K6_prizyv.png"
+    }
+  ]
+}
