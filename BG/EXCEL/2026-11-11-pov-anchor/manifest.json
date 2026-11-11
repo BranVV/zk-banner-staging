@@ -1,0 +1,17 @@
+{
+  "book": "EXCEL",
+  "market": "BG",
+  "date": "2026-11-11-pov-anchor",
+  "source_campaign": "CBO | EXCEL | INT | POV and BROLL VIDEO -> видео 1 POV, опорен кадър",
+  "generated_at": "2026-11-11T11:49:06+00:00",
+  "banners": [
+    {
+      "name": "EXCEL_BG_POV-01_K1b_klaviatura",
+      "path": "BG/EXCEL/2026-11-11-pov-anchor/EXCEL_BG_POV-01_K1b_klaviatura.png",
+      "source": "source/EXCEL/blank_1080x1920.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-11-pov-anchor/EXCEL_BG_POV-01_K1b_klaviatura.png"
+    }
+  ]
+}
