@@ -70,9 +70,10 @@ BOOK = {
     "standing": "BOOK REALISM: the book stands as a real printed paperback with a natural shadow and correct perspective, lit like the rest of the image, like in the reference banner.\n\n",
 }
 
-NOFAKEUI = ("NO FAKE UI (critical - Meta rejects it as 'Spam - deceptive link'): do NOT draw any app or system interface. No Messenger/Viber/WhatsApp/chat app screens, "
-            "no call/video/info icons, no message input field, no send arrow, no emoji or plus buttons, no notification banners, no red badge counters, "
-            "no fake play buttons, polls or Facebook/Instagram elements. Any phone in the scene is face down or its screen is dark/out of focus.\n")
+NOFAKEUI = ("NOTIFICATIONS AND APP SCREENS (critical - Meta rejects it as 'Spam - deceptive link'): NEVER draw notification banners, message notification icons "
+            "or red badge counters (little red circles with numbers) anywhere, not even small inside a photo. Do NOT make the banner look like a real app screen the viewer is typing in: "
+            "no message input field, no text cursor, no selected text, no call/video/info buttons, no send arrow, no status bar. A conversation may be shown only as simple speech bubbles "
+            "or as a clearly framed phone illustration. Any other phone in the scene is face down or its screen is dark/out of focus.\n")
 
 REVIEW = ("REVIEW RULES: the background is an ordinary, slightly untidy real place (plain wall, ordinary furniture, everyday objects) - not a postcard, "
           "not decorated, no flowers or props arranged for the photo. The signature under the quote is ONLY the first name, nothing about what the person owns or does.\n")
