@@ -2,16 +2,16 @@
   "book": "SALEWORDS",
   "market": "BG",
   "date": "2026-11-12",
-  "source_campaign": "CBO | SALE WORDS | INT | INTROVERTS BANNERS - 10112026 (нова версия на CHAT-PROBLEM-02/11-10 | pishesh-triesh, rejected за Spam - deceptive link)",
-  "generated_at": "2026-11-12T07:47:19+00:00",
+  "source_campaign": "CBO | SALE WORDS | INT | INTROVERTS BANNERS - 10112026 (нова версия на CHAT-PROBLEM-02/11-10 | pishesh-triesh, rejected за Spam - deceptive link; чат без интерфейс на приложение)",
+  "generated_at": "2026-11-12T07:51:36+00:00",
   "banners": [
     {
-      "name": "SALEWORDS_BG_banner_02-pishesh-triesh-v2",
-      "path": "BG/SALEWORDS/2026-11-12/SALEWORDS_BG_banner_02-pishesh-triesh-v2.png",
+      "name": "SALEWORDS_BG_banner_02-pishesh-triesh-v3",
+      "path": "BG/SALEWORDS/2026-11-12/SALEWORDS_BG_banner_02-pishesh-triesh-v3.png",
       "source": "source/SALEWORDS/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-12/SALEWORDS_BG_banner_02-pishesh-triesh-v2.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/SALEWORDS/2026-11-12/SALEWORDS_BG_banner_02-pishesh-triesh-v3.png"
     }
   ]
 }
