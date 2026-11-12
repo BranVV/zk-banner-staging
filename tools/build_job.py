@@ -28,7 +28,7 @@ spec.json:
 
 Задължителни блокове (винаги): SAFE ZONE + COMPOSITION, FORMAT по рецептата от banner_formats
 (tools/banner_formats.json, износ от Creatives DB), SCREEN ORIENTATION, TYPOGRAPHY, PHOTO STYLE,
-BOOK REALISM (за lying/held/standing), REVIEW правила (фон и подпис), POSITION CHECK, NO EXTRA TEXT.
+BOOK REALISM (за lying/held/standing), NO FAKE UI (12.11.2026, Spam - deceptive link), REVIEW правила (фон и подпис), POSITION CHECK, NO EXTRA TEXT.
 Формат извън banner_formats се маркира като EXPERIMENT.
 """
 import json, os, sys
@@ -70,6 +70,10 @@ BOOK = {
     "standing": "BOOK REALISM: the book stands as a real printed paperback with a natural shadow and correct perspective, lit like the rest of the image, like in the reference banner.\n\n",
 }
 
+NOFAKEUI = ("NO FAKE UI (critical - Meta rejects it as 'Spam - deceptive link'): do NOT draw any app or system interface. No Messenger/Viber/WhatsApp/chat app screens, "
+            "no call/video/info icons, no message input field, no send arrow, no emoji or plus buttons, no notification banners, no red badge counters, "
+            "no fake play buttons, polls or Facebook/Instagram elements. Any phone in the scene is face down or its screen is dark/out of focus.\n")
+
 REVIEW = ("REVIEW RULES: the background is an ordinary, slightly untidy real place (plain wall, ordinary furniture, everyday objects) - not a postcard, "
           "not decorated, no flowers or props arranged for the photo. The signature under the quote is ONLY the first name, nothing about what the person owns or does.\n")
 
@@ -107,6 +111,7 @@ def build(spec):
         if setting:
             p += setting.rstrip("\n") + "\n"
         p += SCREEN
+        p += NOFAKEUI
         p += "SCENE: " + b["scene"].strip() + "\n"
         p += "TEXT ON THE BANNER (exactly these lines, nothing else):\n" + b["text"].strip() + "\n"
         if has_cover:
