@@ -1,0 +1,26 @@
+{
+ "book": "GREEK",
+ "market": "BG",
+ "date": "2026-11-13",
+ "suffix": "neighbor-full",
+ "check_layout": false,
+ "source_campaign": "CBO | GREEK | INT | PROPERTY OWNERS BANNERS - 11112026 - банер „Какво ще ѝ отговориш?“ без клавиатура/интерфейс (правило 149)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536"
+ },
+ "banners": [
+  {
+   "source": "source/GREEK/GREEK_BG_neighbor_original_full.png",
+   "format": "banner",
+   "angle": "neighbor-otgovorish-safe-full",
+   "prompt": "Edit IMAGE 1 (an existing advertising banner). Keep everything exactly the same: both headline lines \"Съседката ти пише нещо на гръцки.\" (black) and \"Какво ще ѝ отговориш?\" (blue) with the same font, size, colour and position; the red button \"ВИЖ КАК →\" at the bottom exactly as it is; the sea and town background, balcony, flowers, the hand holding the phone, the phone itself with its size, angle and lighting, the coffee cup and plant. Change ONLY the phone screen: 1) REMOVE completely the on-screen keyboard, the message input field, the blinking text cursor, the emoji, paperclip and microphone buttons. 2) REMOVE the call and video buttons, the back arrow and the status bar (time, signal, battery) at the top of the screen. 3) REMOVE the purple app header bar; the screen must not look like Viber or any real messaging app. 4) Keep ONLY: a small round profile photo of the same smiling grey-haired woman with the name \"Ελένη γειτόνισσα\" in plain dark text next to it (no coloured bar), and the same grey speech bubble with exactly this Greek text: \"Γεια σου! Αύριο έρχεται ο υδραυλικός, θα είσαι σπίτι;\" and the small time \"10:21\" inside the bubble. 5) The rest of the screen below the bubble is plain soft white, empty, with no buttons, no field and no keyboard. No notification icons, no red badge counters, no app interface elements on the screen. Do not add any new text.",
+   "fit": "pad"
+  }
+ ]
+}
