@@ -3,63 +3,31 @@
   "market": "BG",
   "date": "2026-11-13",
   "source_campaign": "CBO | WORD POWERPOINT | INT | STATUS BANNERS - нови банери (процес нови статични криейтиви, Стъпка 4)",
-  "generated_at": "2026-11-13T09:19:00+00:00",
+  "generated_at": "2026-11-13T09:23:08+00:00",
   "banners": [
     {
-      "name": "WORD_BG_banner_01-split-word",
-      "path": "BG/WORD/2026-11-13/WORD_BG_banner_01-split-word.png",
+      "name": "WORD_BG_banner_01b-split-word",
+      "path": "BG/WORD/2026-11-13/WORD_BG_banner_01b-split-word.png",
       "source": "source/WORD/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_01-split-word.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_01b-split-word.png"
     },
     {
-      "name": "WORD_BG_banner_02-split-powerpoint",
-      "path": "BG/WORD/2026-11-13/WORD_BG_banner_02-split-powerpoint.png",
+      "name": "WORD_BG_banner_02b-split-powerpoint",
+      "path": "BG/WORD/2026-11-13/WORD_BG_banner_02b-split-powerpoint.png",
       "source": "source/WORD/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_02-split-powerpoint.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_02b-split-powerpoint.png"
     },
     {
-      "name": "WORD_BG_banner_03-hero-vsichki-pitat",
-      "path": "BG/WORD/2026-11-13/WORD_BG_banner_03-hero-vsichki-pitat.png",
+      "name": "WORD_BG_banner_04b-review-maria",
+      "path": "BG/WORD/2026-11-13/WORD_BG_banner_04b-review-maria.png",
       "source": "source/WORD/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_03-hero-vsichki-pitat.png"
-    },
-    {
-      "name": "WORD_BG_banner_04-review-maria",
-      "path": "BG/WORD/2026-11-13/WORD_BG_banner_04-review-maria.png",
-      "source": "source/WORD/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_04-review-maria.png"
-    },
-    {
-      "name": "WORD_BG_banner_05-promise-nezamenima",
-      "path": "BG/WORD/2026-11-13/WORD_BG_banner_05-promise-nezamenima.png",
-      "source": "source/WORD/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_05-promise-nezamenima.png"
-    },
-    {
-      "name": "WORD_BG_banner_06-dream-prezentacia",
-      "path": "BG/WORD/2026-11-13/WORD_BG_banner_06-dream-prezentacia.png",
-      "source": "source/WORD/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_06-dream-prezentacia.png"
-    },
-    {
-      "name": "WORD_BG_banner_07-ugly-po-tsenen",
-      "path": "BG/WORD/2026-11-13/WORD_BG_banner_07-ugly-po-tsenen.png",
-      "source": "source/WORD/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_07-ugly-po-tsenen.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/WORD/2026-11-13/WORD_BG_banner_04b-review-maria.png"
     }
   ]
 }
