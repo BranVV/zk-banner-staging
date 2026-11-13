@@ -1,0 +1,17 @@
+{
+  "book": "GREEK",
+  "market": "BG",
+  "date": "2026-11-13",
+  "source_campaign": "GREEK BG - банер „Какво ще ѝ отговориш?“ без клавиатура/поле/интерфейс (правило 149, Spam - deceptive link)",
+  "generated_at": "2026-11-13T09:31:44+00:00",
+  "banners": [
+    {
+      "name": "GREEK_BG_banner_neighbor-otgovorish-safe",
+      "path": "BG/GREEK/2026-11-13/GREEK_BG_banner_neighbor-otgovorish-safe.png",
+      "source": "source/GREEK/GREEK_BG_neighbor_original.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/GREEK/2026-11-13/GREEK_BG_banner_neighbor-otgovorish-safe.png"
+    }
+  ]
+}
