@@ -1,0 +1,97 @@
+{
+  "book": "BHSPANISH",
+  "market": "BA",
+  "date": "2026-11-16",
+  "source_campaign": "CBO | SPANISH | INT | ANDROMEDA TRAVEL - 18022026 (ZK1, BG)",
+  "generated_at": "2026-11-16T15:03:31+00:00",
+  "banners": [
+    {
+      "name": "BHSPANISH_BA_banner_01-lakse-nego-mislis",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_01-lakse-nego-mislis.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_01.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_01-lakse-nego-mislis.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_02-otziv-lejla-barcelona",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_02-otziv-lejla-barcelona.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_02.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_02-otziv-lejla-barcelona.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_03-sanjas-tecno-crveni",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_03-sanjas-tecno-crveni.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_03.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_03-sanjas-tecno-crveni.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_04-kofer-putovanje",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_04-kofer-putovanje.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_04.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_04-kofer-putovanje.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_05-odgadjas",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_05-odgadjas.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_05.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_05-odgadjas.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_06-spanija-ljepsa",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_06-spanija-ljepsa.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_06.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_06-spanija-ljepsa.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_07-sanjas-tecno-zena",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_07-sanjas-tecno-zena.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_07.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_07-sanjas-tecno-zena.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_08-sanjas-tecno-prijateljice",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_08-sanjas-tecno-prijateljice.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_08.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_08-sanjas-tecno-prijateljice.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_09-otziv-lejla-sesir",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_09-otziv-lejla-sesir.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_09.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_09-otziv-lejla-sesir.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_10-na-nasem-jeziku",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_10-na-nasem-jeziku.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_10.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_10-na-nasem-jeziku.png"
+    },
+    {
+      "name": "BHSPANISH_BA_banner_11-ne-brukaj-se",
+      "path": "BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_11-ne-brukaj-se.png",
+      "source": "source/SPANISH/SPANISH_BG_andromeda_11.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSPANISH/2026-11-16/BHSPANISH_BA_banner_11-ne-brukaj-se.png"
+    }
+  ]
+}
