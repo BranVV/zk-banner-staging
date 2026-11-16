@@ -1,0 +1,378 @@
+{
+ "book": "BHSPANISH",
+ "market": "BA",
+ "date": "2026-11-16",
+ "source_campaign": "CBO | SPANISH | INT | ANDROMEDA TRAVEL - 18022026 (ZK1, BG)",
+ "source_account": "ZK1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/BHSPANISH_BA_cover.png",
+  "keep_as_is": [
+   "¡Hola!",
+   "¿Cómo estás?",
+   "Gracias",
+   "Muy bien, gracias",
+   "¿Hablas español?",
+   "S.O.L."
+  ],
+  "extra_rules": [
+   "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+   "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+   "Never add a name, a signature or any extra text. Do not duplicate words.",
+   "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+   "Use a short hyphen '-' never a long dash.",
+   "Keep the square 1:1 format.",
+   "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_01.png",
+   "format": "banner",
+   "angle": "01-lakse-nego-mislis",
+   "translations": [
+    {
+     "source": "Испанският е по-лесен,",
+     "target": "Španski je lakši"
+    },
+    {
+     "source": "отколкото си мислиш.",
+     "target": "nego što misliš."
+    },
+    {
+     "source": "Започни оттук",
+     "target": "Počni ovdje"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_02.jpg",
+   "format": "banner",
+   "angle": "02-otziv-lejla-barcelona",
+   "translations": [
+    {
+     "source": "\"Започнах от любопитство...",
+     "target": "„Počela sam iz radoznalosti..."
+    },
+    {
+     "source": "сега вече говоря испански,",
+     "target": "sada već pričam španski"
+    },
+    {
+     "source": "когато пътувам.\"",
+     "target": "kad putujem.“"
+    },
+    {
+     "source": "Милена М.",
+     "target": "Lejla M."
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_03.png",
+   "format": "banner",
+   "angle": "03-sanjas-tecno-crveni",
+   "translations": [
+    {
+     "source": "Мечтаеш да говориш испански свободно?",
+     "target": "Sanjaš da tečno pričaš španski?"
+    },
+    {
+     "source": "Започни още ДНЕС",
+     "target": "Počni još DANAS"
+    },
+    {
+     "source": "Вземи с 4 БОНУСА",
+     "target": "Uzmi uz 4 BONUSA"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_04.png",
+   "format": "banner",
+   "angle": "04-kofer-putovanje",
+   "translations": [
+    {
+     "source": "Ако знаеш испански...",
+     "target": "Ako znaš španski..."
+    },
+    {
+     "source": "Следващото ти пътуване",
+     "target": "Tvoje sljedeće putovanje"
+    },
+    {
+     "source": "може да е различно.",
+     "target": "može biti drugačije."
+    },
+    {
+     "source": "Виж книгата",
+     "target": "Pogledaj knjigu"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_05.png",
+   "format": "banner",
+   "angle": "05-odgadjas",
+   "translations": [
+    {
+     "source": "Искаш да научиш испански...",
+     "target": "Želiš naučiti španski..."
+    },
+    {
+     "source": "Но все отлагаш.",
+     "target": "Ali stalno odgađaš."
+    },
+    {
+     "source": "Чакаш „подходящ момент“",
+     "target": "Čekaš „pravi trenutak“"
+    },
+    {
+     "source": "Казваш си „някой ден“",
+     "target": "Govoriš sebi „jednog dana“"
+    },
+    {
+     "source": "И минават години",
+     "target": "I prođu godine"
+    },
+    {
+     "source": "ЗАПОЧНИ СЕГА",
+     "target": "POČNI SADA"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "CRITICAL: this banner has NO book. Do not add any book, book cover or product image anywhere; keep the composition exactly as in the source banner."
+   ],
+   "cover": null
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_06.png",
+   "format": "banner",
+   "angle": "06-spanija-ljepsa",
+   "translations": [
+    {
+     "source": "Испания е по-красива,",
+     "target": "Španija je ljepša"
+    },
+    {
+     "source": "когато разбираш езика.",
+     "target": "kad razumiješ jezik."
+    },
+    {
+     "source": "Виж книгата",
+     "target": "Pogledaj knjigu"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_07.png",
+   "format": "banner",
+   "angle": "07-sanjas-tecno-zena",
+   "translations": [
+    {
+     "source": "Мечтаеш да говориш испански свободно?",
+     "target": "Sanjaš da tečno pričaš španski?"
+    },
+    {
+     "source": "Започни още ДНЕС",
+     "target": "Počni još DANAS"
+    },
+    {
+     "source": "ВЗЕМИ С 4 БОНУСА",
+     "target": "UZMI UZ 4 BONUSA"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_08.png",
+   "format": "banner",
+   "angle": "08-sanjas-tecno-prijateljice",
+   "translations": [
+    {
+     "source": "Мечтаеш да говориш испански свободно?",
+     "target": "Sanjaš da tečno pričaš španski?"
+    },
+    {
+     "source": "Започни още днес!",
+     "target": "Počni još danas!"
+    },
+    {
+     "source": "Вземи с 4 БОНУСА",
+     "target": "Uzmi uz 4 BONUSA"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_09.png",
+   "format": "banner",
+   "angle": "09-otziv-lejla-sesir",
+   "translations": [
+    {
+     "source": "\"Започнах от любопитство...",
+     "target": "„Počela sam iz radoznalosti..."
+    },
+    {
+     "source": "сега вече говоря испански,",
+     "target": "sada već pričam španski"
+    },
+    {
+     "source": "когато пътувам.\"",
+     "target": "kad putujem.“"
+    },
+    {
+     "source": "- Милена М.",
+     "target": "- Lejla M."
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_10.png",
+   "format": "banner",
+   "angle": "10-na-nasem-jeziku",
+   "translations": [
+    {
+     "source": "Научи испански като българин!",
+     "target": "Nauči španski na našem jeziku!"
+    },
+    {
+     "source": "Без преводач,",
+     "target": "Bez prevodioca,"
+    },
+    {
+     "source": "Без притеснение.",
+     "target": "bez treme."
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  },
+  {
+   "source": "source/SPANISH/SPANISH_BG_andromeda_11.png",
+   "format": "banner",
+   "angle": "11-ne-brukaj-se",
+   "translations": [
+    {
+     "source": "Не се излагай!",
+     "target": "Ne brukaj se!"
+    },
+    {
+     "source": "Научи испански!",
+     "target": "Nauči španski!"
+    },
+    {
+     "source": "Виж книгата",
+     "target": "Pogledaj knjigu"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian (ijekavian) in Latin script only: 'sljedeće' not 'sledeće', 'ljepša' not 'lepša', 'ovdje' not 'ovde'.",
+    "Keep the layout, colours, photos, faces, illustrations, fonts and button shape identical; change only the text.",
+    "Never add a name, a signature or any extra text. Do not duplicate words.",
+    "Render every translated text exactly as given, once, with correct diacritics č ć š ž đ.",
+    "Use a short hyphen '-' never a long dash.",
+    "Keep the square 1:1 format.",
+    "Spanish words already in the banner (¡Hola!, ¿Cómo estás?, Gracias, Muy bien, gracias, ¿Hablas español?) stay exactly as they are.",
+    "Replace every Bulgarian book cover in the image with the attached Bosnian cover 'ŠPANSKI JEZIK ZA POČETNIKE' (same position, angle, size and lighting). No Cyrillic may remain on the book."
+   ]
+  }
+ ]
+}
