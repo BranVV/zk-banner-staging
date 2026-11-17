@@ -1,0 +1,111 @@
+{
+ "book": "RODRAWING",
+ "market": "RO",
+ "date": "2026-11-17",
+ "source_campaign": "CBO | DRAWING | FIRST BANNERS TEST - 29092026 (BG, ID 120248704585160027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, the woman's face and hands, illustrations and the red button shape identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos.",
+   "The system name FLOW stays FLOW.",
+   "CRITICAL: the book in the image must show a Romanian cover. Replace all Bulgarian text on the book exactly: title 'Desenează pur și simplu!' (line 1: 'Desenează', line 2: 'pur și simplu!'), subtitle 'Manual practic de desen', author 'Andrei Popescu'. Keep the cover illustration (cat drawing, hand with pencil, flowers, birds, fox, cubes, spheres), colours, fonts style and the book's position, size and angle identical. No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RODRAWING/DRAWING_BG_banner_oricine.jpg",
+   "format": "banner",
+   "angle": "oricine",
+   "translations": [
+    {
+     "source": "Всеки може да рисува.",
+     "target": "Oricine poate desena."
+    },
+    {
+     "source": "Просто никой не ти е показал как.",
+     "target": "Doar că nimeni nu ți-a arătat cum."
+    },
+    {
+     "source": "75 упражнения. Техники за начинаещи",
+     "target": "75 de exerciții. Tehnici pentru începători"
+    },
+    {
+     "source": "и напреднали. Стъпка по стъпка.",
+     "target": "și avansați. Pas cu pas."
+    },
+    {
+     "source": "ЗАПОЧНИ ОЩЕ ДНЕС →",
+     "target": "ÎNCEPE CHIAR AZI →"
+    },
+    {
+     "source": "Светлина и сянка (малък текст на лявата страница на отворената книга)",
+     "target": "Lumină și umbră"
+    },
+    {
+     "source": "Просто нарисувай! (заглавие на корицата)",
+     "target": "Desenează pur și simplu!"
+    },
+    {
+     "source": "Практически наръчник за рисуване",
+     "target": "Manual practic de desen"
+    },
+    {
+     "source": "Мартин Василев",
+     "target": "Andrei Popescu"
+    }
+   ],
+   "extra_rules": [
+    "The open book standing on the table on the right shows the cover: render it with the Romanian cover text letter for letter ('Desenează pur și simplu!' / 'Manual practic de desen' / 'Andrei Popescu'). Small body text on the left page may stay as unreadable texture but must not contain Cyrillic."
+   ]
+  },
+  {
+   "source": "source/RODRAWING/DRAWING_BG_banner_copil.jpg",
+   "format": "banner",
+   "angle": "copil",
+   "translations": [
+    {
+     "source": "Като дете рисуваше всеки ден.",
+     "target": "Când erai copil, desenai în fiecare zi."
+    },
+    {
+     "source": "Кога спря? И защо?",
+     "target": "Când te-ai oprit? Și de ce?"
+    },
+    {
+     "source": "Време е да продължиш",
+     "target": "E timpul să continui"
+    },
+    {
+     "source": "от там, от където спря.",
+     "target": "de unde ai rămas."
+    },
+    {
+     "source": "РИСУВАЙ ОТНОВО →",
+     "target": "DESENEAZĂ DIN NOU →"
+    },
+    {
+     "source": "Просто нарисувай! (заглавие на корицата)",
+     "target": "Desenează pur și simplu!"
+    },
+    {
+     "source": "Практически наръчник за рисуване",
+     "target": "Manual practic de desen"
+    },
+    {
+     "source": "Мартин Василев",
+     "target": "Andrei Popescu"
+    }
+   ],
+   "extra_rules": [
+    "The hardcover book lying on the table on the right: render its cover with the Romanian text letter for letter ('Desenează pur și simplu!' / 'Manual practic de desen' / 'Andrei Popescu'); keep the small round FLOW badge in the corner. Pencil labels HB, 2B, 4B stay as they are. The child's drawing stays unchanged."
+   ]
+  }
+ ]
+}
