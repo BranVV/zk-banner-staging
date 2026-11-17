@@ -1,0 +1,14 @@
+{
+ "book": "WORD",
+ "market": "BG",
+ "date": "2026-11-17-ad161",
+ "source_campaign": "Предпечат - рекламна стр. 161 (илюстрация)",
+ "defaults": {"mode": "model", "output_format": "png", "quality": "high", "fit": "pad",
+  "model": "gpt-image-2.5-sunburst", "api_size": "1024x1536", "input_fidelity": "high"},
+ "banners": [{
+  "source": "source/WORD/WORD_BG_ad161_style.jpg",
+  "format": "AD161",
+  "angle": "illustration",
+  "prompt": "The input image is a STYLE REFERENCE only: a soft semi-realistic animated illustration in black-and-white grayscale used as a full-page ad inside a printed book. Create a NEW, different illustration in exactly the same drawing style, line quality, soft lighting and grayscale tonality.\n\nSCENE: a friendly man in his early 40s with short hair and a casual shirt sits at a desk in a bright home office in the evening, leaning back relaxed with a confident smile, one hand on a laptop. Floating around his head: a simple generic document window with neat headings and a bullet list, a simple generic presentation slide with a bar chart, and a small check-mark badge, with short motion lines. Generic icons only, NO real brand logos.\n\nCOMPOSITION (critical): portrait 3:4. Top 20% of the image: calm, light, uncluttered wall/window background (a headline will be added later). Bottom-right area: an empty, clean, pure WHITE square about 20% of the image width with thin dark corner brackets around it and a small curved arrow pointing to it from the left; keep the square completely empty (a QR code will be placed there). Bottom-left: a soft darker gray wave shape (a button will be added later).\nFULL GRAYSCALE, no colour at all, good contrast for offset print. No text, no letters, no numbers, no watermark anywhere. Hands natural, five fingers each.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders."
+ }]
+}
