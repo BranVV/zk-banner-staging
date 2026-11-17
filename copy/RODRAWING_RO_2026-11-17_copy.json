@@ -1,13 +1,23 @@
 {
- "book": "RODRAWING", "market": "RO", "date": "2026-11-17",
+ "book": "RODRAWING",
+ "market": "RO",
+ "date": "2026-11-17",
  "source": "BG CBO | DRAWING | FIRST BANNERS TEST - 29092026 (ID 120248704585160027); двете реклами са победителки (ad 1: 178 поръч., ROAS 4.70; draw-01/09-29: 16 поръч., ROAS 4.46) и ползват едно и също копи - дословен превод на двата текста, заглавията и описанието",
  "author_note": "Авторът на RO страницата е Andrei Popescu (BG: Мартин Василев); заглавие на RO книгата: Desenează pur și simplu!",
  "link": "https://rodraw.zlatenkluch.eu",
  "primary_texts": [
-  "Oricine poate desena.\nDoar că nimeni nu ți-a arătat cum.\n\nDe câte ori ai spus „n-am talent”?\nDe câte ori te-ai uitat la un desen frumos și ți-ai zis „eu n-o să pot niciodată așa ceva”?\n\nAsta e un mit.\nMetoda mea nu.\n\nSunt Andrei Popescu, artist și profesor cu 15 ani de experiență.\nAm învățat peste 3000 de oameni - ingineri, casnice, adolescenți, pensionari.\nToți spuneau „n-am talent”.\nToți au învățat să deseneze.\n\nÎn cartea „Desenează pur și simplu!” vei găsi:\n\n✏️ 75 de exerciții, împărțite în 3-5 pași simpli\n✏️ Sistemul FLOW - funcționează pentru oricine\n✏️ Creion, acuarelă, pasteluri - totul într-o singură carte\n✏️ De la prima linie până la un portret complet\n\n+ 3 bonusuri gratuite\n+ garanție de 60 de zile\n\n👇 Începe să desenezi chiar AZI.\nhttps://rodraw.zlatenkluch.eu",
-  "Dacă poți ține un creion în mână, poți desena.\nChiar e atât de simplu.\n\nNu ai nevoie de talent.\nNu ai nevoie de materiale scumpe.\nNu ai nevoie de ani de studiu.\n\nUn creion. O foaie de hârtie.\nȘi metoda potrivită.\n\nSunt Andrei Popescu, profesor de desen cu 15 ani de experiență.\nAm învățat peste 3000 de oameni, între 10 și 70 de ani.\n\nÎn „Desenează pur și simplu!” vei găsi:\n🎨 75 de exerciții pas cu pas\n🎨 Sistemul FLOW\n🎨 Creion, acuarelă, pasteluri\n🎨 Exerciții de 15 minute pe zi\n\n+ 3 bonusuri gratuite\n+ garanție de 60 de zile\n\n👇 Vezi cartea.\nhttps://rodraw.zlatenkluch.eu"
+  "Oricine poate desena.\nDoar că nimeni nu ți-a arătat cum.\n\nDe câte ori ai spus „n-am talent”?\nDe câte ori te-ai uitat la un desen frumos și ți-ai zis „eu n-o să pot niciodată să desenez așa”?\n\nAsta e un mit.\nMetoda mea, în schimb, e cât se poate de reală.\n\nSunt Andrei Popescu, artist și profesor de desen cu 15 ani de experiență.\nAm lucrat cu peste 3000 de oameni - ingineri, casnice, adolescenți, pensionari.\nToți spuneau „n-am talent”.\nToți au învățat să deseneze.\n\nÎn cartea „Desenează pur și simplu!” vei găsi:\n\n✏️ 75 de exerciții, împărțite în 3-5 pași simpli\n✏️ Sistemul FLOW - funcționează pentru oricine\n✏️ Creion, acuarelă, pasteluri - totul într-o singură carte\n✏️ De la prima linie până la un portret complet\n\n+ 3 bonusuri gratuite\n+ garanție de 60 de zile\n\n👇 Începe să desenezi chiar AZI.\nhttps://rodraw.zlatenkluch.eu",
+  "Dacă poți ține un creion în mână, poți desena.\nChiar e atât de simplu.\n\nNu ai nevoie de talent.\nNu ai nevoie de materiale scumpe.\nNu ai nevoie de ani de studiu.\n\nUn creion. O foaie de hârtie.\nȘi metoda potrivită.\n\nSunt Andrei Popescu, profesor de desen cu 15 ani de experiență.\nAm lucrat cu peste 3000 de oameni, cu vârste între 10 și 70 de ani.\n\nÎn „Desenează pur și simplu!” vei găsi:\n🎨 75 de exerciții pas cu pas\n🎨 Sistemul FLOW\n🎨 Creion, acuarelă, pasteluri\n🎨 Exerciții de 15 minute pe zi\n\n+ 3 bonusuri gratuite\n+ garanție de 60 de zile\n\n👇 Vezi cartea.\nhttps://rodraw.zlatenkluch.eu"
  ],
- "headlines": ["Ia-o ACUM 👉", "Ia-o la PROMOȚIE 👉", "Desenează pur și simplu! 👉", "Poți să desenezi. 👉", "Desenează chiar azi! 👉"],
- "descriptions": ["⭐ Peste 40 000 de clienți mulțumiți"],
- "naturalness_check": "проверено за естественост 17.11.2026"
+ "headlines": [
+  "Ia-o ACUM 👉",
+  "Ia-o la PROMOȚIE 👉",
+  "Desenează pur și simplu! 👉",
+  "Poți să desenezi. 👉",
+  "Desenează chiar azi! 👉"
+ ],
+ "descriptions": [
+  "⭐ Peste 40 000 de clienți mulțumiți"
+ ],
+ "naturalness_check": "отделна втора проверка за естественост 17.11.2026 - поправени калки (Metoda mea nu; Am învățat ... oameni; între 10 și 70 de ani; așa ceva); v2"
 }
