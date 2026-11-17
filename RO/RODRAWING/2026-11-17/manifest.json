@@ -1,0 +1,25 @@
+{
+  "book": "RODRAWING",
+  "market": "RO",
+  "date": "2026-11-17",
+  "source_campaign": "CBO | DRAWING | FIRST BANNERS TEST - 29092026 (BG, ID 120248704585160027)",
+  "generated_at": "2026-11-17T09:59:58+00:00",
+  "banners": [
+    {
+      "name": "RODRAWING_RO_banner_oricine",
+      "path": "RO/RODRAWING/2026-11-17/RODRAWING_RO_banner_oricine.png",
+      "source": "source/RODRAWING/DRAWING_BG_banner_oricine.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/RODRAWING/2026-11-17/RODRAWING_RO_banner_oricine.png"
+    },
+    {
+      "name": "RODRAWING_RO_banner_copil",
+      "path": "RO/RODRAWING/2026-11-17/RODRAWING_RO_banner_copil.png",
+      "source": "source/RODRAWING/DRAWING_BG_banner_copil.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/RODRAWING/2026-11-17/RODRAWING_RO_banner_copil.png"
+    }
+  ]
+}
