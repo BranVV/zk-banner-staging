@@ -1,0 +1,48 @@
+{
+ "date": "2026-11-18",
+ "market": "BG",
+ "test": "SCOUT тест 1",
+ "status": "одобрени от Bran 18.11.2026 (след humanizer)",
+ "description": "⭐ Над 40 000 доволни клиенти",
+ "headline": "чака избор",
+ "books": {
+  "CHATGPT": {
+   "link": "https://ai.zlatenkluch.eu",
+   "banners": [
+    "1A",
+    "1B",
+    "1D",
+    "1E"
+   ],
+   "hook_banner": "ChatGPT ти отговаря толкова добре, колкото добре го питаш.",
+   "copy_hook": "STATUS",
+   "structure": "Q-LIST"
+  },
+  "EXCEL": {
+   "link": "https://excel.zlatenkluch.eu",
+   "banners": [
+    "2A",
+    "2B",
+    "2D",
+    "2E"
+   ],
+   "hook_banner": "Минаваш Excel като игра. Ниво 1: „Какво е клетка?“. Последно ниво: шефът пита теб.",
+   "copy_hook": "WANT",
+   "structure": "Q-LIST"
+  },
+  "MEBELI": {
+   "link": "https://mebeli.zlatenkluch.eu",
+   "banners": [
+    "3A",
+    "3B",
+    "3C",
+    "3D",
+    "3E"
+   ],
+   "hook_banner": "300 €: В магазина тази маса е около 300 €. Аз я направих за един уикенд. / без цифра: Тази маса я направих сам. За един уикенд.",
+   "copy_hook": "DREAM",
+   "structure": "STORY-SCENE"
+  }
+ },
+ "note": "Пълните текстове на опция 1 и 2 се записват в Creatives DB (ad_copies) при създаването на кампаниите."
+}
