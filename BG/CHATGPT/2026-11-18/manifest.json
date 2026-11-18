@@ -3,23 +3,23 @@
   "market": "BG",
   "date": "2026-11-18",
   "source_campaign": "SCOUT тест SC-20261118-02",
-  "generated_at": "2026-11-18T12:46:01+00:00",
+  "generated_at": "2026-11-18T12:59:34+00:00",
   "banners": [
     {
-      "name": "CHATGPT_BG_banner_SC02-doc-A",
-      "path": "BG/CHATGPT/2026-11-18/CHATGPT_BG_banner_SC02-doc-A.png",
+      "name": "CHATGPT_BG_banner_SC02-doc-A-nobook",
+      "path": "BG/CHATGPT/2026-11-18/CHATGPT_BG_banner_SC02-doc-A-nobook.png",
       "source": "source/CHATGPT/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CHATGPT/2026-11-18/CHATGPT_BG_banner_SC02-doc-A.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CHATGPT/2026-11-18/CHATGPT_BG_banner_SC02-doc-A-nobook.png"
     },
     {
-      "name": "CHATGPT_BG_banner_SC02-doc-B",
-      "path": "BG/CHATGPT/2026-11-18/CHATGPT_BG_banner_SC02-doc-B.png",
+      "name": "CHATGPT_BG_banner_SC02-doc-B-nobook",
+      "path": "BG/CHATGPT/2026-11-18/CHATGPT_BG_banner_SC02-doc-B-nobook.png",
       "source": "source/CHATGPT/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CHATGPT/2026-11-18/CHATGPT_BG_banner_SC02-doc-B.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CHATGPT/2026-11-18/CHATGPT_BG_banner_SC02-doc-B-nobook.png"
     }
   ]
 }
