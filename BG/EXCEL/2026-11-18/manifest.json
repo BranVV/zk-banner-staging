@@ -1,0 +1,25 @@
+{
+  "book": "EXCEL",
+  "market": "BG",
+  "date": "2026-11-18",
+  "source_campaign": "SCOUT тест SC-20261118-05",
+  "generated_at": "2026-11-18T12:47:17+00:00",
+  "banners": [
+    {
+      "name": "EXCEL_BG_banner_SC05-levels-A",
+      "path": "BG/EXCEL/2026-11-18/EXCEL_BG_banner_SC05-levels-A.png",
+      "source": "source/EXCEL/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-18/EXCEL_BG_banner_SC05-levels-A.png"
+    },
+    {
+      "name": "EXCEL_BG_banner_SC05-levels-B",
+      "path": "BG/EXCEL/2026-11-18/EXCEL_BG_banner_SC05-levels-B.png",
+      "source": "source/EXCEL/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/EXCEL/2026-11-18/EXCEL_BG_banner_SC05-levels-B.png"
+    }
+  ]
+}

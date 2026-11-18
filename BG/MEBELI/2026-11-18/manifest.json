@@ -1,0 +1,33 @@
+{
+  "book": "MEBELI",
+  "market": "BG",
+  "date": "2026-11-18",
+  "source_campaign": "SCOUT тест SC-20261118-11 (V на C-MEBELI-01 120245816514820027)",
+  "generated_at": "2026-11-18T12:49:12+00:00",
+  "banners": [
+    {
+      "name": "MEBELI_BG_banner_SC11-table-A",
+      "path": "BG/MEBELI/2026-11-18/MEBELI_BG_banner_SC11-table-A.png",
+      "source": "source/MEBELI/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/MEBELI/2026-11-18/MEBELI_BG_banner_SC11-table-A.png"
+    },
+    {
+      "name": "MEBELI_BG_banner_SC11-table-B",
+      "path": "BG/MEBELI/2026-11-18/MEBELI_BG_banner_SC11-table-B.png",
+      "source": "source/MEBELI/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/MEBELI/2026-11-18/MEBELI_BG_banner_SC11-table-B.png"
+    },
+    {
+      "name": "MEBELI_BG_banner_SC11-table-C",
+      "path": "BG/MEBELI/2026-11-18/MEBELI_BG_banner_SC11-table-C.png",
+      "source": "source/MEBELI/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/MEBELI/2026-11-18/MEBELI_BG_banner_SC11-table-C.png"
+    }
+  ]
+}
