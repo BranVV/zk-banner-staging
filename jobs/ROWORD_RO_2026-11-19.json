@@ -1,0 +1,215 @@
+{
+ "book": "ROWORD",
+ "market": "RO",
+ "date": "2026-11-19",
+ "source_campaign": "CBO | WORD POWERPOINT | FIRST BANNERS  - 12102026 (BG, ID 120248935675330027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, faces, hands, laptop, props and the red button shape identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos. The words Word, PowerPoint and the system name C.L.E.A.R. stay as they are.",
+   "CRITICAL: every visible book must show a Romanian cover. Replace all Bulgarian text on the cover exactly: title line 1 'Word și PowerPoint', title line 2 'pentru începători!', subtitle 'Ghid practic pentru cele mai folosite programe de birou, după sistemul C.L.E.A.R.', author 'Radu Ionescu'. Small tiles on the cover: 'Документ' -> 'Document', 'ПРЕЗЕНТАЦИЯ' -> 'PREZENTARE', 'Въведение' -> 'Introducere'. Keep the dark navy cover design, laptop illustration, colours, fonts style and the book's position, size and angle identical. The book spine (if visible) reads 'Word și PowerPoint pentru începători!' and 'Radu Ionescu'.",
+   "No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ROWORD/WORD_BG_banner_foaie-goala.png",
+   "format": "banner",
+   "angle": "foaie-goala",
+   "translations": [
+    {
+     "source": "Отваряш Word.",
+     "target": "Deschizi Word."
+    },
+    {
+     "source": "Гледаш празния лист.",
+     "target": "Te uiți la pagina goală."
+    },
+    {
+     "source": "И не знаеш откъде да започнеш.",
+     "target": "Și nu știi de unde să începi."
+    },
+    {
+     "source": "Проблемът не е в теб.",
+     "target": "Problema nu ești tu."
+    },
+    {
+     "source": "Просто никой не ти е показал как.",
+     "target": "Doar că nimeni nu ți-a arătat cum."
+    },
+    {
+     "source": "НАУЧИ КАК →",
+     "target": "AFLĂ CUM →"
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word și PowerPoint pentru începători!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Ghid practic pentru cele mai folosite programe de birou, după sistemul C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Radu Ionescu"
+    }
+   ],
+   "extra_rules": [
+    "The book lying on the desk on the right: render its cover with the Romanian text letter for letter. The Word window on the laptop stays blank white."
+   ]
+  },
+  {
+   "source": "source/ROWORD/WORD_BG_banner_panica.png",
+   "format": "banner",
+   "angle": "panica",
+   "translations": [
+    {
+     "source": "Шефът",
+     "target": "Șeful"
+    },
+    {
+     "source": "Направи ми една PowerPoint презентация до обяд, моля.",
+     "target": "Fă-mi o prezentare PowerPoint până la prânz, te rog."
+    },
+    {
+     "source": "Ти:",
+     "target": "Tu:"
+    },
+    {
+     "source": "[ПАНИКА]",
+     "target": "[PANICĂ]"
+    },
+    {
+     "source": "Или — тази книга.",
+     "target": "Sau - cartea asta."
+    },
+    {
+     "source": "Всяка презентация е стрес.",
+     "target": "Orice prezentare te stresează."
+    },
+    {
+     "source": "Защото никой не ти е показал как.",
+     "target": "Pentru că nimeni nu ți-a arătat cum."
+    },
+    {
+     "source": "РАЗБЕРИ КАК →",
+     "target": "AFLĂ CUM →"
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word și PowerPoint pentru începători!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Ghid practic pentru cele mai folosite programe de birou, după sistemul C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Radu Ionescu"
+    }
+   ],
+   "extra_rules": [
+    "Keep the chat-screen look (grey avatar, blue message bubble, time 09:47, typing dots). The standing book: front cover and spine in Romanian letter for letter."
+   ]
+  },
+  {
+   "source": "source/ROWORD/WORD_BG_banner_designer.png",
+   "format": "banner",
+   "angle": "designer",
+   "translations": [
+    {
+     "source": "„Не е нужно да си дизайнер, за да направиш хубава презентация.",
+     "target": "„Nu trebuie să fii designer ca să faci o prezentare frumoasă."
+    },
+    {
+     "source": "Тази книга ми показа как.”",
+     "target": "Cartea asta mi-a arătat cum.”"
+    },
+    {
+     "source": "— Веселина",
+     "target": "REMOVE this signature line completely (no name, no label)"
+    },
+    {
+     "source": "ВИЖ КАК →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word și PowerPoint pentru începători!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Ghid practic pentru cele mai folosite programe de birou, după sistemul C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Radu Ionescu"
+    }
+   ],
+   "extra_rules": [
+    "The woman's face, hair and hands stay exactly the same. Remove the small name label under the speech bubble completely and fill the area with the background. The book she holds shows the Romanian cover letter for letter."
+   ]
+  },
+  {
+   "source": "source/ROWORD/WORD_BG_banner_nu-e-complicat.png",
+   "format": "banner",
+   "angle": "nu-e-complicat",
+   "translations": [
+    {
+     "source": "Word не е сложен.",
+     "target": "Word nu e complicat."
+    },
+    {
+     "source": "Просто никой не ти го е обяснил.",
+     "target": "Doar că nimeni nu ți l-a explicat."
+    },
+    {
+     "source": "Практическо ръководство",
+     "target": "Ghid practic"
+    },
+    {
+     "source": "по системата C.L.E.A.R.",
+     "target": "după sistemul C.L.E.A.R."
+    },
+    {
+     "source": "ВИЖ КНИГАТА →",
+     "target": "VEZI CARTEA →"
+    },
+    {
+     "source": "Днес: Документ, Таблица, Форматиране, Преглед, Експорт (ръкописен списък в тетрадката)",
+     "target": "Azi: Document, Tabel, Formatare, Revizuire, Export"
+    },
+    {
+     "source": "МЕСЕЧЕН ОТЧЕТ ЗА ПРОЕКТ (документ на лаптопа)",
+     "target": "RAPORT LUNAR DE PROIECT"
+    },
+    {
+     "source": "КОМПАНИЯ ООД",
+     "target": "COMPANIA SRL"
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word și PowerPoint pentru începători!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Ghid practic pentru cele mai folosite programe de birou, după sistemul C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Radu Ionescu"
+    }
+   ],
+   "extra_rules": [
+    "Small body text and table cells in the document on the laptop may stay as unreadable texture but must be Latin letters, no Cyrillic. The handwritten notebook list keeps the handwriting style. The standing book shows the Romanian cover letter for letter."
+   ]
+  }
+ ]
+}

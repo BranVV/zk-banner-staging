@@ -1,0 +1,193 @@
+{
+ "book": "ROSALEWORDS",
+ "market": "RO",
+ "date": "2026-11-19",
+ "source_campaign": "CBO | SALE WORDS | FIRST BANNERS (BG, ID 120248918105510027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, faces, hands, props and the red button shape identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos. The system name T.R.U.S.T. stays as it is.",
+   "CRITICAL: every visible book must show a Romanian cover. Replace all Bulgarian text on the cover exactly: title in three lines 'CUVINTELE' / 'CARE' / 'VÂND' (gold serif capitals, same style), subtitle 'Secretele persuasiunii pentru oamenii care vor să câștige încredere și s-o transforme în venit.', the scattered golden letters above the hands spell 'ÎNCREDERE', author 'Andrei Popescu'. Keep the dark burgundy cover, glowing hands, ornaments, colours and the book's position, size and angle identical. Spine (if visible): 'CUVINTELE CARE VÂND' and 'Andrei Popescu'.",
+   "No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_abordare.png",
+   "format": "banner",
+   "angle": "abordare",
+   "translations": [
+    {
+     "source": "„Агресивните скриптове не работят за мен.",
+     "target": "„Scripturile agresive nu funcționează la mine."
+    },
+    {
+     "source": "Защото не съм такъв човек.",
+     "target": "Pentru că nu sunt genul ăsta de om."
+    },
+    {
+     "source": "Смених подхода и всичко се промени.”",
+     "target": "Am schimbat abordarea și totul s-a transformat.”"
+    },
+    {
+     "source": "— Мария",
+     "target": "REMOVE this signature line completely (no name, no label)"
+    },
+    {
+     "source": "ВИЖ КАК →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "ДУМИТЕ, КОИТО ПРОДАВАТ (заглавие на корицата)",
+     "target": "CUVINTELE CARE VÂND"
+    },
+    {
+     "source": "Тайните на убеждаването за хора, които искат да спечелят доверие и да го превърнат в доход. (подзаглавие на корицата)",
+     "target": "Secretele persuasiunii pentru oamenii care vor să câștige încredere și s-o transforme în venit."
+    },
+    {
+     "source": "Д О В Е Р И Е (разпилени букви над ръцете)",
+     "target": "Î N C R E D E R E"
+    },
+    {
+     "source": "Мартин Георгиев",
+     "target": "Andrei Popescu"
+    }
+   ],
+   "extra_rules": [
+    "The woman's face, hair and hands stay exactly the same. Remove the small name label under the speech bubble completely and fill the area with the background. The book she holds shows the Romanian cover letter for letter."
+   ]
+  },
+  {
+   "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_fara-sa-para.png",
+   "format": "banner",
+   "angle": "fara-sa-para",
+   "translations": [
+    {
+     "source": "Искаш ли да продаваш,",
+     "target": "Vrei să vinzi"
+    },
+    {
+     "source": "без да си личи, че продаваш?",
+     "target": "fără să pară că vinzi?"
+    },
+    {
+     "source": "„Думите, Които Продават”",
+     "target": "„Cuvintele care vând”"
+    },
+    {
+     "source": "Тайните на убеждаването без натиск.",
+     "target": "Secretele persuasiunii, fără presiune."
+    },
+    {
+     "source": "ВЗЕМИ с 4 БОНУСА →",
+     "target": "IA-O cu 4 BONUSURI →"
+    },
+    {
+     "source": "Как си? (лепящо листче)",
+     "target": "Ce mai faci?"
+    },
+    {
+     "source": "Разкажи ми повече (лепящо листче)",
+     "target": "Spune-mi mai mult"
+    },
+    {
+     "source": "Иван П. (име в чата на телефона)",
+     "target": "Ion P."
+    },
+    {
+     "source": "Здравей! Видях публикацията ти за книгата. Звучи интересно. Наистина ли помага да се продава по-естествено?",
+     "target": "Bună! Am văzut postarea ta despre carte. Sună interesant. Chiar te ajută să vinzi mai natural?"
+    },
+    {
+     "source": "Здравей, Иван! Да, точно това е идеята - да продаваш чрез доверие, не чрез натиск.",
+     "target": "Bună, Ion! Da, exact asta e ideea - să vinzi prin încredere, nu prin presiune."
+    },
+    {
+     "source": "Харесва ми подходът ти! Ще я взема и ще я прочета.",
+     "target": "Îmi place abordarea ta! O iau și o citesc."
+    },
+    {
+     "source": "Страхотно! Убедена съм, че ще ти бъде полезна 😊",
+     "target": "Super! Sunt sigură că o să-ți fie de folos 😊"
+    },
+    {
+     "source": "ДУМИТЕ, КОИТО ПРОДАВАТ (заглавие на корицата)",
+     "target": "CUVINTELE CARE VÂND"
+    },
+    {
+     "source": "Тайните на убеждаването за хора, които искат да спечелят доверие и да го превърнат в доход. (подзаглавие на корицата)",
+     "target": "Secretele persuasiunii pentru oamenii care vor să câștige încredere și s-o transforme în venit."
+    },
+    {
+     "source": "Д О В Е Р И Е (разпилени букви над ръцете)",
+     "target": "Î N C R E D E R E"
+    },
+    {
+     "source": "Мартин Георгиев",
+     "target": "Andrei Popescu"
+    }
+   ],
+   "extra_rules": [
+    "The phone chat keeps the same bubbles, colours and layout; the small chat text is Romanian (may be small but no Cyrillic). The book on the table shows the Romanian cover and spine letter for letter. Handwriting style on the sticky notes stays the same."
+   ]
+  },
+  {
+   "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_inoportun.png",
+   "format": "banner",
+   "angle": "inoportun",
+   "translations": [
+    {
+     "source": "Когато трябва да продаваш",
+     "target": "Când trebuie să vinzi,"
+    },
+    {
+     "source": "се чувстваш като натрапник?",
+     "target": "te simți inoportun?"
+    },
+    {
+     "source": "Здравей! Имам невероятна възможност само за теб!!! 🔥🔥 (зачеркнато в облачето)",
+     "target": "Salut! Am o ofertă incredibilă doar pentru tine!!! 🔥🔥"
+    },
+    {
+     "source": "Има и друг начин да говориш.",
+     "target": "Se poate vorbi și altfel."
+    },
+    {
+     "source": "Начин, който не отблъсква хората.",
+     "target": "Fără să-i îndepărtezi pe oameni."
+    },
+    {
+     "source": "ВИЖ КАК →",
+     "target": "VEZI CUM →"
+    },
+    {
+     "source": "ДУМИТЕ, КОИТО ПРОДАВАТ (заглавие на корицата)",
+     "target": "CUVINTELE CARE VÂND"
+    },
+    {
+     "source": "Тайните на убеждаването за хора, които искат да спечелят доверие и да го превърнат в доход. (подзаглавие на корицата)",
+     "target": "Secretele persuasiunii pentru oamenii care vor să câștige încredere și s-o transforme în venit."
+    },
+    {
+     "source": "Д О В Е Р И Е (разпилени букви над ръцете)",
+     "target": "Î N C R E D E R E"
+    },
+    {
+     "source": "Мартин Георгиев",
+     "target": "Andrei Popescu"
+    }
+   ],
+   "extra_rules": [
+    "Keep the red cross over the left thought bubble and the question mark in the right bubble. The woman's face and hands stay exactly the same. The book on the table shows the Romanian cover letter for letter."
+   ]
+  }
+ ]
+}
