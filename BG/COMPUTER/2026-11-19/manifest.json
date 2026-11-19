@@ -1,0 +1,73 @@
+{
+  "book": "COMPUTER",
+  "market": "BG",
+  "date": "2026-11-19",
+  "source_campaign": "Тестова оферта Компютърът без страх (book.zlatenkluch.eu/computer)",
+  "generated_at": "2026-11-19T17:16:29+00:00",
+  "banners": [
+    {
+      "name": "COMPUTER_BG_offer_cover",
+      "path": "BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_cover.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_cover.png"
+    },
+    {
+      "name": "COMPUTER_BG_offer_bonus1",
+      "path": "BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bonus1.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bonus1.png"
+    },
+    {
+      "name": "COMPUTER_BG_offer_bonus2",
+      "path": "BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bonus2.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bonus2.png"
+    },
+    {
+      "name": "COMPUTER_BG_offer_bonus3",
+      "path": "BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bonus3.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bonus3.png"
+    },
+    {
+      "name": "COMPUTER_BG_offer_bump2-phone",
+      "path": "BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bump2-phone.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bump2-phone.png"
+    },
+    {
+      "name": "COMPUTER_BG_offer_bump3-bank",
+      "path": "BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bump3-bank.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bump3-bank.png"
+    },
+    {
+      "name": "COMPUTER_BG_offer_bump4-ai",
+      "path": "BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bump4-ai.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_bump4-ai.png"
+    },
+    {
+      "name": "COMPUTER_BG_offer_course",
+      "path": "BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_course.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-19/COMPUTER_BG_offer_course.png"
+    }
+  ]
+}
