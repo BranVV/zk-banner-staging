@@ -1,0 +1,70 @@
+{
+ "book": "ROWORD",
+ "market": "RO",
+ "date": "2026-11-19",
+ "source_campaign": "CBO | WORD POWERPOINT | FIRST BANNERS  - 12102026 (BG, ID 120248935675330027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian only, with correct diacritics ă â î ș ț (comma-below ș and ț) rendered exactly.",
+   "Keep the layout, colours, photos, faces, hands, laptop, props and the red button shape identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos. The words Word, PowerPoint and the system name C.L.E.A.R. stay as they are.",
+   "CRITICAL: every visible book must show a Romanian cover. Replace all Bulgarian text on the cover exactly: title line 1 'Word și PowerPoint', title line 2 'pentru începători!', subtitle 'Ghid practic pentru cele mai folosite programe de birou, după sistemul C.L.E.A.R.', author 'Radu Ionescu'. Small tiles on the cover: 'Документ' -> 'Document', 'ПРЕЗЕНТАЦИЯ' -> 'PREZENTARE', 'Въведение' -> 'Introducere'. Keep the dark navy cover design, laptop illustration, colours, fonts style and the book's position, size and angle identical. The book spine (if visible) reads 'Word și PowerPoint pentru începători!' and 'Radu Ionescu'.",
+   "No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ROWORD/WORD_BG_banner_foaie-goala.png",
+   "format": "banner",
+   "angle": "foaie-goala",
+   "translations": [
+    {
+     "source": "Отваряш Word.",
+     "target": "Deschizi Word."
+    },
+    {
+     "source": "Гледаш празния лист.",
+     "target": "Te uiți la pagina goală."
+    },
+    {
+     "source": "И не знаеш откъде да започнеш.",
+     "target": "Și nu știi de unde să începi."
+    },
+    {
+     "source": "Проблемът не е в теб.",
+     "target": "Problema nu ești tu."
+    },
+    {
+     "source": "Просто никой не ти е показал как.",
+     "target": "Doar că nimeni nu ți-a arătat cum."
+    },
+    {
+     "source": "НАУЧИ КАК →",
+     "target": "AFLĂ CUM →"
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word și PowerPoint pentru începători!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Ghid practic pentru cele mai folosite programe de birou, după sistemul C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Radu Ionescu"
+    }
+   ],
+   "extra_rules": [
+    "The book lying on the desk on the right: render its cover with the Romanian text letter for letter. The Word window on the laptop stays blank white.",
+    "The red rounded CTA button at the bottom must be one clean solid red pill with white text 'AFLĂ CUM →', fully inside the image, with the dark background below it; no glitches, noise or coloured artefacts anywhere near the bottom edge."
+   ]
+  }
+ ]
+}
