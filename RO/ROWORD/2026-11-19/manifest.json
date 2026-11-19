@@ -1,0 +1,41 @@
+{
+  "book": "ROWORD",
+  "market": "RO",
+  "date": "2026-11-19",
+  "source_campaign": "CBO | WORD POWERPOINT | FIRST BANNERS  - 12102026 (BG, ID 120248935675330027)",
+  "generated_at": "2026-11-19T16:20:01+00:00",
+  "banners": [
+    {
+      "name": "ROWORD_RO_banner_foaie-goala",
+      "path": "RO/ROWORD/2026-11-19/ROWORD_RO_banner_foaie-goala.png",
+      "source": "source/ROWORD/WORD_BG_banner_foaie-goala.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROWORD/2026-11-19/ROWORD_RO_banner_foaie-goala.png"
+    },
+    {
+      "name": "ROWORD_RO_banner_panica",
+      "path": "RO/ROWORD/2026-11-19/ROWORD_RO_banner_panica.png",
+      "source": "source/ROWORD/WORD_BG_banner_panica.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROWORD/2026-11-19/ROWORD_RO_banner_panica.png"
+    },
+    {
+      "name": "ROWORD_RO_banner_designer",
+      "path": "RO/ROWORD/2026-11-19/ROWORD_RO_banner_designer.png",
+      "source": "source/ROWORD/WORD_BG_banner_designer.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROWORD/2026-11-19/ROWORD_RO_banner_designer.png"
+    },
+    {
+      "name": "ROWORD_RO_banner_nu-e-complicat",
+      "path": "RO/ROWORD/2026-11-19/ROWORD_RO_banner_nu-e-complicat.png",
+      "source": "source/ROWORD/WORD_BG_banner_nu-e-complicat.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROWORD/2026-11-19/ROWORD_RO_banner_nu-e-complicat.png"
+    }
+  ]
+}

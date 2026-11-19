@@ -1,0 +1,25 @@
+{
+  "book": "RSDRAWING",
+  "market": "RS",
+  "date": "2026-11-19",
+  "source_campaign": "CBO | DRAWING | FIRST BANNERS TEST - 29092026 (BG, ID 120248704585160027)",
+  "generated_at": "2026-11-19T16:21:02+00:00",
+  "banners": [
+    {
+      "name": "RSDRAWING_RS_banner_svako",
+      "path": "RS/RSDRAWING/2026-11-19/RSDRAWING_RS_banner_svako.png",
+      "source": "source/RSDRAWING/DRAWING_BG_banner_svako.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSDRAWING/2026-11-19/RSDRAWING_RS_banner_svako.png"
+    },
+    {
+      "name": "RSDRAWING_RS_banner_dete",
+      "path": "RS/RSDRAWING/2026-11-19/RSDRAWING_RS_banner_dete.png",
+      "source": "source/RSDRAWING/DRAWING_BG_banner_dete.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSDRAWING/2026-11-19/RSDRAWING_RS_banner_dete.png"
+    }
+  ]
+}

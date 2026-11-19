@@ -1,0 +1,33 @@
+{
+  "book": "ROSALEWORDS",
+  "market": "RO",
+  "date": "2026-11-19",
+  "source_campaign": "CBO | SALE WORDS | FIRST BANNERS (BG, ID 120248918105510027)",
+  "generated_at": "2026-11-19T16:17:49+00:00",
+  "banners": [
+    {
+      "name": "ROSALEWORDS_RO_banner_abordare",
+      "path": "RO/ROSALEWORDS/2026-11-19/ROSALEWORDS_RO_banner_abordare.png",
+      "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_abordare.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROSALEWORDS/2026-11-19/ROSALEWORDS_RO_banner_abordare.png"
+    },
+    {
+      "name": "ROSALEWORDS_RO_banner_fara-sa-para",
+      "path": "RO/ROSALEWORDS/2026-11-19/ROSALEWORDS_RO_banner_fara-sa-para.png",
+      "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_fara-sa-para.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROSALEWORDS/2026-11-19/ROSALEWORDS_RO_banner_fara-sa-para.png"
+    },
+    {
+      "name": "ROSALEWORDS_RO_banner_inoportun",
+      "path": "RO/ROSALEWORDS/2026-11-19/ROSALEWORDS_RO_banner_inoportun.png",
+      "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_inoportun.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROSALEWORDS/2026-11-19/ROSALEWORDS_RO_banner_inoportun.png"
+    }
+  ]
+}
