@@ -1,0 +1,79 @@
+{
+ "book": "COMPUTER",
+ "market": "BG",
+ "date": "2026-11-19",
+ "source_campaign": "Тестова оферта Компютърът без страх (book.zlatenkluch.eu/computer)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "offer",
+   "angle": "cover",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled (3/4 view, spine visible on the left, page edges visible on the right) on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN: deep green background with a subtle soft gradient; at the top a small orange rounded badge; a big bold title in two lines; a short subtitle; in the lower half a warm, friendly editorial illustration of an open laptop on a cozy wooden desk with a cup of tea and reading glasses, a big green check mark on the laptop screen, no people faces; the author name at the bottom.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Orange badge, white text: \"СИСТЕМАТА E.A.S.Y.\"\n2) Title, white, line 1: \"КОМПЮТЪРЪТ\"\n3) Title, orange, line 2: \"БЕЗ СТРАХ\"\n4) Subtitle, white, smaller: \"Стъпка по стъпка с ясни картинки: Windows, интернет, имейл и видео разговори\"\n5) Author, white, bottom: \"ПЕТЪР ИЛИЕВ\"\nThe spine shows only the title \"КОМПЮТЪРЪТ БЕЗ СТРАХ\" in small white letters.\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1536"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus1",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: deep green #1E7A4C with a soft light glow.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a printed A4 cheat sheet lying slightly tilted next to a few big glossy keyboard keys (Ctrl, C, V, Z) with clear readable letters on the keys\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, orange pill with white text (or white pill with orange text on an orange background): \"🎁 БОНУС\"\n2) Title line 1, white, very big: \"БЪРЗИТЕ\"\n3) Title line 2, white, very big: \"КЛАВИШИ\"\n4) Subtitle, white, medium: \"на една страница, с едри букви\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus2",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: charcoal #2B2B2B with a warm orange glow.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a big glossy red-and-white protective shield with an exclamation mark in front of a laptop, a fake envelope icon being blocked\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, orange pill with white text (or white pill with orange text on an orange background): \"🎁 БОНУС\"\n2) Title line 1, white, very big: \"15 ИЗМАМИ\"\n3) Title line 2, white, very big: \"В ИНТЕРНЕТ\"\n4) Subtitle, white, medium: \"и как да ги познаеш навреме\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus3",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: warm orange #F28C28.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: an open thick dictionary book with small 3D computer icons (folder, mouse, wifi symbol, padlock) floating out of the pages\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, orange pill with white text (or white pill with orange text on an orange background): \"🎁 БОНУС\"\n2) Title line 1, white, very big: \"РЕЧНИК НА\"\n3) Title line 2, white, very big: \"КОМПЮТЪРНИТЕ\"\n4) Title line 3, white, very big: \"ДУМИ\"\n5) Subtitle, white, medium: \"100 думи, обяснени просто\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bump2-phone",
+   "prompt": "Create a photorealistic product mockup of a modern tablet standing slightly angled on a pure WHITE background (clean white, soft shadow), the tablet fills about 80% of the frame. On the tablet screen is the cover of an e-book.\nE-BOOK COVER on the screen: warm orange #F28C28 background, a big clear title, and a simple bold illustration: hands holding a smartphone taking a photo of flowers.\nThe image will be shown very small (100x100 px), so the title must be HUGE and the design very simple.\nTEXT on the e-book cover (exactly these lines, nothing else):\n1) Small label at the top: \"ЕЛЕКТРОННА КНИГА\"\n2) Title line 1, white, very big and bold: \"СМАРТФОНЪТ\"\n3) Title line 2, white, very big and bold: \"БЕЗ СТРАХ\"\n4) Subtitle, smaller: \"стъпка по стъпка\"\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bump3-bank",
+   "prompt": "Create a photorealistic product mockup of a modern tablet standing slightly angled on a pure WHITE background (clean white, soft shadow), the tablet fills about 80% of the frame. On the tablet screen is the cover of an e-book.\nE-BOOK COVER on the screen: deep green #1E7A4C background, a big clear title, and a simple bold illustration: a laptop with a bank card and a big green check mark.\nThe image will be shown very small (100x100 px), so the title must be HUGE and the design very simple.\nTEXT on the e-book cover (exactly these lines, nothing else):\n1) Small label at the top: \"ЕЛЕКТРОННА КНИГА\"\n2) Title line 1, white, very big and bold: \"БАНКАТА И\"\n3) Title line 2, white, very big and bold: \"СМЕТКИТЕ\"\n4) Subtitle, smaller: \"от компютъра, без опашки\"\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bump4-ai",
+   "prompt": "Create a photorealistic product mockup of a modern tablet standing slightly angled on a pure WHITE background (clean white, soft shadow), the tablet fills about 80% of the frame. On the tablet screen is the cover of an e-book.\nE-BOOK COVER on the screen: charcoal #2B2B2B with orange accents background, a big clear title, and a simple bold illustration: a friendly glowing chat bubble with the letters AI coming out of a laptop.\nThe image will be shown very small (100x100 px), so the title must be HUGE and the design very simple.\nTEXT on the e-book cover (exactly these lines, nothing else):\n1) Small label at the top: \"ЕЛЕКТРОННА КНИГА\"\n2) Title line 1, white, very big and bold: \"ИЗКУСТВЕНИЯТ\"\n3) Title line 2, white, very big and bold: \"ИНТЕЛЕКТ\"\n4) Subtitle, smaller: \"за начинаещи\"\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "course",
+   "prompt": "Create a square promotional banner for an online VIDEO COURSE, full bleed, no white margins.\nBACKGROUND: deep green #1E7A4C with a soft glow.\nLAYOUT: text in the upper 40%; in the lower 60% a realistic laptop on a cozy desk, on its screen a friendly video lesson (a simple Windows-like desktop being explained, seen over the shoulder, no face visible), with a big round orange play button in the middle of the screen.\nTEXT (exactly these lines, nothing else):\n1) Small orange pill, white text: \"ВИДЕО КУРС\"\n2) Title line 1, white, very big: \"КОМПЮТЪРЪТ\"\n3) Title line 2, orange, very big: \"БЕЗ СТРАХ\"\n4) Subtitle, white: \"6 модула · 5 ч. 15 мин.\"\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  }
+ ]
+}
