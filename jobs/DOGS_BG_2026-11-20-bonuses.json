@@ -1,0 +1,39 @@
+{
+ "book": "DOGS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T002 - Кучета: 3 бонуса (одобрени)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus1-7-days",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: dark teal #0E3B43 with a soft warm glow; title in white with the second line in orange.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a small beagle-like puppy sitting in a cosy dog bed next to a printed checklist sheet with seven ticked boxes, a chew toy and a water bowl.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, orange pill with dark teal text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"ПЪРВИТЕ 7 ДНИ\"\n3) Title line 2, very big: \"С НОВОТО КУЧЕНЦЕ\"\n4) Subtitle, medium: \"чеклист ден по ден\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, friendly, modern; clean professional design like a bestselling publisher would use. Palette: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"L.E.A.S.H.\". Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, author names or website addresses anywhere.\nDOGS: ordinary friendly family dogs like Bulgarians keep (mixed breed, beagle-like, labrador-like, small terrier), not exotic breeds; natural anatomy, four legs, correct eyes and paws. NO people anywhere, no faces; if a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), five fingers.\n"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus2-leash-walk",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: warm orange #F28C28 with a soft light glow; title in dark teal with the second line in white.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a happy mixed-breed dog walking calmly on a loose dark teal leash on a park path, a small treat pouch next to it.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, orange pill with dark teal text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"РАЗХОДКА\"\n3) Title line 2, very big: \"БЕЗ ДЪРПАНЕ\"\n4) Subtitle, medium: \"10 минути тренировка с каишката\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, friendly, modern; clean professional design like a bestselling publisher would use. Palette: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"L.E.A.S.H.\". Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, author names or website addresses anywhere.\nDOGS: ordinary friendly family dogs like Bulgarians keep (mixed breed, beagle-like, labrador-like, small terrier), not exotic breeds; natural anatomy, four legs, correct eyes and paws. NO people anywhere, no faces; if a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), five fingers.\n"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus3-games",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: light mint #E3F4EE with a soft glow; title in dark teal with the second line in orange.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a smart labrador-like dog sniffing a colourful puzzle feeder toy with treats, a rope toy and a ball beside it.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, orange pill with dark teal text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"ИГРИ ЗА УМНО\"\n3) Title line 2, very big: \"И СПОКОЙНО КУЧЕ\"\n4) Subtitle, medium: \"10 минути на ден\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, friendly, modern; clean professional design like a bestselling publisher would use. Palette: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"L.E.A.S.H.\". Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, author names or website addresses anywhere.\nDOGS: ordinary friendly family dogs like Bulgarians keep (mixed breed, beagle-like, labrador-like, small terrier), not exotic breeds; natural anatomy, four legs, correct eyes and paws. NO people anywhere, no faces; if a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), five fingers.\n"
+  }
+ ]
+}

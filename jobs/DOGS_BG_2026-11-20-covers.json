@@ -1,0 +1,31 @@
+{
+ "book": "DOGS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T002 - Кучета: корица (2 варианта)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/DOGS/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "idea1-puppy-and-dog",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"puppy and big dog\": bright clean background, soft light mint fading to white. In the middle of the cover a small playful beagle-like puppy with one paw raised sits next to a big calm golden labrador-like dog; both look at the viewer, photorealistic, soft studio light.\nTitle at the top in dark teal #0E3B43, the words \"ЩАСТЛИВО\" and \"ЩАСТЛИВ\" in warm orange #F28C28. Under the dogs the letters \"L.E.A.S.H.\" are large in dark teal with a small orange dog paw print under each letter. Subtitle below in dark teal. Orange round badge with dark text in the top-left corner. Bottom: a dark teal strip with four simple white line icons (leash, chewed shoe, speech bubble with sound waves, house) - icons only, no text.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title line 1: \"ЩАСТЛИВО КУЧЕ,\"\n2) Title line 2: \"ЩАСТЛИВ СТОПАНИН\"\n3) Subtitle, smaller, 3-4 lines: \"Научи как с лесната система L.E.A.S.H. за кученца и възрастни кучета, да спреш дърпането на каишката, лаенето, изгризаните обувки и „изненадите“ вкъщи.\"\n4) Round badge, 3 short lines: \"ПРАКТИЧНО\" / \"ЛЕСНО\" / \"ПОЛЕЗНО\"\n5) The large letters under the dogs: \"L.E.A.S.H.\"\n\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"L.E.A.S.H.\". Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, author names or website addresses anywhere.\nDOGS: ordinary friendly family dogs like Bulgarians keep (mixed breed, beagle-like, labrador-like, small terrier), not exotic breeds; natural anatomy, four legs, correct eyes and paws. NO people anywhere, no faces; if a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), five fingers.\nSTYLE: premium, warm, friendly, clean professional design like a bestselling publisher would use. Palette: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "idea2-leash-walk",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"calm walk\": bright clean background, soft light mint fading to white. In the middle of the cover a happy medium mixed-breed dog walks calmly on a loose orange leash next to a small puppy; the leash is held by a gender-neutral hand entering from the top edge of the photo; photorealistic, soft studio light.\nTitle at the top in dark teal #0E3B43, the words \"ЩАСТЛИВО\" and \"ЩАСТЛИВ\" in warm orange #F28C28. Under the dogs the letters \"L.E.A.S.H.\" are large in dark teal with a small orange dog paw print under each letter. Subtitle below in dark teal. Orange round badge with dark text in the top-left corner. Bottom: a dark teal strip with four simple white line icons (leash, chewed shoe, speech bubble with sound waves, house) - icons only, no text.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title line 1: \"ЩАСТЛИВО КУЧЕ,\"\n2) Title line 2: \"ЩАСТЛИВ СТОПАНИН\"\n3) Subtitle, smaller, 3-4 lines: \"Научи как с лесната система L.E.A.S.H. за кученца и възрастни кучета, да спреш дърпането на каишката, лаенето, изгризаните обувки и „изненадите“ вкъщи.\"\n4) Round badge, 3 short lines: \"ПРАКТИЧНО\" / \"ЛЕСНО\" / \"ПОЛЕЗНО\"\n5) The large letters under the dogs: \"L.E.A.S.H.\"\n\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"L.E.A.S.H.\". Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, author names or website addresses anywhere.\nDOGS: ordinary friendly family dogs like Bulgarians keep (mixed breed, beagle-like, labrador-like, small terrier), not exotic breeds; natural anatomy, four legs, correct eyes and paws. NO people anywhere, no faces; if a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), five fingers.\nSTYLE: premium, warm, friendly, clean professional design like a bestselling publisher would use. Palette: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\n"
+  }
+ ]
+}
