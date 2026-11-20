@@ -2,32 +2,32 @@
   "book": "CATS",
   "market": "BG",
   "date": "2026-11-20",
-  "source_campaign": "T001 - Котки - възпитание: 3 варианта на корица за избор",
-  "generated_at": "2026-11-20T13:12:19+00:00",
+  "source_campaign": "T001 - Котки - възпитание: 3 бонуса (одобрени)",
+  "generated_at": "2026-11-20T13:25:49+00:00",
   "banners": [
     {
-      "name": "CATS_BG_cover_idea2-kitten-tomcat",
-      "path": "BG/CATS/2026-11-20/CATS_BG_cover_idea2-kitten-tomcat.png",
+      "name": "CATS_BG_offer_bonus1-7-days",
+      "path": "BG/CATS/2026-11-20/CATS_BG_offer_bonus1-7-days.png",
       "source": "source/CATS/blank_1024x1536.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_cover_idea2-kitten-tomcat.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_offer_bonus1-7-days.png"
     },
     {
-      "name": "CATS_BG_cover_idea3-purr-closeup",
-      "path": "BG/CATS/2026-11-20/CATS_BG_cover_idea3-purr-closeup.png",
+      "name": "CATS_BG_offer_bonus2-home-protect",
+      "path": "BG/CATS/2026-11-20/CATS_BG_offer_bonus2-home-protect.png",
       "source": "source/CATS/blank_1024x1536.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_cover_idea3-purr-closeup.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_offer_bonus2-home-protect.png"
     },
     {
-      "name": "CATS_BG_cover_idea4-graduate",
-      "path": "BG/CATS/2026-11-20/CATS_BG_cover_idea4-graduate.png",
+      "name": "CATS_BG_offer_bonus3-games",
+      "path": "BG/CATS/2026-11-20/CATS_BG_offer_bonus3-games.png",
       "source": "source/CATS/blank_1024x1536.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_cover_idea4-graduate.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_offer_bonus3-games.png"
     }
   ]
 }
