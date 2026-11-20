@@ -1,0 +1,26 @@
+{
+ "book": "DOGS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T002 - Кучета: банер на курса",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "upsell",
+   "angle": "course-banner",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "references": [
+    "covers/DOGS_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book with its front cover (for style and dogs reference only).\nCreate a landscape banner for an online video course on a sales page, FULL BLEED, no white margins.\nBACKGROUND: light mint #E3F4EE fading to white, soft light, subtle paw-print pattern.\nLAYOUT: on the left half a big text block; on the right half a modern laptop, slightly angled, showing a video lesson on screen: the same dogs as on the book cover walking calmly on a loose leash in a park, with a big round orange play button in the middle of the video and a progress bar. On the laptop corner sits a small black graduation cap with a gold tassel.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, orange pill with dark teal text: \"ВИДЕО КУРС\"\n2) Title line 1, dark teal, very big: \"КУЧЕШКАТА\"\n3) Title line 2, dark teal, very big: \"АКАДЕМИЯ\"\n4) Title line 3, orange, very big: \"L.E.A.S.H.\"\n5) Subtitle, dark teal, medium: \"послушно и спокойно куче за 30 дни\"\nSTYLE: premium, warm, friendly, modern; palette dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"L.E.A.S.H.\". Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style), large and legible on a phone.\n- No other text, logos, watermarks, prices or website addresses anywhere (no text inside the laptop screen).\nDOGS: ordinary friendly family dogs, natural anatomy. NO people, no faces.\n"
+  }
+ ]
+}

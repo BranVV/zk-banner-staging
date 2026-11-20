@@ -1,0 +1,59 @@
+{
+ "book": "DOGS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T002 - Кучета: 4 order bumps (одобрени)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump1-kitchen",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/DOGS_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style, colours and dogs reference only).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 70% of the frame, showing a PDF guide cover on screen: a happy dog looking at a plate of homemade dog biscuits and treats, dark teal title area with no readable text. A big orange rounded label at the top of the image.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"КУЧЕШКА КУХНЯ\"\nSTYLE: premium, warm, friendly, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy. NO people, no faces; if a hand appears it is gender-neutral.\n"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump2-second-dog",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/DOGS_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style, colours and dogs reference only).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 70% of the frame, showing a PDF guide cover on screen: two friendly dogs, a small puppy and a bigger dog, lying together peacefully on one dog bed, no readable text on the screen. A big orange rounded label at the top of the image.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ВТОРО КУЧЕ\"\nSTYLE: premium, warm, friendly, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy. NO people, no faces; if a hand appears it is gender-neutral.\n"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump3-kids",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/DOGS_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style, colours and dogs reference only).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 70% of the frame, showing a PDF guide cover on screen: a calm family dog lying on a rug next to a child's toy blocks and a ball (no children shown), no readable text on the screen. A big orange rounded label at the top of the image.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"КУЧЕ И ДЕЦА\"\nSTYLE: premium, warm, friendly, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy. NO people, no faces; if a hand appears it is gender-neutral.\n"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump4-travel",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/DOGS_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style, colours and dogs reference only).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 70% of the frame, showing a PDF guide cover on screen: a happy dog sitting in the back seat of a car with a travel bag and a leash, no readable text on the screen. A big orange rounded label at the top of the image.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"НА ПЪТ С КУЧЕТО\"\nSTYLE: premium, warm, friendly, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: dark teal #0E3B43, warm orange #F28C28, light mint #E3F4EE and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy. NO people, no faces; if a hand appears it is gender-neutral.\n"
+  }
+ ]
+}
