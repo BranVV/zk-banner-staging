@@ -1,0 +1,137 @@
+{
+  "book": "TAICHI",
+  "market": "BG",
+  "date": "2026-11-20",
+  "source_campaign": "T004 - Тай чи на стол: 3 корици, бонуси, ползи, ревюта (примерни, като от телефон), за кого е, автор (примерен)",
+  "generated_at": "2026-11-20T20:34:50+00:00",
+  "banners": [
+    {
+      "name": "TAICHI_BG_cover_idea1-kitchen-chair",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_cover_idea1-kitchen-chair.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_cover_idea1-kitchen-chair.png"
+    },
+    {
+      "name": "TAICHI_BG_cover_idea2-flowing-lines",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_cover_idea2-flowing-lines.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_cover_idea2-flowing-lines.png"
+    },
+    {
+      "name": "TAICHI_BG_cover_idea3-two-chairs",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_cover_idea3-two-chairs.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_cover_idea3-two-chairs.png"
+    },
+    {
+      "name": "TAICHI_BG_offer_bonus1-calendar",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_offer_bonus1-calendar.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_offer_bonus1-calendar.png"
+    },
+    {
+      "name": "TAICHI_BG_offer_bonus2-morning-card",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_offer_bonus2-morning-card.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_offer_bonus2-morning-card.png"
+    },
+    {
+      "name": "TAICHI_BG_offer_bonus3-right-chair",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_offer_bonus3-right-chair.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_offer_bonus3-right-chair.png"
+    },
+    {
+      "name": "TAICHI_BG_benefit_benefit1-morning",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_benefit_benefit1-morning.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_benefit_benefit1-morning.png"
+    },
+    {
+      "name": "TAICHI_BG_benefit_benefit2-no-floor",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_benefit_benefit2-no-floor.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_benefit_benefit2-no-floor.png"
+    },
+    {
+      "name": "TAICHI_BG_benefit_benefit3-posture",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_benefit_benefit3-posture.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_benefit_benefit3-posture.png"
+    },
+    {
+      "name": "TAICHI_BG_whofor_whofor-home",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_whofor_whofor-home.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_whofor_whofor-home.png"
+    },
+    {
+      "name": "TAICHI_BG_review_review1-phone",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_review_review1-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_review_review1-phone.png"
+    },
+    {
+      "name": "TAICHI_BG_review_review2-phone",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_review_review2-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_review_review2-phone.png"
+    },
+    {
+      "name": "TAICHI_BG_review_review3-phone",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_review_review3-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_review_review3-phone.png"
+    },
+    {
+      "name": "TAICHI_BG_review_review4-phone",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_review_review4-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_review_review4-phone.png"
+    },
+    {
+      "name": "TAICHI_BG_review_review5-phone",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_review_review5-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_review_review5-phone.png"
+    },
+    {
+      "name": "TAICHI_BG_author_author-example",
+      "path": "BG/TAICHI/2026-11-20/TAICHI_BG_author_author-example.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-20/TAICHI_BG_author_author-example.png"
+    }
+  ]
+}
