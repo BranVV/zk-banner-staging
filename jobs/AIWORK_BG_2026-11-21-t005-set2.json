@@ -1,0 +1,70 @@
+{
+ "book": "AIWORK",
+ "market": "BG",
+ "date": "2026-11-21",
+ "source_campaign": "T005 - AI за работа 2027: избрана корица (вариант 1) + bump-ове, банер на курса",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump1-excel",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/AIWORK_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 70% of the frame, showing a PDF guide cover on screen: a big green spreadsheet grid with a simple rising bar chart and a glowing blue chat bubble, no readable text. A big electric blue rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"AI ЗА EXCEL\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump2-presentations",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/AIWORK_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern laptop slightly angled, filling about 70% of the frame, showing a colourful presentation slide with a big simple chart and shapes, with three small slide thumbnails floating next to it, no readable text. A big electric blue rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"AI ЗА ПРЕЗЕНТАЦИИ\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump3-cv",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/AIWORK_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 70% of the frame, showing a neat CV document with a small round photo placeholder silhouette and lines, plus an envelope with an amber check mark in front, no readable text. A big electric blue rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"CV С AI\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump4-images",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/AIWORK_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a smartphone and a tablet side by side, filling about 70% of the frame, the screens show a bright colourful picture of mountains and a video frame with a big round play button, small sparkles around them, no readable text. A big electric blue rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"СНИМКИ И ВИДЕА С AI\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "upsell",
+   "angle": "course-banner",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "references": [
+    "covers/AIWORK_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book with its front cover (for style reference).\nCreate a landscape banner for an online video course on a sales page, FULL BLEED, no white margins.\nBACKGROUND: deep navy #1B2F4E with a soft electric blue glow and subtle lines of light.\nLAYOUT: on the left half a big text block; on the right half a modern laptop, slightly angled, showing a video lesson on screen: a friendly woman about 45 explaining next to a blurred chat window, with a big round amber play button in the middle of the video and a progress bar. On the laptop corner sits a small black graduation cap with a gold tassel.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, amber pill with dark navy text: \"ВИДЕО КУРС\"\n2) Title line 1, white, very big: \"AI ЗА РАБОТА\"\n3) Title line 2, amber, very big: \"2027\"\n4) Title line 3, white, big: \"T.I.M.E.\"\n5) Subtitle, white, medium: \"6 модула, 5 часа видео\"\nSTYLE: premium, modern, confident. Palette: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNo other people besides the woman on the laptop screen."
+  }
+ ]
+}
