@@ -1,0 +1,23 @@
+{
+ "book": "COMPUTER",
+ "market": "BG",
+ "date": "2026-11-19",
+ "source_campaign": "Тестова оферта Компютърът без страх (book.zlatenkluch.eu/computer)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "offer",
+   "angle": "cover-fix1",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is on the far left side and is NOT visible from this angle: no spine, no back cover and no text on any side of the book except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN: deep green background with a subtle soft gradient; at the top a small orange rounded badge; a big bold title in two lines; a short subtitle; in the lower half a warm, friendly editorial illustration of an open laptop on a cozy wooden desk with a cup of tea and reading glasses, a big green check mark on the laptop screen, no people faces; the author name at the bottom.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Orange badge, white text: \"СИСТЕМАТА E.A.S.Y.\"\n2) Title, white, line 1: \"КОМПЮТЪРЪТ\"\n3) Title, orange, line 2: \"БЕЗ СТРАХ\"\n4) Subtitle, white, smaller: \"Стъпка по стъпка с ясни картинки: Windows, интернет, имейл и видео разговори\"\n5) Author, white, bottom: \"ПЕТЪР ИЛИЕВ\"\nThe spine is not visible. There is NO text on the page edges or anywhere outside the front cover.\n\nSTYLE: premium, warm, modern; clean professional design like a bestselling publisher would use. Main palette deep green #1E7A4C and warm orange #F28C28 with white and charcoal; blue must NOT be the dominant colour.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation and quotation marks. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\n- People, if any, have only two hands with five fingers each. No faces of famous people.\n",
+   "fit": "crop",
+   "api_size": "1024x1536"
+  }
+ ]
+}
