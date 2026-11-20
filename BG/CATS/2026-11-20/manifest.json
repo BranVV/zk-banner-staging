@@ -2,16 +2,64 @@
   "book": "CATS",
   "market": "BG",
   "date": "2026-11-20",
-  "source_campaign": "T001 - Котки: примерна снимка на автора (само за тест)",
-  "generated_at": "2026-11-20T14:32:44+00:00",
+  "source_campaign": "T001 - Котки: примерни снимки за ревюта (само за тест), За кого е, печат гаранция",
+  "generated_at": "2026-11-20T14:58:42+00:00",
   "banners": [
     {
-      "name": "CATS_BG_author_author-example",
-      "path": "BG/CATS/2026-11-20/CATS_BG_author_author-example.png",
+      "name": "CATS_BG_review_review1-rositsa",
+      "path": "BG/CATS/2026-11-20/CATS_BG_review_review1-rositsa.png",
+      "source": "source/CATS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_review_review1-rositsa.png"
+    },
+    {
+      "name": "CATS_BG_review_review2-galina",
+      "path": "BG/CATS/2026-11-20/CATS_BG_review_review2-galina.png",
+      "source": "source/CATS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_review_review2-galina.png"
+    },
+    {
+      "name": "CATS_BG_review_review3-stefka",
+      "path": "BG/CATS/2026-11-20/CATS_BG_review_review3-stefka.png",
+      "source": "source/CATS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_review_review3-stefka.png"
+    },
+    {
+      "name": "CATS_BG_review_review4-maria",
+      "path": "BG/CATS/2026-11-20/CATS_BG_review_review4-maria.png",
+      "source": "source/CATS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_review_review4-maria.png"
+    },
+    {
+      "name": "CATS_BG_review_review5-petya",
+      "path": "BG/CATS/2026-11-20/CATS_BG_review_review5-petya.png",
+      "source": "source/CATS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_review_review5-petya.png"
+    },
+    {
+      "name": "CATS_BG_whofor_whofor-home",
+      "path": "BG/CATS/2026-11-20/CATS_BG_whofor_whofor-home.png",
+      "source": "source/CATS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_whofor_whofor-home.png"
+    },
+    {
+      "name": "CATS_BG_guarantee_guarantee-seal-60",
+      "path": "BG/CATS/2026-11-20/CATS_BG_guarantee_guarantee-seal-60.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_author_author-example.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_guarantee_guarantee-seal-60.png"
     }
   ]
 }
