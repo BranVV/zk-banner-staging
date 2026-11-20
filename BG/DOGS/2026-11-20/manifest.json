@@ -2,16 +2,80 @@
   "book": "DOGS",
   "market": "BG",
   "date": "2026-11-20",
-  "source_campaign": "T002 - Кучета: примерна снимка на автора (само за тест)",
-  "generated_at": "2026-11-20T17:52:37+00:00",
+  "source_campaign": "T002 - Кучета: картинки за лендинга (ползи, ревюта - примерни за тест, за кого е)",
+  "generated_at": "2026-11-20T18:16:18+00:00",
   "banners": [
     {
-      "name": "DOGS_BG_author_author-example",
-      "path": "BG/DOGS/2026-11-20/DOGS_BG_author_author-example.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
+      "name": "DOGS_BG_benefit_benefit1-puppy",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_benefit_benefit1-puppy.png",
+      "source": "source/DOGS/blank_1536x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_author_author-example.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_benefit_benefit1-puppy.png"
+    },
+    {
+      "name": "DOGS_BG_benefit_benefit2-walk",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_benefit_benefit2-walk.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_benefit_benefit2-walk.png"
+    },
+    {
+      "name": "DOGS_BG_benefit_benefit3-yard",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_benefit_benefit3-yard.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_benefit_benefit3-yard.png"
+    },
+    {
+      "name": "DOGS_BG_review_review1",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review1.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review1.png"
+    },
+    {
+      "name": "DOGS_BG_review_review2",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review2.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review2.png"
+    },
+    {
+      "name": "DOGS_BG_review_review3",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review3.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review3.png"
+    },
+    {
+      "name": "DOGS_BG_review_review4",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review4.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review4.png"
+    },
+    {
+      "name": "DOGS_BG_review_review5",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review5.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review5.png"
+    },
+    {
+      "name": "DOGS_BG_whofor_whofor-home",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_whofor_whofor-home.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_whofor_whofor-home.png"
     }
   ]
 }
