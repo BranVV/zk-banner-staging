@@ -2,48 +2,16 @@
   "book": "DOGS",
   "market": "BG",
   "date": "2026-11-20",
-  "source_campaign": "T002 - Кучета: снимки за примерните ревюта (като снимани с телефон, без филтри; за кръгли аватари)",
-  "generated_at": "2026-11-20T18:48:32+00:00",
+  "source_campaign": "T002 - Кучета: снимки за примерните ревюта (като снимани с телефон, без филтри; за кръгли аватари) - review2 повторно, лицето в центъра",
+  "generated_at": "2026-11-20T19:02:52+00:00",
   "banners": [
     {
-      "name": "DOGS_BG_review_review1-phone",
-      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review1-phone.png",
-      "source": "source/DOGS/blank_1024x1536.png",
+      "name": "DOGS_BG_review_review2b-phone",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review2b-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review1-phone.png"
-    },
-    {
-      "name": "DOGS_BG_review_review2-phone",
-      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review2-phone.png",
-      "source": "source/DOGS/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review2-phone.png"
-    },
-    {
-      "name": "DOGS_BG_review_review3-phone",
-      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review3-phone.png",
-      "source": "source/DOGS/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review3-phone.png"
-    },
-    {
-      "name": "DOGS_BG_review_review4-phone",
-      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review4-phone.png",
-      "source": "source/DOGS/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review4-phone.png"
-    },
-    {
-      "name": "DOGS_BG_review_review5-phone",
-      "path": "BG/DOGS/2026-11-20/DOGS_BG_review_review5-phone.png",
-      "source": "source/DOGS/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review5-phone.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_review_review2b-phone.png"
     }
   ]
 }
