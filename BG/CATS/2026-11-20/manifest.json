@@ -2,40 +2,16 @@
   "book": "CATS",
   "market": "BG",
   "date": "2026-11-20",
-  "source_campaign": "T001 - Котки - възпитание: 4 order bumps (одобрени)",
-  "generated_at": "2026-11-20T13:41:42+00:00",
+  "source_campaign": "T001 - Котки: банер за one click upsell курса",
+  "generated_at": "2026-11-20T13:52:38+00:00",
   "banners": [
     {
-      "name": "CATS_BG_bump_bump1-audio",
-      "path": "BG/CATS/2026-11-20/CATS_BG_bump_bump1-audio.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
+      "name": "CATS_BG_upsell_course-banner",
+      "path": "BG/CATS/2026-11-20/CATS_BG_upsell_course-banner.png",
+      "source": "source/CATS/blank_1536x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_bump_bump1-audio.png"
-    },
-    {
-      "name": "CATS_BG_bump_bump2-kitchen",
-      "path": "BG/CATS/2026-11-20/CATS_BG_bump_bump2-kitchen.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_bump_bump2-kitchen.png"
-    },
-    {
-      "name": "CATS_BG_bump_bump3-ebook",
-      "path": "BG/CATS/2026-11-20/CATS_BG_bump_bump3-ebook.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_bump_bump3-ebook.png"
-    },
-    {
-      "name": "CATS_BG_bump_bump4-second-cat",
-      "path": "BG/CATS/2026-11-20/CATS_BG_bump_bump4-second-cat.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_bump_bump4-second-cat.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_upsell_course-banner.png"
     }
   ]
 }
