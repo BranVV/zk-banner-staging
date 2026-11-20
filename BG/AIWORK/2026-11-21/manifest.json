@@ -2,136 +2,48 @@
   "book": "AIWORK",
   "market": "BG",
   "date": "2026-11-21",
-  "source_campaign": "T005 - AI за работа 2027: 3 корици, бонуси, ползи, ревюта (примерни, като от телефон), за кого е, автор (примерен)",
-  "generated_at": "2026-11-20T22:38:37+00:00",
+  "source_campaign": "T005 - AI за работа 2027: избрана корица (вариант 1) + bump-ове, банер на курса",
+  "generated_at": "2026-11-20T22:44:42+00:00",
   "banners": [
     {
-      "name": "AIWORK_BG_cover_idea1-two-colleagues",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_cover_idea1-two-colleagues.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_cover_idea1-two-colleagues.png"
-    },
-    {
-      "name": "AIWORK_BG_cover_idea2-split-desk",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_cover_idea2-split-desk.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_cover_idea2-split-desk.png"
-    },
-    {
-      "name": "AIWORK_BG_cover_idea3-team-laptop",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_cover_idea3-team-laptop.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_cover_idea3-team-laptop.png"
-    },
-    {
-      "name": "AIWORK_BG_offer_bonus1-prompts",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_offer_bonus1-prompts.png",
+      "name": "AIWORK_BG_bump_bump1-excel",
+      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_bump_bump1-excel.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_offer_bonus1-prompts.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_bump_bump1-excel.png"
     },
     {
-      "name": "AIWORK_BG_offer_bonus2-letters",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_offer_bonus2-letters.png",
+      "name": "AIWORK_BG_bump_bump2-presentations",
+      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_bump_bump2-presentations.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_offer_bonus2-letters.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_bump_bump2-presentations.png"
     },
     {
-      "name": "AIWORK_BG_offer_bonus3-safe",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_offer_bonus3-safe.png",
+      "name": "AIWORK_BG_bump_bump3-cv",
+      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_bump_bump3-cv.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_offer_bonus3-safe.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_bump_bump3-cv.png"
     },
     {
-      "name": "AIWORK_BG_benefit_benefit1-emails",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_benefit_benefit1-emails.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_benefit_benefit1-emails.png"
-    },
-    {
-      "name": "AIWORK_BG_benefit_benefit2-reports",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_benefit_benefit2-reports.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_benefit_benefit2-reports.png"
-    },
-    {
-      "name": "AIWORK_BG_benefit_benefit3-tables",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_benefit_benefit3-tables.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_benefit_benefit3-tables.png"
-    },
-    {
-      "name": "AIWORK_BG_whofor_whofor-office",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_whofor_whofor-office.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_whofor_whofor-office.png"
-    },
-    {
-      "name": "AIWORK_BG_review_review1-phone",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_review_review1-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_review_review1-phone.png"
-    },
-    {
-      "name": "AIWORK_BG_review_review2-phone",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_review_review2-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_review_review2-phone.png"
-    },
-    {
-      "name": "AIWORK_BG_review_review3-phone",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_review_review3-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_review_review3-phone.png"
-    },
-    {
-      "name": "AIWORK_BG_review_review4-phone",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_review_review4-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_review_review4-phone.png"
-    },
-    {
-      "name": "AIWORK_BG_review_review5-phone",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_review_review5-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_review_review5-phone.png"
-    },
-    {
-      "name": "AIWORK_BG_author_author-example",
-      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_author_author-example.png",
+      "name": "AIWORK_BG_bump_bump4-images",
+      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_bump_bump4-images.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_author_author-example.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_bump_bump4-images.png"
+    },
+    {
+      "name": "AIWORK_BG_upsell_course-banner",
+      "path": "BG/AIWORK/2026-11-21/AIWORK_BG_upsell_course-banner.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/AIWORK/2026-11-21/AIWORK_BG_upsell_course-banner.png"
     }
   ]
 }
