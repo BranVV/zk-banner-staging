@@ -1,0 +1,25 @@
+{
+  "book": "DOGS",
+  "market": "BG",
+  "date": "2026-11-20",
+  "source_campaign": "T002 - Кучета: корица (2 варианта)",
+  "generated_at": "2026-11-20T17:39:22+00:00",
+  "banners": [
+    {
+      "name": "DOGS_BG_cover_idea1-puppy-and-dog",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_cover_idea1-puppy-and-dog.png",
+      "source": "source/DOGS/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_cover_idea1-puppy-and-dog.png"
+    },
+    {
+      "name": "DOGS_BG_cover_idea2-leash-walk",
+      "path": "BG/DOGS/2026-11-20/DOGS_BG_cover_idea2-leash-walk.png",
+      "source": "source/DOGS/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-20/DOGS_BG_cover_idea2-leash-walk.png"
+    }
+  ]
+}
