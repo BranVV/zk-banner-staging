@@ -1,0 +1,39 @@
+{
+ "book": "CATS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T001 - Котки - възпитание: 3 бонуса (одобрени)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/CATS/blank_1024x1536.png",
+   "format": "offer",
+   "angle": "bonus1-7-days",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: dark navy #0F2A4A with a soft warm glow.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins, title in white with the second line in yellow-orange; a large, attractive 3D-style visual in the lower half: a tiny black-and-white kitten sitting in a cosy cat bed next to a printed checklist sheet with seven ticked boxes, a small litter box and a food bowl.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, yellow-orange pill with navy text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"ПЪРВИТЕ 7 ДНИ\"\n3) Title line 2, very big: \"С НОВОТО КОТЕ\"\n4) Subtitle, medium: \"чеклист ден по ден\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, friendly, modern; clean professional design like a bestselling publisher would use. Palette from the book cover: dark navy #0F2A4A, warm yellow-orange #F5A623, light sky blue #DCEEFB and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\nCATS: ordinary domestic cats (tabby, black-and-white, grey, ginger), natural anatomy, correct eyes and paws. NO people, no faces; if a hand appears it is gender-neutral.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/CATS/blank_1024x1536.png",
+   "format": "offer",
+   "angle": "bonus2-home-protect",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: warm yellow-orange #F5A623 with a soft light glow.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins, title in dark navy; a large, attractive 3D-style visual in the lower half: an intact cosy sofa, a neatly protected cable with a spiral cable protector and a clean rug, with a big glossy green shield with a check mark in front; a calm grey cat sits nearby looking satisfied.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, yellow-orange pill with navy text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"КАБЕЛИ, МЕБЕЛИ,\"\n3) Title line 2, very big: \"КИЛИМИ\"\n4) Subtitle, medium: \"опази дома от котешки щети\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, friendly, modern; clean professional design like a bestselling publisher would use. Palette from the book cover: dark navy #0F2A4A, warm yellow-orange #F5A623, light sky blue #DCEEFB and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\nCATS: ordinary domestic cats (tabby, black-and-white, grey, ginger), natural anatomy, correct eyes and paws. NO people, no faces; if a hand appears it is gender-neutral.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/CATS/blank_1024x1536.png",
+   "format": "offer",
+   "angle": "bonus3-games",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: light sky blue #DCEEFB with a soft glow.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins, title in dark navy with the second line in yellow-orange; a large, attractive 3D-style visual in the lower half: a playful ginger cat jumping after a feather toy on a stick, around it simple home-made toys (a cardboard box with holes, a crumpled paper ball, a toilet paper roll), and a small round clock showing 10 minutes.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, yellow-orange pill with navy text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"КОТЕШКИ ИГРИ\"\n3) Title line 2, very big: \"ЗА 10 МИНУТИ НА ДЕН\"\n4) Subtitle, medium: \"15 игри с неща от вкъщи\"\nText must be BIG: the title lines take about 30% of the image height in total.\n\nSTYLE: premium, warm, friendly, modern; clean professional design like a bestselling publisher would use. Palette from the book cover: dark navy #0F2A4A, warm yellow-orange #F5A623, light sky blue #DCEEFB and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style). Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere.\nCATS: ordinary domestic cats (tabby, black-and-white, grey, ginger), natural anatomy, correct eyes and paws. NO people, no faces; if a hand appears it is gender-neutral.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  }
+ ]
+}
