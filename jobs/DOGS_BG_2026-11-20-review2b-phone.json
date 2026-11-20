@@ -1,0 +1,23 @@
+{
+ "book": "DOGS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T002 - Кучета: снимки за примерните ревюта (като снимани с телефон, без филтри; за кръгли аватари) - review2 повторно, лицето в центъра",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review2b-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 52-year-old woman crouching down in a city park next to her mixed-breed dog on a leash, her face at the same height as the dog's head and cheek-to-cheek close to it, both looking at the camera, her face fully visible and sharp in the exact centre of the frame.\nThis must look like a REAL amateur snapshot taken by a family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary uneven daylight or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture with pores and small wrinkles, ordinary everyday clothes, a normal lived-in Bulgarian home, yard or park with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed expression, five fingers on hands.\nCOMPOSITION: the person's face and the dog are both in the CENTRE of the frame, close enough that both are clearly visible when the photo is cropped to a centred circle; nothing important near the edges.\nDOGS: ordinary family dogs, natural anatomy, correct eyes and paws.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  }
+ ]
+}
