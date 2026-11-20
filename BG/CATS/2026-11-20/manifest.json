@@ -1,0 +1,33 @@
+{
+  "book": "CATS",
+  "market": "BG",
+  "date": "2026-11-20",
+  "source_campaign": "T001 - Котки - възпитание: 3 варианта на корица за избор",
+  "generated_at": "2026-11-20T13:12:19+00:00",
+  "banners": [
+    {
+      "name": "CATS_BG_cover_idea2-kitten-tomcat",
+      "path": "BG/CATS/2026-11-20/CATS_BG_cover_idea2-kitten-tomcat.png",
+      "source": "source/CATS/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_cover_idea2-kitten-tomcat.png"
+    },
+    {
+      "name": "CATS_BG_cover_idea3-purr-closeup",
+      "path": "BG/CATS/2026-11-20/CATS_BG_cover_idea3-purr-closeup.png",
+      "source": "source/CATS/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_cover_idea3-purr-closeup.png"
+    },
+    {
+      "name": "CATS_BG_cover_idea4-graduate",
+      "path": "BG/CATS/2026-11-20/CATS_BG_cover_idea4-graduate.png",
+      "source": "source/CATS/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-20/CATS_BG_cover_idea4-graduate.png"
+    }
+  ]
+}
