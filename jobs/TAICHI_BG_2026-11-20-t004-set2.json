@@ -1,0 +1,70 @@
+{
+ "book": "TAICHI",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T004 - Тай чи на стол: избрана корица (вариант 3) + bump-ове, банер на курса",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump1-gift",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/TAICHI_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: (the book covers may show their own printed title exactly as in the reference; the only NEW text is the label) TWO copies of exactly the printed book from the second image standing side by side, slightly overlapping, with a small terracotta gift ribbon bow on the front one; the covers must look exactly like the reference cover. A big terracotta rounded label at the top of the image.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"2 КНИГИ -50%\"\nSTYLE: premium, warm, calm, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: calm jade green #2E8B7A, warm terracotta #D9774B, warm sand #F4E6CC and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNo other people besides those printed on the book covers."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump2-audio",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/TAICHI_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a pair of modern over-ear headphones resting on a smartphone that shows a big round jade green play button and a simple sound wave, filling about 70% of the frame. A big terracotta rounded label at the top of the image.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"АУДИО ВОДАЧ\"\nSTYLE: premium, warm, calm, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: calm jade green #2E8B7A, warm terracotta #D9774B, warm sand #F4E6CC and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump3-evening",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/TAICHI_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 70% of the frame, showing a PDF guide cover on screen: a calm night scene with a crescent moon, stars and a wooden chair on a deep teal background, no readable text. A big terracotta rounded label at the top of the image.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ТИХИ 7 МИНУТИ\"\nSTYLE: premium, warm, calm, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: calm jade green #2E8B7A, warm terracotta #D9774B, warm sand #F4E6CC and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump4-hands",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/TAICHI_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 70% of the frame, showing a PDF guide cover on screen: two open relaxed adult hands (five fingers each, no faces) on a jade green background with soft light, no readable text. A big terracotta rounded label at the top of the image.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ЖИВИ РЪЦЕ\"\nSTYLE: premium, warm, calm, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: calm jade green #2E8B7A, warm terracotta #D9774B, warm sand #F4E6CC and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "upsell",
+   "angle": "course-banner",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "references": [
+    "covers/TAICHI_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book with its front cover (for style reference).\nCreate a landscape banner for an online video course on a sales page, FULL BLEED, no white margins.\nBACKGROUND: calm jade green #2E8B7A with a soft warm glow, subtle pattern of soft flowing curved lines.\nLAYOUT: on the left half a big text block; on the right half a modern laptop, slightly angled, showing a video lesson on screen: a calm man and woman about 60-65 sitting on two wooden chairs doing the same slow arm movement in a bright room, with a big round terracotta play button in the middle of the video and a progress bar. On the laptop corner sits a small black graduation cap with a gold tassel.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, terracotta pill with white text: \"ВИДЕО КУРС\"\n2) Title line 1, white, very big: \"ТАЙ ЧИ\"\n3) Title line 2, warm sand #F4E6CC, very big: \"НА СТОЛ\"\n4) Title line 3, white, big: \"S.E.A.T.\"\n5) Subtitle, white, medium: \"6 модула, 5 часа и 30 минути видео\"\nSTYLE: premium, warm, calm, modern. Palette of the book: calm jade green #2E8B7A, warm terracotta #D9774B, warm sand #F4E6CC and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"S.E.A.T.\". Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style), large and legible on a phone.\n- No other text, logos, watermarks, prices or website addresses anywhere (no text inside the laptop screen).\nPeople only inside the laptop screen: ordinary calm people, natural faces, hands with five fingers."
+  }
+ ]
+}
