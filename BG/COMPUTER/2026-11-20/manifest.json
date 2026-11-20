@@ -2,136 +2,56 @@
   "book": "COMPUTER",
   "market": "BG",
   "date": "2026-11-20",
-  "source_campaign": "T003 - Компютърът без страх: 3 корици, бонуси, ползи, ревюта (примерни, като от телефон), за кого е, автор (примерен)",
-  "generated_at": "2026-11-20T19:22:42+00:00",
+  "source_campaign": "T003 - Компютърът без страх: bumps, банер на курса, бонус 3 (поправка)",
+  "generated_at": "2026-11-20T19:33:15+00:00",
   "banners": [
     {
-      "name": "COMPUTER_BG_cover_idea1-cozy-desk",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_cover_idea1-cozy-desk.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_cover_idea1-cozy-desk.png"
-    },
-    {
-      "name": "COMPUTER_BG_cover_idea2-video-call",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_cover_idea2-video-call.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_cover_idea2-video-call.png"
-    },
-    {
-      "name": "COMPUTER_BG_cover_idea3-big-cursor",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_cover_idea3-big-cursor.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_cover_idea3-big-cursor.png"
-    },
-    {
-      "name": "COMPUTER_BG_offer_bonus1-shortcuts",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_offer_bonus1-shortcuts.png",
+      "name": "COMPUTER_BG_offer_bonus3-dictionary-v2",
+      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_offer_bonus3-dictionary-v2.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_offer_bonus1-shortcuts.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_offer_bonus3-dictionary-v2.png"
     },
     {
-      "name": "COMPUTER_BG_offer_bonus2-scams",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_offer_bonus2-scams.png",
+      "name": "COMPUTER_BG_bump_bump1-gift",
+      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_bump_bump1-gift.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_offer_bonus2-scams.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_bump_bump1-gift.png"
     },
     {
-      "name": "COMPUTER_BG_offer_bonus3-dictionary",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_offer_bonus3-dictionary.png",
+      "name": "COMPUTER_BG_bump_bump2-smartphone",
+      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_bump_bump2-smartphone.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_offer_bonus3-dictionary.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_bump_bump2-smartphone.png"
     },
     {
-      "name": "COMPUTER_BG_benefit_benefit1-video-call",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_benefit_benefit1-video-call.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_benefit_benefit1-video-call.png"
-    },
-    {
-      "name": "COMPUTER_BG_benefit_benefit2-photos",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_benefit_benefit2-photos.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_benefit_benefit2-photos.png"
-    },
-    {
-      "name": "COMPUTER_BG_benefit_benefit3-safe-pay",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_benefit_benefit3-safe-pay.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_benefit_benefit3-safe-pay.png"
-    },
-    {
-      "name": "COMPUTER_BG_whofor_whofor-home",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_whofor_whofor-home.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_whofor_whofor-home.png"
-    },
-    {
-      "name": "COMPUTER_BG_review_review1-phone",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review1-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review1-phone.png"
-    },
-    {
-      "name": "COMPUTER_BG_review_review2-phone",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review2-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review2-phone.png"
-    },
-    {
-      "name": "COMPUTER_BG_review_review3-phone",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review3-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review3-phone.png"
-    },
-    {
-      "name": "COMPUTER_BG_review_review4-phone",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review4-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review4-phone.png"
-    },
-    {
-      "name": "COMPUTER_BG_review_review5-phone",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review5-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_review_review5-phone.png"
-    },
-    {
-      "name": "COMPUTER_BG_author_author-example",
-      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_author_author-example.png",
+      "name": "COMPUTER_BG_bump_bump3-bank",
+      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_bump_bump3-bank.png",
       "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_author_author-example.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_bump_bump3-bank.png"
+    },
+    {
+      "name": "COMPUTER_BG_bump_bump4-ai",
+      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_bump_bump4-ai.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_bump_bump4-ai.png"
+    },
+    {
+      "name": "COMPUTER_BG_upsell_course-banner",
+      "path": "BG/COMPUTER/2026-11-20/COMPUTER_BG_upsell_course-banner.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-20/COMPUTER_BG_upsell_course-banner.png"
     }
   ]
 }
