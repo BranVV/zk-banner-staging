@@ -53,7 +53,7 @@
     <p class="promise">Видеото показва точно как да приложиш всяка стъпка от книгата + допълнителни уроци с най-честите проблеми и техните решения, за да имаш спокойна и възпитана котка за 30 дни.</p>
 
     <!-- 4. Таймер и цена -->
-    <div class="timer" id="zkuTimer">15:00</div>
+    <div class="timer" id="zkuTimer">05:00</div>
     <p class="small">Тази оферта е налична само на тази страница и изчезва, след като я затвориш.</p>
     <p class="price">Само 19.99€</p>
 
@@ -61,9 +61,9 @@
 <script>
 (function(){
   var el = document.getElementById('zkuTimer'); if (!el) return;
-  var key = 'zku_t001_end', end = 0;
+  var key = 'zku_t001_end5', end = 0;
   try { end = parseInt(sessionStorage.getItem(key) || '0', 10); } catch (e) {}
-  if (!end || end < Date.now()) { end = Date.now() + 15 * 60 * 1000; try { sessionStorage.setItem(key, String(end)); } catch (e) {} }
+  if (!end || end < Date.now()) { end = Date.now() + 5 * 60 * 1000; try { sessionStorage.setItem(key, String(end)); } catch (e) {} }
   function tick(){
     var s = Math.max(0, Math.round((end - Date.now()) / 1000));
     var m = Math.floor(s / 60), r = s % 60;
