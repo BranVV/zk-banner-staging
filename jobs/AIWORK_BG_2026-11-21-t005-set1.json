@@ -1,0 +1,143 @@
+{
+ "book": "AIWORK",
+ "market": "BG",
+ "date": "2026-11-21",
+ "source_campaign": "T005 - AI за работа 2027: 3 корици, бонуси, ползи, ревюта (примерни, като от телефон), за кого е, автор (примерен)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "idea1-two-colleagues",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"two colleagues\": deep navy background with soft electric blue light. In the middle a woman about 45 and a man about 50 in smart casual office clothes sitting side by side at a desk with one laptop, both smiling at the screen, a soft glowing blue stream of light and small floating chat bubbles coming out of the laptop; photorealistic. Title \"AI ЗА РАБОТА\" in white at the top, \"2027\" in big amber.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title line 1, huge: \"AI ЗА РАБОТА\"\n2) Big year next to or under the title, amber: \"2027\"\n3) Subtitle, smaller, 3-4 lines: \"Свърши до 10 пъти по-бързо имейлите, отчетите, таблиците и презентациите с ChatGPT, Gemini, Claude и Copilot, дори да нямаш предишен опит или технически умения.\"\n4) Author name at the bottom of the cover, medium, white or light: \"ДАНИЕЛА ПЕТРОВА\"\n5) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"AI\", \"T.I.M.E.\", \"ChatGPT\", \"Gemini\", \"Claude\" and \"Copilot\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nSTYLE: premium, modern, confident, clean professional business-book design like a bestselling publisher would use, NOT childish, NOT clip-art, NOT sci-fi robots, NOT scary. Palette: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nPeople on the cover are ordinary Bulgarian office workers about 40-55 years old (not models), natural friendly faces, hands with five fingers."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "idea2-split-desk",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"before and after\": white and light grey background. In the middle a clean illustration of an office desk split in two: on the left a tall messy pile of papers and a clock, on the right the same desk tidy with a laptop showing a glowing electric blue chat bubble and a small amber check mark; above it two small round portraits of a smiling woman about 45 and a man about 50. Modern premium flat-3D illustration. Title in deep navy, \"2027\" in amber.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title line 1, huge: \"AI ЗА РАБОТА\"\n2) Big year next to or under the title, amber: \"2027\"\n3) Subtitle, smaller, 3-4 lines: \"Свърши до 10 пъти по-бързо имейлите, отчетите, таблиците и презентациите с ChatGPT, Gemini, Claude и Copilot, дори да нямаш предишен опит или технически умения.\"\n4) Author name at the bottom of the cover, medium, white or light: \"ДАНИЕЛА ПЕТРОВА\"\n5) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"AI\", \"T.I.M.E.\", \"ChatGPT\", \"Gemini\", \"Claude\" and \"Copilot\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nSTYLE: premium, modern, confident, clean professional business-book design like a bestselling publisher would use, NOT childish, NOT clip-art, NOT sci-fi robots, NOT scary. Palette: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nPeople on the cover are ordinary Bulgarian office workers about 40-55 years old (not models), natural friendly faces, hands with five fingers."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "idea3-team-laptop",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"team at the laptop\": electric blue gradient background. In the middle a man about 50 and a woman about 45 standing behind a laptop, the woman pointing at the screen, the man holding a cup of coffee and smiling, a soft amber glow from the screen; photorealistic, bright modern office. Title in white, \"2027\" in big amber badge.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title line 1, huge: \"AI ЗА РАБОТА\"\n2) Big year next to or under the title, amber: \"2027\"\n3) Subtitle, smaller, 3-4 lines: \"Свърши до 10 пъти по-бързо имейлите, отчетите, таблиците и презентациите с ChatGPT, Gemini, Claude и Copilot, дори да нямаш предишен опит или технически умения.\"\n4) Author name at the bottom of the cover, medium, white or light: \"ДАНИЕЛА ПЕТРОВА\"\n5) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"AI\", \"T.I.M.E.\", \"ChatGPT\", \"Gemini\", \"Claude\" and \"Copilot\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nSTYLE: premium, modern, confident, clean professional business-book design like a bestselling publisher would use, NOT childish, NOT clip-art, NOT sci-fi robots, NOT scary. Palette: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nPeople on the cover are ordinary Bulgarian office workers about 40-55 years old (not models), natural friendly faces, hands with five fingers."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus1-prompts",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: deep navy #1B2F4E with a soft glow; title in white with the second line in warm amber #F2A93B.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a stack of colourful index cards fanned out, each with a small chat-bubble icon and a copy icon, an electric blue glowing cursor arrow clicking on the top card.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, amber pill with dark navy text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"100 ГОТОВИ\"\n3) Title line 2, very big: \"ИНСТРУКЦИИ\"\n4) Subtitle, medium: \"за работата\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"AI\", \"T.I.M.E.\", \"ChatGPT\", \"Gemini\", \"Claude\" and \"Copilot\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus2-letters",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: electric blue #2F80ED (title line 2 in white too) with a soft glow; title in white with the second line in warm amber #F2A93B.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: an open laptop with a neat floating envelope and three stacked letter templates with amber wax-seal style check marks, no readable text.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, amber pill with dark navy text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"ШАБЛОНИ ЗА\"\n3) Title line 2, very big: \"ПИСМА\"\n4) Subtitle, medium: \"и официални имейли\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"AI\", \"T.I.M.E.\", \"ChatGPT\", \"Gemini\", \"Claude\" and \"Copilot\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus3-safe",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: deep teal-navy #163E5C with a soft glow; title in white with the second line in warm amber #F2A93B.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a big glossy amber padlock in front of a laptop with a soft blue shield glowing around it, small document icons kept safely inside the shield.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, amber pill with dark navy text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"КАКВО ДА НЕ\"\n3) Title line 2, very big: \"ДАВАШ НА AI\"\n4) Subtitle, medium: \"за сигурни данни\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"AI\", \"T.I.M.E.\", \"ChatGPT\", \"Gemini\", \"Claude\" and \"Copilot\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit1-emails",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a woman about 45 in a cardigan at her office desk, typing on a laptop and smiling, a cup of coffee next to her, the screen shows a soft blurred chat window, bright morning light.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary Bulgarian office or home office (not luxury, not a tech startup), colours harmonising with deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit2-reports",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a man about 50 at a desk in a small office holding handwritten notes in one hand and looking satisfied at his laptop, a neat printed report lying ready next to the laptop.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary Bulgarian office or home office (not luxury, not a tech startup), colours harmonising with deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit3-tables",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a woman about 50 and a younger colleague in an ordinary office looking together at a laptop screen with soft blurred colourful charts and a table, the older woman explaining confidently.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary Bulgarian office or home office (not luxury, not a tech startup), colours harmonising with deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "whofor",
+   "angle": "whofor-office",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: an ordinary tidy Bulgarian office corner with a desk, an open laptop, a notebook with a pen, reading glasses, a cup of coffee and a small plant, warm afternoon light. NO people and no faces.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary Bulgarian office or home office (not luxury, not a tech startup), colours harmonising with deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review1-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 47-year-old woman with shoulder-length brown hair sitting at her office desk with a laptop, turning to the camera with a relaxed smile.\nThis must look like a REAL amateur snapshot taken by a colleague or family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary office fluorescent light or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian office or home with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review2-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 52-year-old man with short grey hair in a simple shirt sitting at a desk in a small office, smiling at the camera, a laptop beside him.\nThis must look like a REAL amateur snapshot taken by a colleague or family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary office fluorescent light or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian office or home with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review3-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 44-year-old woman teacher sitting at a teacher desk in an empty classroom with a laptop and notebooks, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a colleague or family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary office fluorescent light or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian office or home with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review4-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 49-year-old woman at home at a kitchen table with a laptop and the paperback book next to it, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a colleague or family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary office fluorescent light or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian office or home with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review5-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 55-year-old man with glasses and a moustache in a small office, holding a mug and smiling at the camera, a laptop on the desk.\nThis must look like a REAL amateur snapshot taken by a colleague or family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary office fluorescent light or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian office or home with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "author",
+   "angle": "author-example",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square portrait photo of a friendly 45-year-old woman, a trainer who teaches office workers to use computers and AI, shoulder-length dark blond hair, warm patient smile, wearing a simple navy blazer over a light top, standing in a bright training room with a laptop on a table and a few empty chairs behind her (softly blurred, no other people).\nSTYLE: natural photorealistic professional portrait, soft daylight, approachable and trustworthy, ordinary Bulgarian person (not a model), colours harmonising with deep navy blue #1B2F4E, bright electric blue #2F80ED, warm amber #F2A93B and white. Screens show no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos, name badges or watermarks. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  }
+ ]
+}
