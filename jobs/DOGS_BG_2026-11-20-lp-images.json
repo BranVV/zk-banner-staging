@@ -1,0 +1,87 @@
+{
+ "book": "DOGS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T002 - Кучета: картинки за лендинга (ползи, ревюта - примерни за тест, за кого е)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit1-puppy",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a small beagle-like puppy sitting proudly on a clean puppy pad in a calm corner of a bright apartment, next to it a water bowl and a chew toy; a pair of intact shoes stands nearby; the floor is spotless. NO people and no faces. If a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), with five fingers.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit2-walk",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a grown mixed-breed dog walking calmly on a loose leash on a quiet tree-lined street of a Bulgarian town, looking up happily; only the lower legs of the walker in neutral jeans and sneakers are visible. NO faces.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit3-yard",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a sunny Bulgarian village house with a small fenced yard; a calm shepherd-mix dog lies relaxed by the gate, which is closed and intact, a dog house and a water bowl nearby, flowers along the fence. NO people and no faces. If a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), with five fingers.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review1",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 44-year-old woman sitting on the living room floor laughing with her beagle puppy who sits nicely on a clean rug. An ordinary Bulgarian person (not a model), natural candid phone-photo look, five fingers on hands.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review2",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 52-year-old woman walking her mixed-breed dog on a loose leash in a park, the dog walking calmly by her side. An ordinary Bulgarian person (not a model), natural candid phone-photo look, five fingers on hands.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review3",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 63-year-old woman in a village yard petting her calm shepherd-mix dog by the closed gate. An ordinary Bulgarian person (not a model), natural candid phone-photo look, five fingers on hands.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review4",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 38-year-old woman holding a small terrier-mix puppy in her arms in a bright kitchen. An ordinary Bulgarian person (not a model), natural candid phone-photo look, five fingers on hands.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review5",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 50-year-old man sitting on a park bench, his labrador-like dog sitting calmly next to him on a leash. An ordinary Bulgarian person (not a model), natural candid phone-photo look, five fingers on hands.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "whofor",
+   "angle": "whofor-home",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape lifestyle photo: a cosy living room where a beagle-like puppy and a golden labrador-like dog rest together on a dog bed near a sofa, a leash hangs by the door, toys on the rug. NO people and no faces. If a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), with five fingers.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home or neighbourhood (not luxury), colours harmonising with dark teal, warm orange and light mint.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nDOGS: ordinary friendly family dogs, natural anatomy, correct eyes and paws.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  }
+ ]
+}
