@@ -1,0 +1,75 @@
+<style>
+.zku { font-family: inherit; color: #222; max-width: 860px; margin: 0 auto; padding: 0 16px; text-align: center; }
+.zku p { margin: 0 0 12px; line-height: 1.55; font-size: clamp(16px, 1.9vw, 18px); }
+.zku .stop { font-size: clamp(34px, 5vw, 52px); font-weight: 900; color: #c0392b; letter-spacing: 1px; margin: 10px 0 6px; }
+.zku .lead { font-size: clamp(18px, 2.2vw, 22px); font-weight: 600; }
+.zku .prob { background: #fff6e8; border-left: 5px solid #e6a23c; border-radius: 10px; padding: 18px 20px; margin: 22px auto; text-align: left; max-width: 720px; }
+.zku .banner { width: 100%; max-width: 760px; border-radius: 14px; display: block; margin: 18px auto; box-shadow: 0 6px 22px rgba(0,0,0,.12); }
+.zku .cname { font-size: clamp(24px, 3.4vw, 34px); font-weight: 900; margin: 8px 0; }
+.zku .promise { font-size: clamp(17px, 2vw, 20px); max-width: 720px; margin: 0 auto 16px; }
+.zku .timer { display: inline-block; background: #222; color: #fff; font-weight: 800; font-size: clamp(26px, 4vw, 38px); letter-spacing: 2px; border-radius: 10px; padding: 8px 22px; margin: 14px 0 8px; font-variant-numeric: tabular-nums; }
+.zku .small { font-size: 14px; color: #666; }
+.zku .price { font-size: clamp(28px, 4vw, 40px); font-weight: 900; color: #c0392b; margin: 6px 0 0; }
+.zku .old { text-decoration: line-through; color: #888; }
+.zku .h2 { font-size: clamp(22px, 3vw, 30px); font-weight: 900; margin: 40px 0 16px; text-transform: none; }
+.zku .cmp { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; text-align: left; margin: 18px 0; }
+.zku .card { background: #f7f7f9; border-radius: 12px; padding: 18px; }
+.zku .card .t { font-weight: 800; font-size: 20px; margin-bottom: 10px; }
+.zku .card p { font-size: 16px; margin-bottom: 8px; }
+.zku .dur { background: #1f3a5f; color: #fff; border-radius: 12px; padding: 22px; margin: 30px 0; }
+.zku .dur p { margin: 4px 0; }
+.zku .dur .big { font-size: clamp(24px, 3.4vw, 32px); font-weight: 900; }
+.zku .list { text-align: left; max-width: 720px; margin: 0 auto; }
+.zku .list p { padding: 10px 0; border-bottom: 1px solid #eee; margin: 0; }
+.zku .proof { font-weight: 800; font-size: 20px; margin: 30px 0 10px; }
+.zku .revs { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; text-align: left; }
+.zku .rev { background: #fff; border: 1px solid #eee; border-radius: 12px; padding: 18px; box-shadow: 0 3px 12px rgba(0,0,0,.05); }
+.zku .rev .st { margin-bottom: 6px; }
+.zku .rev .rh { font-weight: 800; }
+.zku .rev .rt { font-size: 16px; }
+.zku .rev .rn { font-weight: 700; font-size: 15px; margin: 0; }
+.zku .rev .note { font-size: 12px; color: #777; font-style: italic; margin: 6px 0 0; }
+.zku .gold { background: #fff8e1; border: 2px dashed #d4a017; border-radius: 12px; padding: 20px; margin: 34px auto 0; max-width: 760px; font-weight: 700; }
+.zku .seal { width: 130px; display: block; margin: 0 auto 12px; }
+.zku .final { margin-top: 40px; }
+@media (max-width: 700px) { .zku .cmp, .zku .revs { grid-template-columns: 1fr; } }
+</style>
+
+<div class="zku">
+
+    <!-- 1. Стоп -->
+    <p class="stop">ИЗЧАКАЙ!</p>
+    <p class="lead">Поръчката ти е приета, но ти предлагаме да се възползваш от още една важна възможност.</p>
+
+    <!-- 2. Проблем -->
+    <div class="prob">
+        <p>Повечето стопани прочитат какво трябва да направят с кучето...</p>
+        <p style="margin:0">...но когато кучето се засили към минувача или задърпа каишката, не знаят какво точно да направят в този момент.</p>
+    </div>
+
+    <!-- 3. Курсът -->
+    <img class="banner" src="https://content.app-sources.com/s/156669301007041921/uploads/Downloaded/t002-dogs-course-5197654.jpg" alt="Кучешката академия L.E.A.S.H.">
+    <p class="cname">„Кучешката академия L.E.A.S.H.“</p>
+    <p class="promise">Видеото показва точно как да приложиш всяка стъпка от книгата + допълнителни уроци с най-честите проблеми и техните решения, за да имаш послушно и спокойно куче за 30 дни.</p>
+
+    <!-- 4. Таймер и цена -->
+    <div class="timer" id="zkuTimer">05:00</div>
+    <p class="small">Тази оферта е налична само на тази страница и изчезва, след като я затвориш.</p>
+    <p class="price">Само 19.99€</p>
+
+</div>
+<script>
+(function(){
+  var el = document.getElementById('zkuTimer'); if (!el) return;
+  var key = 'zku_t002_end5', end = 0;
+  try { end = parseInt(sessionStorage.getItem(key) || '0', 10); } catch (e) {}
+  if (!end || end < Date.now()) { end = Date.now() + 5 * 60 * 1000; try { sessionStorage.setItem(key, String(end)); } catch (e) {} }
+  function tick(){
+    var s = Math.max(0, Math.round((end - Date.now()) / 1000));
+    var m = Math.floor(s / 60), r = s % 60;
+    el.textContent = (m < 10 ? '0' : '') + m + ':' + (r < 10 ? '0' : '') + r;
+    if (s > 0) setTimeout(tick, 1000);
+  }
+  tick();
+})();
+</script>
