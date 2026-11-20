@@ -1,0 +1,71 @@
+{
+ "book": "CATS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T001 - Котки: примерни снимки за ревюта (само за тест), За кого е, печат гаранция",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review1-rositsa",
+   "prompt": "Create a landscape photo: a friendly Bulgarian woman around 45 with short dark-blonde hair, casual home clothes, crouching in her apartment hallway next to a clean litter box, smiling at a small grey-and-white kitten sitting next to her; clean rug in the background.\nSTYLE: natural photorealistic amateur smartphone photo, as a real customer would take at home, soft daylight, ordinary modest Bulgarian home (not luxury, not staged), slightly imperfect framing.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  },
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review2-galina",
+   "prompt": "Create a landscape photo: a Bulgarian woman around 58 with short grey-brown hair and reading glasses on a chain, sitting in an old armchair with a big orange tabby tomcat relaxed in her lap, she is gently petting him and smiling; simple living room.\nSTYLE: natural photorealistic amateur smartphone photo, as a real customer would take at home, soft daylight, ordinary modest Bulgarian home (not luxury, not staged), slightly imperfect framing.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  },
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review3-stefka",
+   "prompt": "Create a landscape photo: a Bulgarian village woman around 62 with a headscarf-free short grey hairstyle and a knitted cardigan, standing at the open door between her rural house and the yard, two cats eating calmly from separate bowls at her feet, garden and fence behind.\nSTYLE: natural photorealistic amateur smartphone photo, as a real customer would take at home, soft daylight, ordinary modest Bulgarian home (not luxury, not staged), slightly imperfect framing.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  },
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review4-maria",
+   "prompt": "Create a landscape photo: a Bulgarian woman around 40 with long dark hair in a ponytail, sitting on a sofa in a seaside-town apartment reading a printed book, a young tabby cat sleeping next to her.\nSTYLE: natural photorealistic amateur smartphone photo, as a real customer would take at home, soft daylight, ordinary modest Bulgarian home (not luxury, not staged), slightly imperfect framing.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  },
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review5-petya",
+   "prompt": "Create a landscape photo: a Bulgarian woman around 50 with a short brown bob, standing in a small city apartment next to a tall sisal scratching post where a black cat is scratching; she looks pleased; an intact wooden door in the background.\nSTYLE: natural photorealistic amateur smartphone photo, as a real customer would take at home, soft daylight, ordinary modest Bulgarian home (not luxury, not staged), slightly imperfect framing.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  },
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "whofor",
+   "angle": "whofor-home",
+   "prompt": "Create a landscape photo: a cosy, bright ordinary Bulgarian living room with a playful small kitten and a calm adult cat resting together on a soft blanket on an intact sofa, a scratching post and a toy nearby. NO people at all.\nSTYLE: natural photorealistic lifestyle photo, soft daylight, ordinary modest Bulgarian home (not luxury, not staged), slightly imperfect framing.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "guarantee",
+   "angle": "guarantee-seal-60",
+   "prompt": "Create a square image: a premium shiny gold guarantee seal badge with ribbon, centered on a pure white background. On the seal, in large, crisp, perfectly spelled Bulgarian Cyrillic capital letters, exactly this text in three lines: \"60 ДНИ\" / \"ГАРАНЦИЯ\" / \"100% ВЪЗСТАНОВЯВАНЕ НА ПАРИТЕ\". No other text. Clean vector-like realistic gold, high contrast, readable at small size.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  }
+ ]
+}
