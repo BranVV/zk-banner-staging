@@ -1,0 +1,55 @@
+{
+ "book": "DOGS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T002 - Кучета: снимки за примерните ревюта (като снимани с телефон, без филтри; за кръгли аватари)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/DOGS/blank_1024x1536.png",
+   "format": "review",
+   "angle": "review1-phone",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a vertical photo, example customer photo for a review: a 44-year-old woman sitting on the living room floor, laughing, with her beagle puppy sitting next to her on an ordinary rug.\nThis must look like a REAL amateur snapshot taken by a family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary uneven daylight or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture with pores and small wrinkles, ordinary everyday clothes, a normal lived-in Bulgarian home, yard or park with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed expression, five fingers on hands.\nCOMPOSITION: the person's face and the dog are both in the CENTRE of the frame, close enough that both are clearly visible when the photo is cropped to a centred circle; nothing important near the edges.\nDOGS: ordinary family dogs, natural anatomy, correct eyes and paws.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1024x1536.png",
+   "format": "review",
+   "angle": "review2-phone",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a vertical photo, example customer photo for a review: a 52-year-old woman standing in a city park with her mixed-breed dog on a leash, the dog sitting calmly by her legs.\nThis must look like a REAL amateur snapshot taken by a family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary uneven daylight or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture with pores and small wrinkles, ordinary everyday clothes, a normal lived-in Bulgarian home, yard or park with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed expression, five fingers on hands.\nCOMPOSITION: the person's face and the dog are both in the CENTRE of the frame, close enough that both are clearly visible when the photo is cropped to a centred circle; nothing important near the edges.\nDOGS: ordinary family dogs, natural anatomy, correct eyes and paws.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1024x1536.png",
+   "format": "review",
+   "angle": "review3-phone",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a vertical photo, example customer photo for a review: a 63-year-old woman in her village yard, crouching to pet her calm shepherd-mix dog near the gate.\nThis must look like a REAL amateur snapshot taken by a family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary uneven daylight or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture with pores and small wrinkles, ordinary everyday clothes, a normal lived-in Bulgarian home, yard or park with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed expression, five fingers on hands.\nCOMPOSITION: the person's face and the dog are both in the CENTRE of the frame, close enough that both are clearly visible when the photo is cropped to a centred circle; nothing important near the edges.\nDOGS: ordinary family dogs, natural anatomy, correct eyes and paws.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1024x1536.png",
+   "format": "review",
+   "angle": "review4-phone",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a vertical photo, example customer photo for a review: a 38-year-old woman holding a small terrier-mix puppy in her arms in her kitchen.\nThis must look like a REAL amateur snapshot taken by a family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary uneven daylight or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture with pores and small wrinkles, ordinary everyday clothes, a normal lived-in Bulgarian home, yard or park with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed expression, five fingers on hands.\nCOMPOSITION: the person's face and the dog are both in the CENTRE of the frame, close enough that both are clearly visible when the photo is cropped to a centred circle; nothing important near the edges.\nDOGS: ordinary family dogs, natural anatomy, correct eyes and paws.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  },
+  {
+   "source": "source/DOGS/blank_1024x1536.png",
+   "format": "review",
+   "angle": "review5-phone",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a vertical photo, example customer photo for a review: a 50-year-old man sitting on a park bench, his labrador-like dog sitting next to him on a leash.\nThis must look like a REAL amateur snapshot taken by a family member with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary uneven daylight or indoor lamp light, slightly flat colours, a bit of phone sensor noise, real skin texture with pores and small wrinkles, ordinary everyday clothes, a normal lived-in Bulgarian home, yard or park with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed expression, five fingers on hands.\nCOMPOSITION: the person's face and the dog are both in the CENTRE of the frame, close enough that both are clearly visible when the photo is cropped to a centred circle; nothing important near the edges.\nDOGS: ordinary family dogs, natural anatomy, correct eyes and paws.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n"
+  }
+ ]
+}
