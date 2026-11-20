@@ -1,0 +1,53 @@
+{
+ "book": "CATS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T001 - Котки - възпитание: 4 order bumps (одобрени)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump1-audio",
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book with its front cover: reproduce that front cover design faithfully (same cats, colours, title, P.U.R.R. letters) where the cover appears.\nCreate a square product image on a pure WHITE background with a soft shadow: a modern smartphone standing slightly angled, filling about 70% of the frame, showing an audiobook player app: the book's front cover large on the screen, a play button and a progress bar below it. Next to the phone: stylish dark navy over-ear headphones. A big yellow-orange rounded label at the top of the image.\nTEXT (exactly these lines, nothing else outside the book cover):\n1) Label at the top: \"АУДИО КНИГА\"\n\nSTYLE: premium, warm, friendly, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: dark navy #0F2A4A, warm yellow-orange #F5A623, light sky blue #DCEEFB and white.\nThe image will be shown very small (about 100x100 px), so the product and its title must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere.\nCATS: ordinary domestic cats, natural anatomy. NO people, no faces.\n",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/CATS_BG_cover.png"
+   ]
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump2-kitchen",
+   "prompt": "The input image is only a blank canvas. Create a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 80% of the frame. On the tablet screen is the cover of a PDF e-book: warm yellow-orange background, a happy tabby cat licking its lips next to a small bowl of home-made cat treats (little cookies, bits of chicken), a big clear title.\nTEXT on the e-book cover (exactly these lines, nothing else):\n1) Small label at the top: \"PDF\"\n2) Title line 1, dark navy, very big and bold: \"КОТЕШКА КУХНЯ\"\n3) Subtitle, smaller: \"30 домашни лакомства и награди\"\n\nSTYLE: premium, warm, friendly, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: dark navy #0F2A4A, warm yellow-orange #F5A623, light sky blue #DCEEFB and white.\nThe image will be shown very small (about 100x100 px), so the product and its title must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere.\nCATS: ordinary domestic cats, natural anatomy. NO people, no faces.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump3-ebook",
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book with its front cover: reproduce that front cover design faithfully (same cats, colours, title, P.U.R.R. letters) where the cover appears.\nCreate a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 80% of the frame, showing the book's front cover full screen as an e-book. A big yellow-orange rounded label at the top of the image.\nTEXT (exactly these lines, nothing else outside the book cover):\n1) Label at the top: \"ЕЛЕКТРОННА КНИГА\"\n\nSTYLE: premium, warm, friendly, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: dark navy #0F2A4A, warm yellow-orange #F5A623, light sky blue #DCEEFB and white.\nThe image will be shown very small (about 100x100 px), so the product and its title must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere.\nCATS: ordinary domestic cats, natural anatomy. NO people, no faces.\n",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/CATS_BG_cover.png"
+   ]
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump4-second-cat",
+   "prompt": "The input image is only a blank canvas. Create a square product image on a pure WHITE background with a soft shadow: a modern tablet standing slightly angled, filling about 80% of the frame. On the tablet screen is the cover of a PDF e-book: light sky blue background, two cats (a grey cat and a ginger cat) sitting side by side and touching noses in a friendly way, a big clear title.\nTEXT on the e-book cover (exactly these lines, nothing else):\n1) Small label at the top: \"PDF\"\n2) Title line 1, dark navy, very big and bold: \"ВТОРА КОТКА ВКЪЩИ\"\n3) Subtitle, smaller: \"как да ги сприятелиш\"\n\nSTYLE: premium, warm, friendly, modern; clean professional product photo like a bestselling publisher would use. Palette of the book: dark navy #0F2A4A, warm yellow-orange #F5A623, light sky blue #DCEEFB and white.\nThe image will be shown very small (about 100x100 px), so the product and its title must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere.\nCATS: ordinary domestic cats, natural anatomy. NO people, no faces.\n",
+   "fit": "crop",
+   "api_size": "1024x1024"
+  }
+ ]
+}
