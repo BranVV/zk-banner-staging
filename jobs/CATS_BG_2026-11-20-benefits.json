@@ -1,0 +1,39 @@
+{
+ "book": "CATS",
+ "market": "BG",
+ "date": "2026-11-20",
+ "source_campaign": "T001 - Котки: 3 картинки за блока с ползи",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit1-kitten",
+   "prompt": "Create a landscape photo: a tiny black-and-white kitten sitting proudly in a clean litter box placed in a calm corner of a bright apartment, next to it a small food bowl and a soft cat bed; the floor and rug are spotless.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home (not luxury), colours harmonising with dark navy, warm yellow-orange and light sky blue.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws.\nNO people and no faces. If a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  },
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit2-adult-cat",
+   "prompt": "Create a landscape photo: a grown grey tabby cat calmly scratching a tall sisal scratching post right next to an intact, undamaged fabric sofa in a cosy living room; a feather toy lies on the rug; the cat looks relaxed and content.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home (not luxury), colours harmonising with dark navy, warm yellow-orange and light sky blue.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws.\nNO people and no faces. If a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  },
+  {
+   "source": "source/CATS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit3-house-yard",
+   "prompt": "Create a landscape photo: a sunny Bulgarian village house with a small garden; a ginger cat sits on the porch by an open door, another cat sleeps inside on a windowsill; each has its own bowl; peaceful, tidy and harmonious.\nSTYLE: warm, bright, natural photorealistic lifestyle photo, soft daylight, cozy ordinary Bulgarian home (not luxury), colours harmonising with dark navy, warm yellow-orange and light sky blue.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nCATS: ordinary domestic cats, natural anatomy, correct eyes and paws.\nNO people and no faces. If a hand appears it is gender-neutral (no nail polish, no jewellery, no sleeve), with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders.\n",
+   "fit": "crop",
+   "api_size": "1536x1024"
+  }
+ ]
+}
