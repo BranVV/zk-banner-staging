@@ -1,0 +1,33 @@
+{
+  "book": "CATS",
+  "market": "BG",
+  "date": "2026-11-21",
+  "source_campaign": "T001 Котки - тестова кампания (процес Тестови кампании с банери за нови фунии): CBO | T001 | BROAD | PROBLEM CAT OWNERS BANNERS",
+  "generated_at": "2026-11-21T05:31:06+00:00",
+  "banners": [
+    {
+      "name": "CATS_BG_banner_t001-01-pain-divan",
+      "path": "BG/CATS/2026-11-21/CATS_BG_banner_t001-01-pain-divan.png",
+      "source": "source/CATS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-21/CATS_BG_banner_t001-01-pain-divan.png"
+    },
+    {
+      "name": "CATS_BG_banner_t001-02-hero-callout",
+      "path": "BG/CATS/2026-11-21/CATS_BG_banner_t001-02-hero-callout.png",
+      "source": "source/CATS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-21/CATS_BG_banner_t001-02-hero-callout.png"
+    },
+    {
+      "name": "CATS_BG_banner_t001-03-promise-skut",
+      "path": "BG/CATS/2026-11-21/CATS_BG_banner_t001-03-promise-skut.png",
+      "source": "source/CATS/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-21/CATS_BG_banner_t001-03-promise-skut.png"
+    }
+  ]
+}
