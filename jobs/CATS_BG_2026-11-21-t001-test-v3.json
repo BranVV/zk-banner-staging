@@ -1,0 +1,32 @@
+{
+ "book": "CATS",
+ "market": "BG",
+ "date": "2026-11-21",
+ "source_campaign": "T001 Котки v3: HERO с тъмносин фон (книгата да изпъква), PROMISE с бутона по-високо; без вътрешни рамки",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536",
+  "fit": "crop"
+ },
+ "banners": [
+  {
+   "source": "source/CATS/raw_v2_t001-02-hero.png",
+   "format": "banner",
+   "angle": "t001-02-hero-callout-v3",
+   "prompt": "IMAGE 1 is our existing banner. Recreate the SAME banner design (same headline text, same three round photo badges with red crosses on the left - including the clean hand with the playful cat, no scratches - same yellow curved arrow, same book cover, same subheadline text, same red CTA button \"Виж как 👉\") with these changes:\n1) BACKGROUND: change the light-blue background to a rich DEEP NAVY BLUE #0F1F3D with a soft subtle radial glow behind the book and a few faint lighter-navy paw prints, so the light-blue book cover POPS out with strong contrast. Give the book a soft warm glow/shadow behind it.\n2) HEADLINE colours for the dark background: \"Котката ти\" in white; \"драска, хапе или пропуска тоалетната?\" in near-black on a bright yellow #F5C518 highlighter stripe (as now). Subheadline in white, bold, big (at least ~4.8% of the frame height).\n3) The book stays clearly readable, about 36% of the banner width.\nLAYOUT (critical - the final banner is cut to 4:5 from the centre of this tall frame, so the top 15% and the bottom 15% are thrown away): compress the whole composition vertically into the middle. The top 17% of the frame must contain ONLY plain background continuation (no text, no objects). The first line of the headline starts at about 19% from the top. The bottom of the CTA button must be at about 79% from the top. Everything below 81% is ONLY plain background continuation (no text, no objects). Make the elements a little smaller if needed to fit - but keep the subheadline big and bold.\nAll text is Bulgarian Cyrillic, rendered EXACTLY as in IMAGE 1, character by character. No other text, no prices, no frames or borders around the image - the background fills edge to edge.\n",
+   "fit": "crop",
+   "cover": "covers/CATS_BG_cover.png"
+  },
+  {
+   "source": "source/CATS/raw_v2_t001-03-promise.png",
+   "format": "banner",
+   "angle": "t001-03-promise-skut-v3",
+   "prompt": "IMAGE 1 is our existing banner. Recreate the SAME banner - same woman, same sleeping grey tabby cat, same cosy living room, same book on the coffee table, same headline, same big subheadline, same red CTA button \"Искам такава котка 👉\" - with ONLY a layout change:\nLAYOUT (critical - the final banner is cut to 4:5 from the centre of this tall frame, so the top 15% and the bottom 15% are thrown away): compress the whole composition vertically into the middle. The top 17% of the frame must contain ONLY plain background continuation (no text, no objects). The first line of the headline starts at about 19% from the top. The bottom of the CTA button must be at about 79% from the top. Everything below 81% is ONLY plain background continuation (no text, no objects). Make the elements a little smaller if needed to fit - but keep the subheadline big and bold.\nAbove the headline only continue the warm wall/room background; below the CTA button only continue the wooden table and carpet. The background fills the frame edge to edge: no frames, no borders, no blurred strips.\nAll text is Bulgarian Cyrillic, rendered EXACTLY as in IMAGE 1, character by character (keep the Bulgarian quotation marks „ “ exactly, no full stop at the end of the subheadline). No other changes, no new text, no prices.\n",
+   "fit": "crop"
+  }
+ ]
+}
