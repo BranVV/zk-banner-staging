@@ -1,0 +1,27 @@
+{
+ "book": "TAICHI",
+ "market": "BG",
+ "date": "2026-11-21",
+ "source_campaign": "T004 v2: PROMISE с ново подзаглавие (Bran)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536",
+  "fit": "crop"
+ },
+ "banners": [
+  {
+   "source": "source/TAICHI/blank_1080x1350.png",
+   "format": "banner",
+   "angle": "t004-03-promise-sled50-v2",
+   "prompt": "Create a NEW, finished Facebook/Instagram feed advertising banner for a Bulgarian audience, from scratch.\nIMAGE 1 is only a blank grey canvas used for size: ignore its content completely. The image must fill the WHOLE frame edge to edge (no bars, no borders, no frames, no inner frame, no blurred strips).\nLAYOUT (critical - the final banner is cut to 4:5 from the centre of this tall frame, so the top 15% and the bottom 15% are thrown away): the top 19% of the frame contains ONLY plain background. The headline starts at about 21% from the top. The bottom of the CTA button is at about 78% from the top. Everything below 80% is ONLY plain background. Keep about 7% side margins.\nEXACT VERTICAL LAYOUT (percent of the full frame height, from the top): 0-20% only background. 21-31% the headline (two lines, VERY BIG). 32-40% the subheadline (TWO lines, big). 41-71% the scene. 72-78% the CTA button. 79-100% only background.\nFORMAT: PROMISE - a person in the desired situation + a big promise, with the book (IMAGE 3 is a winning PROMISE banner of ours - copy its structure only, NOT its colours, people or texts).\nThe woman is a Bulgarian woman around 57, slightly plump, natural grey-blond short hair, natural look, no beauty filter. Ordinary modest Bulgarian home (panel-block flat), not luxury.\nSCENE: warm morning light in a cosy kitchen. She sits upright on a simple wooden kitchen chair and does a slow, graceful tai chi movement with both arms raised in front of her like a soft wave, calm and smiling, eyes relaxed. A moka coffee pot on the stove behind her, a plant on the windowsill. Wearing a soft teal top. On the dark wooden table in front of her:\nBOOK: the book (IMAGE 2) STANDS UPRIGHT on the table, front cover facing the camera, leaning slightly back against a mug, naturally lit, realistic size, clearly readable, not lying flat, not floating. The light cream cover must stand out against a darker wooden table or background behind it.\nTEXT ON THE BANNER (exactly these lines, nothing else):\n1) Headline on a soft dark gradient at the top of the photo, white, heavy, VERY BIG, two lines: \"След 50 тялото иска плавно движение,\" / \"не натоварване.\" - make \"плавно движение,\" yellow #F5C518.\n2) Subheadline under it, white, extra bold, big (at least ~5% of the banner height), split on TWO lines: line 1 \"Тай чи всяка сутрин,\" / line 2 \"докато си седиш на стола\" (one sentence, exactly these words).\n3) CTA button: \"Искам да започна 👉\"\nIMAGE 2 is the real book cover of the book \"Тай чи на стол\" (it shows a 3D paperback mockup on white - use only the book itself, not the white background). Reproduce it exactly on the physical book: same design, colours and all cover lettering letter by letter. Do not invent or change any cover text.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation, quotation marks and capital letters. Do not translate, correct, shorten, re-order or add any words.\n- Use a heavy, clean, condensed sans-serif for headlines (like Oswald Bold / Bebas-style weight but with full Cyrillic).\n- Text must be large and clearly legible on a phone at 380px width: headline lines at least ~6% of the banner height, subheadline at least ~4.8% of the banner height (bold, very easy to read on a phone), CTA text ~3.5%. Keep generous side margins (about 6% of the width).\n- Strong contrast only: white text on dark areas or near-black text on light areas; accent words in yellow #F5C518; no grey text.\n- CTA = rounded pill button in vivid red #E8232A with bold white text, centred near the bottom of the central area. The pointing-hand emoji at the end of the CTA is drawn as a small yellow pointing-right hand icon.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere. No phone screens, no chat or messenger interface, no notification badges.\n\nPHOTO STYLE: realistic, natural-looking photo like a real Bulgarian everyday scene taken with a good phone camera; natural light, real skin and fur texture; not glossy stock, no beauty filter. People have only two hands with five fingers each. No visible injuries, no medical equipment, no bandages, no pills.\nBOOK REALISM (critical - the book must NOT look pasted in like a sticker): a real, physically present paperback in the scene, lit by the SAME light, soft natural shadow, realistic size (a normal 13x20 cm paperback). The cover design and title must still be recognisable and must stand out from what is behind it.\nCRITICAL POSITION CHECK: the FIRST line of any text must start no higher than 17% of the frame height from the top. The CTA button must end no lower than 87% of the frame height.\nNO extra text anywhere in the scene: no posters, signs, shop names, street signs, wall lettering or written papers besides the book cover.\n",
+   "references": [
+    "source/TAICHI/ref_EXCEL_promise.jpg"
+   ],
+   "cover": "covers/TAICHI_BG_cover.png"
+  }
+ ]
+}
