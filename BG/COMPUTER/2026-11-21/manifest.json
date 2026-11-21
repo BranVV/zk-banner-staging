@@ -1,0 +1,33 @@
+{
+  "book": "COMPUTER",
+  "market": "BG",
+  "date": "2026-11-21",
+  "source_campaign": "T003 Компютър - тестова кампания (PAIN, HERO, SPLIT-PAIN)",
+  "generated_at": "2026-11-21T07:20:30+00:00",
+  "banners": [
+    {
+      "name": "COMPUTER_BG_banner_t003-01-pain-chakash",
+      "path": "BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-01-pain-chakash.png",
+      "source": "source/COMPUTER/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-01-pain-chakash.png"
+    },
+    {
+      "name": "COMPUTER_BG_banner_t003-02-hero-mladite",
+      "path": "BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-02-hero-mladite.png",
+      "source": "source/COMPUTER/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-02-hero-mladite.png"
+    },
+    {
+      "name": "COMPUTER_BG_banner_t003-03-split-day-az",
+      "path": "BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-03-split-day-az.png",
+      "source": "source/COMPUTER/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-03-split-day-az.png"
+    }
+  ]
+}
