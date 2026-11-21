@@ -1,0 +1,33 @@
+{
+  "book": "TAICHI",
+  "market": "BG",
+  "date": "2026-11-21",
+  "source_campaign": "T004 Тай чи - тестова кампания (PAIN, EDU, PROMISE)",
+  "generated_at": "2026-11-21T16:30:24+00:00",
+  "banners": [
+    {
+      "name": "TAICHI_BG_banner_t004-01-pain-shvanata",
+      "path": "BG/TAICHI/2026-11-21/TAICHI_BG_banner_t004-01-pain-shvanata.png",
+      "source": "source/TAICHI/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-21/TAICHI_BG_banner_t004-01-pain-shvanata.png"
+    },
+    {
+      "name": "TAICHI_BG_banner_t004-02-edu-kitaiski",
+      "path": "BG/TAICHI/2026-11-21/TAICHI_BG_banner_t004-02-edu-kitaiski.png",
+      "source": "source/TAICHI/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-21/TAICHI_BG_banner_t004-02-edu-kitaiski.png"
+    },
+    {
+      "name": "TAICHI_BG_banner_t004-03-promise-sled50",
+      "path": "BG/TAICHI/2026-11-21/TAICHI_BG_banner_t004-03-promise-sled50.png",
+      "source": "source/TAICHI/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/TAICHI/2026-11-21/TAICHI_BG_banner_t004-03-promise-sled50.png"
+    }
+  ]
+}
