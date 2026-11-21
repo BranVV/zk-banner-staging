@@ -2,24 +2,16 @@
   "book": "CATS",
   "market": "BG",
   "date": "2026-11-21",
-  "source_campaign": "T001 Котки v3: HERO с тъмносин фон (книгата да изпъква), PROMISE с бутона по-високо; без вътрешни рамки",
-  "generated_at": "2026-11-21T05:50:08+00:00",
+  "source_campaign": "T001 Котки v4: HERO тъмносин фон от нулата",
+  "generated_at": "2026-11-21T05:53:17+00:00",
   "banners": [
     {
-      "name": "CATS_BG_banner_t001-02-hero-callout-v3",
-      "path": "BG/CATS/2026-11-21/CATS_BG_banner_t001-02-hero-callout-v3.png",
-      "source": "source/CATS/raw_v2_t001-02-hero.png",
+      "name": "CATS_BG_banner_t001-02-hero-callout-v4",
+      "path": "BG/CATS/2026-11-21/CATS_BG_banner_t001-02-hero-callout-v4.png",
+      "source": "source/CATS/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-21/CATS_BG_banner_t001-02-hero-callout-v3.png"
-    },
-    {
-      "name": "CATS_BG_banner_t001-03-promise-skut-v3",
-      "path": "BG/CATS/2026-11-21/CATS_BG_banner_t001-03-promise-skut-v3.png",
-      "source": "source/CATS/raw_v2_t001-03-promise.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-21/CATS_BG_banner_t001-03-promise-skut-v3.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CATS/2026-11-21/CATS_BG_banner_t001-02-hero-callout-v4.png"
     }
   ]
 }
