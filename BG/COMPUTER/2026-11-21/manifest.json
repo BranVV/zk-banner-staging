@@ -2,24 +2,16 @@
   "book": "COMPUTER",
   "market": "BG",
   "date": "2026-11-21",
-  "source_campaign": "T003 v2: по-голямо подзаглавие (PAIN) и заглавие (HERO)",
-  "generated_at": "2026-11-21T07:24:10+00:00",
+  "source_campaign": "T003 v3: PAIN над рамото, екранът видим, книгата изправена",
+  "generated_at": "2026-11-21T07:28:56+00:00",
   "banners": [
     {
-      "name": "COMPUTER_BG_banner_t003-01-pain-chakash-v2",
-      "path": "BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-01-pain-chakash-v2.png",
+      "name": "COMPUTER_BG_banner_t003-01-pain-chakash-v3",
+      "path": "BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-01-pain-chakash-v3.png",
       "source": "source/COMPUTER/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-01-pain-chakash-v2.png"
-    },
-    {
-      "name": "COMPUTER_BG_banner_t003-02-hero-mladite-v2",
-      "path": "BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-02-hero-mladite-v2.png",
-      "source": "source/COMPUTER/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-02-hero-mladite-v2.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/COMPUTER/2026-11-21/COMPUTER_BG_banner_t003-01-pain-chakash-v3.png"
     }
   ]
 }
