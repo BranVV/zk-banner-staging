@@ -2,32 +2,16 @@
   "book": "DOGS",
   "market": "BG",
   "date": "2026-11-21",
-  "source_campaign": "T002 Кучета - тестова кампания (PAIN, HERO, SPLIT-PAIN)",
-  "generated_at": "2026-11-21T06:47:18+00:00",
+  "source_campaign": "T002 Кучета v2: SPLIT с по-голямо подзаглавие",
+  "generated_at": "2026-11-21T06:52:29+00:00",
   "banners": [
     {
-      "name": "DOGS_BG_banner_t002-01-pain-vlachi",
-      "path": "BG/DOGS/2026-11-21/DOGS_BG_banner_t002-01-pain-vlachi.png",
+      "name": "DOGS_BG_banner_t002-03-split-obuvki-v2",
+      "path": "BG/DOGS/2026-11-21/DOGS_BG_banner_t002-03-split-obuvki-v2.png",
       "source": "source/DOGS/blank_1080x1350.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-21/DOGS_BG_banner_t002-01-pain-vlachi.png"
-    },
-    {
-      "name": "DOGS_BG_banner_t002-02-hero-callout",
-      "path": "BG/DOGS/2026-11-21/DOGS_BG_banner_t002-02-hero-callout.png",
-      "source": "source/DOGS/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-21/DOGS_BG_banner_t002-02-hero-callout.png"
-    },
-    {
-      "name": "DOGS_BG_banner_t002-03-split-obuvki",
-      "path": "BG/DOGS/2026-11-21/DOGS_BG_banner_t002-03-split-obuvki.png",
-      "source": "source/DOGS/blank_1080x1350.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-21/DOGS_BG_banner_t002-03-split-obuvki.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/DOGS/2026-11-21/DOGS_BG_banner_t002-03-split-obuvki-v2.png"
     }
   ]
 }
