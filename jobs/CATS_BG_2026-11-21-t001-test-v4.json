@@ -1,0 +1,28 @@
+{
+ "book": "CATS",
+ "market": "BG",
+ "date": "2026-11-21",
+ "source_campaign": "T001 Котки v4: HERO тъмносин фон от нулата",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "model": "gpt-image-2.5-sunburst",
+  "api_size": "1024x1536",
+  "fit": "crop"
+ },
+ "banners": [
+  {
+   "source": "source/CATS/blank_1080x1350.png",
+   "format": "banner",
+   "angle": "t001-02-hero-callout-v4",
+   "prompt": "Create a NEW, finished Facebook/Instagram feed advertising banner for a Bulgarian audience, from scratch.\nIMAGE 1 is only a blank grey canvas used for size: ignore its content completely. The background must fill the WHOLE frame edge to edge (no bars, no borders, no frames, no inner frame).\nLAYOUT (critical - the final banner is cut to 4:5 from the centre of this tall frame, so the top 15% and the bottom 15% are thrown away): the top 19% of the frame contains ONLY plain background. The headline starts at about 21% from the top. The bottom of the CTA button is at about 78% from the top. Everything below 80% is ONLY plain background. Keep about 7% side margins.\nEXACT VERTICAL LAYOUT (percent of the full frame height, from the top): 0-20% only background. 21-34% the headline (three lines). 35-64% the three badges and the book. 65-72% the subheadline (two lines). 73-78% the CTA button. 79-100% only background.\nFORMAT: HERO - the book cover is the hero (IMAGE 3 is a winning HERO banner of ours - copy its clean structure only, NOT its colours or texts).\nBACKGROUND: rich DEEP NAVY BLUE #0F1F3D with a soft radial glow behind the book and a few faint lighter-navy paw prints, so the light-blue book cover POPS out with strong contrast. A soft warm glow behind the book.\nSCENE: on the left a vertical column of three BIG round photo badges with a white ring (each about 30% of the banner width) and a small red cross in the corner of each: (1) close-up of a light fabric sofa armrest shredded by cat claws, (2) a grey tabby cat playfully holding a person's hand with its paws and gently nibbling a finger - completely clean skin, NO scratches, NO marks, NO red lines, (3) a cat litter box with litter scattered on the floor next to it. A bold curved yellow #F5C518 arrow goes from the badges to the book. On the right the book (IMAGE 2) as a large 3D paperback, slightly turned, about 38% of the banner width.\nTEXT ON THE BANNER (exactly these lines, nothing else):\n1) Headline, heavy condensed, three lines: line 1 \"Котката ти\" in white; line 2 \"драска, хапе или\" and line 3 \"пропуска тоалетната?\" in near-black on a bright yellow #F5C518 highlighter stripe.\n2) Subheadline under the badges and the book, white, bold, big, two lines: \"Системата P.U.R.R. променя лошите навици с награди, а не наказания.\"\n3) CTA button: \"Виж как 👉\"\nIMAGE 2 is the real book cover of the book \"Щастлива котка, щастлив стопанин\" (it shows a 3D paperback mockup on white - use only the book itself, not the white background). Reproduce it exactly on the physical book: same design, colours and all cover lettering letter by letter. Do not invent or change any cover text.\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation, quotation marks and capital letters. Do not translate, correct, shorten, re-order or add any words.\n- Use a heavy, clean, condensed sans-serif for headlines (like Oswald Bold / Bebas-style weight but with full Cyrillic).\n- Text must be large and clearly legible on a phone at 380px width: headline lines at least ~6% of the banner height, subheadline at least ~4.8% of the banner height (bold, very easy to read on a phone), CTA text ~3.5%. Keep generous side margins (about 6% of the width).\n- Strong contrast only: white text on the dark background; accent words on a yellow #F5C518 highlighter stripe in near-black; no grey text.\n- CTA = rounded pill button in vivid red #E8232A with bold white text, centred near the bottom of the central area. The pointing-hand emoji at the end of the CTA is drawn as a small yellow pointing-right hand icon.\n- No other text, logos, watermarks, prices, percentages or website addresses anywhere. No phone screens, no chat or messenger interface, no notification badges.\n\nPHOTO STYLE: realistic, natural-looking photo like a real Bulgarian everyday scene taken with a good phone camera; natural light, real skin and fur texture; not glossy stock, no beauty filter. People have only two hands with five fingers each. The cat looks natural and healthy, no injuries, no blood.\n\nCRITICAL POSITION CHECK: the FIRST line of any text must start no higher than 17% of the frame height from the top. The CTA button must end no lower than 87% of the frame height.\nNO extra text anywhere in the scene: no posters, signs, wall lettering or written papers besides the book cover.\n",
+   "fit": "crop",
+   "references": [
+    "source/CATS/ref_EXCEL_hero.jpg"
+   ],
+   "cover": "covers/CATS_BG_cover.png"
+  }
+ ]
+}
