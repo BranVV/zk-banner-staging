@@ -1,0 +1,153 @@
+{
+  "book": "INCOME",
+  "market": "BG",
+  "date": "2026-11-23",
+  "source_campaign": "T006 Допълнителен доход от вкъщи: бонуси, bump-ове, курс, ползи, за кого е, ревюта (примерни), автор",
+  "generated_at": "2026-11-22T22:39:34+00:00",
+  "banners": [
+    {
+      "name": "INCOME_BG_offer_bonus1-places",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_offer_bonus1-places.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_offer_bonus1-places.png"
+    },
+    {
+      "name": "INCOME_BG_offer_bonus2-scam",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_offer_bonus2-scam.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_offer_bonus2-scam.png"
+    },
+    {
+      "name": "INCOME_BG_offer_bonus3-ads",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_offer_bonus3-ads.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_offer_bonus3-ads.png"
+    },
+    {
+      "name": "INCOME_BG_bump_bump1-olx",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_bump_bump1-olx.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_bump_bump1-olx.png"
+    },
+    {
+      "name": "INCOME_BG_bump_bump2-ai",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_bump_bump2-ai.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_bump_bump2-ai.png"
+    },
+    {
+      "name": "INCOME_BG_bump_bump3-va",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_bump_bump3-va.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_bump_bump3-va.png"
+    },
+    {
+      "name": "INCOME_BG_bump_bump4-legal",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_bump_bump4-legal.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_bump_bump4-legal.png"
+    },
+    {
+      "name": "INCOME_BG_upsell_course-banner",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_upsell_course-banner.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_upsell_course-banner.png"
+    },
+    {
+      "name": "INCOME_BG_benefit_benefit1-choose",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_benefit_benefit1-choose.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_benefit_benefit1-choose.png"
+    },
+    {
+      "name": "INCOME_BG_benefit_benefit2-phone",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_benefit_benefit2-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_benefit_benefit2-phone.png"
+    },
+    {
+      "name": "INCOME_BG_benefit_benefit3-safe",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_benefit_benefit3-safe.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_benefit_benefit3-safe.png"
+    },
+    {
+      "name": "INCOME_BG_whofor_whofor-home",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_whofor_whofor-home.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_whofor_whofor-home.png"
+    },
+    {
+      "name": "INCOME_BG_review_review1-phone",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_review_review1-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_review_review1-phone.png"
+    },
+    {
+      "name": "INCOME_BG_review_review2-phone",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_review_review2-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_review_review2-phone.png"
+    },
+    {
+      "name": "INCOME_BG_review_review3-phone",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_review_review3-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_review_review3-phone.png"
+    },
+    {
+      "name": "INCOME_BG_review_review4-phone",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_review_review4-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_review_review4-phone.png"
+    },
+    {
+      "name": "INCOME_BG_review_review5-phone",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_review_review5-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_review_review5-phone.png"
+    },
+    {
+      "name": "INCOME_BG_author_author-example",
+      "path": "BG/INCOME/2026-11-23/INCOME_BG_author_author-example.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-23/INCOME_BG_author_author-example.png"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "book": "BIZ",
+  "market": "BG",
+  "date": "2026-11-23",
+  "source_campaign": "T007 Онлайн бизнес от нулата: бонуси, bump-ове, курс, ползи, за кого е, ревюта (примерни), автор",
+  "generated_at": "2026-11-22T22:30:45+00:00",
+  "banners": [
+    {
+      "name": "BIZ_BG_offer_bonus1-products",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_offer_bonus1-products.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_offer_bonus1-products.png"
+    },
+    {
+      "name": "BIZ_BG_offer_bonus2-calc",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_offer_bonus2-calc.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_offer_bonus2-calc.png"
+    },
+    {
+      "name": "BIZ_BG_offer_bonus3-ads",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_offer_bonus3-ads.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_offer_bonus3-ads.png"
+    },
+    {
+      "name": "BIZ_BG_bump_bump1-fbads",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_bump_bump1-fbads.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_bump_bump1-fbads.png"
+    },
+    {
+      "name": "BIZ_BG_bump_bump2-test",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_bump_bump2-test.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_bump_bump2-test.png"
+    },
+    {
+      "name": "BIZ_BG_bump_bump3-phone",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_bump_bump3-phone.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_bump_bump3-phone.png"
+    },
+    {
+      "name": "BIZ_BG_bump_bump4-ai",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_bump_bump4-ai.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_bump_bump4-ai.png"
+    },
+    {
+      "name": "BIZ_BG_upsell_course-banner",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_upsell_course-banner.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_upsell_course-banner.png"
+    },
+    {
+      "name": "BIZ_BG_benefit_benefit1-search",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_benefit_benefit1-search.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_benefit_benefit1-search.png"
+    },
+    {
+      "name": "BIZ_BG_benefit_benefit2-test",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_benefit_benefit2-test.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_benefit_benefit2-test.png"
+    },
+    {
+      "name": "BIZ_BG_benefit_benefit3-team",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_benefit_benefit3-team.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_benefit_benefit3-team.png"
+    },
+    {
+      "name": "BIZ_BG_whofor_whofor-desk",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_whofor_whofor-desk.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_whofor_whofor-desk.png"
+    },
+    {
+      "name": "BIZ_BG_review_review1-phone",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_review_review1-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_review_review1-phone.png"
+    },
+    {
+      "name": "BIZ_BG_review_review2-phone",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_review_review2-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_review_review2-phone.png"
+    },
+    {
+      "name": "BIZ_BG_review_review3-phone",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_review_review3-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_review_review3-phone.png"
+    },
+    {
+      "name": "BIZ_BG_review_review4-phone",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_review_review4-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_review_review4-phone.png"
+    },
+    {
+      "name": "BIZ_BG_review_review5-phone",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_review_review5-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_review_review5-phone.png"
+    },
+    {
+      "name": "BIZ_BG_author_author-stage",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_author_author-stage.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_author_author-stage.png"
+    },
+    {
+      "name": "BIZ_BG_author_author-office",
+      "path": "BG/BIZ/2026-11-23/BIZ_BG_author_author-office.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/BIZ/2026-11-23/BIZ_BG_author_author-office.png"
+    }
+  ]
+}
