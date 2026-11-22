@@ -1,0 +1,31 @@
+{
+ "book": "INCOME",
+ "market": "BG",
+ "date": "2026-11-22",
+ "source_campaign": "T006 корица 3: поправка на подзаглавието",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/INCOME/t006_c3.png",
+   "format": "cover",
+   "angle": "t006-c3-fix1",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Edit this image. Keep EVERYTHING exactly the same: the book mockup, angle, white background, photo, colours, layout, title, author name, publisher mark and all positions. Change ONLY the subtitle text block under the big title: re-render it cleanly, same position, same size, same dark green colour, same font style, centred, 4 lines, with exactly this text, character by character, Bulgarian Cyrillic (except \"H.O.M.E.\"):\n\"Системата H.O.M.E.: истински начини да изкарваш допълнителни пари само с телефона, дори да нямаш компютър, опит или пари за започване.\"\nEvery letter must be correct and crisp, no extra or broken letters. Do not add any other text."
+  },
+  {
+   "source": "source/INCOME/t006_c3.png",
+   "format": "cover",
+   "angle": "t006-c3-fix2",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Edit this image. Keep EVERYTHING exactly the same: the book mockup, angle, white background, photo, colours, layout, title, author name, publisher mark and all positions. Change ONLY the subtitle text block under the big title: re-render it cleanly, same position, same size, same dark green colour, same font style, centred, 4 lines, with exactly this text, character by character, Bulgarian Cyrillic (except \"H.O.M.E.\"):\n\"Системата H.O.M.E.: истински начини да изкарваш допълнителни пари само с телефона, дори да нямаш компютър, опит или пари за започване.\"\nEvery letter must be correct and crisp, no extra or broken letters. Do not add any other text."
+  }
+ ]
+}
