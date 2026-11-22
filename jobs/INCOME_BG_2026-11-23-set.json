@@ -1,0 +1,174 @@
+{
+ "book": "INCOME",
+ "market": "BG",
+ "date": "2026-11-23",
+ "source_campaign": "T006 Допълнителен доход от вкъщи: бонуси, bump-ове, курс, ползи, за кого е, ревюта (примерни), автор",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus1-places",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: deep green #1F6B4F with a soft glow; title in white with the second line in warm amber #F2A93B.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a big glossy smartphone with a glowing map pin and around it small floating 3D cards with a house, a briefcase and a chat bubble, each with a tiny amber check mark.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, warm amber #F2A93B pill with dark text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"50 ПРОВЕРЕНИ\"\n3) Title line 2, very big: \"МЕСТА\"\n4) Subtitle, medium: \"за работа от вкъщи\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus2-scam",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: dark teal-green #145346 with a soft glow; title in white with the second line in warm amber #F2A93B.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a big glossy amber magnifying glass over a smartphone, inside the lens a red warning triangle, a soft green shield behind the phone.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, warm amber #F2A93B pill with dark text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"КАК ДА РАЗПОЗНАЕШ\"\n3) Title line 2, very big: \"ИЗМАМА\"\n4) Subtitle, medium: \"за 30 секунди\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus3-ads",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: deep green #1F6B4F with a soft glow; title in white with the second line in warm amber #F2A93B.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a smartphone with three neat floating message cards and a small megaphone icon, amber sparkles around them, no readable text.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, warm amber #F2A93B pill with dark text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"ГОТОВИ ОБЯВИ\"\n3) Title line 2, very big: \"И СЪОБЩЕНИЯ\"\n4) Subtitle, medium: \"30 шаблона\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump1-olx",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/INCOME_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a smartphone standing slightly angled, filling about 70% of the frame, showing a product listing with a photo of a pair of shoes and a big price tag shape, a small cardboard parcel in front, no readable text. A big deep green rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ПРОДАВАЙ В OLX\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump2-ai",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/INCOME_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a smartphone standing slightly angled, filling about 70% of the frame, showing a chat window with glowing green chat bubbles and a small sparkle icon, no readable text. A big deep green rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"AI В ТЕЛЕФОНА\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump3-va",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/INCOME_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a smartphone and a small calendar with a headset lying next to them, filling about 70% of the frame, the phone shows a simple task list with check marks, no readable text. A big deep green rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ВИРТУАЛЕН АСИСТЕНТ\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump4-legal",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/INCOME_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a smartphone standing slightly angled, filling about 70% of the frame, showing a simple document with a big green check mark, and a small calculator in front, no readable text. A big deep green rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ЗАКОННО И СПОКОЙНО\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "upsell",
+   "angle": "course-banner",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "references": [
+    "covers/INCOME_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book with its front cover (for style reference).\nCreate a landscape banner for an online video course on a sales page, FULL BLEED, no white margins.\nBACKGROUND: deep green #1F6B4F with a soft mint glow.\nLAYOUT: on the left half a big text block; on the right half a big modern smartphone held upright, showing a video lesson on screen: a friendly woman about 40 explaining at a kitchen table, with a big round amber play button and a progress bar. On the device corner sits a small black graduation cap with a gold tassel.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, amber pill with dark green text: \"ВИДЕО КУРС\"\n2) Title line 1, white, very big: \"ДОПЪЛНИТЕЛЕН ДОХОД\"\n3) Title line 2, amber, very big: \"ОТ ВКЪЩИ\"\n4) Title line 3, white, big: \"H.O.M.E.\"\n5) Subtitle, white, medium: \"6 модула, 4,5 часа видео\"\nSTYLE: premium, modern, confident. Palette: warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit1-choose",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a woman about 40 sitting on a sofa at home with a notebook and a pen, looking at her smartphone thoughtfully and smiling, a cup of tea on the side table, warm afternoon light.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary cosy Bulgarian home (not luxury), colours harmonising with warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit2-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a man about 60 with grey hair at a kitchen table holding a smartphone and smiling at the screen, reading glasses on, a cup of coffee and a small plant next to him.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary cosy Bulgarian home (not luxury), colours harmonising with warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit3-safe",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a woman about 45 at home calmly looking at her smartphone with a relieved smile, her banking card resting face down next to a notebook on the table, soft daylight.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary cosy Bulgarian home (not luxury), colours harmonising with warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "whofor",
+   "angle": "whofor-home",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: an ordinary cosy Bulgarian kitchen table by a window with a smartphone, a notebook with a pen, reading glasses, a cup of coffee and a small plant, warm morning light. NO people and no faces.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary cosy Bulgarian home (not luxury), colours harmonising with warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review1-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 33-year-old woman sitting on a sofa at home with a smartphone in her hand, a baby toy on the cushion next to her, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review2-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 66-year-old man with grey hair and a moustache in his garage workshop next to a bicycle, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review3-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 41-year-old woman in a simple sweater sitting at a kitchen table in the evening with a smartphone, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review4-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 47-year-old woman at home on a sofa holding the paperback book and a smartphone, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review5-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 52-year-old man with short dark hair sitting at a table at home with a smartphone, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "author",
+   "angle": "author-example",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square portrait photo: a friendly 41-year-old woman with shoulder-length chestnut hair and a warm smile, wearing a simple green cardigan, sitting at a bright cosy kitchen table at home with a smartphone in her hand and a notebook in front of her, plants in the background softly blurred.\nSTYLE: natural photorealistic professional photo, approachable and trustworthy, ordinary Bulgarian person (not a model), colours harmonising with warm deep green #1F6B4F, fresh mint #7FD1AE, warm amber #F2A93B, cream #FFF8EC and white. Screens show no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos, name badges or watermarks. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  }
+ ]
+}
