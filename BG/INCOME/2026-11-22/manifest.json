@@ -2,56 +2,24 @@
   "book": "INCOME",
   "market": "BG",
   "date": "2026-11-22",
-  "source_campaign": "T006 Допълнителен доход от вкъщи + T007 Онлайн бизнес от нулата: по 3 корици",
-  "generated_at": "2026-11-22T21:28:53+00:00",
+  "source_campaign": "T006 корица 3: поправка на подзаглавието",
+  "generated_at": "2026-11-22T21:38:52+00:00",
   "banners": [
     {
-      "name": "INCOME_BG_cover_t006-c1-kitchen-two",
-      "path": "BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c1-kitchen-two.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
+      "name": "INCOME_BG_cover_t006-c3-fix1",
+      "path": "BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c3-fix1.png",
+      "source": "source/INCOME/t006_c3.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c1-kitchen-two.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c3-fix1.png"
     },
     {
-      "name": "INCOME_BG_cover_t006-c2-phone-house",
-      "path": "BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c2-phone-house.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
+      "name": "INCOME_BG_cover_t006-c3-fix2",
+      "path": "BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c3-fix2.png",
+      "source": "source/INCOME/t006_c3.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c2-phone-house.png"
-    },
-    {
-      "name": "INCOME_BG_cover_t006-c3-window-hands",
-      "path": "BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c3-window-hands.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c3-window-hands.png"
-    },
-    {
-      "name": "INCOME_BG_cover_t007-c1-map-parcels",
-      "path": "BG/INCOME/2026-11-22/INCOME_BG_cover_t007-c1-map-parcels.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-22/INCOME_BG_cover_t007-c1-map-parcels.png"
-    },
-    {
-      "name": "INCOME_BG_cover_t007-c2-steps-chart",
-      "path": "BG/INCOME/2026-11-22/INCOME_BG_cover_t007-c2-steps-chart.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-22/INCOME_BG_cover_t007-c2-steps-chart.png"
-    },
-    {
-      "name": "INCOME_BG_cover_t007-c3-desk",
-      "path": "BG/INCOME/2026-11-22/INCOME_BG_cover_t007-c3-desk.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-22/INCOME_BG_cover_t007-c3-desk.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/INCOME/2026-11-22/INCOME_BG_cover_t006-c3-fix2.png"
     }
   ]
 }
