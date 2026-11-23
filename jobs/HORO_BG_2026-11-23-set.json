@@ -1,0 +1,174 @@
+{
+ "book": "HORO",
+ "market": "BG",
+ "date": "2026-11-23",
+ "source_campaign": "T010 Народни танци: бонуси, bump-ове, курс, ползи, за кого е, ревюта (примерни), автор",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus1-music",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: deep red #B3202A with a soft glow; title in white with the second line in warm gold #D9A441.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a big glossy smartphone showing a simple QR code shape and music notes floating out, a small traditional kaval flute next to it.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, warm gold #D9A441 pill with dark text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"50 ХОРА\"\n3) Title line 2, very big: \"С QR КОД\"\n4) Subtitle, medium: \"към музиката\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus2-ruchenitsa",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: black #1A1A1A with a soft glow; title in white with the second line in warm gold #D9A441.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a pair of traditional red leather opanci shoes and a small calendar with 7 days marked with gold check marks.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, warm gold #D9A441 pill with dark text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"РЪЧЕНИЦА\"\n3) Title line 2, very big: \"ЗА 7 ДНИ\"\n4) Subtitle, medium: \"по 15 минути\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "offer",
+   "angle": "bonus3-wedding",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square bonus graphic for a sales page, FULL BLEED: the coloured background fills the whole square edge to edge, no white margins, no borders, no frame, no empty white space.\nBACKGROUND: deep red #B3202A with a soft glow; title in white with the second line in warm gold #D9A441.\nLAYOUT: text block in the upper half, left-aligned with about 7% margins; a large, attractive 3D-style visual in the lower half: a festive wedding table with a round bread pogacha with embroidered cloth, two glasses and wedding rings, gold confetti.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, warm gold #D9A441 pill with dark text: \"🎁 БОНУС\"\n2) Title line 1, very big: \"ХОРОТО\"\n3) Title line 2, very big: \"НА СВАТБАТА\"\n4) Subtitle, medium: \"кои хора и в какъв ред\"\nText must be BIG: the title lines take about 30% of the image height in total.\nSTYLE: premium, modern, clean professional design like a bestselling publisher would use. Palette: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump1-ruchenitsa",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/HORO_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a pair of traditional red opanci shoes and an embroidered red-and-white belt, filling about 70% of the frame. A big deep red rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"РЪЧЕНИЦА+\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump2-shop",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/HORO_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a traditional Bulgarian kaval flute and a small tapan drum, filling about 70% of the frame. A big deep red rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ШОПСКИ ХОРА\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump3-thrace",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/HORO_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: a traditional bagpipe gaida with embroidered cloth, filling about 70% of the frame. A big deep red rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ТРАКИЯ И РОДОПИ\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "bump",
+   "angle": "bump4-kids",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "references": [
+    "covers/HORO_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book (style and colours reference).\nCreate a square product image on a pure WHITE background with a soft shadow: small children-size red opanci shoes and a colourful embroidered sash, filling about 70% of the frame. A big deep red rounded label at the top of the image with white text.\nTEXT (exactly these lines, nothing else):\n1) Label at the top: \"ХОРА ЗА ДЕЦА\"\nSTYLE: premium, modern, clean professional product photo like a bestselling publisher would use. Palette of the book: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nThe image will be shown very small (about 82x82 px), so the product and its label must be HUGE and the composition very simple.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text.\nNO people, no faces."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "upsell",
+   "angle": "course-banner",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "references": [
+    "covers/HORO_BG_cover.png"
+   ],
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image shows the printed book with its front cover (for style reference).\nCreate a landscape banner for an online video course on a sales page, FULL BLEED, no white margins.\nBACKGROUND: deep red #B3202A with a soft gold glow.\nLAYOUT: on the left half a big text block; on the right half a big modern tablet standing upright, showing a video lesson on screen: a friendly male dance teacher about 50 showing a horo step in a bright community hall, with a big round gold play button and a progress bar. On the device corner sits a small black graduation cap with a gold tassel.\nTEXT (exactly these lines, nothing else):\n1) Small label at the top, gold pill with dark text: \"ВИДЕО КУРС\"\n2) Title line 1, white, very big: \"НАРОДНИ ТАНЦИ\"\n3) Title line 2, gold, very big: \"7 СТЪПКИ\"\n4) Subtitle, white, medium: \"6 модула, 4 часа видео\"\nSTYLE: premium, modern, confident. Palette: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nTYPOGRAPHY RULES (critical):\n- Render every text line EXACTLY as given, character by character. Do not translate, correct, shorten or add any words.\n- Heavy, clean sans-serif with full Cyrillic (Montserrat ExtraBold / Black style).\n- No other text, logos, watermarks, prices or website addresses anywhere; screens show no readable text."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit1-horo",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a joyful line of 6 people holding hands and dancing horo at a wedding party in a restaurant hall, ordinary Bulgarians of mixed ages, both men and women, natural happy faces, everyday festive clothes with a few embroidered details, correct anatomy.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary Bulgarian village square or community hall during a celebration (not luxury), colours harmonising with deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit2-music",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a woman about 55 and a man about 58 at home in the living room laughing and practising a horo step side by side, a phone playing music on the table, ordinary Bulgarians of mixed ages, both men and women, natural happy faces, everyday festive clothes with a few embroidered details, correct anatomy.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary Bulgarian village square or community hall during a celebration (not luxury), colours harmonising with deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "benefit",
+   "angle": "benefit3-joy",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a group of 5 people aged 45-65 dancing horo outdoors on a village square at a festival, sunny afternoon, ordinary Bulgarians of mixed ages, both men and women, natural happy faces, everyday festive clothes with a few embroidered details, correct anatomy.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary Bulgarian village square or community hall during a celebration (not luxury), colours harmonising with deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "whofor",
+   "angle": "whofor-home",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo: a village square decorated for a festival with red-and-white embroidered cloths, a small wooden stage with a gaida and a tapan drum resting on chairs, warm afternoon light. NO people and no faces.\nSTYLE: bright, natural photorealistic lifestyle photo, soft daylight, ordinary Bulgarian village square or community hall during a celebration (not luxury), colours harmonising with deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A. Screens show only soft blurred shapes, no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review1-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 58-year-old man in a white shirt at a wedding party table, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review2-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 48-year-old woman in a simple top with an embroidered detail in a community hall, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review3-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 64-year-old grandmother at home in the living room with two young granddaughters in the background, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review4-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 61-year-old man at home holding the paperback book, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review5-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 52-year-old woman at home in the living room, smiling at the camera.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1024.png",
+   "format": "author",
+   "angle": "author-example",
+   "fit": "crop",
+   "api_size": "1024x1024",
+   "prompt": "Create a square portrait photo: a friendly, fit 53-year-old Bulgarian man dance teacher with short grey hair and a warm smile, wearing a white shirt with a subtle red embroidered collar, standing in a bright community dance hall with mirrors softly blurred behind.\nSTYLE: natural photorealistic professional photo, approachable and trustworthy, ordinary Bulgarian person (not a model), colours harmonising with deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A. Screens show no readable text.\nABSOLUTELY NO TEXT, letters, numbers, logos, name badges or watermarks. Hands with five fingers.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  }
+ ]
+}
