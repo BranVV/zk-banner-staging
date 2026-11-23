@@ -1,0 +1,410 @@
+{
+ "book": "RSTURKISH",
+ "market": "RS",
+ "date": "2026-11-23",
+ "source_campaign": "turski.zlatenkluch.eu landing images",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+   "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+   "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+   "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_putuj.jpg",
+   "format": "page",
+   "angle": "putuj",
+   "translations": [
+    {
+     "source": "Пътувай по-спокойно в Турция",
+     "target": "Putuj opuštenije po Turskoj"
+    },
+    {
+     "source": "Учи турски с полезни фрази за път, хотел и транспорт",
+     "target": "Uči turski uz korisne fraze za put, hotel i prevoz"
+    },
+    {
+     "source": "На летището",
+     "target": "Na aerodromu"
+    },
+    {
+     "source": "В хотела",
+     "target": "U hotelu"
+    },
+    {
+     "source": "В транспорта",
+     "target": "U prevozu"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_razumi.jpg",
+   "format": "page",
+   "angle": "razumi",
+   "translations": [
+    {
+     "source": "Разбирай какво ти казват",
+     "target": "Razumi šta ti govore"
+    },
+    {
+     "source": "Учи турски чрез кратки диалози и полезни фрази",
+     "target": "Uči turski kroz kratke dijaloge i korisne fraze"
+    },
+    {
+     "source": "В кафене",
+     "target": "U kafiću"
+    },
+    {
+     "source": "В магазина",
+     "target": "U prodavnici"
+    },
+    {
+     "source": "В транспорта",
+     "target": "U prevozu"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_situacije.jpg",
+   "format": "page",
+   "angle": "situacije",
+   "translations": [
+    {
+     "source": "Говори в реални ситуации",
+     "target": "Pričaj u stvarnim situacijama"
+    },
+    {
+     "source": "Учи турски с полезни фрази за всеки ден",
+     "target": "Uči turski uz korisne fraze za svaki dan"
+    },
+    {
+     "source": "В кафене",
+     "target": "U kafiću"
+    },
+    {
+     "source": "В магазина",
+     "target": "U prodavnici"
+    },
+    {
+     "source": "На улицата",
+     "target": "Na ulici"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus1.jpg",
+   "format": "page",
+   "angle": "bonus1",
+   "translations": [
+    {
+     "source": "БОНУС №1",
+     "target": "BONUS BR. 1"
+    },
+    {
+     "source": "100 ТУРСКИ ИЗРАЗА",
+     "target": "100 TURSKIH IZRAZA"
+    },
+    {
+     "source": "за реални ситуации",
+     "target": "za stvarne situacije"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VREDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 RSD"
+    },
+    {
+     "source": "€9",
+     "target": "390 RSD"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "The old value '390 RSD' stays crossed out like in the original."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus2.jpg",
+   "format": "page",
+   "angle": "bonus2",
+   "translations": [
+    {
+     "source": "БОНУС №2",
+     "target": "BONUS BR. 2"
+    },
+    {
+     "source": "ТУРСКО МЕНЮ БЕЗ ЗАГАДКИ",
+     "target": "TURSKI JELOVNIK BEZ ZAGONETKI"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VREDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 RSD"
+    },
+    {
+     "source": "€7",
+     "target": "390 RSD"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus3.jpg",
+   "format": "page",
+   "angle": "bonus3",
+   "translations": [
+    {
+     "source": "БОНУС №3",
+     "target": "BONUS BR. 3"
+    },
+    {
+     "source": "ТУРСКИ БЕЗ",
+     "target": "TURSKI BEZ"
+    },
+    {
+     "source": "ГРЕШНО",
+     "target": "POGREŠNOG"
+    },
+    {
+     "source": "ПРОИЗНОШЕНИЕ",
+     "target": "IZGOVORA"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VREDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 RSD"
+    },
+    {
+     "source": "€9",
+     "target": "390 RSD"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "Replace the euro symbol inside the round coin icon with a simple neutral coin (no € sign). The Turkish letters Ç Ş Ğ I Ö Ü and phonetic marks stay."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_course.jpg",
+   "format": "page",
+   "angle": "course",
+   "translations": [
+    {
+     "source": "ОНЛАЙН ВИДЕО КУРС",
+     "target": "ONLAJN VIDEO KURS"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ С УВЕРЕНОСТ",
+     "target": "PRIČAJ TURSKI SAMOUVERENO"
+    },
+    {
+     "source": "Практичен видео курс по турски за начинаещи",
+     "target": "Praktični video kurs turskog za početnike"
+    },
+    {
+     "source": "За пътуване и ежедневни разговори",
+     "target": "Za putovanja i svakodnevne razgovore"
+    },
+    {
+     "source": "ВИДЕО УРОЦИ С НОСИТЕЛИ НА ТУРСКИЯ ЕЗИК",
+     "target": "VIDEO LEKCIJE SA IZVORNIM GOVORNICIMA"
+    },
+    {
+     "source": "ЯСНИ ОБЯСНЕНИЯ",
+     "target": "JASNA OBJAŠNJENJA"
+    },
+    {
+     "source": "ПРАКТИЧНИ ДИАЛОЗИ",
+     "target": "PRAKTIČNI DIJALOZI"
+    },
+    {
+     "source": "РЕАЛНИ СИТУАЦИИ",
+     "target": "STVARNE SITUACIJE"
+    },
+    {
+     "source": "ДОСТЪП ОТВСЯКЪДЕ",
+     "target": "PRISTUP BILO GDE"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "The course box on the left and the screens of the laptop and tablet also carry 'PRIČAJ TURSKI SAMOUVERENO' and Serbian lesson labels (e.g. 'Lekcija 1 - Upoznavanje i ljubaznost'); translate every small Bulgarian label on them to natural Serbian Latin."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_guarantee.jpg",
+   "format": "page",
+   "angle": "guarantee",
+   "translations": [
+    {
+     "source": "ГАРАНЦИЯ ЗА",
+     "target": "GARANCIJA"
+    },
+    {
+     "source": "60 ДНЕВНА",
+     "target": "60 DANA"
+    },
+    {
+     "source": "ВРЪЩАНЕ НА ПАРИТЕ",
+     "target": "POVRAĆAJA NOVCA"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "Arc text on top reads 'GARANCIJA', the center reads '60' with 'DANA' under it, the bottom arc reads 'POVRAĆAJA NOVCA'. Together: Garancija povraćaja novca 60 dana."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_istanbul_man.jpg",
+   "format": "page",
+   "angle": "istanbul_man",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "ZA POČETNIKE"
+    }
+   ],
+   "cover": "covers/RSTURKISH_RS_cover.png",
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/RSTURKISH_RS_cover.png): title 'TURSKI JEZIK' / 'ZA POČETNIKE'."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_audiobook.jpg",
+   "format": "page",
+   "angle": "audiobook",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "АУДИОКНИГА",
+     "target": "AUDIO KNJIGA"
+    }
+   ],
+   "cover": "covers/RSTURKISH_RS_cover.png",
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/RSTURKISH_RS_cover.png): title 'TURSKI JEZIK' / 'ZA POČETNIKE'."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_workbook.jpg",
+   "format": "page",
+   "angle": "workbook",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "Работна тетрадка",
+     "target": "Radna sveska"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори",
+     "target": "Lak turski za putovanja i svakodnevne razgovore"
+    }
+   ],
+   "cover": "covers/RSTURKISH_RS_cover.png",
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/RSTURKISH_RS_cover.png): title 'TURSKI JEZIK' / 'ZA POČETNIKE'.",
+    "This is a spiral workbook, not the book: keep its own layout, only translate the text in the same style as the reference cover."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_recipes303.jpg",
+   "format": "page",
+   "angle": "recipes303",
+   "translations": [
+    {
+     "source": "303",
+     "target": "303"
+    },
+    {
+     "source": "ИЗПИТАНИ РЕЦЕПТИ",
+     "target": "ISPROBANA RECEPTA"
+    },
+    {
+     "source": "ОТ ТУРЦИЯ",
+     "target": "IZ TURSKE"
+    },
+    {
+     "source": "303 ИЗПИТАНИ РЕЦЕПТИ ОТ ТУРЦИЯ",
+     "target": "303 ISPROBANA RECEPTA IZ TURSKE"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "The spine text reads '303 ISPROBANA RECEPTA IZ TURSKE'."
+   ]
+  }
+ ]
+}
