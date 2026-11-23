@@ -1,0 +1,418 @@
+{
+ "book": "ROTURKISH",
+ "market": "RO",
+ "date": "2026-11-23",
+ "source_campaign": "turski.zlatenkluch.eu landing images -> RO-TUR",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+   "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+   "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+   "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_putuj.jpg",
+   "format": "page",
+   "angle": "putuj",
+   "translations": [
+    {
+     "source": "Пътувай по-спокойно в Турция",
+     "target": "Călătorește mai relaxat în Turcia"
+    },
+    {
+     "source": "Учи турски с полезни фрази за път, хотел и транспорт",
+     "target": "Învață turcă cu expresii utile pentru drum, hotel și transport"
+    },
+    {
+     "source": "На летището",
+     "target": "La aeroport"
+    },
+    {
+     "source": "В хотела",
+     "target": "La hotel"
+    },
+    {
+     "source": "В транспорта",
+     "target": "În transport"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_razumi.jpg",
+   "format": "page",
+   "angle": "razumi",
+   "translations": [
+    {
+     "source": "Разбирай какво ти казват",
+     "target": "Înțelege ce ți se spune"
+    },
+    {
+     "source": "Учи турски чрез кратки диалози и полезни фрази",
+     "target": "Învață turcă prin dialoguri scurte și expresii utile"
+    },
+    {
+     "source": "В кафене",
+     "target": "La cafenea"
+    },
+    {
+     "source": "В магазина",
+     "target": "La magazin"
+    },
+    {
+     "source": "В транспорта",
+     "target": "În transport"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_situacije.jpg",
+   "format": "page",
+   "angle": "situatii",
+   "translations": [
+    {
+     "source": "Говори в реални ситуации",
+     "target": "Vorbește în situații reale"
+    },
+    {
+     "source": "Учи турски с полезни фрази за всеки ден",
+     "target": "Învață turcă cu expresii utile pentru fiecare zi"
+    },
+    {
+     "source": "В кафене",
+     "target": "La cafenea"
+    },
+    {
+     "source": "В магазина",
+     "target": "La magazin"
+    },
+    {
+     "source": "На улицата",
+     "target": "Pe stradă"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus1.jpg",
+   "format": "page",
+   "angle": "bonus1",
+   "translations": [
+    {
+     "source": "БОНУС №1",
+     "target": "BONUS NR. 1"
+    },
+    {
+     "source": "100 ТУРСКИ ИЗРАЗА",
+     "target": "100 DE EXPRESII TURCEȘTI"
+    },
+    {
+     "source": "за реални ситуации",
+     "target": "pentru situații reale"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VALOARE:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "ACUM DOAR:"
+    },
+    {
+     "source": "€0",
+     "target": "0 lei"
+    },
+    {
+     "source": "€9",
+     "target": "49 lei"
+    }
+   ],
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "The old value '49 lei' stays crossed out like in the original."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus2.jpg",
+   "format": "page",
+   "angle": "bonus2",
+   "translations": [
+    {
+     "source": "БОНУС №2",
+     "target": "BONUS NR. 2"
+    },
+    {
+     "source": "ТУРСКО МЕНЮ БЕЗ ЗАГАДКИ",
+     "target": "MENIUL TURCESC FĂRĂ MISTERE"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VALOARE:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "ACUM DOAR:"
+    },
+    {
+     "source": "€0",
+     "target": "0 lei"
+    },
+    {
+     "source": "€7",
+     "target": "49 lei"
+    }
+   ],
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "The old value '49 lei' stays crossed out like in the original."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus3.jpg",
+   "format": "page",
+   "angle": "bonus3",
+   "translations": [
+    {
+     "source": "БОНУС №3",
+     "target": "BONUS NR. 3"
+    },
+    {
+     "source": "ТУРСКИ БЕЗ",
+     "target": "TURCĂ FĂRĂ"
+    },
+    {
+     "source": "ГРЕШНО",
+     "target": "GREȘELI DE"
+    },
+    {
+     "source": "ПРОИЗНОШЕНИЕ",
+     "target": "PRONUNȚIE"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VALOARE:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "ACUM DOAR:"
+    },
+    {
+     "source": "€0",
+     "target": "0 lei"
+    },
+    {
+     "source": "€9",
+     "target": "49 lei"
+    }
+   ],
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "The old value '49 lei' stays crossed out like in the original.",
+    "Replace the euro symbol inside the round coin icon with a simple neutral coin (no € sign). The Turkish letters Ç Ş Ğ I Ö Ü and phonetic marks stay."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_course.jpg",
+   "format": "page",
+   "angle": "course",
+   "translations": [
+    {
+     "source": "ОНЛАЙН ВИДЕО КУРС",
+     "target": "CURS VIDEO ONLINE"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ С УВЕРЕНОСТ",
+     "target": "VORBEȘTE TURCĂ CU ÎNCREDERE"
+    },
+    {
+     "source": "Практичен видео курс по турски за начинаещи",
+     "target": "Curs video practic de turcă pentru începători"
+    },
+    {
+     "source": "За пътуване и ежедневни разговори",
+     "target": "Pentru călătorii și conversații de zi cu zi"
+    },
+    {
+     "source": "ВИДЕО УРОЦИ С НОСИТЕЛИ НА ТУРСКИЯ ЕЗИК",
+     "target": "LECȚII VIDEO CU VORBITORI NATIVI"
+    },
+    {
+     "source": "ЯСНИ ОБЯСНЕНИЯ",
+     "target": "EXPLICAȚII CLARE"
+    },
+    {
+     "source": "ПРАКТИЧНИ ДИАЛОЗИ",
+     "target": "DIALOGURI PRACTICE"
+    },
+    {
+     "source": "РЕАЛНИ СИТУАЦИИ",
+     "target": "SITUAȚII REALE"
+    },
+    {
+     "source": "ДОСТЪП ОТВСЯКЪДЕ",
+     "target": "ACCES DE ORIUNDE"
+    }
+   ],
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "The course box on the left and the screens of the laptop and tablet also carry 'VORBEȘTE TURCĂ CU ÎNCREDERE' and Romanian lesson labels (e.g. 'Lecția 1 - Prezentări și politețe'); translate every small Bulgarian label on them to natural Romanian."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_guarantee.jpg",
+   "format": "page",
+   "angle": "guarantee",
+   "translations": [
+    {
+     "source": "ГАРАНЦИЯ ЗА",
+     "target": "GARANȚIE DE"
+    },
+    {
+     "source": "60 ДНЕВНА",
+     "target": "60 DE ZILE"
+    },
+    {
+     "source": "ВРЪЩАНЕ НА ПАРИТЕ",
+     "target": "RETURNARE A BANILOR"
+    }
+   ],
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "Arc text on top reads 'GARANȚIE DE', the center reads '60' with 'DE ZILE' under it, the bottom arc reads 'RETURNARE A BANILOR'. Together: Garanție de returnare a banilor 60 de zile."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_istanbul_man.jpg",
+   "format": "page",
+   "angle": "istanbul_man",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "LIMBA TURCĂ"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "PENTRU ÎNCEPĂTORI"
+    }
+   ],
+   "cover": "covers/ROTURKISH_RO_cover.png",
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/ROTURKISH_RO_cover.png): title 'LIMBA TURCĂ' / 'PENTRU ÎNCEPĂTORI'."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_audiobook.jpg",
+   "format": "page",
+   "angle": "audiobook",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "LIMBA TURCĂ"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "PENTRU ÎNCEPĂTORI"
+    },
+    {
+     "source": "АУДИОКНИГА",
+     "target": "AUDIOBOOK"
+    }
+   ],
+   "cover": "covers/ROTURKISH_RO_cover.png",
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/ROTURKISH_RO_cover.png): title 'LIMBA TURCĂ' / 'PENTRU ÎNCEPĂTORI'."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_workbook.jpg",
+   "format": "page",
+   "angle": "workbook",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "LIMBA TURCĂ"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "PENTRU ÎNCEPĂTORI"
+    },
+    {
+     "source": "Работна тетрадка",
+     "target": "Caiet de exerciții"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори",
+     "target": "Turcă ușoară pentru călătorii și conversații de zi cu zi"
+    }
+   ],
+   "cover": "covers/ROTURKISH_RO_cover.png",
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/ROTURKISH_RO_cover.png): title 'LIMBA TURCĂ' / 'PENTRU ÎNCEPĂTORI'.",
+    "This is a spiral workbook, not the book: keep its own layout, only translate the text in the same style as the reference cover."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_recipes303.jpg",
+   "format": "page",
+   "angle": "recipes303",
+   "translations": [
+    {
+     "source": "303",
+     "target": "303"
+    },
+    {
+     "source": "ИЗПИТАНИ РЕЦЕПТИ",
+     "target": "REȚETE VERIFICATE"
+    },
+    {
+     "source": "ОТ ТУРЦИЯ",
+     "target": "DIN TURCIA"
+    },
+    {
+     "source": "303 ИЗПИТАНИ РЕЦЕПТИ ОТ ТУРЦИЯ",
+     "target": "303 REȚETE VERIFICATE DIN TURCIA"
+    }
+   ],
+   "extra_rules": [
+    "Romanian with correct diacritics (ă â î ș ț). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is lei, written after the number (e.g. 49 lei). Use a short hyphen, never a long dash.",
+    "The spine text reads '303 REȚETE VERIFICATE DIN TURCIA'."
+   ]
+  }
+ ]
+}
