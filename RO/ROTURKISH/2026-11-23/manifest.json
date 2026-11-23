@@ -1,0 +1,17 @@
+{
+  "book": "ROTURKISH",
+  "market": "RO",
+  "date": "2026-11-23",
+  "source_campaign": "Funnel clone BG-TUR -> RO-TUR (roturkish.zlatenkluch.eu), RO cover",
+  "generated_at": "2026-11-23T12:28:49+00:00",
+  "banners": [
+    {
+      "name": "ROTURKISH_RO_cover_mockup",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_cover_mockup.png",
+      "source": "covers/TURKISH_BG_cover.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_cover_mockup.png"
+    }
+  ]
+}
