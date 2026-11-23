@@ -2,32 +2,152 @@
   "book": "CROCHET",
   "market": "BG",
   "date": "2026-11-23",
-  "source_campaign": "T009 Плетене на една кука: 3 корици",
-  "generated_at": "2026-11-23T15:23:49+00:00",
+  "source_campaign": "T009 Плетене на една кука: бонуси, bump-ове, курс, ползи, за кого е, ревюта (примерни), автор (рестарт след избор на корица)",
+  "generated_at": "2026-11-23T16:11:07+00:00",
   "banners": [
     {
-      "name": "CROCHET_BG_cover_t009-v1-hands-hook",
-      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v1-hands-hook.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
+      "name": "CROCHET_BG_offer_bonus1-gifts",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_offer_bonus1-gifts.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v1-hands-hook.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_offer_bonus1-gifts.png"
     },
     {
-      "name": "CROCHET_BG_cover_t009-v2-projects-flatlay",
-      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v2-projects-flatlay.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
+      "name": "CROCHET_BG_offer_bonus2-stitches",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_offer_bonus2-stitches.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v2-projects-flatlay.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_offer_bonus2-stitches.png"
     },
     {
-      "name": "CROCHET_BG_cover_t009-v3-basket-cup",
-      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v3-basket-cup.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
+      "name": "CROCHET_BG_offer_bonus3-sell",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_offer_bonus3-sell.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v3-basket-cup.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_offer_bonus3-sell.png"
+    },
+    {
+      "name": "CROCHET_BG_bump_bump1-amigurumi",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_bump_bump1-amigurumi.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_bump_bump1-amigurumi.png"
+    },
+    {
+      "name": "CROCHET_BG_bump_bump2-baby",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_bump_bump2-baby.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_bump_bump2-baby.png"
+    },
+    {
+      "name": "CROCHET_BG_bump_bump3-holiday",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_bump_bump3-holiday.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_bump_bump3-holiday.png"
+    },
+    {
+      "name": "CROCHET_BG_bump_bump4-bags",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_bump_bump4-bags.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_bump_bump4-bags.png"
+    },
+    {
+      "name": "CROCHET_BG_upsell_course-banner",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_upsell_course-banner.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_upsell_course-banner.png"
+    },
+    {
+      "name": "CROCHET_BG_benefit_benefit1-stitches",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_benefit_benefit1-stitches.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_benefit_benefit1-stitches.png"
+    },
+    {
+      "name": "CROCHET_BG_benefit_benefit2-first",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_benefit_benefit2-first.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_benefit_benefit2-first.png"
+    },
+    {
+      "name": "CROCHET_BG_benefit_benefit3-gift",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_benefit_benefit3-gift.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_benefit_benefit3-gift.png"
+    },
+    {
+      "name": "CROCHET_BG_whofor_whofor-home",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_whofor_whofor-home.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_whofor_whofor-home.png"
+    },
+    {
+      "name": "CROCHET_BG_review_review1-phone",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_review_review1-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_review_review1-phone.png"
+    },
+    {
+      "name": "CROCHET_BG_review_review2-phone",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_review_review2-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_review_review2-phone.png"
+    },
+    {
+      "name": "CROCHET_BG_review_review3-phone",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_review_review3-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_review_review3-phone.png"
+    },
+    {
+      "name": "CROCHET_BG_review_review4-phone",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_review_review4-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_review_review4-phone.png"
+    },
+    {
+      "name": "CROCHET_BG_review_review5-phone",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_review_review5-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_review_review5-phone.png"
+    },
+    {
+      "name": "CROCHET_BG_author_author-example",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_author_author-example.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_author_author-example.png"
     }
   ]
 }

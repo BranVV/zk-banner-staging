@@ -2,32 +2,152 @@
   "book": "HORO",
   "market": "BG",
   "date": "2026-11-23",
-  "source_campaign": "T010 корици: водачът носи байрака (v7-v9, на база v1)",
-  "generated_at": "2026-11-23T15:52:18+00:00",
+  "source_campaign": "T010 Народни танци: бонуси, bump-ове, курс, ползи, за кого е, ревюта (примерни), автор (рестарт след избор на корица)",
+  "generated_at": "2026-11-23T16:21:53+00:00",
   "banners": [
     {
-      "name": "HORO_BG_cover_t010-v7-bayrak",
-      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v7-bayrak.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
+      "name": "HORO_BG_offer_bonus1-music",
+      "path": "BG/HORO/2026-11-23/HORO_BG_offer_bonus1-music.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v7-bayrak.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_offer_bonus1-music.png"
     },
     {
-      "name": "HORO_BG_cover_t010-v8-bayrak-wedding",
-      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v8-bayrak-wedding.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
+      "name": "HORO_BG_offer_bonus2-ruchenitsa",
+      "path": "BG/HORO/2026-11-23/HORO_BG_offer_bonus2-ruchenitsa.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v8-bayrak-wedding.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_offer_bonus2-ruchenitsa.png"
     },
     {
-      "name": "HORO_BG_cover_t010-v9-bayrak-band",
-      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v9-bayrak-band.png",
-      "source": "source/COMPUTER/blank_1024x1536.png",
+      "name": "HORO_BG_offer_bonus3-wedding",
+      "path": "BG/HORO/2026-11-23/HORO_BG_offer_bonus3-wedding.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v9-bayrak-band.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_offer_bonus3-wedding.png"
+    },
+    {
+      "name": "HORO_BG_bump_bump1-ruchenitsa",
+      "path": "BG/HORO/2026-11-23/HORO_BG_bump_bump1-ruchenitsa.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_bump_bump1-ruchenitsa.png"
+    },
+    {
+      "name": "HORO_BG_bump_bump2-shop",
+      "path": "BG/HORO/2026-11-23/HORO_BG_bump_bump2-shop.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_bump_bump2-shop.png"
+    },
+    {
+      "name": "HORO_BG_bump_bump3-thrace",
+      "path": "BG/HORO/2026-11-23/HORO_BG_bump_bump3-thrace.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_bump_bump3-thrace.png"
+    },
+    {
+      "name": "HORO_BG_bump_bump4-kids",
+      "path": "BG/HORO/2026-11-23/HORO_BG_bump_bump4-kids.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_bump_bump4-kids.png"
+    },
+    {
+      "name": "HORO_BG_upsell_course-banner",
+      "path": "BG/HORO/2026-11-23/HORO_BG_upsell_course-banner.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_upsell_course-banner.png"
+    },
+    {
+      "name": "HORO_BG_benefit_benefit1-horo",
+      "path": "BG/HORO/2026-11-23/HORO_BG_benefit_benefit1-horo.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_benefit_benefit1-horo.png"
+    },
+    {
+      "name": "HORO_BG_benefit_benefit2-music",
+      "path": "BG/HORO/2026-11-23/HORO_BG_benefit_benefit2-music.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_benefit_benefit2-music.png"
+    },
+    {
+      "name": "HORO_BG_benefit_benefit3-joy",
+      "path": "BG/HORO/2026-11-23/HORO_BG_benefit_benefit3-joy.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_benefit_benefit3-joy.png"
+    },
+    {
+      "name": "HORO_BG_whofor_whofor-home",
+      "path": "BG/HORO/2026-11-23/HORO_BG_whofor_whofor-home.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_whofor_whofor-home.png"
+    },
+    {
+      "name": "HORO_BG_review_review1-phone",
+      "path": "BG/HORO/2026-11-23/HORO_BG_review_review1-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_review_review1-phone.png"
+    },
+    {
+      "name": "HORO_BG_review_review2-phone",
+      "path": "BG/HORO/2026-11-23/HORO_BG_review_review2-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_review_review2-phone.png"
+    },
+    {
+      "name": "HORO_BG_review_review3-phone",
+      "path": "BG/HORO/2026-11-23/HORO_BG_review_review3-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_review_review3-phone.png"
+    },
+    {
+      "name": "HORO_BG_review_review4-phone",
+      "path": "BG/HORO/2026-11-23/HORO_BG_review_review4-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_review_review4-phone.png"
+    },
+    {
+      "name": "HORO_BG_review_review5-phone",
+      "path": "BG/HORO/2026-11-23/HORO_BG_review_review5-phone.png",
+      "source": "source/DOGS/blank_1536x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_review_review5-phone.png"
+    },
+    {
+      "name": "HORO_BG_author_author-example",
+      "path": "BG/HORO/2026-11-23/HORO_BG_author_author-example.png",
+      "source": "source/COMPUTER/blank_1024x1024.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_author_author-example.png"
     }
   ]
 }
