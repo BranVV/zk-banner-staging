@@ -1,0 +1,39 @@
+{
+ "book": "CROCHET",
+ "market": "BG",
+ "date": "2026-11-23",
+ "source_campaign": "T009 Плетене на една кука: 3 корици",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t009-v1-hands-hook",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"hands and hook\": cream background. A photorealistic close-up of two hands (gender not obvious, simple knitted sleeves) crocheting with a wooden hook and dusty rose yarn, a few neat stitches visible, a basket with colourful yarn balls behind. No faces. Title in deep plum, \"ЗА НАЧИНАЕЩИ\" in mustard.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"ПЛЕТЕНЕ НА ЕДНА КУКА ЗА НАЧИНАЕЩИ\"\n2) Subtitle, smaller, 4-5 lines: \"Системата С.Т.Е.П.И. - 12 основни бода и 20 проекта (от ръчичка до бебешко одеяло), със стъпка-по-стъпка снимки и ясни шарки, дори да не си държал/а кука досега.\"\n3) Author name at the bottom of the cover, medium: \"МАРИЯ КОСТОВА\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: warm, cosy, handmade, premium modern craft book design, NOT childish, no clip-art, no cartoon. Palette: warm cream #FFF6EA, dusty rose #D98C8C, mustard yellow #E3B23C, soft lilac #B9A3D0, deep plum #4B2E4F.\nNo faces; hands with five fingers, the hook held naturally."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t009-v2-projects-flatlay",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"20 projects flat lay\": soft lilac background. A top-down photorealistic flat lay of finished crochet items: a small granny-square baby blanket, a cute amigurumi bunny, a pot holder, a beanie and a coaster, with yarn balls and a crochet hook. No people. Title in deep plum on a cream panel, \"ЗА НАЧИНАЕЩИ\" in dusty rose.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"ПЛЕТЕНЕ НА ЕДНА КУКА ЗА НАЧИНАЕЩИ\"\n2) Subtitle, smaller, 4-5 lines: \"Системата С.Т.Е.П.И. - 12 основни бода и 20 проекта (от ръчичка до бебешко одеяло), със стъпка-по-стъпка снимки и ясни шарки, дори да не си държал/а кука досега.\"\n3) Author name at the bottom of the cover, medium: \"МАРИЯ КОСТОВА\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: warm, cosy, handmade, premium modern craft book design, NOT childish, no clip-art, no cartoon. Palette: warm cream #FFF6EA, dusty rose #D98C8C, mustard yellow #E3B23C, soft lilac #B9A3D0, deep plum #4B2E4F.\nNo people and no faces on this cover."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t009-v3-basket-cup",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"cosy evening\": deep plum background with warm light. A photorealistic cosy still life on a wooden table: a wicker basket overflowing with mustard, rose and cream yarn, a crochet hook and a half-finished colourful blanket draped over it, a cup of tea. No people. Title in cream, \"ЗА НАЧИНАЕЩИ\" in mustard.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"ПЛЕТЕНЕ НА ЕДНА КУКА ЗА НАЧИНАЕЩИ\"\n2) Subtitle, smaller, 4-5 lines: \"Системата С.Т.Е.П.И. - 12 основни бода и 20 проекта (от ръчичка до бебешко одеяло), със стъпка-по-стъпка снимки и ясни шарки, дори да не си държал/а кука досега.\"\n3) Author name at the bottom of the cover, medium: \"МАРИЯ КОСТОВА\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: warm, cosy, handmade, premium modern craft book design, NOT childish, no clip-art, no cartoon. Palette: warm cream #FFF6EA, dusty rose #D98C8C, mustard yellow #E3B23C, soft lilac #B9A3D0, deep plum #4B2E4F.\nNo people and no faces on this cover."
+  }
+ ]
+}

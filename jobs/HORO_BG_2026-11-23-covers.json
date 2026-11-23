@@ -1,0 +1,39 @@
+{
+ "book": "HORO",
+ "market": "BG",
+ "date": "2026-11-23",
+ "source_campaign": "T010 Народни танци: 3 корици",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t010-v1-horo-wedding",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"horo at a celebration\": white background with a thin red Bulgarian embroidery border. A photorealistic joyful scene: a line of 5-6 ordinary people of mixed ages, men and women, holding hands and dancing horo outdoors at a village celebration, modern everyday festive clothes with a few embroidered details, warm late-afternoon light. Title in deep red, \"ОТ НУЛАТА\" in gold.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"БЪЛГАРСКИ НАРОДНИ ТАНЦИ ОТ НУЛАТА\"\n2) Subtitle, smaller, 4-5 lines: \"7-те основни стъпки, които отключват 50+ народни танца - да играеш уверено на всяка сватба, събор и празник, дори да не си танцувал от ученически години.\"\n3) Author name at the bottom of the cover, medium: \"СТОЯН ГЕОРГИЕВ\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: festive, joyful, proud, premium modern book design with a light Bulgarian folk embroidery accent, NOT kitschy, NOT childish, no clip-art. Palette: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nPeople are ordinary Bulgarians of mixed ages (40-65), both women and men, natural happy faces, correct anatomy and hands with five fingers; men and women in equal numbers."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t010-v2-feet-steps",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"7 steps\": black background with a red and white folk embroidery pattern stripe. In the middle a premium illustration of dance step footprints arranged in a clear sequence of 7 numbered steps forming a circle like a horo, with small gold numbers 1 to 7. No people. Title in white, \"ОТ НУЛАТА\" in gold.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"БЪЛГАРСКИ НАРОДНИ ТАНЦИ ОТ НУЛАТА\"\n2) Subtitle, smaller, 4-5 lines: \"7-те основни стъпки, които отключват 50+ народни танца - да играеш уверено на всяка сватба, събор и празник, дори да не си танцувал от ученически години.\"\n3) Author name at the bottom of the cover, medium: \"СТОЯН ГЕОРГИЕВ\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: festive, joyful, proud, premium modern book design with a light Bulgarian folk embroidery accent, NOT kitschy, NOT childish, no clip-art. Palette: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nNo people and no faces on this cover."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t010-v3-hands-chain",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"hands in the horo\": deep red background with a white folk embroidery ornament. A photorealistic close-up of joined hands in a horo chain, people shown only from the waist down and arms, with embroidered sleeves and belts in motion, feet stepping on grass. No faces. Title in white, \"ОТ НУЛАТА\" in gold.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"БЪЛГАРСКИ НАРОДНИ ТАНЦИ ОТ НУЛАТА\"\n2) Subtitle, smaller, 4-5 lines: \"7-те основни стъпки, които отключват 50+ народни танца - да играеш уверено на всяка сватба, събор и празник, дори да не си танцувал от ученически години.\"\n3) Author name at the bottom of the cover, medium: \"СТОЯН ГЕОРГИЕВ\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: festive, joyful, proud, premium modern book design with a light Bulgarian folk embroidery accent, NOT kitschy, NOT childish, no clip-art. Palette: deep red #B3202A, white #FFFFFF, black #1A1A1A, warm gold #D9A441 and a little dark green #1F6B3A.\nNo faces; hands with five fingers; equal men and women by sleeves and clothes."
+  }
+ ]
+}

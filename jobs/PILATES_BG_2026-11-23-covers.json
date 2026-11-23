@@ -1,0 +1,39 @@
+{
+ "book": "PILATES",
+ "market": "BG",
+ "date": "2026-11-23",
+ "source_campaign": "T008 Пилатес вкъщи: 3 корици",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t008-v1-livingroom",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"living room mat\": sand beige background with a soft sage band at the top. A photorealistic bright scene: a woman about 45-50 doing a gentle pilates side-plank / leg lift on a teal yoga mat in a cosy sunny living room with a sofa and a plant, calm smile. Title in deep teal, \"НАД 40\" in coral.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"ПИЛАТЕС ВКЪЩИ ЗА ЖЕНИ НАД 40\"\n2) Subtitle, smaller, 4-5 lines: \"28-дневната програма C.O.R.E. - 60 упражнения за стегнат корем, здрав гръб и повече енергия за 15 минути на ден, без фитнес, без уреди и без предишен опит.\"\n3) Author name at the bottom of the cover, medium: \"ДАНИЕЛА ПЕТРОВА\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"C.O.R.E.\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: premium, modern, bright, calm and confident bestselling fitness/wellbeing book design, NOT a gym or bodybuilding look, NOT sexualised, NOT childish, no clip-art. Palette: soft sage green #8FB9A8, warm coral #F08A6C, sand beige #F3E7D7, deep teal #1F5C5B and white.\nThe woman looks like an ordinary healthy Bulgarian woman about 45-50 (not a model, not a teenager), natural friendly face, modest comfortable sportswear (long leggings and a loose top), correct anatomy and hands with five fingers."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t008-v2-mat-objects",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"mat and calendar\": deep teal background. In the middle a premium 3D still life: a rolled sage yoga mat, a small pilates ring, a water bottle, a towel and a small calendar showing a ring around the number 28, soft morning light from a window. No people. Title in white, \"НАД 40\" in coral.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"ПИЛАТЕС ВКЪЩИ ЗА ЖЕНИ НАД 40\"\n2) Subtitle, smaller, 4-5 lines: \"28-дневната програма C.O.R.E. - 60 упражнения за стегнат корем, здрав гръб и повече енергия за 15 минути на ден, без фитнес, без уреди и без предишен опит.\"\n3) Author name at the bottom of the cover, medium: \"ДАНИЕЛА ПЕТРОВА\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"C.O.R.E.\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: premium, modern, bright, calm and confident bestselling fitness/wellbeing book design, NOT a gym or bodybuilding look, NOT sexualised, NOT childish, no clip-art. Palette: soft sage green #8FB9A8, warm coral #F08A6C, sand beige #F3E7D7, deep teal #1F5C5B and white.\nNo people and no faces on this cover."
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t008-v3-stretch-split",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "Create a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - \"before morning stretch\": white background with large soft sage and coral organic shapes. A photorealistic image of a woman about 45-50 sitting on a mat at home in a graceful pilates stretch (spine twist), shown from the side, relaxed and strong. Clean modern editorial layout. Title in deep teal, \"НАД 40\" in coral.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"ПИЛАТЕС ВКЪЩИ ЗА ЖЕНИ НАД 40\"\n2) Subtitle, smaller, 4-5 lines: \"28-дневната програма C.O.R.E. - 60 упражнения за стегнат корем, здрав гръб и повече енергия за 15 минути на ден, без фитнес, без уреди и без предишен опит.\"\n3) Author name at the bottom of the cover, medium: \"ДАНИЕЛА ПЕТРОВА\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic except \"C.O.R.E.\". Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: premium, modern, bright, calm and confident bestselling fitness/wellbeing book design, NOT a gym or bodybuilding look, NOT sexualised, NOT childish, no clip-art. Palette: soft sage green #8FB9A8, warm coral #F08A6C, sand beige #F3E7D7, deep teal #1F5C5B and white.\nThe woman looks like an ordinary healthy Bulgarian woman about 45-50 (not a model, not a teenager), natural friendly face, modest comfortable sportswear (long leggings and a loose top), correct anatomy and hands with five fingers."
+  }
+ ]
+}
