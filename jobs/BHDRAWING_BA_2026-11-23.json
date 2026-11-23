@@ -1,0 +1,111 @@
+{
+ "book": "BHDRAWING",
+ "market": "BA",
+ "date": "2026-11-23",
+ "source_campaign": "CBO | DRAWING | FIRST BANNERS TEST - 29092026 (BG, ID 120248704585160027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Bosnian (ijekavian) in LATIN script only (no Cyrillic at all), with correct letters č ć š ž đ rendered exactly. Use ijekavian forms (vježbi, svjetlo, sjena, vrijeme, dijete).",
+   "Keep the layout, colours, photos, the woman's face and hands, illustrations and the red button shape identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos.",
+   "The system name FLOW stays FLOW.",
+   "CRITICAL: the book in the image must show a Bosnian (Latin) cover. Replace all Bulgarian text on the book exactly: title 'Crtaj s lakoćom!' (line 1: 'Crtaj s', line 2: 'lakoćom!'), subtitle 'Praktični priručnik za crtanje', author 'Amir Hadžić'. Keep the cover illustration (cat drawing, hand with pencil, flowers, birds, fox, cubes, spheres), colours, fonts style and the book's position, size and angle identical. No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSDRAWING/DRAWING_BG_banner_svako.jpg",
+   "format": "banner",
+   "angle": "svako",
+   "translations": [
+    {
+     "source": "Всеки може да рисува.",
+     "target": "Svako može crtati."
+    },
+    {
+     "source": "Просто никой не ти е показал как.",
+     "target": "Samo ti niko nije pokazao kako."
+    },
+    {
+     "source": "75 упражнения. Техники за начинаещи",
+     "target": "75 vježbi. Tehnike za početnike"
+    },
+    {
+     "source": "и напреднали. Стъпка по стъпка.",
+     "target": "i napredne. Korak po korak."
+    },
+    {
+     "source": "ЗАПОЧНИ ОЩЕ ДНЕС →",
+     "target": "POČNI JOŠ DANAS →"
+    },
+    {
+     "source": "Светлина и сянка (малък текст на лявата страница на отворената книга)",
+     "target": "Svjetlo i sjena"
+    },
+    {
+     "source": "Просто нарисувай! (заглавие на корицата)",
+     "target": "Crtaj s lakoćom!"
+    },
+    {
+     "source": "Практически наръчник за рисуване",
+     "target": "Praktični priručnik za crtanje"
+    },
+    {
+     "source": "Мартин Василев",
+     "target": "Amir Hadžić"
+    }
+   ],
+   "extra_rules": [
+    "The open book standing on the table on the right shows the cover: render it with the Bosnian cover text letter for letter ('Crtaj s lakoćom!' / 'Praktični priručnik za crtanje' / 'Amir Hadžić'). Small body text on the left page may stay as unreadable texture but must not contain Cyrillic."
+   ]
+  },
+  {
+   "source": "source/RSDRAWING/DRAWING_BG_banner_dete.jpg",
+   "format": "banner",
+   "angle": "dijete",
+   "translations": [
+    {
+     "source": "Като дете рисуваше всеки ден.",
+     "target": "Kao djetetu, crtanje ti je bilo svakodnevica."
+    },
+    {
+     "source": "Кога спря? И защо?",
+     "target": "Kad je to prestalo? I zašto?"
+    },
+    {
+     "source": "Време е да продължиш",
+     "target": "Vrijeme je da se vratiš"
+    },
+    {
+     "source": "от там, от където спря.",
+     "target": "tamo gdje je stalo."
+    },
+    {
+     "source": "РИСУВАЙ ОТНОВО →",
+     "target": "CRTAJ PONOVO →"
+    },
+    {
+     "source": "Просто нарисувай! (заглавие на корицата)",
+     "target": "Crtaj s lakoćom!"
+    },
+    {
+     "source": "Практически наръчник за рисуване",
+     "target": "Praktični priručnik za crtanje"
+    },
+    {
+     "source": "Мартин Василев",
+     "target": "Amir Hadžić"
+    }
+   ],
+   "extra_rules": [
+    "The hardcover book lying on the table on the right: render its cover with the Bosnian text letter for letter ('Crtaj s lakoćom!' / 'Praktični priručnik za crtanje' / 'Amir Hadžić'); keep the small round FLOW badge in the corner. Pencil labels HB, 2B, 4B stay as they are. The child's drawing stays unchanged."
+   ]
+  }
+ ]
+}

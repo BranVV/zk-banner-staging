@@ -1,0 +1,193 @@
+{
+ "book": "RSSALEWORDS",
+ "market": "RS",
+ "date": "2026-11-23",
+ "source_campaign": "CBO | SALE WORDS | FIRST BANNERS (BG, ID 120248918105510027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Serbian in LATIN script only (no Cyrillic at all), with correct letters č ć š ž đ rendered exactly.",
+   "Keep the layout, colours, photos, faces, hands, props and the red button shape identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos. The system name T.R.U.S.T. stays as it is.",
+   "CRITICAL: every visible book must show a Serbian (Latin) cover. Replace all Bulgarian text on the cover exactly: title in three lines 'REČI' / 'KOJE' / 'PRODAJU' (gold serif capitals, same style), subtitle 'Tajne ubeđivanja za one koji žele da osvoje poverenje ljudi i pretvore ga u prihod.', the scattered golden letters above the hands spell 'POVERENJE', author 'Andrej Popović'. Keep the dark burgundy cover, glowing hands, ornaments, colours and the book's position, size and angle identical. Spine (if visible): 'REČI KOJE PRODAJU' and 'Andrej Popović'.",
+   "No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_abordare.png",
+   "format": "banner",
+   "angle": "pristup",
+   "translations": [
+    {
+     "source": "„Агресивните скриптове не работят за мен.",
+     "target": "„Agresivne skripte kod mene ne funkcionišu."
+    },
+    {
+     "source": "Защото не съм такъв човек.",
+     "target": "Jer ja nisam takva osoba."
+    },
+    {
+     "source": "Смених подхода и всичко се промени.”",
+     "target": "Promenila sam pristup i sve je krenulo drugačije.”"
+    },
+    {
+     "source": "— Мария",
+     "target": "REMOVE this signature line completely (no name, no label)"
+    },
+    {
+     "source": "ВИЖ КАК →",
+     "target": "POGLEDAJ KAKO →"
+    },
+    {
+     "source": "ДУМИТЕ, КОИТО ПРОДАВАТ (заглавие на корицата)",
+     "target": "REČI KOJE PRODAJU"
+    },
+    {
+     "source": "Тайните на убеждаването за хора, които искат да спечелят доверие и да го превърнат в доход. (подзаглавие на корицата)",
+     "target": "Tajne ubeđivanja za one koji žele da osvoje poverenje ljudi i pretvore ga u prihod."
+    },
+    {
+     "source": "Д О В Е Р И Е (разпилени букви над ръцете)",
+     "target": "P O V E R E N J E"
+    },
+    {
+     "source": "Мартин Георгиев",
+     "target": "Andrej Popović"
+    }
+   ],
+   "extra_rules": [
+    "The woman's face, hair and hands stay exactly the same. Remove the small name label under the speech bubble completely and fill the area with the background. The book she holds shows the Serbian cover letter for letter."
+   ]
+  },
+  {
+   "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_fara-sa-para.png",
+   "format": "banner",
+   "angle": "neprimetno",
+   "translations": [
+    {
+     "source": "Искаш ли да продаваш,",
+     "target": "Želiš da prodaješ,"
+    },
+    {
+     "source": "без да си личи, че продаваш?",
+     "target": "a da ne izgleda kao da prodaješ?"
+    },
+    {
+     "source": "„Думите, Които Продават”",
+     "target": "„Reči koje prodaju”"
+    },
+    {
+     "source": "Тайните на убеждаването без натиск.",
+     "target": "Tajne ubeđivanja bez pritiska."
+    },
+    {
+     "source": "ВЗЕМИ с 4 БОНУСА →",
+     "target": "UZMI uz 4 BONUSA →"
+    },
+    {
+     "source": "Как си? (лепящо листче)",
+     "target": "Kako si?"
+    },
+    {
+     "source": "Разкажи ми повече (лепящо листче)",
+     "target": "Reci mi više"
+    },
+    {
+     "source": "Иван П. (име в чата на телефона)",
+     "target": "Ivan P."
+    },
+    {
+     "source": "Здравей! Видях публикацията ти за книгата. Звучи интересно. Наистина ли помага да се продава по-естествено?",
+     "target": "Zdravo! Video sam tvoju objavu o knjizi. Zvuči zanimljivo. Da li stvarno pomaže da prodaja bude prirodnija?"
+    },
+    {
+     "source": "Здравей, Иван! Да, точно това е идеята - да продаваш чрез доверие, не чрез натиск.",
+     "target": "Zdravo, Ivane! Da, upravo je to poenta - da prodaješ kroz poverenje, a ne kroz pritisak."
+    },
+    {
+     "source": "Харесва ми подходът ти! Ще я взема и ще я прочета.",
+     "target": "Sviđa mi se tvoj pristup! Uzeću je da pročitam."
+    },
+    {
+     "source": "Страхотно! Убедена съм, че ще ти бъде полезна 😊",
+     "target": "Super! Sigurna sam da će ti koristiti 😊"
+    },
+    {
+     "source": "ДУМИТЕ, КОИТО ПРОДАВАТ (заглавие на корицата)",
+     "target": "REČI KOJE PRODAJU"
+    },
+    {
+     "source": "Тайните на убеждаването за хора, които искат да спечелят доверие и да го превърнат в доход. (подзаглавие на корицата)",
+     "target": "Tajne ubeđivanja za one koji žele da osvoje poverenje ljudi i pretvore ga u prihod."
+    },
+    {
+     "source": "Д О В Е Р И Е (разпилени букви над ръцете)",
+     "target": "P O V E R E N J E"
+    },
+    {
+     "source": "Мартин Георгиев",
+     "target": "Andrej Popović"
+    }
+   ],
+   "extra_rules": [
+    "The phone chat keeps the same bubbles, colours and layout; the small chat text is Serbian Latin (may be small but no Cyrillic). The book on the table shows the Serbian cover and spine letter for letter. Handwriting style on the sticky notes stays the same."
+   ]
+  },
+  {
+   "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_inoportun.png",
+   "format": "banner",
+   "angle": "nametljivo",
+   "translations": [
+    {
+     "source": "Когато трябва да продаваш",
+     "target": "Kad treba da prodaješ,"
+    },
+    {
+     "source": "се чувстваш като натрапник?",
+     "target": "osećaš se kao da se namećeš?"
+    },
+    {
+     "source": "Здравей! Имам невероятна възможност само за теб!!! 🔥🔥 (зачеркнато в облачето)",
+     "target": "Zdravo! Imam neverovatnu ponudu samo za tebe!!! 🔥🔥"
+    },
+    {
+     "source": "Има и друг начин да говориш.",
+     "target": "Može se razgovarati i drugačije."
+    },
+    {
+     "source": "Начин, който не отблъсква хората.",
+     "target": "A da ne oteraš ljude od sebe."
+    },
+    {
+     "source": "ВИЖ КАК →",
+     "target": "POGLEDAJ KAKO →"
+    },
+    {
+     "source": "ДУМИТЕ, КОИТО ПРОДАВАТ (заглавие на корицата)",
+     "target": "REČI KOJE PRODAJU"
+    },
+    {
+     "source": "Тайните на убеждаването за хора, които искат да спечелят доверие и да го превърнат в доход. (подзаглавие на корицата)",
+     "target": "Tajne ubeđivanja za one koji žele da osvoje poverenje ljudi i pretvore ga u prihod."
+    },
+    {
+     "source": "Д О В Е Р И Е (разпилени букви над ръцете)",
+     "target": "P O V E R E N J E"
+    },
+    {
+     "source": "Мартин Георгиев",
+     "target": "Andrej Popović"
+    }
+   ],
+   "extra_rules": [
+    "Keep the red cross over the left thought bubble and the question mark in the right bubble. The woman's face and hands stay exactly the same. The book on the table shows the Serbian cover letter for letter."
+   ]
+  }
+ ]
+}
