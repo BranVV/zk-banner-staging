@@ -1,0 +1,52 @@
+{
+ "book": "RSTURKISH",
+ "market": "RS",
+ "date": "2026-11-23",
+ "source_campaign": "turski.zlatenkluch.eu landing images",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+   "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+   "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+   "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_recipes303.jpg",
+   "format": "page",
+   "angle": "recipes303",
+   "translations": [
+    {
+     "source": "303",
+     "target": "303"
+    },
+    {
+     "source": "ИЗПИТАНИ РЕЦЕПТИ",
+     "target": "PROVERENA RECEPTA"
+    },
+    {
+     "source": "ОТ ТУРЦИЯ",
+     "target": "IZ TURSKE"
+    },
+    {
+     "source": "303 ИЗПИТАНИ РЕЦЕПТИ ОТ ТУРЦИЯ",
+     "target": "303 PROVERENA RECEPTA IZ TURSKE"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash.",
+    "The spine text reads '303 PROVERENA RECEPTA IZ TURSKE'."
+   ]
+  }
+ ]
+}
