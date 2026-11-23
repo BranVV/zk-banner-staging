@@ -1,0 +1,48 @@
+{
+ "book": "HORO",
+ "market": "BG",
+ "date": "2026-11-23",
+ "source_campaign": "T010 корици с българско знаме (v4-v6, на база v1)",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t010-v4-flag-wave",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image is the current cover design to keep.\nCreate a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - SAME DESIGN AS THE SECOND INPUT IMAGE (keep its light layout, the red Bulgarian embroidery borders, the title colours and the line of horo dancers), with this change: a big Bulgarian flag (white, green, red, horizontal stripes) waves proudly on a flagpole behind the dancers, clearly visible above their heads against a bright sky.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"БЪЛГАРСКИ НАРОДНИ ТАНЦИ ОТ НУЛАТА\"\n2) Subtitle, smaller, 4-5 lines: \"7-те основни стъпки, които отключват 50+ народни танца - да играеш уверено на всяка сватба, събор и празник, дори да не си танцувал от ученически години.\"\n3) Author name at the bottom of the cover, medium: \"СТОЯН ГЕОРГИЕВ\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: festive, joyful, proud, premium modern book design with Bulgarian folk embroidery, NOT kitschy, NOT childish, no clip-art. Palette: white #FFFFFF, Bulgarian flag colours (white, green #00966E, red #D62612), deep red #B3202A, warm gold #D9A441.\nPeople are ordinary Bulgarians of mixed ages (40-65), both women and men in equal numbers, natural happy faces, correct anatomy and hands with five fingers. The Bulgarian flag is horizontal stripes in this exact order from top to bottom: WHITE, GREEN, RED. No coat of arms, no other flags.",
+   "references": [
+    "covers/BG/HORO_BG_cover_v1.png"
+   ]
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t010-v5-tricolor-band",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image is the current cover design to keep.\nCreate a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - SAME DESIGN AS THE SECOND INPUT IMAGE (keep its light layout, the red Bulgarian embroidery borders, the title colours and the line of horo dancers), with this change: a clear Bulgarian tricolour band (three equal horizontal stripes white, green, red) runs across the full width of the cover just under the subtitle, like a ribbon, and one of the dancers holds a small Bulgarian flag.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"БЪЛГАРСКИ НАРОДНИ ТАНЦИ ОТ НУЛАТА\"\n2) Subtitle, smaller, 4-5 lines: \"7-те основни стъпки, които отключват 50+ народни танца - да играеш уверено на всяка сватба, събор и празник, дори да не си танцувал от ученически години.\"\n3) Author name at the bottom of the cover, medium: \"СТОЯН ГЕОРГИЕВ\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: festive, joyful, proud, premium modern book design with Bulgarian folk embroidery, NOT kitschy, NOT childish, no clip-art. Palette: white #FFFFFF, Bulgarian flag colours (white, green #00966E, red #D62612), deep red #B3202A, warm gold #D9A441.\nPeople are ordinary Bulgarians of mixed ages (40-65), both women and men in equal numbers, natural happy faces, correct anatomy and hands with five fingers. The Bulgarian flag is horizontal stripes in this exact order from top to bottom: WHITE, GREEN, RED. No coat of arms, no other flags.",
+   "references": [
+    "covers/BG/HORO_BG_cover_v1.png"
+   ]
+  },
+  {
+   "source": "source/COMPUTER/blank_1024x1536.png",
+   "format": "cover",
+   "angle": "t010-v6-flags-square",
+   "fit": "crop",
+   "api_size": "1024x1536",
+   "prompt": "The FIRST input image is only a blank canvas. The SECOND input image is the current cover design to keep.\nCreate a photorealistic product mockup of a printed paperback book standing slightly angled, turned a little to the LEFT so that we see the front cover and the white page edges on the RIGHT side of the book. The spine is NOT visible: no spine, no back cover and no text anywhere except the front cover. Physically correct perspective like a real product photo on a pure white background, soft natural shadow under it. The book fills about 75% of the frame height and is fully visible, nothing cropped.\nFRONT COVER DESIGN - SAME DESIGN AS THE SECOND INPUT IMAGE (keep its light layout, the red Bulgarian embroidery borders, the title colours and the line of horo dancers), with this change: the village square is decorated with strings of small Bulgarian flags (white, green, red) hanging above the dancers, and a large Bulgarian flag hangs from a balcony in the background.\nTEXT ON THE COVER (exactly these lines, nothing else):\n1) Title, huge, 2-4 lines: \"БЪЛГАРСКИ НАРОДНИ ТАНЦИ ОТ НУЛАТА\"\n2) Subtitle, smaller, 4-5 lines: \"7-те основни стъпки, които отключват 50+ народни танца - да играеш уверено на всяка сватба, събор и празник, дори да не си танцувал от ученически години.\"\n3) Author name at the bottom of the cover, medium: \"СТОЯН ГЕОРГИЕВ\"\n4) Publisher mark at the very bottom centre, small: a simple golden key icon followed by the words \"ЗЛАТЕН КЛЮЧ\"\nTYPOGRAPHY RULES (critical):\n- All text is Bulgarian Cyrillic. Render every text line EXACTLY as given, character by character, including punctuation. Do not translate, correct, shorten, re-order or add any words.\n- Heavy, clean modern sans-serif with full Cyrillic (Montserrat ExtraBold / Black style) for titles; clean regular sans-serif for the subtitle. Large and clearly legible on a phone.\n- No other text, other logos, watermarks, prices or website addresses anywhere.\nSTYLE: festive, joyful, proud, premium modern book design with Bulgarian folk embroidery, NOT kitschy, NOT childish, no clip-art. Palette: white #FFFFFF, Bulgarian flag colours (white, green #00966E, red #D62612), deep red #B3202A, warm gold #D9A441.\nPeople are ordinary Bulgarians of mixed ages (40-65), both women and men in equal numbers, natural happy faces, correct anatomy and hands with five fingers. The Bulgarian flag is horizontal stripes in this exact order from top to bottom: WHITE, GREEN, RED. No coat of arms, no other flags.",
+   "references": [
+    "covers/BG/HORO_BG_cover_v1.png"
+   ]
+  }
+ ]
+}
