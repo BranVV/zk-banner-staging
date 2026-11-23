@@ -1,0 +1,25 @@
+{
+  "book": "BHDRAWING",
+  "market": "BA",
+  "date": "2026-11-23",
+  "source_campaign": "CBO | DRAWING | FIRST BANNERS TEST - 29092026 (BG, ID 120248704585160027)",
+  "generated_at": "2026-11-23T08:44:28+00:00",
+  "banners": [
+    {
+      "name": "BHDRAWING_BA_banner_svako",
+      "path": "BA/BHDRAWING/2026-11-23/BHDRAWING_BA_banner_svako.png",
+      "source": "source/RSDRAWING/DRAWING_BG_banner_svako.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHDRAWING/2026-11-23/BHDRAWING_BA_banner_svako.png"
+    },
+    {
+      "name": "BHDRAWING_BA_banner_dijete",
+      "path": "BA/BHDRAWING/2026-11-23/BHDRAWING_BA_banner_dijete.png",
+      "source": "source/RSDRAWING/DRAWING_BG_banner_dete.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHDRAWING/2026-11-23/BHDRAWING_BA_banner_dijete.png"
+    }
+  ]
+}
