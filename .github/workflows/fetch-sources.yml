@@ -1,0 +1,54 @@
+name: Сваляне на изходни изображения
+
+# Сваля изображения по списък (напр. от фуниите в Simvoly) в source/.
+# Списъкът е JSON във fetch/*.json: [{"url": "...", "path": "source/КНИГА/име.jpg"}, ...]
+
+on:
+  push:
+    paths:
+      - 'fetch/*.json'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clone-banners
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Сваляне
+        run: |
+          CHANGED=$(git diff --name-only --diff-filter=d HEAD^ HEAD -- 'fetch/*.json' || true)
+          for F in $CHANGED; do
+            python3 - "$F" <<'PY'
+          import json, sys, urllib.request, pathlib
+          items = json.load(open(sys.argv[1], encoding="utf-8"))
+          for it in items:
+              p = pathlib.Path(it["path"])
+              if not str(p).startswith("source/"):
+                  sys.exit(f"path must be under source/: {p}")
+              p.parent.mkdir(parents=True, exist_ok=True)
+              req = urllib.request.Request(it["url"], headers={"User-Agent": "zk-banner-staging/1.0"})
+              with urllib.request.urlopen(req, timeout=60) as r:
+                  p.write_bytes(r.read())
+              print("OK", p, p.stat().st_size)
+          PY
+          done
+
+      - name: Записване
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add source
+          if git diff --cached --quiet; then echo "Няма нови файлове."; else
+            git commit -m "Изходни изображения: свалени"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
