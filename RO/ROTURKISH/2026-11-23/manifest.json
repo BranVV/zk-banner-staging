@@ -2,16 +2,104 @@
   "book": "ROTURKISH",
   "market": "RO",
   "date": "2026-11-23",
-  "source_campaign": "Funnel clone BG-TUR -> RO-TUR (roturkish.zlatenkluch.eu), RO cover",
-  "generated_at": "2026-11-23T12:28:49+00:00",
+  "source_campaign": "turski.zlatenkluch.eu landing images -> RO-TUR",
+  "generated_at": "2026-11-23T12:40:04+00:00",
   "banners": [
     {
-      "name": "ROTURKISH_RO_cover_mockup",
-      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_cover_mockup.png",
-      "source": "covers/TURKISH_BG_cover.png",
+      "name": "ROTURKISH_RO_page_putuj",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_putuj.png",
+      "source": "source/RSTURKISH/TURKISH_BG_benefit_putuj.jpg",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_cover_mockup.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_putuj.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_razumi",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_razumi.png",
+      "source": "source/RSTURKISH/TURKISH_BG_benefit_razumi.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_razumi.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_situatii",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_situatii.png",
+      "source": "source/RSTURKISH/TURKISH_BG_benefit_situacije.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_situatii.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_bonus1",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_bonus1.png",
+      "source": "source/RSTURKISH/TURKISH_BG_bonus1.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_bonus1.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_bonus2",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_bonus2.png",
+      "source": "source/RSTURKISH/TURKISH_BG_bonus2.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_bonus2.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_bonus3",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_bonus3.png",
+      "source": "source/RSTURKISH/TURKISH_BG_bonus3.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_bonus3.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_course",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_course.png",
+      "source": "source/RSTURKISH/TURKISH_BG_course.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_course.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_guarantee",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_guarantee.png",
+      "source": "source/RSTURKISH/TURKISH_BG_guarantee.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_guarantee.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_istanbul_man",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_istanbul_man.png",
+      "source": "source/RSTURKISH/TURKISH_BG_istanbul_man.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_istanbul_man.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_audiobook",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_audiobook.png",
+      "source": "source/RSTURKISH/TURKISH_BG_audiobook.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_audiobook.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_workbook",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_workbook.png",
+      "source": "source/RSTURKISH/TURKISH_BG_workbook.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_workbook.png"
+    },
+    {
+      "name": "ROTURKISH_RO_page_recipes303",
+      "path": "RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_recipes303.png",
+      "source": "source/RSTURKISH/TURKISH_BG_recipes303.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-23/ROTURKISH_RO_page_recipes303.png"
     }
   ]
 }
