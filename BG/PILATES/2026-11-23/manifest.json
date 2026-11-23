@@ -2,152 +2,40 @@
   "book": "PILATES",
   "market": "BG",
   "date": "2026-11-23",
-  "source_campaign": "T008 Пилатес вкъщи: бонуси, bump-ове, курс, ползи, за кого е, ревюта (примерни), автор (рестарт след избор на корица)",
-  "generated_at": "2026-11-23T16:33:15+00:00",
+  "source_campaign": "T008 Пилатес: нови снимки за 2-те ревюта на чекаута (Пенка и Нина), различни жени",
+  "generated_at": "2026-11-23T18:11:21+00:00",
   "banners": [
     {
-      "name": "PILATES_BG_offer_bonus1-plan",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_offer_bonus1-plan.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_offer_bonus1-plan.png"
-    },
-    {
-      "name": "PILATES_BG_offer_bonus2-morning",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_offer_bonus2-morning.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_offer_bonus2-morning.png"
-    },
-    {
-      "name": "PILATES_BG_offer_bonus3-recipes",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_offer_bonus3-recipes.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_offer_bonus3-recipes.png"
-    },
-    {
-      "name": "PILATES_BG_bump_bump1-core",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_bump_bump1-core.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_bump_bump1-core.png"
-    },
-    {
-      "name": "PILATES_BG_bump_bump2-posture",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_bump_bump2-posture.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_bump_bump2-posture.png"
-    },
-    {
-      "name": "PILATES_BG_bump_bump3-chair",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_bump_bump3-chair.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_bump_bump3-chair.png"
-    },
-    {
-      "name": "PILATES_BG_bump_bump4-sleep",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_bump_bump4-sleep.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_bump_bump4-sleep.png"
-    },
-    {
-      "name": "PILATES_BG_upsell_course-banner",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_upsell_course-banner.png",
+      "name": "PILATES_BG_review_review4b-phone",
+      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review4b-phone.png",
       "source": "source/DOGS/blank_1536x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_upsell_course-banner.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review4b-phone.png"
     },
     {
-      "name": "PILATES_BG_benefit_benefit1-core",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_benefit_benefit1-core.png",
+      "name": "PILATES_BG_review_review4c-phone",
+      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review4c-phone.png",
       "source": "source/DOGS/blank_1536x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_benefit_benefit1-core.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review4c-phone.png"
     },
     {
-      "name": "PILATES_BG_benefit_benefit2-back",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_benefit_benefit2-back.png",
+      "name": "PILATES_BG_review_review5b-phone",
+      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review5b-phone.png",
       "source": "source/DOGS/blank_1536x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_benefit_benefit2-back.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review5b-phone.png"
     },
     {
-      "name": "PILATES_BG_benefit_benefit3-energy",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_benefit_benefit3-energy.png",
+      "name": "PILATES_BG_review_review5c-phone",
+      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review5c-phone.png",
       "source": "source/DOGS/blank_1536x1024.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_benefit_benefit3-energy.png"
-    },
-    {
-      "name": "PILATES_BG_whofor_whofor-home",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_whofor_whofor-home.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_whofor_whofor-home.png"
-    },
-    {
-      "name": "PILATES_BG_review_review1-phone",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review1-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review1-phone.png"
-    },
-    {
-      "name": "PILATES_BG_review_review2-phone",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review2-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review2-phone.png"
-    },
-    {
-      "name": "PILATES_BG_review_review3-phone",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review3-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review3-phone.png"
-    },
-    {
-      "name": "PILATES_BG_review_review4-phone",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review4-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review4-phone.png"
-    },
-    {
-      "name": "PILATES_BG_review_review5-phone",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_review_review5-phone.png",
-      "source": "source/DOGS/blank_1536x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review5-phone.png"
-    },
-    {
-      "name": "PILATES_BG_author_author-example",
-      "path": "BG/PILATES/2026-11-23/PILATES_BG_author_author-example.png",
-      "source": "source/COMPUTER/blank_1024x1024.png",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_author_author-example.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_review_review5c-phone.png"
     }
   ]
 }
