@@ -1,0 +1,141 @@
+{
+ "book": "RSTURKISH",
+ "market": "RS",
+ "date": "2026-11-23",
+ "source_campaign": "turski.zlatenkluch.eu landing images",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+   "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+   "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+   "Do not add any new text. Currency is RSD, written after the number (e.g. 390 RSD). Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus1.jpg",
+   "format": "page",
+   "angle": "bonus1",
+   "translations": [
+    {
+     "source": "БОНУС №1",
+     "target": "BONUS BR. 1"
+    },
+    {
+     "source": "100 ТУРСКИ ИЗРАЗА",
+     "target": "100 TURSKIH IZRAZA"
+    },
+    {
+     "source": "за реални ситуации",
+     "target": "za stvarne situacije"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VREDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 RSD"
+    },
+    {
+     "source": "€9",
+     "target": "1170 RSD"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 1170 RSD). Use a short hyphen, never a long dash.",
+    "The old value '1170 RSD' stays crossed out like in the original."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus2.jpg",
+   "format": "page",
+   "angle": "bonus2",
+   "translations": [
+    {
+     "source": "БОНУС №2",
+     "target": "BONUS BR. 2"
+    },
+    {
+     "source": "ТУРСКО МЕНЮ БЕЗ ЗАГАДКИ",
+     "target": "TURSKI JELOVNIK BEZ ZAGONETKI"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VREDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 RSD"
+    },
+    {
+     "source": "€7",
+     "target": "1170 RSD"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus3.jpg",
+   "format": "page",
+   "angle": "bonus3",
+   "translations": [
+    {
+     "source": "БОНУС №3",
+     "target": "BONUS BR. 3"
+    },
+    {
+     "source": "ТУРСКИ БЕЗ",
+     "target": "TURSKI BEZ"
+    },
+    {
+     "source": "ГРЕШНО",
+     "target": "POGREŠNOG"
+    },
+    {
+     "source": "ПРОИЗНОШЕНИЕ",
+     "target": "IZGOVORA"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VREDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 RSD"
+    },
+    {
+     "source": "€9",
+     "target": "1170 RSD"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script only (ekavica). No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is RSD, written after the number (e.g. 1170 RSD). Use a short hyphen, never a long dash.",
+    "Replace the euro symbol inside the round coin icon with a simple neutral coin (no € sign). The Turkish letters Ç Ş Ğ I Ö Ü and phonetic marks stay."
+   ]
+  }
+ ]
+}
