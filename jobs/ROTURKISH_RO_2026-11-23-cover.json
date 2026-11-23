@@ -1,0 +1,49 @@
+{
+ "book": "ROTURKISH",
+ "market": "RO",
+ "date": "2026-11-23",
+ "source_campaign": "Funnel clone BG-TUR -> RO-TUR (roturkish.zlatenkluch.eu), RO cover",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Romanian with correct diacritics (ă â î ș ț) rendered exactly; no Bulgarian/Cyrillic letters may remain anywhere in the image.",
+   "This is a 3D book mockup. Keep the book shape, angle, lighting, Turkish flag, Istanbul mosque photo, tea glass, baklava, seagull, icons and all colours identical; change only the text.",
+   "Front cover title in two lines in the same bold style and colours: 'LIMBA TURCĂ' (dark navy) and 'PENTRU ÎNCEPĂTORI' (red).",
+   "Spine text in the same style: 'LIMBA TURCĂ PENTRU ÎNCEPĂTORI' and the small subtitle lines translated the same way as on the front.",
+   "Do not add any new text, names or logos. Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "covers/TURKISH_BG_cover.png",
+   "format": "cover",
+   "angle": "mockup",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "LIMBA TURCĂ"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "PENTRU ÎNCEPĂTORI"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори — без сложна граматика",
+     "target": "Turcă ușoară pentru călătorii și conversații de zi cu zi - fără gramatică complicată"
+    },
+    {
+     "source": "ПРАКТИЧНО / ЛЕСНО / ПОЛЕЗНО",
+     "target": "PRACTIC / UȘOR / UTIL"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ УВЕРЕНО В РЕАЛНИ СИТУАЦИИ",
+     "target": "VORBEȘTE TURCA CU ÎNCREDERE ÎN SITUAȚII REALE"
+    }
+   ]
+  }
+ ]
+}
