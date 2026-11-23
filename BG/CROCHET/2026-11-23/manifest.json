@@ -1,0 +1,33 @@
+{
+  "book": "CROCHET",
+  "market": "BG",
+  "date": "2026-11-23",
+  "source_campaign": "T009 Плетене на една кука: 3 корици",
+  "generated_at": "2026-11-23T15:23:49+00:00",
+  "banners": [
+    {
+      "name": "CROCHET_BG_cover_t009-v1-hands-hook",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v1-hands-hook.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v1-hands-hook.png"
+    },
+    {
+      "name": "CROCHET_BG_cover_t009-v2-projects-flatlay",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v2-projects-flatlay.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v2-projects-flatlay.png"
+    },
+    {
+      "name": "CROCHET_BG_cover_t009-v3-basket-cup",
+      "path": "BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v3-basket-cup.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/CROCHET/2026-11-23/CROCHET_BG_cover_t009-v3-basket-cup.png"
+    }
+  ]
+}

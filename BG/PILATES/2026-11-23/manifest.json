@@ -1,0 +1,33 @@
+{
+  "book": "PILATES",
+  "market": "BG",
+  "date": "2026-11-23",
+  "source_campaign": "T008 Пилатес вкъщи: 3 корици",
+  "generated_at": "2026-11-23T15:26:59+00:00",
+  "banners": [
+    {
+      "name": "PILATES_BG_cover_t008-v1-livingroom",
+      "path": "BG/PILATES/2026-11-23/PILATES_BG_cover_t008-v1-livingroom.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_cover_t008-v1-livingroom.png"
+    },
+    {
+      "name": "PILATES_BG_cover_t008-v2-mat-objects",
+      "path": "BG/PILATES/2026-11-23/PILATES_BG_cover_t008-v2-mat-objects.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_cover_t008-v2-mat-objects.png"
+    },
+    {
+      "name": "PILATES_BG_cover_t008-v3-stretch-split",
+      "path": "BG/PILATES/2026-11-23/PILATES_BG_cover_t008-v3-stretch-split.png",
+      "source": "source/COMPUTER/blank_1024x1536.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-23/PILATES_BG_cover_t008-v3-stretch-split.png"
+    }
+  ]
+}
