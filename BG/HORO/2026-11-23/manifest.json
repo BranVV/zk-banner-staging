@@ -2,32 +2,32 @@
   "book": "HORO",
   "market": "BG",
   "date": "2026-11-23",
-  "source_campaign": "T010 Народни танци: 3 корици",
-  "generated_at": "2026-11-23T15:25:31+00:00",
+  "source_campaign": "T010 корици с българско знаме (v4-v6, на база v1)",
+  "generated_at": "2026-11-23T15:39:02+00:00",
   "banners": [
     {
-      "name": "HORO_BG_cover_t010-v1-horo-wedding",
-      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v1-horo-wedding.png",
+      "name": "HORO_BG_cover_t010-v4-flag-wave",
+      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v4-flag-wave.png",
       "source": "source/COMPUTER/blank_1024x1536.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v1-horo-wedding.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v4-flag-wave.png"
     },
     {
-      "name": "HORO_BG_cover_t010-v2-feet-steps",
-      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v2-feet-steps.png",
+      "name": "HORO_BG_cover_t010-v5-tricolor-band",
+      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v5-tricolor-band.png",
       "source": "source/COMPUTER/blank_1024x1536.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v2-feet-steps.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v5-tricolor-band.png"
     },
     {
-      "name": "HORO_BG_cover_t010-v3-hands-chain",
-      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v3-hands-chain.png",
+      "name": "HORO_BG_cover_t010-v6-flags-square",
+      "path": "BG/HORO/2026-11-23/HORO_BG_cover_t010-v6-flags-square.png",
       "source": "source/COMPUTER/blank_1024x1536.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v3-hands-chain.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-23/HORO_BG_cover_t010-v6-flags-square.png"
     }
   ]
 }
