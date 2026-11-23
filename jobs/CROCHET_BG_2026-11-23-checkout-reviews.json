@@ -1,0 +1,47 @@
+{
+ "book": "CROCHET",
+ "market": "BG",
+ "date": "2026-11-23",
+ "source_campaign": "T009 Плетене: нови снимки за 2-те ревюта на чекаута (Веска и Златка), различни жени",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "crop",
+  "model": "gpt-image-2.5-sunburst"
+ },
+ "banners": [
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review4b-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 57-year-old Bulgarian woman (Веска) with long grey hair tied in a low side braid, rectangular black-framed glasses, slim face, wearing a forest green turtleneck, sitting on a sofa holding a finished crocheted granny-square cushion, smiling at the camera. Her look must be clearly DIFFERENT from a typical woman with dark-brown or burgundy dyed hair: long grey braid, black glasses, green turtleneck.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review4c-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 55-year-old Bulgarian woman (Веска) with short platinum-blonde pixie haircut, small gold earrings, wearing a navy blue cardigan over a white blouse, standing in her kitchen holding a crocheted shopping bag, smiling at the camera. Her look must be clearly DIFFERENT from a typical woman with dark-brown or burgundy dyed hair: short platinum-blonde pixie hair, navy cardigan.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review5b-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 72-year-old Bulgarian grandmother (Златка) with short curly snow-white hair, round face with rosy cheeks, plump build, wearing a bright mint-green knitted vest over a cream shirt, sitting at a balcony table with geraniums, holding a crocheted baby hat, smiling at the camera. Her look must be clearly DIFFERENT from a typical woman with dark-brown or burgundy dyed hair: curly snow-white hair, mint vest, balcony.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  },
+  {
+   "source": "source/DOGS/blank_1536x1024.png",
+   "format": "review",
+   "angle": "review5c-phone",
+   "fit": "crop",
+   "api_size": "1536x1024",
+   "prompt": "Create a landscape photo, example customer photo for a review: a 68-year-old Bulgarian woman (Златка) with grey hair in a neat bun, thin gold-framed glasses on a chain, wearing a soft lilac blouse, sitting in an armchair by a window with a basket of yarn on her lap, smiling at the camera. Her look must be clearly DIFFERENT from a typical woman with dark-brown or burgundy dyed hair: grey bun, glasses on a chain, lilac blouse.\nThis must look like a REAL amateur snapshot taken by a family member or friend with an ordinary mid-range Android phone, NOT a stock photo, NOT an advertisement, NOT cinematic. No filters, no retouching, no beauty mode, no portrait-mode background blur. Ordinary indoor lamp light or window light, slightly flat colours, a bit of phone sensor noise, real skin texture, ordinary everyday clothes, an ordinary Bulgarian home or workplace with small everyday clutter, slightly imperfect casual framing. An ordinary Bulgarian person (not a model, not glamorous), natural relaxed smile, five fingers on hands. Screens show no readable text.\nCOMPOSITION: the person's face is in the EXACT CENTRE of the frame, fully visible, so the face stays fully visible when the photo is cropped to a centred circle; nothing important near the edges.\nABSOLUTELY NO TEXT, letters, numbers, logos or watermarks anywhere.\nThe input image is only a blank canvas: fill the whole frame, no borders."
+  }
+ ]
+}
