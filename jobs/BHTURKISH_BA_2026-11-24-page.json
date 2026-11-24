@@ -1,0 +1,411 @@
+{
+ "book": "BHTURKISH",
+ "market": "BA",
+ "date": "2026-11-24",
+ "source_campaign": "turski.zlatenkluch.eu landing images -> BA-TUR",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+   "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+   "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+   "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_putuj.jpg",
+   "format": "page",
+   "angle": "putuj",
+   "translations": [
+    {
+     "source": "Пътувай по-спокойно в Турция",
+     "target": "Putuj mirnije po Turskoj"
+    },
+    {
+     "source": "Учи турски с полезни фрази за път, хотел и транспорт",
+     "target": "Uči turski uz korisne fraze za put, hotel i prevoz"
+    },
+    {
+     "source": "На летището",
+     "target": "Na aerodromu"
+    },
+    {
+     "source": "В хотела",
+     "target": "U hotelu"
+    },
+    {
+     "source": "В транспорта",
+     "target": "U prevozu"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_razumi.jpg",
+   "format": "page",
+   "angle": "razumi",
+   "translations": [
+    {
+     "source": "Разбирай какво ти казват",
+     "target": "Razumij šta ti govore"
+    },
+    {
+     "source": "Учи турски чрез кратки диалози и полезни фрази",
+     "target": "Uči turski kroz kratke dijaloge i korisne fraze"
+    },
+    {
+     "source": "В кафене",
+     "target": "U kafiću"
+    },
+    {
+     "source": "В магазина",
+     "target": "U prodavnici"
+    },
+    {
+     "source": "В транспорта",
+     "target": "U prevozu"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_benefit_situacije.jpg",
+   "format": "page",
+   "angle": "situacije",
+   "translations": [
+    {
+     "source": "Говори в реални ситуации",
+     "target": "Govori u stvarnim situacijama"
+    },
+    {
+     "source": "Учи турски с полезни фрази за всеки ден",
+     "target": "Uči turski uz korisne fraze za svaki dan"
+    },
+    {
+     "source": "В кафене",
+     "target": "U kafiću"
+    },
+    {
+     "source": "В магазина",
+     "target": "U prodavnici"
+    },
+    {
+     "source": "На улицата",
+     "target": "Na ulici"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus1.jpg",
+   "format": "page",
+   "angle": "bonus1",
+   "translations": [
+    {
+     "source": "БОНУС №1",
+     "target": "BONUS BR. 1"
+    },
+    {
+     "source": "100 ТУРСКИ ИЗРАЗА",
+     "target": "100 TURSKIH IZRAZA"
+    },
+    {
+     "source": "за реални ситуации",
+     "target": "za stvarne situacije"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VRIJEDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 KM"
+    },
+    {
+     "source": "€9",
+     "target": "18.10 KM"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The old value '18.10 KM' stays crossed out like in the original."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus2.jpg",
+   "format": "page",
+   "angle": "bonus2",
+   "translations": [
+    {
+     "source": "БОНУС №2",
+     "target": "BONUS BR. 2"
+    },
+    {
+     "source": "ТУРСКО МЕНЮ БЕЗ ЗАГАДКИ",
+     "target": "TURSKI MENI BEZ ZAGONETKI"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VRIJEDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 KM"
+    },
+    {
+     "source": "€7",
+     "target": "14.10 KM"
+    }
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus3.jpg",
+   "format": "page",
+   "angle": "bonus3",
+   "translations": [
+    {
+     "source": "БОНУС №3",
+     "target": "BONUS BR. 3"
+    },
+    {
+     "source": "ТУРСКИ БЕЗ",
+     "target": "TURSKI BEZ"
+    },
+    {
+     "source": "ГРЕШНО",
+     "target": "POGREŠNOG"
+    },
+    {
+     "source": "ПРОИЗНОШЕНИЕ",
+     "target": "IZGOVORA"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VRIJEDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 KM"
+    },
+    {
+     "source": "€9",
+     "target": "18.10 KM"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The old value '18.10 KM' stays crossed out like in the original.",
+    "Replace the euro symbol inside the round coin icon with a simple neutral coin (no € sign). The Turkish letters Ç Ş Ğ I Ö Ü and phonetic marks stay."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_course.jpg",
+   "format": "page",
+   "angle": "course",
+   "translations": [
+    {
+     "source": "ОНЛАЙН ВИДЕО КУРС",
+     "target": "ONLINE VIDEO KURS"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ С УВЕРЕНОСТ",
+     "target": "GOVORI TURSKI SAMOUVJERENO"
+    },
+    {
+     "source": "Практичен видео курс по турски за начинаещи",
+     "target": "Praktični video kurs turskog za početnike"
+    },
+    {
+     "source": "За пътуване и ежедневни разговори",
+     "target": "Za putovanja i svakodnevne razgovore"
+    },
+    {
+     "source": "ВИДЕО УРОЦИ С НОСИТЕЛИ НА ТУРСКИЯ ЕЗИК",
+     "target": "VIDEO LEKCIJE S IZVORNIM GOVORNICIMA"
+    },
+    {
+     "source": "ЯСНИ ОБЯСНЕНИЯ",
+     "target": "JASNA OBJAŠNJENJA"
+    },
+    {
+     "source": "ПРАКТИЧНИ ДИАЛОЗИ",
+     "target": "PRAKTIČNI DIJALOZI"
+    },
+    {
+     "source": "РЕАЛНИ СИТУАЦИИ",
+     "target": "STVARNE SITUACIJE"
+    },
+    {
+     "source": "ДОСТЪП ОТВСЯКЪДЕ",
+     "target": "PRISTUP SVUGDJE"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The course box on the left and the screens of the laptop and tablet also carry 'GOVORI TURSKI SAMOUVJERENO' and Bosnian lesson labels (e.g. 'Lekcija 1 - Upoznavanje i ljubaznost'); translate every small Bulgarian label on them to natural Bosnian (ijekavica)."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_guarantee.jpg",
+   "format": "page",
+   "angle": "guarantee",
+   "translations": [
+    {
+     "source": "ГАРАНЦИЯ ЗА",
+     "target": "GARANCIJA"
+    },
+    {
+     "source": "60 ДНЕВНА",
+     "target": "60 DANA"
+    },
+    {
+     "source": "ВРЪЩАНЕ НА ПАРИТЕ",
+     "target": "POVRATA NOVCA"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "Arc text on top reads 'GARANCIJA', the center reads '60' with 'DANA' under it, the bottom arc reads 'POVRATA NOVCA'. Together: Garancija povrata novca 60 dana."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_istanbul_man.jpg",
+   "format": "page",
+   "angle": "istanbul_man",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "ZA POČETNIKE"
+    }
+   ],
+   "cover": "covers/BHTURKISH_BA_cover.png",
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/BHTURKISH_BA_cover.png): title 'TURSKI JEZIK' / 'ZA POČETNIKE'."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_audiobook.jpg",
+   "format": "page",
+   "angle": "audiobook",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "АУДИОКНИГА",
+     "target": "AUDIO KNJIGA"
+    }
+   ],
+   "cover": "covers/BHTURKISH_BA_cover.png",
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/BHTURKISH_BA_cover.png): title 'TURSKI JEZIK' / 'ZA POČETNIKE'."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_workbook.jpg",
+   "format": "page",
+   "angle": "workbook",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "Работна тетрадка",
+     "target": "Radna sveska"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори",
+     "target": "Lagani turski za putovanja i svakodnevne razgovore"
+    }
+   ],
+   "cover": "covers/BHTURKISH_BA_cover.png",
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/BHTURKISH_BA_cover.png): title 'TURSKI JEZIK' / 'ZA POČETNIKE'.",
+    "This is a spiral workbook, not the book: keep its own layout, only translate the text in the same style as the reference cover."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_recipes303.jpg",
+   "format": "page",
+   "angle": "recipes303",
+   "translations": [
+    {
+     "source": "303",
+     "target": "303"
+    },
+    {
+     "source": "ИЗПИТАНИ РЕЦЕПТИ",
+     "target": "PROVJERENA RECEPTA"
+    },
+    {
+     "source": "ОТ ТУРЦИЯ",
+     "target": "IZ TURSKE"
+    },
+    {
+     "source": "303 ИЗПИТАНИ РЕЦЕПТИ ОТ ТУРЦИЯ",
+     "target": "303 PROVJERENA RECEPTA IZ TURSKE"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The spine text reads '303 PROVJERENA RECEPTA IZ TURSKE'."
+   ]
+  }
+ ]
+}
