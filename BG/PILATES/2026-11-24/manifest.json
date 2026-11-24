@@ -1,0 +1,33 @@
+{
+  "book": "PILATES",
+  "market": "BG",
+  "date": "2026-11-24",
+  "source_campaign": "T008 Пилатес вкъщи - тестова кампания (PAIN, HERO, PROMISE)",
+  "generated_at": "2026-11-24T09:18:46+00:00",
+  "banners": [
+    {
+      "name": "PILATES_BG_banner_t008-01-pain-dankite",
+      "path": "BG/PILATES/2026-11-24/PILATES_BG_banner_t008-01-pain-dankite.png",
+      "source": "source/PILATES/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-24/PILATES_BG_banner_t008-01-pain-dankite.png"
+    },
+    {
+      "name": "PILATES_BG_banner_t008-02-hero-nyamash-vreme",
+      "path": "BG/PILATES/2026-11-24/PILATES_BG_banner_t008-02-hero-nyamash-vreme.png",
+      "source": "source/PILATES/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-24/PILATES_BG_banner_t008-02-hero-nyamash-vreme.png"
+    },
+    {
+      "name": "PILATES_BG_banner_t008-03-promise-sled40",
+      "path": "BG/PILATES/2026-11-24/PILATES_BG_banner_t008-03-promise-sled40.png",
+      "source": "source/PILATES/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/PILATES/2026-11-24/PILATES_BG_banner_t008-03-promise-sled40.png"
+    }
+  ]
+}
