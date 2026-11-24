@@ -1,0 +1,33 @@
+{
+  "book": "BHSALEWORDS",
+  "market": "BA",
+  "date": "2026-11-24",
+  "source_campaign": "CBO | SALE WORDS | FIRST BANNERS (BG, ID 120248918105510027)",
+  "generated_at": "2026-11-24T11:21:06+00:00",
+  "banners": [
+    {
+      "name": "BHSALEWORDS_BA_banner_pristup",
+      "path": "BA/BHSALEWORDS/2026-11-24/BHSALEWORDS_BA_banner_pristup.png",
+      "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_abordare.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSALEWORDS/2026-11-24/BHSALEWORDS_BA_banner_pristup.png"
+    },
+    {
+      "name": "BHSALEWORDS_BA_banner_neprimjetno",
+      "path": "BA/BHSALEWORDS/2026-11-24/BHSALEWORDS_BA_banner_neprimjetno.png",
+      "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_fara-sa-para.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSALEWORDS/2026-11-24/BHSALEWORDS_BA_banner_neprimjetno.png"
+    },
+    {
+      "name": "BHSALEWORDS_BA_banner_nametljivo",
+      "path": "BA/BHSALEWORDS/2026-11-24/BHSALEWORDS_BA_banner_nametljivo.png",
+      "source": "source/ROSALEWORDS/SALEWORDS_BG_banner_inoportun.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHSALEWORDS/2026-11-24/BHSALEWORDS_BA_banner_nametljivo.png"
+    }
+  ]
+}
