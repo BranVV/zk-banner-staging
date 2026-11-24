@@ -1,0 +1,215 @@
+{
+ "book": "BHWORD",
+ "market": "BA",
+ "date": "2026-11-24",
+ "source_campaign": "CBO | WORD POWERPOINT | FIRST BANNERS  - 12102026 (BG, ID 120248935675330027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Bosnian (ijekavian) in LATIN script only (no Cyrillic at all), with correct letters č ć š ž đ rendered exactly. Use ijekavian forms (mjesečni, izvještaj, lijepu, početnike).",
+   "Keep the layout, colours, photos, faces, hands, laptop, props and the red button shape identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos. The words Word, PowerPoint and the system name C.L.E.A.R. stay as they are.",
+   "CRITICAL: every visible book must show a Bosnian (Latin) cover. Replace all Bulgarian text on the cover exactly: title line 1 'Word i PowerPoint', title line 2 'za početnike!', subtitle 'Praktični vodič za rad s najčešće korištenim kancelarijskim programima, po sistemu C.L.E.A.R.', author 'Adnan Hadžić'. Small tiles on the cover: 'Документ' -> 'Dokument', 'ПРЕЗЕНТАЦИЯ' -> 'PREZENTACIJA', 'Въведение' -> 'Uvod'. Keep the dark navy cover design, laptop illustration, colours, fonts style and the book's position, size and angle identical. The book spine (if visible) reads 'Word i PowerPoint za početnike!' and 'Adnan Hadžić'.",
+   "No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/ROWORD/WORD_BG_banner_foaie-goala.png",
+   "format": "banner",
+   "angle": "prazna-stranica",
+   "translations": [
+    {
+     "source": "Отваряш Word.",
+     "target": "Otvoriš Word."
+    },
+    {
+     "source": "Гледаш празния лист.",
+     "target": "Gledaš u praznu stranicu."
+    },
+    {
+     "source": "И не знаеш откъде да започнеш.",
+     "target": "I ne znaš odakle početi."
+    },
+    {
+     "source": "Проблемът не е в теб.",
+     "target": "Problem nije u tebi."
+    },
+    {
+     "source": "Просто никой не ти е показал как.",
+     "target": "Samo ti niko nije pokazao kako."
+    },
+    {
+     "source": "НАУЧИ КАК →",
+     "target": "NAUČI KAKO →"
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word i PowerPoint za početnike!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Praktični vodič za rad s najčešće korištenim kancelarijskim programima, po sistemu C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Adnan Hadžić"
+    }
+   ],
+   "extra_rules": [
+    "The book lying on the desk on the right: render its cover with the Bosnian text letter for letter. The Word window on the laptop stays blank white."
+   ]
+  },
+  {
+   "source": "source/ROWORD/WORD_BG_banner_panica.png",
+   "format": "banner",
+   "angle": "panika",
+   "translations": [
+    {
+     "source": "Шефът",
+     "target": "Šef"
+    },
+    {
+     "source": "Направи ми една PowerPoint презентация до обяд, моля.",
+     "target": "Napravi mi PowerPoint prezentaciju do podne, molim te."
+    },
+    {
+     "source": "Ти:",
+     "target": "Ti:"
+    },
+    {
+     "source": "[ПАНИКА]",
+     "target": "[PANIKA]"
+    },
+    {
+     "source": "Или — тази книга.",
+     "target": "Ili - ova knjiga."
+    },
+    {
+     "source": "Всяка презентация е стрес.",
+     "target": "Svaka prezentacija ti je stres."
+    },
+    {
+     "source": "Защото никой не ти е показал как.",
+     "target": "Jer ti niko nije pokazao kako."
+    },
+    {
+     "source": "РАЗБЕРИ КАК →",
+     "target": "SAZNAJ KAKO →"
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word i PowerPoint za početnike!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Praktični vodič za rad s najčešće korištenim kancelarijskim programima, po sistemu C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Adnan Hadžić"
+    }
+   ],
+   "extra_rules": [
+    "Keep the chat-screen look (grey avatar, blue message bubble, time 09:47, typing dots). The standing book: front cover and spine in Bosnian letter for letter."
+   ]
+  },
+  {
+   "source": "source/ROWORD/WORD_BG_banner_designer.png",
+   "format": "banner",
+   "angle": "dizajner",
+   "translations": [
+    {
+     "source": "„Не е нужно да си дизайнер, за да направиш хубава презентация.",
+     "target": "„Ne moraš biti dizajner da napraviš lijepu prezentaciju."
+    },
+    {
+     "source": "Тази книга ми показа как.”",
+     "target": "Ova knjiga mi je pokazala kako.”"
+    },
+    {
+     "source": "— Веселина",
+     "target": "REMOVE this signature line completely (no name, no label)"
+    },
+    {
+     "source": "ВИЖ КАК →",
+     "target": "POGLEDAJ KAKO →"
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word i PowerPoint za početnike!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Praktični vodič za rad s najčešće korištenim kancelarijskim programima, po sistemu C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Adnan Hadžić"
+    }
+   ],
+   "extra_rules": [
+    "The woman's face, hair and hands stay exactly the same. Remove the small name label under the speech bubble completely and fill the area with the background. The book she holds shows the Bosnian cover letter for letter."
+   ]
+  },
+  {
+   "source": "source/ROWORD/WORD_BG_banner_nu-e-complicat.png",
+   "format": "banner",
+   "angle": "nije-komplikovan",
+   "translations": [
+    {
+     "source": "Word не е сложен.",
+     "target": "Word nije komplikovan."
+    },
+    {
+     "source": "Просто никой не ти го е обяснил.",
+     "target": "Samo ti ga niko nije objasnio."
+    },
+    {
+     "source": "Практическо ръководство",
+     "target": "Praktični vodič"
+    },
+    {
+     "source": "по системата C.L.E.A.R.",
+     "target": "po sistemu C.L.E.A.R."
+    },
+    {
+     "source": "ВИЖ КНИГАТА →",
+     "target": "POGLEDAJ KNJIGU →"
+    },
+    {
+     "source": "Днес: Документ, Таблица, Форматиране, Преглед, Експорт (ръкописен списък в тетрадката)",
+     "target": "Danas: Dokument, Tabela, Formatiranje, Pregled, Izvoz"
+    },
+    {
+     "source": "МЕСЕЧЕН ОТЧЕТ ЗА ПРОЕКТ (документ на лаптопа)",
+     "target": "MJESEČNI IZVJEŠTAJ O PROJEKTU"
+    },
+    {
+     "source": "КОМПАНИЯ ООД",
+     "target": "KOMPANIJA D.O.O."
+    },
+    {
+     "source": "Word и PowerPoint за начинаещи (заглавие на корицата)",
+     "target": "Word i PowerPoint za početnike!"
+    },
+    {
+     "source": "Практическо ръководство за работа с най-използваните офис програми по системата C.L.E.A.R. (подзаглавие на корицата)",
+     "target": "Praktični vodič za rad s najčešće korištenim kancelarijskim programima, po sistemu C.L.E.A.R."
+    },
+    {
+     "source": "Николай Тодоров",
+     "target": "Adnan Hadžić"
+    }
+   ],
+   "extra_rules": [
+    "Small body text and table cells in the document on the laptop may stay as unreadable texture but must be Latin letters, no Cyrillic. The handwritten notebook list keeps the handwriting style. The standing book shows the Bosnian cover letter for letter."
+   ]
+  }
+ ]
+}
