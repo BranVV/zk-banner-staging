@@ -1,0 +1,41 @@
+{
+  "book": "BHWORD",
+  "market": "BA",
+  "date": "2026-11-24",
+  "source_campaign": "CBO | WORD POWERPOINT | FIRST BANNERS  - 12102026 (BG, ID 120248935675330027)",
+  "generated_at": "2026-11-24T14:32:05+00:00",
+  "banners": [
+    {
+      "name": "BHWORD_BA_banner_prazna-stranica",
+      "path": "BA/BHWORD/2026-11-24/BHWORD_BA_banner_prazna-stranica.png",
+      "source": "source/ROWORD/WORD_BG_banner_foaie-goala.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHWORD/2026-11-24/BHWORD_BA_banner_prazna-stranica.png"
+    },
+    {
+      "name": "BHWORD_BA_banner_panika",
+      "path": "BA/BHWORD/2026-11-24/BHWORD_BA_banner_panika.png",
+      "source": "source/ROWORD/WORD_BG_banner_panica.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHWORD/2026-11-24/BHWORD_BA_banner_panika.png"
+    },
+    {
+      "name": "BHWORD_BA_banner_dizajner",
+      "path": "BA/BHWORD/2026-11-24/BHWORD_BA_banner_dizajner.png",
+      "source": "source/ROWORD/WORD_BG_banner_designer.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHWORD/2026-11-24/BHWORD_BA_banner_dizajner.png"
+    },
+    {
+      "name": "BHWORD_BA_banner_nije-komplikovan",
+      "path": "BA/BHWORD/2026-11-24/BHWORD_BA_banner_nije-komplikovan.png",
+      "source": "source/ROWORD/WORD_BG_banner_nu-e-complicat.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHWORD/2026-11-24/BHWORD_BA_banner_nije-komplikovan.png"
+    }
+  ]
+}
