@@ -1,0 +1,189 @@
+{
+ "book": "ROTURKISH",
+ "market": "RO",
+ "date": "2026-11-24-travel",
+ "source_campaign": "CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 (BG, ID 120248970711370027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/ROTURKISH_RO_cover.png",
+  "keep_as_is": [
+   "TÜRKİYE",
+   "Baharat",
+   "İstanbul",
+   "Istanbul",
+   "Karadeniz",
+   "Akdeniz",
+   "Ankara",
+   "Adana",
+   "İzmir"
+  ],
+  "extra_rules": [
+   "Romanian with correct diacritics ă â î ș ț rendered exactly (comma-below ș ț).",
+   "Keep the layout, colours, photos, people's faces and hands, props and button shapes identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos.",
+   "Turkish words already in the photo (TÜRKİYE, KÜLTÜR SANAT HEDİYELİK, Baharat, İstanbul, Istanbul, Karadeniz, Akdeniz, Ankara, Adana, İzmir, Bursa, map labels, passport text) stay exactly as they are.",
+   "CRITICAL: the book in the image must show the Romanian cover from the reference image, letter for letter: title 'LIMBA TURCĂ' / 'PENTRU ÎNCEPĂTORI', subtitle 'Turcă ușoară pentru călătorii și conversații de zi cu zi - fără gramatică complicată', badge 'PRACTIC / UȘOR / UTIL', bottom band 'VORBEȘTE TURCA CU ÎNCREDERE ÎN SITUAȚII REALE'. Spine: 'LIMBA TURCĂ PENTRU ÎNCEPĂTORI'. Keep the book's position, size and angle identical. No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/TURKISH/TURKISH_BG_banner_hodish-chesto.png",
+   "format": "banner",
+   "angle": "hodish-chesto",
+   "translations": [
+    {
+     "source": "Ходиш в Турция често.",
+     "target": "Mergi des în Turcia,"
+    },
+    {
+     "source": "А все още не знаеш турски?",
+     "target": "dar încă nu știi turcă?"
+    },
+    {
+     "source": "Научи полезния турски за ситуациите, в които реално попадаш.",
+     "target": "Învață turca de care ai nevoie în situațiile prin care chiar treci."
+    },
+    {
+     "source": "Разбери Турция >",
+     "target": "Descoperă Turcia >"
+    },
+    {
+     "source": "ТУРСКИ ЕЗИК (корица)",
+     "target": "LIMBA TURCĂ"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ (корица)",
+     "target": "PENTRU ÎNCEPĂTORI"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори — без сложна граматика (корица)",
+     "target": "Turcă ușoară pentru călătorii și conversații de zi cu zi - fără gramatică complicată"
+    },
+    {
+     "source": "ПРАКТИЧНО / ЛЕСНО / ПОЛЕЗНО",
+     "target": "PRACTIC / UȘOR / UTIL"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ УВЕРЕНО В РЕАЛНИ СИТУАЦИИ",
+     "target": "VORBEȘTE TURCA CU ÎNCREDERE ÎN SITUAȚII REALE"
+    }
+   ],
+   "extra_rules": []
+  },
+  {
+   "source": "source/TURKISH/TURKISH_BG_banner_pazaruvash.png",
+   "format": "banner",
+   "angle": "pazaruvash",
+   "translations": [
+    {
+     "source": "Обичаш да пазаруваш",
+     "target": "Îți place să faci cumpărături"
+    },
+    {
+     "source": "в Турция?",
+     "target": "în Turcia?"
+    },
+    {
+     "source": "Научи езика, който реално ти трябва.",
+     "target": "Învață limba de care chiar ai nevoie."
+    },
+    {
+     "source": "Научи думи и изрази, които можеш да използваш веднага",
+     "target": "Învață cuvinte și expresii pe care le poți folosi imediat"
+    },
+    {
+     "source": "Вземи с 4 бонуса >",
+     "target": "Comandă cu 4 bonusuri >"
+    },
+    {
+     "source": "Аудио произношение",
+     "target": "Pronunție audio"
+    },
+    {
+     "source": "Полезни фрази",
+     "target": "Expresii utile"
+    },
+    {
+     "source": "Речник за ресторант",
+     "target": "Dicționar pentru restaurant"
+    },
+    {
+     "source": "+ 1 БОНУС",
+     "target": "+ 1 BONUS"
+    },
+    {
+     "source": "ТУРСКИ ЕЗИК (корица)",
+     "target": "LIMBA TURCĂ"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ (корица)",
+     "target": "PENTRU ÎNCEPĂTORI"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори — без сложна граматика (корица)",
+     "target": "Turcă ușoară pentru călătorii și conversații de zi cu zi - fără gramatică complicată"
+    },
+    {
+     "source": "ПРАКТИЧНО / ЛЕСНО / ПОЛЕЗНО",
+     "target": "PRACTIC / UȘOR / UTIL"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ УВЕРЕНО В РЕАЛНИ СИТУАЦИИ",
+     "target": "VORBEȘTE TURCA CU ÎNCREDERE ÎN SITUAȚII REALE"
+    }
+   ],
+   "extra_rules": [
+    "The book on the left is a different (white) cover design in the source: replace it entirely with the Romanian cover from the reference image, same position, size and angle."
+   ]
+  },
+  {
+   "source": "source/TURKISH/TURKISH_BG_banner_po-krasiva.png",
+   "format": "banner",
+   "angle": "po-krasiva",
+   "translations": [
+    {
+     "source": "Турция е по-красива,",
+     "target": "Turcia e mai frumoasă"
+    },
+    {
+     "source": "когато разбираш езика.",
+     "target": "când înțelegi limba."
+    },
+    {
+     "source": "Практичен турски за начинаещи.",
+     "target": "Turcă practică pentru începători."
+    },
+    {
+     "source": "Разбери Турция",
+     "target": "Descoperă Turcia"
+    },
+    {
+     "source": "ТУРСКИ ЕЗИК (корица)",
+     "target": "LIMBA TURCĂ"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ (корица)",
+     "target": "PENTRU ÎNCEPĂTORI"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори — без сложна граматика (корица)",
+     "target": "Turcă ușoară pentru călătorii și conversații de zi cu zi - fără gramatică complicată"
+    },
+    {
+     "source": "ПРАКТИЧНО / ЛЕСНО / ПОЛЕЗНО",
+     "target": "PRACTIC / UȘOR / UTIL"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ УВЕРЕНО В РЕАЛНИ СИТУАЦИИ",
+     "target": "VORBEȘTE TURCA CU ÎNCREDERE ÎN SITUAȚII REALE"
+    }
+   ],
+   "extra_rules": []
+  }
+ ]
+}

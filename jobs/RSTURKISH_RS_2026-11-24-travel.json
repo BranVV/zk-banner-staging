@@ -1,0 +1,185 @@
+{
+ "book": "RSTURKISH",
+ "market": "RS",
+ "date": "2026-11-24-travel",
+ "source_campaign": "CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 (BG, ID 120248970711370027)",
+ "source_account": "Zlaten Kluch 1",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "cover": "covers/RSTURKISH_RS_cover.png",
+  "keep_as_is": [
+   "TÜRKİYE",
+   "Baharat",
+   "İstanbul",
+   "Istanbul",
+   "Karadeniz",
+   "Akdeniz",
+   "Ankara",
+   "Adana",
+   "İzmir"
+  ],
+  "extra_rules": [
+   "Serbian in LATIN script only (no Cyrillic at all), ekavian, with correct letters č ć š ž đ rendered exactly.",
+   "Keep the layout, colours, photos, people's faces and hands, props and button shapes identical; change only the text.",
+   "Do not duplicate words. Do not add any new text, names or logos.",
+   "Turkish words already in the photo (TÜRKİYE, KÜLTÜR SANAT HEDİYELİK, Baharat, İstanbul, Istanbul, Karadeniz, Akdeniz, Ankara, Adana, İzmir, Bursa, map labels, passport text) stay exactly as they are.",
+   "CRITICAL: the book in the image must show the Serbian (Latin) cover from the reference image, letter for letter: title 'TURSKI JEZIK' / 'ZA POČETNIKE', subtitle 'Lak turski za putovanja i svakodnevne razgovore - bez komplikovane gramatike', badge 'PRAKTIČNO / LAKO / KORISNO', bottom band 'PRIČAJ TURSKI SAMOUVERENO U STVARNIM SITUACIJAMA'. Spine: 'TURSKI JEZIK ZA POČETNIKE'. Keep the book's position, size and angle identical. No Bulgarian/Cyrillic letters may remain anywhere in the image."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/TURKISH/TURKISH_BG_banner_hodish-chesto.png",
+   "format": "banner",
+   "angle": "hodish-chesto",
+   "translations": [
+    {
+     "source": "Ходиш в Турция често.",
+     "target": "Često putuješ u Tursku,"
+    },
+    {
+     "source": "А все още не знаеш турски?",
+     "target": "a turski još uvek ne znaš?"
+    },
+    {
+     "source": "Научи полезния турски за ситуациите, в които реално попадаш.",
+     "target": "Nauči koristan turski za situacije u kojima se stvarno nađeš."
+    },
+    {
+     "source": "Разбери Турция >",
+     "target": "Upoznaj Tursku >"
+    },
+    {
+     "source": "ТУРСКИ ЕЗИК (корица)",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ (корица)",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори — без сложна граматика (корица)",
+     "target": "Lak turski za putovanja i svakodnevne razgovore - bez komplikovane gramatike"
+    },
+    {
+     "source": "ПРАКТИЧНО / ЛЕСНО / ПОЛЕЗНО",
+     "target": "PRAKTIČNO / LAKO / KORISNO"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ УВЕРЕНО В РЕАЛНИ СИТУАЦИИ",
+     "target": "PRIČAJ TURSKI SAMOUVERENO U STVARNIM SITUACIJAMA"
+    }
+   ],
+   "extra_rules": []
+  },
+  {
+   "source": "source/TURKISH/TURKISH_BG_banner_pazaruvash.png",
+   "format": "banner",
+   "angle": "pazaruvash",
+   "translations": [
+    {
+     "source": "Обичаш да пазаруваш в Турция?",
+     "target": "Voliš šoping u Turskoj?"
+    },
+    {
+     "source": "Научи езика, който реално ти трябва.",
+     "target": "Nauči jezik koji ti zaista treba."
+    },
+    {
+     "source": "Научи думи и изрази, които можеш да използваш веднага",
+     "target": "Nauči reči i izraze koje odmah možeš da koristiš"
+    },
+    {
+     "source": "Вземи с 4 бонуса >",
+     "target": "Poruči uz 4 bonusa >"
+    },
+    {
+     "source": "Аудио произношение",
+     "target": "Audio izgovor"
+    },
+    {
+     "source": "Полезни фрази",
+     "target": "Korisne fraze"
+    },
+    {
+     "source": "Речник за ресторант",
+     "target": "Rečnik za restoran"
+    },
+    {
+     "source": "+ 1 БОНУС",
+     "target": "+ 1 BONUS"
+    },
+    {
+     "source": "ТУРСКИ ЕЗИК (корица)",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ (корица)",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори — без сложна граматика (корица)",
+     "target": "Lak turski za putovanja i svakodnevne razgovore - bez komplikovane gramatike"
+    },
+    {
+     "source": "ПРАКТИЧНО / ЛЕСНО / ПОЛЕЗНО",
+     "target": "PRAKTIČNO / LAKO / KORISNO"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ УВЕРЕНО В РЕАЛНИ СИТУАЦИИ",
+     "target": "PRIČAJ TURSKI SAMOUVERENO U STVARNIM SITUACIJAMA"
+    }
+   ],
+   "extra_rules": [
+    "The book on the left is a different (white) cover design in the source: replace it entirely with the Serbian cover from the reference image, same position, size and angle."
+   ]
+  },
+  {
+   "source": "source/TURKISH/TURKISH_BG_banner_po-krasiva.png",
+   "format": "banner",
+   "angle": "po-krasiva",
+   "translations": [
+    {
+     "source": "Турция е по-красива,",
+     "target": "Turska je lepša"
+    },
+    {
+     "source": "когато разбираш езика.",
+     "target": "kad razumeš jezik."
+    },
+    {
+     "source": "Практичен турски за начинаещи.",
+     "target": "Praktičan turski za početnike."
+    },
+    {
+     "source": "Разбери Турция",
+     "target": "Upoznaj Tursku"
+    },
+    {
+     "source": "ТУРСКИ ЕЗИК (корица)",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ (корица)",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори — без сложна граматика (корица)",
+     "target": "Lak turski za putovanja i svakodnevne razgovore - bez komplikovane gramatike"
+    },
+    {
+     "source": "ПРАКТИЧНО / ЛЕСНО / ПОЛЕЗНО",
+     "target": "PRAKTIČNO / LAKO / KORISNO"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ УВЕРЕНО В РЕАЛНИ СИТУАЦИИ",
+     "target": "PRIČAJ TURSKI SAMOUVERENO U STVARNIM SITUACIJAMA"
+    }
+   ],
+   "extra_rules": []
+  }
+ ]
+}
