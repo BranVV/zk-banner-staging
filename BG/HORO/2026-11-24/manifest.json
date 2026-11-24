@@ -1,0 +1,33 @@
+{
+  "book": "HORO",
+  "market": "BG",
+  "date": "2026-11-24",
+  "source_campaign": "T010 Народни танци - тестова кампания (PAIN, HERO, PROMISE)",
+  "generated_at": "2026-11-24T11:09:00+00:00",
+  "banners": [
+    {
+      "name": "HORO_BG_banner_t010-01-pain-masata",
+      "path": "BG/HORO/2026-11-24/HORO_BG_banner_t010-01-pain-masata.png",
+      "source": "source/HORO/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-24/HORO_BG_banner_t010-01-pain-masata.png"
+    },
+    {
+      "name": "HORO_BG_banner_t010-02-hero-ritam",
+      "path": "BG/HORO/2026-11-24/HORO_BG_banner_t010-02-hero-ritam.png",
+      "source": "source/HORO/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-24/HORO_BG_banner_t010-02-hero-ritam.png"
+    },
+    {
+      "name": "HORO_BG_banner_t010-03-promise-vodish",
+      "path": "BG/HORO/2026-11-24/HORO_BG_banner_t010-03-promise-vodish.png",
+      "source": "source/HORO/blank_1080x1350.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/HORO/2026-11-24/HORO_BG_banner_t010-03-promise-vodish.png"
+    }
+  ]
+}
