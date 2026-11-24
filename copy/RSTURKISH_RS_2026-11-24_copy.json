@@ -1,0 +1,66 @@
+{
+ "book": "RSTURKISH",
+ "market": "RS",
+ "date": "2026-11-24",
+ "funnel": "RS-TUR",
+ "source": "BG CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 (ID 120248970711370027); победителки „3“ (po-krasiva, 171 поръч., ROAS 4.33) и „1“ (hodish-chesto, 21 поръч., ROAS 2.91); „2“ (pazaruvash, 5 поръч., ROAS 2.03). Всички BG реклами имат едни и същи 3 текста (по един за всеки банер) - опция 1 = дословен превод на текста с куката на банера, опция 2 = къса.",
+ "author_note": "Заглавие Turski jezik za početnike (от страницата и корицата), авторка Teodora Stefanović, система PTS - Practical Turkish System",
+ "link": "https://rsturski.zlatenkluch.eu",
+ "ads": [
+  {
+   "nn": "01",
+   "slug": "hodish-chesto",
+   "winner": true,
+   "option1_literal": true,
+   "primary_texts": [
+    "Često putuješ u Tursku,\na turski još uvek ne znaš?\nPijaca, hotel, restoran, taksi, prodavnica…\n\nSvuda se nađeš u situaciji u kojoj bi ti nekoliko pravih reči uštedelo mnogo muke.\n\nNe treba ti savršen turski.\nTreba ti turski koji zaista možeš da koristiš.\n\n📘 Knjiga „Turski jezik za početnike” nastala je upravo zbog toga - praktične reči i izrazi za putovanja i svakodnevne razgovore, bez teške gramatike.\n\nKreni od nule i osećaj se sigurnije već na sledećem putovanju.\n\n👉 Pogledaj knjigu ovde:\nhttps://rsturski.zlatenkluch.eu",
+    "Često putuješ u Tursku, a turski još uvek ne znaš?\nNauči ono što ti zaista treba na putu.\n👉 https://rsturski.zlatenkluch.eu\n\n📘 Knjiga „Turski jezik za početnike”:\n✅ reči i izrazi za pijacu, hotel, restoran i taksi\n✅ svakodnevni razgovori bez teške gramatike\n✅ od nule, korak po korak\n\nPreko 40.000 zadovoljnih kupaca.\n👉 Poruči svoj primerak uz poklon bonuse."
+   ],
+   "headlines": [
+    "Nauči turski sa lakoćom 👉",
+    "Pričaj turski samouvereno 👉"
+   ],
+   "descriptions": [
+    "⭐ Preko 40.000 zadovoljnih kupaca"
+   ],
+   "hook": "CALLOUT"
+  },
+  {
+   "nn": "02",
+   "slug": "pazaruvash",
+   "winner": false,
+   "option1_literal": true,
+   "primary_texts": [
+    "Voliš šoping u Turskoj?\nNauči jezik koji ti zaista treba.\n\nDa pitaš koliko nešto košta.\nDa razumeš šta ti govore.\nDa tražiš drugu veličinu.\nDa pitaš ima li popusta.\nDa se sam snađeš u prodavnici, na pijaci ili u restoranu.\n\nNe moraš da bubaš gomilu komplikovane gramatike pre nego što izgovoriš prvu rečenicu.\n\n📘 Uz knjigu „Turski jezik za početnike” počinješ od korisnih reči i fraza za stvarne situacije.\n\nManje gestikuliranja.\nManje vađenja telefona.\nViše samopouzdanja.\n\n👉 Pogledaj knjigu:\nhttps://rsturski.zlatenkluch.eu",
+    "Voliš šoping u Turskoj?\nPitaj za cenu, cenkaj se i snađi se sam - na turskom.\n👉 https://rsturski.zlatenkluch.eu\n\n📘 „Turski jezik za početnike”:\n✅ korisne fraze za prodavnicu, pijacu i restoran\n✅ bez gomile komplikovane gramatike\n✅ manje gestikuliranja, više samopouzdanja\n\nPreko 40.000 zadovoljnih kupaca.\n👉 Poruči knjigu uz poklon bonuse."
+   ],
+   "headlines": [
+    "Nauči turski sa lakoćom 👉",
+    "Pričaj turski samouvereno 👉"
+   ],
+   "descriptions": [
+    "⭐ Preko 40.000 zadovoljnih kupaca"
+   ],
+   "hook": "CALLOUT"
+  },
+  {
+   "nn": "03",
+   "slug": "po-krasiva",
+   "winner": true,
+   "option1_literal": true,
+   "primary_texts": [
+    "Turska je lepša kad razumeš jezik.\nKad natpisi počnu da imaju smisla.\nKad razumeš deo razgovora oko sebe.\nKad sam možeš da pitaš, poručiš i odgovoriš.\n\nTada više nisi samo neko ko obilazi Tursku.\n\nPočinješ da je doživljavaš drugačije.\n\n📘 Knjiga „Turski jezik za početnike” pomoći će ti da kreneš sa praktičnim turskim za putovanja i svakodnevne situacije - lako, korak po korak i bez nepotrebno komplikovane gramatike.\n\nAko voliš da ideš u Tursku, učini sledeće putovanje još lepšim.\n\n👉 Pogledaj knjigu ovde:\nhttps://rsturski.zlatenkluch.eu",
+    "Turska je lepša kad razumeš jezik.\nNatpisi dobijaju smisao, a razgovori oko tebe više nisu samo buka.\n👉 https://rsturski.zlatenkluch.eu\n\n📘 „Turski jezik za početnike”:\n✅ praktičan turski za putovanja\n✅ lako, korak po korak\n✅ bez komplikovane gramatike\n\nPreko 40.000 zadovoljnih kupaca.\n👉 Učini sledeće putovanje još lepšim."
+   ],
+   "headlines": [
+    "Nauči turski sa lakoćom 👉",
+    "Pričaj turski samouvereno 👉"
+   ],
+   "descriptions": [
+    "⭐ Preko 40.000 zadovoljnih kupaca"
+   ],
+   "hook": "DREAM"
+  }
+ ],
+ "naturalness_check": "24.11.2026 - втора проверка за естественост, поправки: „Ходиш често“ -> „Često putuješ“ (не „ideš često“); „спестят много чудене“ -> „uštedelo mnogo muke“; „е създадена точно за това“ -> „nastala je upravo zbog toga“; „Обичаш да пазаруваш“ -> „Voliš šoping“; „Да поискаш друг размер“ -> „Da tražiš drugu veličinu“; „да учиш куп граматика“ -> „da bubaš gomilu gramatike“; „По-малко жестове“ -> „Manje gestikuliranja“; „табелите“ -> „natpisi“; „човек, който посещава“ -> „neko ko obilazi“; „усещаш“ -> „doživljavaš“; „Разбери Турция“ (банер) -> „Upoznaj Tursku“; „Научи полезния турски за ситуациите, в които попадаш“ -> „...u kojima se stvarno nađeš“"
+}

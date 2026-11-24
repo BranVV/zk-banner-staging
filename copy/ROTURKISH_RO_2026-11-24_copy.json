@@ -1,0 +1,66 @@
+{
+ "book": "ROTURKISH",
+ "market": "RO",
+ "date": "2026-11-24",
+ "funnel": "RO-TUR",
+ "source": "BG CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 (ID 120248970711370027); победителки „3“ (po-krasiva, 171 поръч., ROAS 4.33) и „1“ (hodish-chesto, 21 поръч., ROAS 2.91); „2“ (pazaruvash, 5 поръч., ROAS 2.03). Всички BG реклами имат едни и същи 3 текста (по един за всеки банер) - опция 1 = дословен превод на текста с куката на банера, опция 2 = къса.",
+ "author_note": "Заглавие Limba turcă pentru începători (от страницата и корицата), авторка Teodora Stoica, система PTS - Practical Turkish System",
+ "link": "https://roturkish.zlatenkluch.eu",
+ "ads": [
+  {
+   "nn": "01",
+   "slug": "hodish-chesto",
+   "winner": true,
+   "option1_literal": true,
+   "primary_texts": [
+    "Mergi des în Turcia,\ndar încă nu știi turcă?\nPiață, hotel, restaurant, taxi, magazin…\n\nPeste tot dai de situații în care câteva cuvinte potrivite te scutesc de multă bătaie de cap.\n\nNu ai nevoie de o turcă perfectă.\nAi nevoie de o turcă pe care s-o poți folosi cu adevărat.\n\n📘 „Limba turcă pentru începători” a fost scrisă exact pentru asta - cuvinte și expresii practice pentru călătorii și conversații de zi cu zi, fără gramatică grea.\n\nPornește de la zero și simte-te mai sigur pe tine chiar de la următoarea călătorie.\n\n👉 Vezi cartea aici:\nhttps://roturkish.zlatenkluch.eu",
+    "Mergi des în Turcia, dar încă nu știi turcă?\nÎnvață exact ce-ți trebuie la drum.\n👉 https://roturkish.zlatenkluch.eu\n\n📘 „Limba turcă pentru începători”:\n✅ cuvinte și expresii pentru piață, hotel, restaurant și taxi\n✅ conversații de zi cu zi, fără gramatică grea\n✅ de la zero, pas cu pas\n\nPeste 40 000 de clienți mulțumiți.\n👉 Comandă-ți cartea, cu bonusuri cadou."
+   ],
+   "headlines": [
+    "Învață turca cu ușurință 👉",
+    "Vorbește turca cu încredere 👉"
+   ],
+   "descriptions": [
+    "⭐ Peste 40 000 de clienți mulțumiți"
+   ],
+   "hook": "CALLOUT"
+  },
+  {
+   "nn": "02",
+   "slug": "pazaruvash",
+   "winner": false,
+   "option1_literal": true,
+   "primary_texts": [
+    "Îți place să faci cumpărături în Turcia?\nÎnvață limba de care chiar ai nevoie.\n\nSă întrebi cât costă.\nSă înțelegi ce ți se spune.\nSă ceri altă mărime.\nSă întrebi dacă se face reducere.\nSă te descurci singur în magazin, în bazar sau la restaurant.\n\nNu trebuie să tocești o grămadă de gramatică înainte să spui prima propoziție.\n\n📘 Cu „Limba turcă pentru începători” începi cu cuvinte și expresii utile pentru situații reale.\n\nMai puține gesturi.\nMai puține căutări pe telefon.\nMai multă încredere.\n\n👉 Vezi cartea:\nhttps://roturkish.zlatenkluch.eu",
+    "Îți place să faci cumpărături în Turcia?\nÎntreabă de preț, negociază și descurcă-te singur - în turcă.\n👉 https://roturkish.zlatenkluch.eu\n\n📘 „Limba turcă pentru începători”:\n✅ expresii utile pentru magazin, bazar și restaurant\n✅ fără o grămadă de gramatică\n✅ mai puține gesturi, mai multă încredere\n\nPeste 40 000 de clienți mulțumiți.\n👉 Comandă cartea, cu bonusuri cadou."
+   ],
+   "headlines": [
+    "Învață turca cu ușurință 👉",
+    "Vorbește turca cu încredere 👉"
+   ],
+   "descriptions": [
+    "⭐ Peste 40 000 de clienți mulțumiți"
+   ],
+   "hook": "CALLOUT"
+  },
+  {
+   "nn": "03",
+   "slug": "po-krasiva",
+   "winner": true,
+   "option1_literal": true,
+   "primary_texts": [
+    "Turcia e mai frumoasă când înțelegi limba.\nCând indicatoarele încep să aibă sens.\nCând înțelegi o parte din ce se vorbește în jurul tău.\nCând poți să întrebi, să comanzi și să răspunzi singur.\n\nAtunci nu mai ești doar un turist în Turcia.\n\nÎncepi s-o simți altfel.\n\n📘 „Limba turcă pentru începători” te ajută să începi cu turca practică pentru călătorii și situații de zi cu zi - ușor, pas cu pas și fără gramatică inutil de complicată.\n\nDacă îți place să mergi în Turcia, fă-ți următoarea călătorie și mai frumoasă.\n\n👉 Vezi cartea aici:\nhttps://roturkish.zlatenkluch.eu",
+    "Turcia e mai frumoasă când înțelegi limba.\nIndicatoarele capătă sens, iar discuțiile din jur nu mai sunt doar zgomot.\n👉 https://roturkish.zlatenkluch.eu\n\n📘 „Limba turcă pentru începători”:\n✅ turcă practică pentru călătorii\n✅ ușor, pas cu pas\n✅ fără gramatică complicată\n\nPeste 40 000 de clienți mulțumiți.\n👉 Fă-ți următoarea călătorie și mai frumoasă."
+   ],
+   "headlines": [
+    "Învață turca cu ușurință 👉",
+    "Vorbește turca cu încredere 👉"
+   ],
+   "descriptions": [
+    "⭐ Peste 40 000 de clienți mulțumiți"
+   ],
+   "hook": "DREAM"
+  }
+ ],
+ "naturalness_check": "24.11.2026 - втора проверка за естественост, поправки: „Ходиш в Турция често“ -> „Mergi des în Turcia“; „спестят много чудене“ -> „te scutesc de multă bătaie de cap“; „Започни от нулата“ -> „Pornește de la zero“; „се чувствай по-уверено“ -> „simte-te mai sigur pe tine“; „има ли отстъпка“ -> „dacă se face reducere“; „да учиш куп граматика“ -> „să tocești o grămadă de gramatică“; „По-малко вадене на телефона“ -> „Mai puține căutări pe telefon“; „човек, който посещава Турция“ -> „doar un turist în Turcia“; „усещаш по различен начин“ -> „s-o simți altfel“; „Разбери Турция“ (банер) -> „Descoperă Turcia“"
+}
