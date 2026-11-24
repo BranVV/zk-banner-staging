@@ -1,0 +1,102 @@
+{
+ "book": "BHTURKISH",
+ "market": "BA",
+ "date": "2026-11-24",
+ "source_campaign": "turski.zlatenkluch.eu landing images -> BA-TUR",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+   "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+   "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+   "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_bonus3.jpg",
+   "format": "page",
+   "angle": "bonus3-v2",
+   "translations": [
+    {
+     "source": "БОНУС №3",
+     "target": "BONUS BR. 3"
+    },
+    {
+     "source": "ТУРСКИ БЕЗ",
+     "target": "TURSKI BEZ"
+    },
+    {
+     "source": "ГРЕШНО",
+     "target": "POGREŠNOG"
+    },
+    {
+     "source": "ПРОИЗНОШЕНИЕ",
+     "target": "IZGOVORA"
+    },
+    {
+     "source": "СТОЙНОСТ:",
+     "target": "VRIJEDNOST:"
+    },
+    {
+     "source": "САМО СЕГА:",
+     "target": "SAMO SADA:"
+    },
+    {
+     "source": "€0",
+     "target": "0 KM"
+    },
+    {
+     "source": "€9",
+     "target": "18.10 KM"
+    }
+   ],
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The old value '18.10 KM' stays crossed out like in the original.",
+    "Replace the euro symbol inside the round coin icon with a simple neutral coin (no € sign). The Turkish letters Ç Ş Ğ I Ö Ü and phonetic marks stay.",
+    "The value '18.10 KM' after 'VRIJEDNOST:' must be clearly crossed out with a red strike line, exactly like the old value in the original."
+   ]
+  },
+  {
+   "source": "source/RSTURKISH/TURKISH_BG_workbook.jpg",
+   "format": "page",
+   "angle": "workbook-v2",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "Работна тетрадка",
+     "target": "Radna bilježnica"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори",
+     "target": "Lagani turski za putovanja i svakodnevne razgovore"
+    }
+   ],
+   "cover": "covers/BHTURKISH_BA_cover.png",
+   "extra_rules": [
+    "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+    "Keep the image, people, colors, layout, fonts style and composition exactly the same; change only the text.",
+    "Turkish phrases (speech bubbles, signs like Merhaba!, Teşekkür ederim, Sultanahmet, OTEL) stay exactly as they are.",
+    "Do not add any new text. Currency is KM, written after the number with a dot as decimal separator (e.g. 18.10 KM). Use a short hyphen, never a long dash.",
+    "The book shown must look exactly like the reference cover (covers/BHTURKISH_BA_cover.png): title 'TURSKI JEZIK' / 'ZA POČETNIKE'.",
+    "This is a spiral workbook, not the book: keep its own layout, only translate the text in the same style as the reference cover."
+   ]
+  }
+ ]
+}
