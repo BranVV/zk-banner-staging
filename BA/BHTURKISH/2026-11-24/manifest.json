@@ -1,0 +1,17 @@
+{
+  "book": "BHTURKISH",
+  "market": "BA",
+  "date": "2026-11-24",
+  "source_campaign": "Funnel clone BG-TUR -> BA-TUR (bhturkish.zlatenkluch.eu), BA cover",
+  "generated_at": "2026-11-24T15:57:36+00:00",
+  "banners": [
+    {
+      "name": "BHTURKISH_BA_cover_mockup",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_cover_mockup.png",
+      "source": "covers/TURKISH_BG_cover.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_cover_mockup.png"
+    }
+  ]
+}
