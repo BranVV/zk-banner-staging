@@ -1,0 +1,49 @@
+{
+ "book": "BHTURKISH",
+ "market": "BA",
+ "date": "2026-11-24",
+ "source_campaign": "Funnel clone BG-TUR -> BA-TUR (bhturkish.zlatenkluch.eu), BA cover",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Bosnian in LATIN script only (ijekavica), with correct letters č ć š ž đ rendered exactly. No Bulgarian/Cyrillic letters may remain anywhere, including tiny labels, icons, screens and book spines.",
+   "This is a 3D book mockup. Keep the book shape, angle, lighting, Turkish flag, Istanbul mosque photo, tea glass, baklava, seagull, icons and all colours identical; change only the text.",
+   "Front cover title in two lines in the same bold style and colours: 'TURSKI JEZIK' (dark navy) and 'ZA POČETNIKE' (red).",
+   "Spine text in the same style: 'TURSKI JEZIK ZA POČETNIKE' and the small subtitle lines translated the same way as on the front.",
+   "Do not add any new text, names or logos. Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "covers/TURKISH_BG_cover.png",
+   "format": "cover",
+   "angle": "mockup",
+   "translations": [
+    {
+     "source": "ТУРСКИ ЕЗИК",
+     "target": "TURSKI JEZIK"
+    },
+    {
+     "source": "ЗА НАЧИНАЕЩИ",
+     "target": "ZA POČETNIKE"
+    },
+    {
+     "source": "Лесен турски за пътуване и ежедневни разговори — без сложна граматика",
+     "target": "Lagani turski za putovanja i svakodnevne razgovore - bez komplikovane gramatike"
+    },
+    {
+     "source": "ПРАКТИЧНО / ЛЕСНО / ПОЛЕЗНО",
+     "target": "PRAKTIČNO / LAKO / KORISNO"
+    },
+    {
+     "source": "ГОВОРИ ТУРСКИ УВЕРЕНО В РЕАЛНИ СИТУАЦИИ",
+     "target": "GOVORI TURSKI SAMOUVJERENO U STVARNIM SITUACIJAMA"
+    }
+   ]
+  }
+ ]
+}
