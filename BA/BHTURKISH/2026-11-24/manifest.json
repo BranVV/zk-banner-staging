@@ -2,16 +2,104 @@
   "book": "BHTURKISH",
   "market": "BA",
   "date": "2026-11-24",
-  "source_campaign": "Funnel clone BG-TUR -> BA-TUR (bhturkish.zlatenkluch.eu), BA cover",
-  "generated_at": "2026-11-24T15:57:36+00:00",
+  "source_campaign": "turski.zlatenkluch.eu landing images -> BA-TUR",
+  "generated_at": "2026-11-24T16:08:28+00:00",
   "banners": [
     {
-      "name": "BHTURKISH_BA_cover_mockup",
-      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_cover_mockup.png",
-      "source": "covers/TURKISH_BG_cover.png",
+      "name": "BHTURKISH_BA_page_putuj",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_putuj.png",
+      "source": "source/RSTURKISH/TURKISH_BG_benefit_putuj.jpg",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_cover_mockup.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_putuj.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_razumi",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_razumi.png",
+      "source": "source/RSTURKISH/TURKISH_BG_benefit_razumi.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_razumi.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_situacije",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_situacije.png",
+      "source": "source/RSTURKISH/TURKISH_BG_benefit_situacije.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_situacije.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_bonus1",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_bonus1.png",
+      "source": "source/RSTURKISH/TURKISH_BG_bonus1.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_bonus1.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_bonus2",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_bonus2.png",
+      "source": "source/RSTURKISH/TURKISH_BG_bonus2.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_bonus2.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_bonus3",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_bonus3.png",
+      "source": "source/RSTURKISH/TURKISH_BG_bonus3.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_bonus3.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_course",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_course.png",
+      "source": "source/RSTURKISH/TURKISH_BG_course.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_course.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_guarantee",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_guarantee.png",
+      "source": "source/RSTURKISH/TURKISH_BG_guarantee.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_guarantee.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_istanbul_man",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_istanbul_man.png",
+      "source": "source/RSTURKISH/TURKISH_BG_istanbul_man.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_istanbul_man.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_audiobook",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_audiobook.png",
+      "source": "source/RSTURKISH/TURKISH_BG_audiobook.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_audiobook.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_workbook",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_workbook.png",
+      "source": "source/RSTURKISH/TURKISH_BG_workbook.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_workbook.png"
+    },
+    {
+      "name": "BHTURKISH_BA_page_recipes303",
+      "path": "BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_recipes303.png",
+      "source": "source/RSTURKISH/TURKISH_BG_recipes303.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-24/BHTURKISH_BA_page_recipes303.png"
     }
   ]
 }
