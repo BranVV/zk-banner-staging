@@ -1,0 +1,33 @@
+{
+  "book": "ROTURKISH",
+  "market": "RO",
+  "date": "2026-11-24-travel",
+  "source_campaign": "CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 (BG, ID 120248970711370027)",
+  "generated_at": "2026-11-24T08:48:31+00:00",
+  "banners": [
+    {
+      "name": "ROTURKISH_RO_banner_hodish-chesto",
+      "path": "RO/ROTURKISH/2026-11-24-travel/ROTURKISH_RO_banner_hodish-chesto.png",
+      "source": "source/TURKISH/TURKISH_BG_banner_hodish-chesto.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-24-travel/ROTURKISH_RO_banner_hodish-chesto.png"
+    },
+    {
+      "name": "ROTURKISH_RO_banner_pazaruvash",
+      "path": "RO/ROTURKISH/2026-11-24-travel/ROTURKISH_RO_banner_pazaruvash.png",
+      "source": "source/TURKISH/TURKISH_BG_banner_pazaruvash.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-24-travel/ROTURKISH_RO_banner_pazaruvash.png"
+    },
+    {
+      "name": "ROTURKISH_RO_banner_po-krasiva",
+      "path": "RO/ROTURKISH/2026-11-24-travel/ROTURKISH_RO_banner_po-krasiva.png",
+      "source": "source/TURKISH/TURKISH_BG_banner_po-krasiva.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RO/ROTURKISH/2026-11-24-travel/ROTURKISH_RO_banner_po-krasiva.png"
+    }
+  ]
+}
