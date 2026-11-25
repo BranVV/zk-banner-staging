@@ -1,0 +1,33 @@
+{
+  "book": "BHTURKISH",
+  "market": "BA",
+  "date": "2026-11-25-travel",
+  "source_campaign": "CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 (BG, ID 120248970711370027)",
+  "generated_at": "2026-11-25T08:48:40+00:00",
+  "banners": [
+    {
+      "name": "BHTURKISH_BA_banner_hodish-chesto",
+      "path": "BA/BHTURKISH/2026-11-25-travel/BHTURKISH_BA_banner_hodish-chesto.png",
+      "source": "source/TURKISH/TURKISH_BG_banner_hodish-chesto.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-25-travel/BHTURKISH_BA_banner_hodish-chesto.png"
+    },
+    {
+      "name": "BHTURKISH_BA_banner_pazaruvash",
+      "path": "BA/BHTURKISH/2026-11-25-travel/BHTURKISH_BA_banner_pazaruvash.png",
+      "source": "source/TURKISH/TURKISH_BG_banner_pazaruvash.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-25-travel/BHTURKISH_BA_banner_pazaruvash.png"
+    },
+    {
+      "name": "BHTURKISH_BA_banner_po-krasiva",
+      "path": "BA/BHTURKISH/2026-11-25-travel/BHTURKISH_BA_banner_po-krasiva.png",
+      "source": "source/TURKISH/TURKISH_BG_banner_po-krasiva.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BA/BHTURKISH/2026-11-25-travel/BHTURKISH_BA_banner_po-krasiva.png"
+    }
+  ]
+}
