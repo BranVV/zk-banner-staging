@@ -1,0 +1,92 @@
+{
+ "book": "RSWORD",
+ "market": "RS",
+ "date": "2026-11-25",
+ "source_campaign": "excelrs/word funnel BA -> RS",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Serbian in LATIN script, ekavica (e.g. izveštaj, korišćenje, not ijekavian forms). Render č ć š ž đ exactly.",
+   "Keep the image, colors, layout, fonts style and composition exactly the same; change only the listed text. Do not add any new text. Use a short hyphen, never a long dash."
+  ]
+ },
+ "banners": [
+  {
+   "source": "source/RSWORD/WORD_BA_cover.jpg",
+   "format": "page",
+   "angle": "cover",
+   "translations": [
+    {
+     "source": "Praktičan vodič za rad sa najčešće korištenim kancelarijskim programima u sistemu C.L.E.A.R.",
+     "target": "Praktičan vodič za rad sa najčešće korišćenim kancelarijskim programima u sistemu C.L.E.A.R."
+    },
+    {
+     "source": "Adnan Hadžović",
+     "target": "Nikola Todorović"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script, ekavica (e.g. izveštaj, korišćenje, not ijekavian forms). Render č ć š ž đ exactly.",
+    "Keep the image, colors, layout, fonts style and composition exactly the same; change only the listed text. Do not add any new text. Use a short hyphen, never a long dash.",
+    "The author name appears at the bottom of the front cover AND on the spine; both must read 'Nikola Todorović'. Title 'Word i PowerPoint za početnike' stays exactly as it is."
+   ]
+  },
+  {
+   "source": "source/RSWORD/WORD_BA_bonus1.jpg",
+   "format": "page",
+   "angle": "bonus1",
+   "translations": [
+    {
+     "source": "IZVJEŠTAJ",
+     "target": "IZVEŠTAJ"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script, ekavica (e.g. izveštaj, korišćenje, not ijekavian forms). Render č ć š ž đ exactly.",
+    "Keep the image, colors, layout, fonts style and composition exactly the same; change only the listed text. Do not add any new text. Use a short hyphen, never a long dash.",
+    "Also convert any other small ijekavian word on the documents to ekavian Serbian; everything else stays."
+   ]
+  },
+  {
+   "source": "source/RSWORD/WORD_BA_bonus2.jpg",
+   "format": "page",
+   "angle": "bonus2",
+   "translations": [
+    {
+     "source": "CHECK-LISTA „Spremna za korištenje“",
+     "target": "ČEK-LISTA „Spremno za korišćenje“"
+    },
+    {
+     "source": "CHECK-LISTA „Spremna za korištenje“ (small, on the document)",
+     "target": "ČEK-LISTA „Spremno za korišćenje“"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script, ekavica (e.g. izveštaj, korišćenje, not ijekavian forms). Render č ć š ž đ exactly.",
+    "Keep the image, colors, layout, fonts style and composition exactly the same; change only the listed text. Do not add any new text. Use a short hyphen, never a long dash.",
+    "Both the big headline and the smaller title on the paper sheet change the same way."
+   ]
+  },
+  {
+   "source": "source/RSWORD/WORD_BA_course.jpg",
+   "format": "page",
+   "angle": "course",
+   "translations": [
+    {
+     "source": "Video tečaj",
+     "target": "Video kurs"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script, ekavica (e.g. izveštaj, korišćenje, not ijekavian forms). Render č ć š ž đ exactly.",
+    "Keep the image, colors, layout, fonts style and composition exactly the same; change only the listed text. Do not add any new text. Use a short hyphen, never a long dash.",
+    "'Office Pro' stays exactly as it is."
+   ]
+  }
+ ]
+}
