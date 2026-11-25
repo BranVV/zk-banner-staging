@@ -1,0 +1,66 @@
+{
+ "book": "BHTURKISH",
+ "market": "BA",
+ "date": "2026-11-25",
+ "funnel": "BA-TUR",
+ "source": "BG CBO | TURKISH | INT | TRAVEL BANNERS - 15102026 (ID 120248970711370027, повторното пускане на TRAVEL BANNERS - 08092026); победителки „3“ (po-krasiva, 174 поръч., ROAS 4.30) и „1“ (hodish-chesto, 21 поръч., ROAS 2.91); „2“ (pazaruvash, 5 поръч., ROAS 2.02). Всички BG реклами имат едни и същи 3 текста (по един с куката на всеки банер) - опция 1 = дословен превод на текста с куката на банера, опция 2 = къса; заглавия „Научи турски с лекота“ / „Говори турски уверено“ дословно, описанието дословно.",
+ "author_note": "Заглавие „Turski jezik za početnike“ (AE: Knjiga „Turski jezik za početnike“), авторка Emira Zukić (AF), система PTS (AG) - банерите и копито не съдържат автор и система.",
+ "link": "https://bhturkish.zlatenkluch.eu",
+ "ads": [
+  {
+   "nn": "01",
+   "slug": "hodish-chesto",
+   "winner": true,
+   "option1_literal": true,
+   "hook": "CALLOUT",
+   "primary_texts": [
+    "Često putuješ u Tursku,\na turski još uvijek ne znaš?\nPijaca, hotel, restoran, taksi, prodavnica…\n\nSvuda se nađeš u situaciji u kojoj bi ti nekoliko pravih riječi uštedjelo mnogo muke.\n\nNe treba ti savršen turski.\nTreba ti turski koji zaista možeš koristiti.\n\n📘 Knjiga „Turski jezik za početnike” nastala je upravo zbog toga - praktične riječi i izrazi za putovanja i svakodnevne razgovore, bez teške gramatike.\n\nKreni od nule i već na sljedećem putovanju snalazit ćeš se mnogo lakše.\n\n👉 Pogledaj knjigu ovdje:\nhttps://bhturkish.zlatenkluch.eu",
+    "Često putuješ u Tursku, a turski još uvijek ne znaš?\nNauči ono što ti zaista treba na putu.\n👉 https://bhturkish.zlatenkluch.eu\n\n📘 Knjiga „Turski jezik za početnike”:\n✅ riječi i izrazi za pijacu, hotel, restoran i taksi\n✅ svakodnevni razgovori bez teške gramatike\n✅ od nule, korak po korak\n\nPreko 40.000 zadovoljnih kupaca.\n👉 Naruči svoj primjerak uz bonuse na poklon."
+   ],
+   "headlines": [
+    "Nauči turski s lakoćom 👉",
+    "Govori turski samouvjereno 👉"
+   ],
+   "descriptions": [
+    "⭐ Preko 40.000 zadovoljnih kupaca"
+   ]
+  },
+  {
+   "nn": "02",
+   "slug": "pazaruvash",
+   "winner": false,
+   "option1_literal": true,
+   "hook": "CALLOUT",
+   "primary_texts": [
+    "Voliš šoping u Turskoj?\nNauči jezik koji ti zaista treba.\n\nDa pitaš koliko nešto košta.\nDa razumiješ šta ti govore.\nDa tražiš drugu veličinu.\nDa pitaš ima li popust.\nDa se sam snađeš u prodavnici, na pijaci ili u restoranu.\n\nNe moraš bubati gomilu komplikovane gramatike prije nego što izgovoriš prvu rečenicu.\n\n📘 Uz knjigu „Turski jezik za početnike” počinješ s korisnim riječima i frazama za stvarne situacije.\n\nManje gestikuliranja.\nManje vađenja telefona.\nViše samopouzdanja.\n\n👉 Pogledaj knjigu:\nhttps://bhturkish.zlatenkluch.eu",
+    "Voliš šoping u Turskoj?\nPitaj za cijenu, cjenkaj se i snađi se sam - na turskom.\n👉 https://bhturkish.zlatenkluch.eu\n\n📘 „Turski jezik za početnike”:\n✅ korisne fraze za prodavnicu, pijacu i restoran\n✅ bez gomile komplikovane gramatike\n✅ manje gestikuliranja, više samopouzdanja\n\nPreko 40.000 zadovoljnih kupaca.\n👉 Naruči knjigu uz bonuse na poklon."
+   ],
+   "headlines": [
+    "Nauči turski s lakoćom 👉",
+    "Govori turski samouvjereno 👉"
+   ],
+   "descriptions": [
+    "⭐ Preko 40.000 zadovoljnih kupaca"
+   ]
+  },
+  {
+   "nn": "03",
+   "slug": "po-krasiva",
+   "winner": true,
+   "option1_literal": true,
+   "hook": "DREAM",
+   "primary_texts": [
+    "Turska je ljepša kad razumiješ jezik.\nKad natpisi počnu imati smisla.\nKad razumiješ dio razgovora oko sebe.\nKad sam možeš pitati, naručiti i odgovoriti.\n\nTada više nisi samo neko ko obilazi Tursku.\n\nPočinješ je doživljavati drugačije.\n\n📘 Knjiga „Turski jezik za početnike” pomoći će ti da kreneš s praktičnim turskim za putovanja i svakodnevne situacije - lako, korak po korak i bez nepotrebno komplikovane gramatike.\n\nAko voliš putovati u Tursku, učini sljedeće putovanje još ljepšim.\n\n👉 Pogledaj knjigu ovdje:\nhttps://bhturkish.zlatenkluch.eu",
+    "Turska je ljepša kad razumiješ jezik.\nNatpisi dobiju smisao, a razgovori oko tebe više nisu samo buka.\n👉 https://bhturkish.zlatenkluch.eu\n\n📘 „Turski jezik za početnike”:\n✅ praktičan turski za putovanja\n✅ lako, korak po korak\n✅ bez komplikovane gramatike\n\nPreko 40.000 zadovoljnih kupaca.\n👉 Učini sljedeće putovanje još ljepšim."
+   ],
+   "headlines": [
+    "Nauči turski s lakoćom 👉",
+    "Govori turski samouvjereno 👉"
+   ],
+   "descriptions": [
+    "⭐ Preko 40.000 zadovoljnih kupaca"
+   ]
+  }
+ ],
+ "naturalness_check": "25.11.2026 - втора проверка за естественост (BA, ijekavica, латиница): „Ходиш в Турция често“ -> „Često putuješ u Tursku“; „спестят много чудене“ -> „uštedjelo mnogo muke“; „е създадена точно за това“ -> „nastala je upravo zbog toga“; „се чувствай по-уверено още при следващото пътуване“ -> „već na sljedećem putovanju snalazit ćeš se mnogo lakše“; „Обичаш да пазаруваш“ -> „Voliš šoping“; „Да поискаш друг размер“ -> „Da tražiš drugu veličinu“; „има ли отстъпка“ -> „ima li popust“; „да учиш куп сложна граматика“ -> „bubati gomilu komplikovane gramatike“; „По-малко жестове“ -> „Manje gestikuliranja“; „табелите започнат да имат смисъл“ -> „natpisi počnu imati smisla“; „човек, който посещава Турция“ -> „neko ko obilazi Tursku“; „я усещаш по различен начин“ -> „je doživljavaš drugačije“; „ходиш в Турция ... по-приятно“ -> „voliš putovati u Tursku ... još ljepšim“; „които можеш да използваш“ -> „koje odmah možeš koristiti“ (без сръбското „da + prezent“); банери: „Разбери Турция“ -> „Upoznaj Tursku“, „Вземи с 4 бонуса“ -> „Naruči uz 4 bonusa“."
+}
