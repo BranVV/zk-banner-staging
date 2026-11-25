@@ -2,40 +2,24 @@
   "book": "RSWORD",
   "market": "RS",
   "date": "2026-11-25",
-  "source_campaign": "excelrs/word funnel BA -> RS",
-  "generated_at": "2026-11-25T08:38:35+00:00",
+  "source_campaign": "excelrs/word RS fixes",
+  "generated_at": "2026-11-25T08:43:20+00:00",
   "banners": [
     {
-      "name": "RSWORD_RS_page_cover",
-      "path": "RS/RSWORD/2026-11-25/RSWORD_RS_page_cover.png",
-      "source": "source/RSWORD/WORD_BA_cover.jpg",
+      "name": "RSWORD_RS_page_cover-v2",
+      "path": "RS/RSWORD/2026-11-25/RSWORD_RS_page_cover-v2.png",
+      "source": "RS/RSWORD/2026-11-25/RSWORD_RS_page_cover.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-25/RSWORD_RS_page_cover.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-25/RSWORD_RS_page_cover-v2.png"
     },
     {
-      "name": "RSWORD_RS_page_bonus1",
-      "path": "RS/RSWORD/2026-11-25/RSWORD_RS_page_bonus1.png",
-      "source": "source/RSWORD/WORD_BA_bonus1.jpg",
+      "name": "RSWORD_RS_page_bonus1-v2",
+      "path": "RS/RSWORD/2026-11-25/RSWORD_RS_page_bonus1-v2.png",
+      "source": "RS/RSWORD/2026-11-25/RSWORD_RS_page_bonus1.png",
       "mode": "model",
       "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-25/RSWORD_RS_page_bonus1.png"
-    },
-    {
-      "name": "RSWORD_RS_page_bonus2",
-      "path": "RS/RSWORD/2026-11-25/RSWORD_RS_page_bonus2.png",
-      "source": "source/RSWORD/WORD_BA_bonus2.jpg",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-25/RSWORD_RS_page_bonus2.png"
-    },
-    {
-      "name": "RSWORD_RS_page_course",
-      "path": "RS/RSWORD/2026-11-25/RSWORD_RS_page_course.png",
-      "source": "source/RSWORD/WORD_BA_course.jpg",
-      "mode": "model",
-      "status": "ok",
-      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-25/RSWORD_RS_page_course.png"
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-25/RSWORD_RS_page_bonus1-v2.png"
     }
   ]
 }
