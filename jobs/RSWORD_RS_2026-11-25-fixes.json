@@ -1,0 +1,51 @@
+{
+ "book": "RSWORD",
+ "market": "RS",
+ "date": "2026-11-25",
+ "source_campaign": "excelrs/word RS fixes",
+ "defaults": {
+  "mode": "model",
+  "output_format": "png",
+  "quality": "high",
+  "input_fidelity": "high",
+  "fit": "pad",
+  "model": "gpt-image-2.5-sunburst",
+  "extra_rules": [
+   "Serbian in LATIN script, ekavica. Render č ć š ž đ exactly.",
+   "Keep the image exactly the same; change only the listed words. Do not add any new text."
+  ]
+ },
+ "banners": [
+  {
+   "source": "RS/RSWORD/2026-11-25/RSWORD_RS_page_cover.png",
+   "format": "page",
+   "angle": "cover-v2",
+   "translations": [
+    {
+     "source": "korištenim",
+     "target": "korišćenim"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script, ekavica. Render č ć š ž đ exactly.",
+    "Keep the image exactly the same; change only the listed words. Do not add any new text.",
+    "The subtitle on the front cover reads 'Praktičan vodič za rad sa najčešće korišćenim kancelarijskim programima u sistemu C.L.E.A.R.' - the word 'korištenim' must become 'korišćenim' (with ć). The spine text also says 'korišćenim' if that word appears there. Everything else, including 'Nikola Todorović', stays."
+   ]
+  },
+  {
+   "source": "RS/RSWORD/2026-11-25/RSWORD_RS_page_bonus1.png",
+   "format": "page",
+   "angle": "bonus1-v2",
+   "translations": [
+    {
+     "source": "Korak po korak do uspjeha",
+     "target": "Korak po korak do uspeha"
+    }
+   ],
+   "extra_rules": [
+    "Serbian in LATIN script, ekavica. Render č ć š ž đ exactly.",
+    "Keep the image exactly the same; change only the listed words. Do not add any new text."
+   ]
+  }
+ ]
+}
