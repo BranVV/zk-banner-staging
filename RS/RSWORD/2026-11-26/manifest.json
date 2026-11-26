@@ -1,0 +1,41 @@
+{
+  "book": "RSWORD",
+  "market": "RS",
+  "date": "2026-11-26",
+  "source_campaign": "CBO | WORD POWERPOINT | FIRST BANNERS  - 12102026 (BG, ID 120248935675330027)",
+  "generated_at": "2026-11-26T08:47:49+00:00",
+  "banners": [
+    {
+      "name": "RSWORD_RS_banner_prazna-stranica",
+      "path": "RS/RSWORD/2026-11-26/RSWORD_RS_banner_prazna-stranica.png",
+      "source": "source/ROWORD/WORD_BG_banner_foaie-goala.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-26/RSWORD_RS_banner_prazna-stranica.png"
+    },
+    {
+      "name": "RSWORD_RS_banner_panika",
+      "path": "RS/RSWORD/2026-11-26/RSWORD_RS_banner_panika.png",
+      "source": "source/ROWORD/WORD_BG_banner_panica.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-26/RSWORD_RS_banner_panika.png"
+    },
+    {
+      "name": "RSWORD_RS_banner_dizajner",
+      "path": "RS/RSWORD/2026-11-26/RSWORD_RS_banner_dizajner.png",
+      "source": "source/ROWORD/WORD_BG_banner_designer.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-26/RSWORD_RS_banner_dizajner.png"
+    },
+    {
+      "name": "RSWORD_RS_banner_nije-komplikovan",
+      "path": "RS/RSWORD/2026-11-26/RSWORD_RS_banner_nije-komplikovan.png",
+      "source": "source/ROWORD/WORD_BG_banner_nu-e-complicat.png",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/RS/RSWORD/2026-11-26/RSWORD_RS_banner_nije-komplikovan.png"
+    }
+  ]
+}
