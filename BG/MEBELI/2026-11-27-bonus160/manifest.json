@@ -1,0 +1,17 @@
+{
+  "book": "MEBELI",
+  "market": "BG",
+  "date": "2026-11-27-bonus160",
+  "source_campaign": "Предпечат - бонус страница 160 (илюстрация)",
+  "generated_at": "2026-11-27T11:58:14+00:00",
+  "banners": [
+    {
+      "name": "MEBELI_BG_BONUS160_illustration",
+      "path": "BG/MEBELI/2026-11-27-bonus160/MEBELI_BG_BONUS160_illustration.png",
+      "source": "source/MEBELI/MEBELI_BG_ad161_style.jpg",
+      "mode": "model",
+      "status": "ok",
+      "raw_url": "https://raw.githubusercontent.com/BranVV/zk-banner-staging/main/BG/MEBELI/2026-11-27-bonus160/MEBELI_BG_BONUS160_illustration.png"
+    }
+  ]
+}
