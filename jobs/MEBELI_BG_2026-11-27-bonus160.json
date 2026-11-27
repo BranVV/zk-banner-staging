@@ -1,0 +1,14 @@
+{
+ "book": "MEBELI",
+ "market": "BG",
+ "date": "2026-11-27-bonus160",
+ "source_campaign": "Предпечат - бонус страница 160 (илюстрация)",
+ "defaults": {"mode": "model", "output_format": "png", "quality": "high", "fit": "pad",
+  "model": "gpt-image-2.5-sunburst", "api_size": "1024x1536", "input_fidelity": "high"},
+ "banners": [{
+  "source": "source/MEBELI/MEBELI_BG_ad161_style.jpg",
+  "format": "BONUS160",
+  "angle": "illustration",
+  "prompt": "The input image is a STYLE AND CHARACTER REFERENCE: a soft semi-realistic animated illustration in black-and-white grayscale used as a full-page ad inside a printed woodworking book. Create a NEW illustration in exactly the same drawing style, line quality, soft lighting and grayscale tonality, with the SAME bearded carpenter (same face, cap, apron, friendly smile).\n\nSCENE: the carpenter stands in the same cosy workshop, smiling and holding a tablet towards the viewer; the tablet screen shows a simple generic furniture blueprint (a small cabinet drawn in lines, no readable text). On the workbench in front of him lies a generous fan of many printed project sheets with simple furniture drawings (a chair, a shelf, a table, a bench, a drawer chest) - suggesting a large collection of extra project plans. A few sheets float up softly from the stack with light motion lines. Generic drawings only, NO real brand logos.\n\nCOMPOSITION (critical): portrait 3:4. Top 22% of the image: calm, light, uncluttered workshop wall background (a headline will be added later). Bottom-right area: an empty, clean, pure WHITE square about 24% of the image width with thin dark corner brackets around it; keep the square completely empty (a QR code will be placed there). Bottom-left: a soft darker gray rounded band (a button will be added later).\nFULL GRAYSCALE, no colour at all, good contrast for offset print. No text, no letters, no numbers, no watermark anywhere. Hands natural, five fingers each.\nThe image has plain bars along two edges purely as padding: fill the whole frame naturally, no bars, no borders."
+ }]
+}
